@@ -1,0 +1,48 @@
+<slideshow>
+	<!--large slideshow on home page
+		image size must be 700 x 370 pixels-->
+	<set1 folder="photos/slideshow1">
+		<photo fileName="photo_01.jpg"/>
+		<photo fileName="photo_02.jpg"/>
+		<photo fileName="photo_03.jpg"/>
+		<photo fileName="photo_04.jpg"/>
+		<photo fileName="photo_05.jpg"/>
+		<photo fileName="photo_06.jpg"/>
+		<photo fileName="photo_07.jpg"/>
+		<photo fileName="photo_08.jpg"/>
+		<photo fileName="photo_09.jpg"/>
+	</set1>
+	
+	<!--news slideshow
+		image size must be 180 x 180 pixels-->
+	<set2 folder="photos/slideshow2">
+		<item fileName="photo_01.jpg" link="bday_parties.php">
+			<text><![CDATA[<font color="#000000">Amazing Birthday Parties</font>]]></text>
+			<text><![CDATA[<font color="#000000">with live animals!</font>]]></text>
+		</item>
+		<item fileName="photo_02.jpg" link="preschool.php">
+			<text><![CDATA[<font color="#000000">Pre-School</font>]]></text>
+			<text><![CDATA[<font color="#000000">now accepting applications for 2011!</font>]]></text>
+		</item>
+		<item fileName="photo_03.jpg" link="classes.php">
+			<text><![CDATA[<font color="#000000">Classes</font>]]></text>
+			<text><![CDATA[<font color="#000000">Register now for our Spring & Summer Semesters!</font>]]></text>
+		</item>
+	</set2>
+	
+	<!--slideshow on camp page
+		image size must be 685 x 400 pixels-->
+	<set3 folder="photos/slideshow3">
+		<photo fileName="photo_01.jpg"/>
+		<photo fileName="photo_02.jpg"/>
+		<photo fileName="photo_03.jpg"/>
+		<photo fileName="photo_04.jpg"/>
+		<photo fileName="photo_05.jpg"/>
+		<photo fileName="photo_06.jpg"/>
+		<photo fileName="photo_07.jpg"/>
+		<photo fileName="photo_08.jpg"/>
+		<photo fileName="photo_09.jpg"/>
+		<photo fileName="photo_10.jpg"/>
+		<photo fileName="photo_11.jpg"/>
+	</set3>
+</slideshow>
