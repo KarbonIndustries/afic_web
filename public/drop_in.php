@@ -125,6 +125,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on The Farm</span>
+	<span class="rust">We will be closed on Easter Sunday!</span>
 	<span class="subtitle1 gray1">1+ years<br />
 	Saturday/Sunday 8am - 10am</span>
 	<span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>

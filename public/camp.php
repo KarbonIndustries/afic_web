@@ -9,6 +9,8 @@ closeHeader();
 drawMainMenu();
 drawActivitiesMenu("camp");
 openContent($page);
+
+$message1 = '<span class="" style="color:red;">Please call to check availability before registering!</span>';
 ?>
 <!--begin content-->
 
@@ -227,6 +229,7 @@ openContent($page);
 
 <div class="clearB">
 	<span id="halfDay" class="title2 blue2 clearB">Half Day Hamsters Group</span>
+	<?= $message1 ?>
 	<span class="subtitle1 gray1">9am - 12:30pm | 3-4 years<br />
 	<span class="size12 gray2">Mon - Fri: $500 | Mon, Wed, Fri: $375 | Tues, Thurs: $250</span></span>
 	<p class="pgraph">We offer  a half day camp with a warm nurturing program so that separation is easy. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, sing their favorite songs and play soccer with Super Soccer Stars. The children go outside every day. Twice a week they participate in soccer at Carl Schurz Park and when they are not playing soccer they  go to the outdoor playground at Asphalt Green. Every week the children get to participate in a weekly theme event which takes place on Tuesdays and Wednesdays so all children get to enjoy the fun.  Please pack a lunch for your child and if your child is not fully potty trained please send him or her in pull-ups. <a class="rust" href="#summerChart">view schedule</a></p>
@@ -239,6 +242,7 @@ openContent($page);
 
 <div class="clearB">
 	<span id="fullDay" class="title2 blue2">Full Day Froggies Group</span>
+	<?= $message1 ?>
 	<span class="subtitle1 gray1">9am - 3pm | 4-5 years<br />
 	<span class="size12 gray2">Mon - Fri: $625 | Mon, Wed, Fri: $500 | Tues, Thurs: $375</span></span>
 	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately. On Wednesdays the children have field day in Carl Schurz Park. Every week we focus on a different theme. The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
@@ -253,6 +257,7 @@ openContent($page);
 
 <div class="clearB">
 	<span class="title2 blue2">Full Day Geckos Group</span>
+	<?= $message1 ?>
 	<span class="subtitle1 gray1">9am - 3pm | 5-7 years<br />
 	<span class="size12 gray2">Mon - Fri: $625 | Mon, Wed, Fri: $500 | Tues, Thurs: $375</span></span>
 	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. As the campers grow older we like to encourage independence through picking out what activities they want to participate in. Therefore, we give our Geckos group a chance to create their own schedule. The Geckos participate in electives twice a week where they get to customize their day. They can choose from jewelry making, digital photography, computer, wood working, dance, drama, animal science, sports and karaoke. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately.  On Wednesdays the children have field day in Carl Schurz Park where they play relay races and outdoor games. Every week we focus on a different theme.  The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
