@@ -369,7 +369,7 @@ function drawFooter()
 					<li><a class="padT5" href="http://twitter.com/ArtFarmNYC/" target="_blank"><img src="images/twit_icon.png" /></a></li>
 					<li><a class="hoverRust padT5" href="contact.php">Contact Us</a></li>
 					<li><a class="hoverRust padT5" href="sitemap.php">Sitemap</a></li>
-					<li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" target="_blank">Photos by Victoria Jackson</a></li>
+					<li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" target="_blank">Photos &copy; Victoria Jackson Photography</a></li>
 				</ul>
 				<a class="karbonHover marginL5 pad5" href="http://www.karbonnyc.com/" target="_blank">&#160;Site by <span class="bold">Karbon Interaktiv Inc.</span>&#160;</a>
 			</div>
