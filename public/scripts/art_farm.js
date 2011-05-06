@@ -3,6 +3,10 @@ icon["info"] = "images/info_icon.png";
 icon["download"] = "images/download_icon.png";
 
 var classes = new Object();
+
+// ==========================
+// = ROCK, SMOCKS & ANIMALS =
+// ==========================
 classes["Rock, Smocks and Animals"] = 
 [{value1:"", text1:"Select a day", value2:"", text2:"Select a time", value3:"", text3:"Select a semester", text4:"Select a week (optional)", value4:"Full Semester",
 
@@ -14,22 +18,28 @@ Spring:[{text:"Week 1: Mar 28 - Apr 1", value:1},{text:"Week 2: Apr 4 - Apr 8", 
 Summer:[{text:"Week 1: Jun 28 - Jul 2", value:1},{text:"Week 2: Jul 5 - Jul 9", value:2},{text:"Week 3: Jul 12 - Jul 16", value:3},{text:"Week 4: Jul 19 - Jul 23", value:4},{text:"Week 5: Jul 26 - Jul 30", value:5},{text:"Week 6: Aug 2 - Aug 6", value:6},{text:"Week 7: Aug 9 - Aug 13", value:7},{text:"Week 8: Aug 16 - Aug 20", value:8}],
 Fall:[{text:"Week 1: Sept 7 - Sept 11", value:1},{text:"Week 2: Sept 13 - Sept 18", value:2},{text:"Week 3: Sept 20 - Sept 25", value:3},{text:"Week 4: Sept 27 - Oct 2", value:4},{text:"Week 5: Oct 4 - Oct 9", value:5},{text:"Week 6: Oct 11 - Oct 16", value:6},{text:"Week 7: Oct 18 - Oct 23", value:7},{text:"Week 8: Oct 25 - Oct 30", value:8},{text:"Week 9: Nov 1 - Nov 6", value:9},{text:"Week 10: Nov 8 - Nov 13", value:10},{text:"Week 11: Nov 15 - Nov 20", value:11},{text:"Week 12: Nov 22 - Nov 27", value:12},{text:"Week 13: Nov 29 - Dec 4", value:13},{text:"Week 14: Dec 6 - Dec 11", value:14},{text:"Week 15: Dec 13 - Dec 18", value:15}],
 'Drop In':[{text:"N/A", value:"0"}]}},
-{value:"Monday", text:"Monday", times:["9:30am - 10:30am", "10:30am - 11:30am", "3:30pm - 4:30pm"]},
-{value:"Tuesday", text:"Tuesday", times:["9:30am - 10:30am", "10:30am - 11:30am", "2:30pm - 3:30pm", "3:30pm - 4:30pm"]},
-{value:"Wednesday", text:"Wednesday", times:["9:30am - 10:30am", "10:30am - 11:30am", "3:30pm - 4:30pm"]},
-{value:"Thursday", text:"Thursday", times:["9:30am - 10:30am", "10:30am - 11:30am", "2:30pm - 3:30pm", "3:30pm - 4:30pm"]}];
+{value:"Monday", text:"Monday", times:["2:30pm - 3:30pm","3:30pm - 4:30pm"]},
+{value:"Thursday", text:"Thursday", times:["2:30pm - 3:30pm","3:30pm - 4:30pm"]}];
 
+// =====================
+// = ANIMAL CARE CLASS =
+// =====================
 classes["Animal Care Class"] = 
 [{value1:"", text1:"Select a day", value2:"", text2:"Select a time", value3:"", text3:"Select a semester", semesters:[{semester:"Winter", value:420},{semester:"Spring", value:420},{semester:"Summer", value:280},{semester:"Fall", value:525}]},
 {value:"Tuesday", text:"Tuesday", times:["3:30pm - 4:30pm"]},
 {value:"Wednesday", text:"Wednesday", times:["3:30pm - 4:30pm"]},
 {value:"Thursday", text:"Thursday", times:["3:30pm - 4:30pm"]}];
 
+// =============
+// = MINI CHEF =
+// =============
 classes["Mini Chef"] = 
 [{value1:"", text1:"Select a day", value2:"", text2:"Select a time", value3:"", text3:"Select a semester", semesters:[{semester:"Drop In", value:40}, {semester:"Winter", value:444},{semester:"Spring", value:444},{semester:"Summer", value:296},{semester:"Fall", value:555}]},
-{value:"Thursday", text:"Thursday", times:["3:30pm - 4:30pm"]},
-{value:"Saturday", text:"Saturday", times:["9am - 10am"]}];
+{value:"Thursday", text:"Thursday", times:["3:30pm - 4:30pm"]}];
 
+// ============================
+// = ART, ADVENTURES AND MORE =
+// ============================
 classes["Art, Adventures and More"] = 
 [{value1:"", text1:"Select a day", value2:"", text2:"Select a time", value3:"", text3:"Select a semester", semesters:[{semester:"Drop In", value:45}, {semester:"Spring", value:400}, {semester:"Fall", value:600}]},
 {value:"Tuesday", text:"Tuesday", times:["3:30pm - 4:30pm"]}];
