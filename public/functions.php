@@ -688,6 +688,14 @@ function drawClassForm()
 			<!--classSection-->
 			<div id="classSection" class="floatL">
 				<div id="" class="floatL">
+					<label class="label1"><span id="class" class="errorBoxHide floatL"><span class="invisible">.</span></span><span class="floatR"></span></label>
+				</div>
+				<div class="floatL wide522 padT2">
+					<span class="rust">Limited class offerings during the summer.<br />Please see <a class="blue2" href="/schedule.php#summer">summer schedule</a> before registering.</span>
+				</div>
+			</div>
+			<div id="classSection" class="floatL">
+				<div id="" class="floatL">
 					<label class="label1"><span id="class" class="errorBoxHide floatL"><span class="invisible">.</span></span><span class="floatR">Class</span></label>
 				</div>
 				<div class="floatL wide522 padT2">
@@ -3413,6 +3421,14 @@ function drawPlayGroupForm()
 			<!--end of safety section-->
 			<div class="formSeparator1 marginT10 marginB10"></div>
 			<!--groupSection-->
+			<div id="groupSection" class="floatL">
+				<div id="" class="floatL">
+					<label class="label1"><span id="group" class="errorBoxHide floatL"><span class="invisible">.</span></span><span class="floatR"></span></label>
+				</div>
+				<div class="floatL wide522 padT2">
+					<span class="rust">Limited class offerings during the summer.<br />Please see <a class="blue2" href="/schedule.php#summer">summer schedule</a> before registering.</span>
+				</div>
+			</div>
 			<div id="groupSection" class="floatL">
 				<div id="" class="floatL">
 					<label class="label1"><span id="group" class="errorBoxHide floatL"><span class="invisible">.</span></span><span class="floatR">Group</span></label>
