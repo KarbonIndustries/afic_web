@@ -691,7 +691,7 @@ function drawClassForm()
 					<label class="label1"><span id="class" class="errorBoxHide floatL"><span class="invisible">.</span></span><span class="floatR"></span></label>
 				</div>
 				<div class="floatL wide522 padT2">
-					<span class="rust">Limited class offerings during the summer.<br />Please see <a class="blue2" href="/schedule.php#summer">summer schedule</a> before registering.</span>
+					<span class="rust">Limited class offerings during the summer.<br />Please see <a class="blue2" href="schedule.php#summer">summer schedule</a> before registering.</span>
 				</div>
 			</div>
 			<div id="classSection" class="floatL">
@@ -3426,7 +3426,7 @@ function drawPlayGroupForm()
 					<label class="label1"><span id="group" class="errorBoxHide floatL"><span class="invisible">.</span></span><span class="floatR"></span></label>
 				</div>
 				<div class="floatL wide522 padT2">
-					<span class="rust">Limited class offerings during the summer.<br />Please see <a class="blue2" href="/schedule.php#summer">summer schedule</a> before registering.</span>
+					<span class="rust">Limited class offerings during the summer.<br />Please see <a class="blue2" href="schedule.php#summer">summer schedule</a> before registering.</span>
 				</div>
 			</div>
 			<div id="groupSection" class="floatL">
