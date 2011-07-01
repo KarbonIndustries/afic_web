@@ -18,9 +18,10 @@ openContent($page, "schedule");
 	</script>
 	</div>
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignC">
-		<span class="blue2 bold marginL10">Fall Semester </span><span class="gray2">Sept 7 - Dec 18</span>
-		<span class="blue2 bold marginL10">Winter Semester </span><span class="gray2">Jan 3 - Mar 26</span>
-    <span class="blue2 bold marginL10">Spring Semester </span><span class="gray2">Mar 28 - Jun 17</span></div>
+		<span class="blue2 bold marginL10">Fall Semester </span><span class="gray2">Sept 6 - Dec 16</span>
+		<span class="blue2 bold marginL10">Winter Semester </span><span class="gray2">Jan 3 - Mar 23</span>
+		<span class="blue2 bold marginL10">Spring Semester </span><span class="gray2">Mar 26 - Jun 15</span>
+	</div>
 </div>
 
 <div id="scheduleShell" class="marginB35">
