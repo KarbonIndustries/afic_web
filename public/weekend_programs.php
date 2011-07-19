@@ -34,7 +34,7 @@ Saturday/Sunday 8am-10am</span>
 
 <div id="" class="floatR clearB">
 	<a id="btn1R" class="" href="register.php?d=class">
-	<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+	<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 	</a>
 </div>
 
