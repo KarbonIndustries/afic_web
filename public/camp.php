@@ -13,85 +13,7 @@ openContent($page);
 ?>
 <!--begin content-->
 
-<div id="slideshow3">
-
-</div>
-
-
-<div class="clearB">
-<!--
-<span class="title2 blue clearB marginT20">Holiday Camp 2010</span>
-<span class="rust size16 italic">Spend your winter break with us!<br /><br/></span>
-
-<div class="clearB">
-<span class="title2 green1">Activities</span>
-<span id="list1">
-<ul class="gray1 size16 marginT5">
-	<li>Live Music</li>
-	<li>Cooking</li>
-	<li>Arts & Crafts</li>
-	<li>Animal Care</li>
-<li>Science</li>
-<li>Games</li>
-	<li>Special events every day!</li>
-</span>
-</div>
-	
-<a name="summerChart"/>
-<table id="" class="fullWidth marginB20 marginT15" cellpadding="0" cellspacing="1">
-	<tr class="">
-		<td class="wide130 blueBg2 white bold size13 pad5">
-			Day 1<br />
-			<span class="size12 normal">December 20th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="top">
-			<strong>Monday:</strong> Spanish Music Party w/ Bilingual Birdies </td>
-  </tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Day 2<br />
-			<span class="size12 normal">December 21st</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>Tuesday: </strong>Play Me a Story a Musical Story Experience </td>
-  </tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Day 3<br />
-			<span class="size12 normal">December 22nd</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="top">
-			<strong>Wednesday:</strong> Art Adventures and More Holiday Art Workshop </td>
-  </tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Day 4<br />
-			<span class="size12 normal">December 28th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="top">
-			<strong>Tuesday:</strong> Josh Rand Magical Entertainment</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Day 5<br />
-			<span class="size12 normal">December 29th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="top">
-			<strong>Wednesday:</strong> Art w/ RePlayground - Recycled Holiday Art </td>
-  </tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Day 6<br />
-			<span class="size12 normal">December 30th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="top">
-			<strong>Thursday:</strong> Miss Pinkie's Silly  Magic Show</td>
-  </tr>
-	
-</table>
--->
-
-
+<div id="slideshow3"></div>
 
 <div class="clearB">
 	<span class="title2 blue2">June Camp 2011</span>
@@ -103,7 +25,7 @@ openContent($page);
 	<p class="pgraph">Our June camp is a pre-summer camp experience. It is a time for your children to play outside, learn about our animals, create art and enjoy cooking. It is the perfect transition between school and summer camp.<br /><br /><span class="rust">Please see weekly themes below.</span></p>
 	<div id="" class="floatR clearB">
 		<a id="btn1R" class="" href="register.php?d=juneCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
@@ -156,9 +78,6 @@ openContent($page);
 	</tr>
 </table>
 
-
-
-
 <span class="title2 black clearB marginT20">Summer Camp 2011</span>
 <span class="rust size16 italic">Enjoy your city summer on our country farm!<br /><br /></span>
 
@@ -185,48 +104,6 @@ openContent($page);
 
 <img src="images/sss_logo.png" />
 
-
-
-
-
-<!--
-<div class="clearB">
-	<span id="halfDay" class="title2 rust clearB">Half Day Snowflakes Group</span>
-	<span class="subtitle1 gray1">9:30am - 12:30pm | 3-4 years<br />
-	<span class="size12 gray2">1 day: $75 | 2 days: $65/day | 3 or more days: $55/day</span></span>
-	<p class="pgraph"> We offer a half day camp with a warm nurturing program. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, and sing their favorite songs to live guitar.  Every day the children get to participate in a special event. We will provide a snack for your child and if your child is not fully potty trained please send him or her in pull-ups. We close the group at 15 children with 3 qualified teachers. Children must be 3 years old to join the group. <it>Registration begins November 15th.</i></p>
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=holidayCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-<div class="clearB">
-	<span id="halfDay" class="title2 rust clearB">Full Day Peppermints Group</span>
-	<span class="subtitle1 gray1">9:30am - 3:30pm | 4-5 years<br />
-	<span class="size12 gray2">1 day: $125 | 2 days: $100/day | 3 or more days: $90/day | Extended Day(9:30am - 5pm) available for $30.</span></span>
-	<p class="pgraph">Our Full day campers participate in music, art, cooking, science, nature, games, animal care, yoga and much much more. Everyday there  will be a different special entertainer which will engage the children in fun, laughter and learning. Please send your child to camp with a lunch that is nut free since we are a nut free facility. We will provide the children with a snack before the end of the day.We close each group at 15 children with 3 qualified teachers.<i> Registration begins November 15th.</i> </p>
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=holidayCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-<div class="clearB">
-	<span id="halfDay" class="title2 rust clearB">Full Day Gingerbreads Group</span>
-	<span class="subtitle1 gray1">9:30am - 3:30pm | 6-8 years<br />
-	<span class="size12 gray2">1 day: $125 | 2 days: $100/day | 3 or more days: $90/day | Extended Day(9:30am - 5pm) available for $30.</span></span>
-	<p class="pgraph">Our Full day campers participate in music, art, cooking, science, nature, games, animal care, yoga and much much more. Everyday there  will be a different special entertainer which will engage the children in fun, laughter and learning. Please send your child to camp with a lunch that is nut free since we are a nut free facility. We will provide the children with a snack before the end of the day.We close each group at 15 children with 3 qualified teachers. <i>Registration begins November 15th. </i> </p>
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=holidayCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
--->
-
-
-
 <div class="clearB">
 	<span id="halfDay" class="title2 blue2 clearB">Half Day Hamsters Group</span>
 	<?= CHECK_AVAILABILITY_MESSAGE_1 ?>
@@ -235,7 +112,7 @@ openContent($page);
 	<p class="pgraph">We offer  a half day camp with a warm nurturing program so that separation is easy. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, sing their favorite songs and play soccer with Super Soccer Stars. The children go outside every day. Twice a week they participate in soccer at Carl Schurz Park and when they are not playing soccer they  go to the outdoor playground at Asphalt Green. Every week the children get to participate in a weekly theme event which takes place on Tuesdays and Wednesdays so all children get to enjoy the fun.  Please pack a lunch for your child and if your child is not fully potty trained please send him or her in pull-ups. <a class="rust" href="#summerChart">view schedule</a></p>
 	<div id="" class="floatR clearB">
 		<a id="btn1R" class="" href="register.php?d=summerCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
@@ -250,7 +127,7 @@ openContent($page);
 
 	<div id="" class="floatR clearB">
 		<a id="btn1R" class="" href="register.php?d=summerCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
@@ -265,7 +142,7 @@ openContent($page);
 
 	<div id="" class="floatR clearB">
 		<a id="btn1R" class="" href="register.php?d=summerCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
