@@ -158,7 +158,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 	<div id="" class="floatR clearB">
 		<a id="btn1R" class="" href="register.php?d=class">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 
@@ -170,7 +170,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 	<p class="pgraph">Art, Adventures and More brings their art studio to The Art Farm. Children will learn techniques using acrylic paints, pastels, clay sculpting and other media. Classes will be led by two experienced artists who will educate through demonstrations and samples. Your child will be inspired and their imagination and creativity will flow. They will paint seascapes, underwater themes, landscapes, flora, and learn about the animals living in their natural habitats. There will also be an introduction to Master Artists of Impressionism, Expressionism, Contemporary Art, Caribbean Art and they will explore art across cultures. We connect the visual arts to other disciplines to interpret the world. Each child will take home their own "Masterpeice!"</p>
 	<div id="" class="floatR clearB">
 <a id="btn1R" class="" href="register.php?d=class">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
