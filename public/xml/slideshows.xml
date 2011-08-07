@@ -17,16 +17,16 @@
 		image size must be 180 x 180 pixels-->
 	<set2 folder="photos/slideshow2">
 		<item fileName="photo_01.jpg" link="bday_parties.php">
-			<text><![CDATA[<font color="#000000">Amazing Birthday Parties</font>]]></text>
-			<text><![CDATA[<font color="#000000">with live animals!</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Amazing Birthday Parties</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">with live animals!</font>]]></text>
 		</item>
 		<item fileName="photo_02.jpg" link="preschool.php">
-			<text><![CDATA[<font color="#000000">Pre-School</font>]]></text>
-			<text><![CDATA[<font color="#000000">now accepting applications for 2011!</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Pre-School</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Contact us if you are interested in a tour!</font>]]></text>
 		</item>
 		<item fileName="photo_03.jpg" link="classes.php">
-			<text><![CDATA[<font color="#000000">Classes</font>]]></text>
-			<text><![CDATA[<font color="#000000">Register now for our Spring & Summer Semesters!</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Classes</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Register now for our Fall Semester!</font>]]></text>
 		</item>
 	</set2>
 	
