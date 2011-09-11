@@ -295,7 +295,7 @@ openContent($page, "schedule");
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">3 - 6 years<br />
+				<div id="scheduleClassTime">4 - 5 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>

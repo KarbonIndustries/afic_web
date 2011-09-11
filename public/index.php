@@ -24,11 +24,12 @@ drawActivitiesMenu();
 	<div id="mainRight" class="">
 		<span class="heading1">Featured</span>
 		<div id="featured">
-			<img src="photos/featured/featured_camp_110324.jpg" />
-			<span class="size14 bold blue2 block padB5">June &amp; Summer Camp</span>
-			<span class="smallCopy">Join us down on the farm for the summer in one of our camp programs. Ages 3-7, soccer, swimming, cooking, outdoor play, live animal interaction and more!</span>
+			<img src="photos/featured/featured_fall_classes_110911.jpg" />
+			<span class="size14 bold blue2 block padB5">Fall Classes</span>
+			<span class="smallCopy">Wheather you are looking for an Adult and Me Class, Weekend Classes or an Afterschool Class we have them all.
+			We offer a variety classes involving music, art, animals, and cooking ages 1-7.</span>
 			<br />
-			<a class="blue2 bold size11" href="camp.php">Learn more</a>
+			<a class="blue2 bold size11" href="classes.php">Learn more</a>
 		</div>
 		<div id="featured">
 			<img src="photos/1KidPlaytime.jpg" />
@@ -44,3 +45,7 @@ drawActivitiesMenu();
 <?php
 drawFooter();
 ?>
+<!--
+	For the picture can you use either the picture of the little girl petting the tortoise under the animal care description or the little girl holding the guinea pig under the Rock Smocks and Animals Class on the classes page.
+	What ever one visibly looks and fits better.
+-->
