@@ -300,12 +300,12 @@ function drawPreschoolPanel()
 	echo '
 	<div id="preschoolPanel" class="">
 		<span class="bold rust block">The Bunnies</span>
-		<span class="gray2 size12">2.3 - 2.8 years by 9/1/2010<br />
+		<span class="gray2 size12">2.3 - 2.8 years by Sept. 1st<br />
 		Tuesday/Thursday<br />
 		9:30am - 12:00pm</span>
 		
 		<span class="bold rust block marginT10">The Turtles</span>
-		<span class="gray2 size12">2.9 - 3.6 years by 9/1/2010<br />
+		<span class="gray2 size12">2.9 - 3.6 years by Sept. 1st<br />
 		Monday/Wednesday<br />
 		9:30am - 12:00pm</span>
 	</div>
@@ -414,7 +414,7 @@ function drawChoose()
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="register.php?d=dropIn">
+					<a id="btn1L" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Drop In</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>

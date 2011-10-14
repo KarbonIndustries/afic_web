@@ -9,118 +9,16 @@ openContent($page);
 ?>
 <!--begin content-->
 
-<div class="floatL size20 bold fullWidth marginB15 gray1">
-	Plan a trip to <a class="rust" href="#of">our farm</a> or have animals come to <a class="rust" href="#yc">your classroom</a>.
-</div>
-<div class="floatL wide330 marginR15">
+<div class="floatL marginR15">
 	<span class="block size18 bold blue2">Looking for a way to enhance your school's science curriculum?</span>
 	<span class="marginT5 marginB10 block size16 bold blue2">The Art Farm in The City has just what you're looking for!</span>
 	
 	<span class="block marginB10 size14 gray2">Our exciting, interactive presentations feature up-close encounters with chinchillas, lizards, frogs, rabbits, turtles and many other amazing animals!</span>
-	
-	<div class="">
-	<span class="gray1 bold size15">All Programs Include&#8230;</span>
-	<ul class="bulletList2 gray1 pad0 marginL15">
-		<li class="">Friendly Animal Ambassadors</li>
-		<li class="">Activities led by an enthusiastic and experienced Animal Education Specialist</li>
-		<li class="">Stories, songs, movement and multi-sensory activities</li>
-		<li class="">The opportunity for young inquisitive minds to make observations and ask questions</li>
-	</ul>
-	</div>
-	<div class="marginT10">
-	<span class="gray1 bold size15">Why Teachers Love Our Programs&#8230;</span>
-	<ul class="bulletList2 gray1 pad0 marginL15">
-		<li class="">Supports science and literacy curriculum</li>
-		<li class="">Stimulates discussion leading to a better understanding and appreciation of the natural world</li>
-		<li class="">Teaches kindness and respect for all creatures and the environment</li>
-		<li class="">Provides a hands-on "living science" learning experience without ever leaving your classroom</li>
-		<li class="">Many topics to choose from or we can custom design a program to meet the needs of your students</li>
-	</ul>
-	</div>
+	<span class="block marginB10 size14 gray2">Plan a trip to our indoor petting zoo or have our animals visit your school! View our brochure to find out how your students can have up-close encounters with live animals!</span>
+
+<a style="padding:7px;background:#326BBC;color:#FFFFFF;font-weight:bold;display:block;width:120px;text-align:center;" href="./data/af_outreach_brochure_2011.pdf">View Brochure</a>
 </div>
 
-<div class="floatL wide330">
-	<span class="block size18 bold green1">Learn about our educator</span>
-	
-	<span class="marginT5 block marginB10 size14 gray2">Our animal education specialist, Gabby Sachs, has been teaching children about animals since 1992 in several zoo education departments. Most recently she taught in the Bronx Zoo's education department, where she educated thousands of school children about animals and the environment. Through her dynamic and interactive teaching style Gabby encourages children to use all of their senses when observing animals.  By using this multi-sensory approach, children gain a better understanding and appreciation of the natural world.</span>
-</div>
-
-<div id="yc" class="floatL clearB fullWidth">
-		<span class="marginT20 marginB15 block size18 bold blue2">
-			Connect our programs to a specific theme or bring animal science enrichment to your facility every month by signing up for our special multi-session plan!<br />
-			<span class="block bold size14 marginT5 marginB5">Outreach Rates <span class="size12 gray2 normal">(Additional travel fees may apply depending on location)</span></span>
-			<ul class="gray1 pad0 normal size14 noBull">
-				<li class="">$125/class for 1-3 classes scheduled</li>
-				<li class="">$100/class for 4 or more classes scheduled</li>
-				<li class="">$80/class (30 minute programs only) for multi-session plan - minimum 4 classes per day</li>
-			</ul>
-		</span>
-		<div class="floatL wide330 marginR15">
-			<div class="floatL wide330 marginR15 marginB15">
-				<span class="bold rust size15 block">Pre-School</span>
-				<span class="block gray2 size14 bold">2 year old Program <span class="size12 normal">up to 16 children per class</span></span>
-				<span class="block gray2 size14 bold">3 - 4 year old Program <span class="size12 normal">up to 20 children per class</span></span>
-				<span class="block size12 gray2 marginT5 marginB10">These 30 minute classes are led by an enthusiastic and experienced Animal Education Specialist. All programs include live animals, stories, songs, puppets and movement. This early childhood curriculum has been specifically designed for children ages 2 to 4. These unique story time programs are great for making the connection between literacy and science.</span>
-				
-				<span class="gray1 bold size15">"Animal Tales" Topics</span>
-				<ul class="bulletList1 gray1 pad0">
-					<li class="">Earth's Little Helpers</li>
-					<li class="">Feathered Friends</li>
-					<li class="">Frog Frolic</li>
-					<li class="">Furry Friends</li>
-					<li class="">Leaping Lizards</li>
-					<li class="">(Not-So) Creepy Creatures</li>
-					<li class="">Rabbit Romp</li>
-					<li class="">Turtle Trek</li>
-				</ul>
-			</div>
-			
-			<div class="floatL clearL wide330 marginB15">
-				<span class="bold rust size15 block">2nd - 4th Grade</span>
-				<span class="block size12 gray2 marginT5 marginB10">These 45 minute classes are led by an enthusiastic and experienced Animal Education Specialist. Young inquisitive minds will be given the opportunity to seek out the answers to questions they have about our live animal visitors, animal diets, proper pet care, and how they can help protect animals and the environment. We'll also figure out the adaptations needed for these animals to survive in different habitats. This life science curriculum has been specifically designed for these grades. Program is for a maximum of 28 students per class.</span>
-				
-				<span class="gray1 bold size15">"Junior Naturalist" Topics</span>
-				<ul class="bulletList1 gray1 pad0">
-					<li class="">Animal Toolbox</li>
-					<li class="">Critter Cafe</li>
-					<li class="">Marvelous Mammals</li>
-					<li class="">Pet Pals</li>
-					<li class="">Planet Patrol</li>
-					<li class="">Scales and Slime</li>
-					<li class="">Spineless Wonders</li>
-					<li class="">Winged Wonders</li>
-				</ul>
-			</div>
-		</div>
-		<div class="floatL wide330">
-			<div class="floatL wide330 marginB15">
-				<span class="bold rust size15 block">Kindergarten & 1st Grade</span>
-				<span class="block size12 gray2 marginT5 marginB10">These 45 minute classes are led by an enthusiastic and experienced Animal Education Specialist. Focus on a specific type of animal or choose a program based on textures, colors and movement in the animal world. All programs include live animals, stories, multi-sensory activities and hands on discovery. This life science curriculum has been specifically designed for these grades. There are plenty of opportunities for your "little explorers" to interact with our animal ambassadors, make observations and ask questions. Program is for a maximum of 25 students per class.</span>
-				
-				<span class="gray1 bold size15">"Little Explorers" Topics</span>
-				<ul class="bulletList1 gray1 pad0">
-					<li class="">Animal Parade</li>
-					<li class="">Creature Collage</li>
-					<li class="">Earth's Little Helpers</li>
-					<li class="">Feathered Friends</li>
-					<li class="">Frog Frolic</li>
-					<li class="">Furry Friends</li>
-					<li class="">Fuzzy Wuzzies</li>
-					<li class="">Leaping Lizards</li>
-					<li class="">(Not-So) Creepy Creatures</li>
-					<li class="">Rabbit Romp</li>
-					<li class="">Turtle Trek</li>
-					<li class="">Wildlife Wardrobe</li>
-				</ul>
-			</div>
-		
-			<div class="floatL wide330 marginB15">
-				<span class="bold rust size15 block">Wild Wonders Group Program</span>
-				<span class="block gray2 size14 bold">$250/group <span class="size12 normal">(2nd - 4th grade only)</span></span>
-				<span class="block size12 gray2 marginT5 marginB10">From fur to feathers, scales to exoskeletons, discover the amazing characteristics of the animal world through our live animals! During this 45 minute program, several animals will be brought out and the students will become "visual detectives." They will make observations, ask questions and figure out why animals have such amazing adaptations! This program is designed for groups of up to 50 students (2nd- 4th grade) in your school.</span>
-			</div>
-		</div>
-</div>
 
 <div id="of" class="floatL clearB fullWidth">
 <span class="marginT20 marginB15 block size18 bold blue2">Looking for a fun, educational field trip? Come on down to the Farm!</span>

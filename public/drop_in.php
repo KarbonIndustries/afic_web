@@ -12,7 +12,6 @@ openContent($page);
 
 <img class="pageImg" src="photos/drop_in.jpg" />
 <span id="wpt" class="block bold size18 blue2">Play Time Package</span>
-<?= PLAY_TIME_MESSAGE_1 ?>
 <span class="subtitle1 gray1">6 months+<br />
 Monday - Thursday | 12:30pm - 3:30pm</span>
 <p class="pgraph">Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts & crafts and creative play in our playroom. You can pay by the day or buy a weekly or monthly package. Drop off available for 2&#189;+ years.</p>
@@ -98,7 +97,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 	<p class="pgraph">*$15/day for friends and family of current clients. Art Farm members receive 20% off current client package</p>
 
 	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=dropIn">
+		<a id="btn1R" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Pay Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
@@ -108,7 +107,6 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="oh" class="block bold size18 blue2">Open House</span>
-	<?= OPEN_HOUSE_MESSAGE_1 ?>
 	<span class="subtitle1 gray1">All ages <span class="size12">(Drop Off optional for 2+ years)</span><br />
 	Friday 9:30am - 12:00pm<br />
 	<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a></span>
@@ -118,7 +116,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 	<p class="pgraph">Drop by during these 2&#189; hours for baking, arts/crafts, music, singing and plenty of cuddling time with the animals. To see the animal you must arrive between 9:30am and 10:00am.  The farm closes at 10:15am.<br />All passes are fully transferable, so you can share them with friends and family.</p>
 
 	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=dropIn">
+		<a id="btn1R" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Pay Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
@@ -146,7 +144,6 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<img class="" src="images/mc_logo.png" /><span id="mc" class="block bold size18 blue2">Mini Chef Cooking Class</span>
-	<?= MINI_CHEF_MESSAGE_1 ?>
 	<span class="subtitle1 rust"><br />
 	<span class="subtitle1 gray1">After-school/weekend program<br />
 	Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
@@ -157,7 +154,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 	<p class="pgraph">Get ready to mix, measure and create as Mini Chef brings their "Culinary Playground" to The Art Farm. The popular children's cooking program, Mini Chef helps kids of all ages develop a love of cooking through cooking classes and birthday parties with age appropriate menus. It's all about learning about good nutrition and creating good food through the hands-on cooking activities. Creating local and global cuisine, Mini Chef's head chef, Sylvie Berger, brings children on a taste bud voyage and cooking adventure. Create, make, eat, enjoy!</p>
 
 	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=class">
+		<a id="btn1R" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
@@ -169,7 +166,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 	<span class="size12 gray2">Drop In: $45 | Winter: $480 | Spring: $480 | Summer: $320</span></span>
 	<p class="pgraph">Art, Adventures and More brings their art studio to The Art Farm. Children will learn techniques using acrylic paints, pastels, clay sculpting and other media. Classes will be led by two experienced artists who will educate through demonstrations and samples. Your child will be inspired and their imagination and creativity will flow. They will paint seascapes, underwater themes, landscapes, flora, and learn about the animals living in their natural habitats. There will also be an introduction to Master Artists of Impressionism, Expressionism, Contemporary Art, Caribbean Art and they will explore art across cultures. We connect the visual arts to other disciplines to interpret the world. Each child will take home their own "Masterpeice!"</p>
 	<div id="" class="floatR clearB">
-<a id="btn1R" class="" href="register.php?d=class">
+<a id="btn1R" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>

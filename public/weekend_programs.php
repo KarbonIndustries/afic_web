@@ -24,7 +24,6 @@ Saturday/Sunday 8am-10am</span>
 
 
 <img class="" src="images/mc_logo.png" /><span class="title2 blue2">Mini Chef Cooking Class</span>
-<?= MINI_CHEF_MESSAGE_1 ?>
 <span class="subtitle1 gray1">After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 <a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
 <span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span></span>

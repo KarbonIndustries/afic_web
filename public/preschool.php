@@ -11,8 +11,9 @@ openPreschoolContent($page);
 
 <img class="pageImg" src="photos/preschool.jpg" />
 
-<div class=""><span class="title2 blue2 marginB10">Accepting applications for September 2011 <span class="gray2 normal size14">Sept 12 - May 17, 2012</span></span>
+<div class="">
 
+<!-- <span class="title2 blue2 marginB10">Accepting applications for September 2011 <span class="gray2 normal size14">Sept 12 - May 17, 2012</span></span> -->
 
 <span class="subtitle1 bold blue2 marginB10">2 Day/Week Program</span>
 
