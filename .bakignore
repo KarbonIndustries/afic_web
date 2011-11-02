@@ -1,0 +1,9 @@
+inc/classes/flourish/
+public/data/
+public/flash/
+public/images/
+public/img/
+public/photos/
+public/press/
+public/scripts/swfobject.js
+public/*.ico
