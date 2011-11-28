@@ -22,11 +22,11 @@
 		</item>
 		<item fileName="photo_02.jpg" link="preschool.php">
 			<text><![CDATA[<font color="#DB4A28">Pre-School</font>]]></text>
-			<text><![CDATA[<font color="#DB4A28">Contact us if you are interested in a tour!</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Accepting 2012-2013 applications!</font>]]></text>
 		</item>
 		<item fileName="photo_03.jpg" link="classes.php">
 			<text><![CDATA[<font color="#DB4A28">Classes</font>]]></text>
-			<text><![CDATA[<font color="#DB4A28">Register now for our Fall Semester!</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Register now for our Winter semester!</font>]]></text>
 		</item>
 	</set2>
 	

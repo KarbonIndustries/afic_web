@@ -48,10 +48,10 @@ Art and movement are daily activities which enable children to express themselve
 <p class="pgraph">Hands on time with our animals, participation in farm chores and learning with our animal educators</p>
 
 <img src="images/bb_icon.png" />
-<span class="size13 bold rust block">Music, Movement & Cooking <span class="gray2 normal">11:15am</span></span>
-<p class="pgraph">One day a week, it's music time. Song & dance with The Art Farm guitarist or singing and learning Spanish with Bilingual Birdies, a bilingual music program. The other day of the week, it's time to cook with organic ingredients with recipes that revolve around our monthly theme.</p>
+<span class="size13 bold rust block">Music, Movement, Cooking and Learning Centers <span class="gray2 normal">11:15am</span></span>
+<p class="pgraph">One day a week, it's music time. Song & dance with The Art Farm guitarist or singing and learning Spanish with Bilingual Birdies, a bilingual music program. The other day of the week, it's time to cook with organic ingredients with recipes that revolve around our monthly theme or move in groove in movement, or play in our learning centers.</p>
 
-<span class="size13 bold rust block marginB20">Goodbye Songs <span class="gray2 normal">11:45am</span></span>
+<span class="size13 bold rust block marginB20">Goodbye Songs <span class="gray2 normal">11:55am</span></span>
 
 <span class="size13 bold rust block marginB20">Dismissal <span class="gray2 normal">12:00pm</span></span>
 

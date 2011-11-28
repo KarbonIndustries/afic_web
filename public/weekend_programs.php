@@ -12,6 +12,7 @@ openContent($page);
 
 <img class="pageImg" src="photos/weekend_programs.jpg" />
 <span class="title2 blue2">Mornings on The Farm<br /></span>
+<?= XMAS_CLOSED_MSG ?>
 <span class="subtitle1 gray1">1+ years<br />
 Saturday/Sunday 8am-10am</span>
 <span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>

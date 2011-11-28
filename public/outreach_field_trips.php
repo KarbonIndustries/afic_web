@@ -16,7 +16,8 @@ openContent($page);
 	<span class="block marginB10 size14 gray2">Our exciting, interactive presentations feature up-close encounters with chinchillas, lizards, frogs, rabbits, turtles and many other amazing animals!</span>
 	<span class="block marginB10 size14 gray2">Plan a trip to our indoor petting zoo or have our animals visit your school! View our brochure to find out how your students can have up-close encounters with live animals!</span>
 
-<a style="padding:7px;background:#326BBC;color:#FFFFFF;font-weight:bold;display:block;width:120px;text-align:center;" href="./data/af_outreach_brochure_2011.pdf">View Brochure</a>
+<object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/_jfGW2wRMy4?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/_jfGW2wRMy4?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
+<a style="padding:7px;background:#326BBC;color:#FFFFFF;font-weight:bold;display:block;width:120px;text-align:center;margin-top:15px;" href="./data/af_outreach_brochure_2011.pdf">View Brochure</a>
 </div>
 
 
