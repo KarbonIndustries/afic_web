@@ -386,14 +386,14 @@ function drawChoose()
 		<table class="" cellSpacing="0" cellPadding="10" align="center">
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&amp;RF=3709104&amp;mode=0" target="_blank">
+					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=3709104&mode=0" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Classes</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="register.php?d=holidayCamp">
+					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909231&mode=0" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Holiday Camp</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>
@@ -421,7 +421,7 @@ function drawChoose()
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&amp;RF=3709104&amp;mode=0" target="_blank">
+					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=3709104&mode=0" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Play Group</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>

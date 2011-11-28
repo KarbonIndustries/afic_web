@@ -28,7 +28,7 @@ drawActivitiesMenu();
 			<span class="size14 bold blue2 block padB5">Holiday Camp</span>
 			<span class="smallCopy">We offer a holiday Winter-themed camp Dec 19-22 and Dec 27-30 for ages 3-8 years old. We offer a half day and full day program including animal care, are, cooking, music, special events&hellip;</span>
 			<br />
-			<a class="blue2 bold size11" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909231&mode=0" target="_blank">Learn more</a>
+			<a class="blue2 bold size11" href="camp.php">Learn more</a>
 		</div>
 		<div id="featured">
 			<img src="photos/1KidPlaytime.jpg" />
