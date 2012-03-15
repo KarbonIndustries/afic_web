@@ -407,7 +407,7 @@ function drawChoose()
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="register.php?d=juneCamp">
+					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909284&mode=0" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; June Camp</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>

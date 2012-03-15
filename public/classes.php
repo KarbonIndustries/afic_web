@@ -91,7 +91,6 @@ openContent($page);
 	<a name="minichef" id="minichef"></a><img class="" src="images/mc_logo.png" /><span id="mc" class="title2 blue2">Mini Chef Cooking Class</span>
 	<img class="padR10 padT10 padB10" src="photos/mc.jpg" />
 	<br />
-	<?= MINI_CHEF_MESSAGE_1 ?>
 	<span class="subtitle1 gray1">After-school program<br />
 	Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
     Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />

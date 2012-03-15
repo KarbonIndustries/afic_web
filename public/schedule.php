@@ -18,9 +18,9 @@ openContent($page, "schedule");
 	</script>
 	</div>
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignC">
-		<span class="blue2 bold marginL10">Fall Semester </span><span class="gray2">Sept 6 - Dec 16</span>
-		<span class="blue2 bold marginL10">Winter Semester </span><span class="gray2">Jan 3 - Mar 23</span>
-		<span class="blue2 bold marginL10">Spring Semester </span><span class="gray2">Mar 26 - Jun 15</span>
+		<span class="blue2 bold marginL10">Fall 2012 Semester </span><span class="gray2">Sept 4th - Dec 14th</span><br />
+		<span class="blue2 bold marginL10">Winter 2012 Semester </span><span class="gray2">Jan 2nd - Mar 22nd</span><br />
+		<span class="blue2 bold marginL10">Spring 2012 Semester </span><span class="gray2">Mar 26th - Jun 15th</span>
 	</div>
 </div>
 
@@ -394,7 +394,7 @@ openContent($page, "schedule");
 <div class="floatL fullWidth">
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignL">
 		<a name="summer"></a>
-		<span class="blue2 bold marginL10">Summer Semester </span><span class="gray2">Jun 27 - Aug 19</span>
+		<span class="blue2 bold marginL10">Summer 2012 Semester </span><span class="gray2">Jun 25th - Aug 17th</span>
 	</div>
 </div>
 <div id="scheduleShell2" class="">
@@ -450,7 +450,7 @@ openContent($page, "schedule");
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 7 years<br />
+				<div id="scheduleClassTime">4 - 6 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
@@ -478,7 +478,7 @@ openContent($page, "schedule");
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">5 - 8 years<br />
+				<div id="scheduleClassTime">5 - 7 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
@@ -519,7 +519,7 @@ openContent($page, "schedule");
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">3 - 7 years<br />
+				<div id="scheduleClassTime">4 - 5 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
