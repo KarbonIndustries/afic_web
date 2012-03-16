@@ -12,7 +12,6 @@ openContent($page);
 
 <img class="pageImg" src="photos/weekend_programs.jpg" />
 <span class="title2 blue2">Mornings on The Farm<br /></span>
-<?= XMAS_CLOSED_MSG ?>
 <span class="subtitle1 gray1">1+ years<br />
 Saturday/Sunday 8am-10am</span>
 <span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>
@@ -26,9 +25,10 @@ Saturday/Sunday 8am-10am</span>
 
 <img class="" src="images/mc_logo.png" /><span class="title2 blue2">Mini Chef Cooking Class</span>
 <span class="subtitle1 gray1">After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
-<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
-<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span></span>
-
+	<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
+	<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span><br />
+	<span class="red" style="font-size:12px;">Drop In not available on Saturday</span><br />
+</span>
 
 <p class="pgraph">Get ready to mix, measure and create as Mini Chef brings their "Culinary Playground" to The Art Farm. The popular children's cooking program, Mini Chef helps kids of all ages develop a love of cooking through cooking classes and birthday parties with age appropriate menus. It's all about learning about good nutrition and creating good food through the hands-on cooking activities. Creating local and global cuisine, Mini Chef's head chef, Sylvie Berger, brings children on a taste bud voyage and cooking adventure. Create, make, eat, enjoy!</p>
 

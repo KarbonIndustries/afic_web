@@ -12,7 +12,6 @@ openContent($page);
 
 <img class="pageImg" src="photos/drop_in.jpg" />
 <span id="wpt" class="block bold size18 blue2">Play Time Package</span>
-<?= XMAS_PLAYTIME_CLOSED_MSG ?>
 <span class="subtitle1 gray1">6 months+<br />
 Monday - Thursday | 12:30pm - 3:30pm</span>
 <p class="pgraph">Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts & crafts and creative play in our playroom. You can pay by the day or buy a weekly or monthly package. Drop off available for 2&#189;+ years.</p>
@@ -108,12 +107,14 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="oh" class="block bold size18 blue2">Open House</span>
-	<?= XMAS_OPEN_HOUSE_CLOSED ?>
 	<span class="subtitle1 gray1">All ages <span class="size12">(Drop Off optional for 2+ years)</span><br />
-	Friday 9:30am - 12:00pm<br />
-	<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a></span>
+		Friday 9:30am - 12:00pm<br />
+		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
+	</span>
 	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">$45 | $20 for children currently registered in a class</span></span>
 	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 visit: $200 | 10 visit: $300 | 20 visit: $500</span></span>
+	<span class="red" style="font-size:12px;">Reservations required 24 hours in advance for Drop Off</span>
+	
 
 	<p class="pgraph">Drop by during these 2&#189; hours for baking, arts/crafts, music, singing and plenty of cuddling time with the animals. To see the animal you must arrive between 9:30am and 10:00am.  The farm closes at 10:15am.<br />All passes are fully transferable, so you can share them with friends and family.</p>
 
@@ -128,7 +129,6 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on The Farm</span>
-	<?= XMAS_CLOSED_MSG ?>
 	<span class="subtitle1 gray1">1+ years<br />
 	Saturday/Sunday 8am - 10am</span>
 	<span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>
@@ -142,10 +142,13 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 	<img class="" src="images/mc_logo.png" /><span id="mc" class="block bold size18 blue2">Mini Chef Cooking Class</span>
 	<span class="subtitle1 rust"><br />
 	<span class="subtitle1 gray1">After-school/weekend program<br />
-	Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
-	Saturday 9am - 10am | 2 - 8 years<br />
-	<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
-	<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span></span>
+		Monday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
+		Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
+		Saturday 9am - 10am | 2 - 8 years<br />
+		<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
+		<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span><br />
+		<span class="red" style="font-size:12px;">Drop In only available on Monday & Thursday</span>
+	</span>
 
 	<p class="pgraph">Get ready to mix, measure and create as Mini Chef brings their "Culinary Playground" to The Art Farm. The popular children's cooking program, Mini Chef helps kids of all ages develop a love of cooking through cooking classes and birthday parties with age appropriate menus. It's all about learning about good nutrition and creating good food through the hands-on cooking activities. Creating local and global cuisine, Mini Chef's head chef, Sylvie Berger, brings children on a taste bud voyage and cooking adventure. Create, make, eat, enjoy!</p>
 
