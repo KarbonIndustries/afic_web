@@ -12,6 +12,7 @@ openContent($page);
 
 <img class="pageImg" src="photos/drop_in.jpg" />
 <span id="wpt" class="block bold size18 blue2">Play Time Package</span>
+<span class="red" style="font-size:12px;">This program will end June 14th and resume September 4th.</span><br />
 <span class="subtitle1 gray1">6 months+<br />
 Monday - Thursday | 12:30pm - 3:30pm</span>
 <p class="pgraph">Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts & crafts and creative play in our playroom. You can pay by the day or buy a weekly or monthly package. Drop off available for 2&#189;+ years.</p>
@@ -107,6 +108,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="oh" class="block bold size18 blue2">Open House</span>
+	<span class="red" style="font-size:12px;">This program will end June 15th and resume September 7th.</span><br />
 	<span class="subtitle1 gray1">All ages <span class="size12">(Drop Off optional for 2+ years)</span><br />
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
@@ -140,7 +142,8 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<img class="" src="images/mc_logo.png" /><span id="mc" class="block bold size18 blue2">Mini Chef Cooking Class</span>
-	<span class="subtitle1 rust"><br />
+	<span class="red" style="font-size:12px;">Please check summer schedule for July/Aug class times. <a class="blue2 bold" href="schedule.php#summer">View summer schedule</a></span><br />
+	<span class="subtitle1 rust">
 	<span class="subtitle1 gray1">After-school/weekend program<br />
 		Monday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
 		Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />

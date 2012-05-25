@@ -12,6 +12,7 @@ openContent($page);
 
 <img class="pageImg" src="photos/weekend_programs.jpg" />
 <span class="title2 blue2">Mornings on The Farm<br /></span>
+<span class="red" style="font-size:12px;">We will be closed Saturday and Sunday of Memorial Day Weekend.</span><br />
 <span class="subtitle1 gray1">1+ years<br />
 Saturday/Sunday 8am-10am</span>
 <span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>
@@ -24,6 +25,8 @@ Saturday/Sunday 8am-10am</span>
 
 
 <img class="" src="images/mc_logo.png" /><span class="title2 blue2">Mini Chef Cooking Class</span>
+<span class="red" style="font-size:12px;">Please check summer schedule for July/Aug class times. <a class="blue2 bold" href="schedule.php#summer">View summer schedule</a></span><br />
+
 <span class="subtitle1 gray1">After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 	<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
 	<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span><br />

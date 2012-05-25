@@ -89,6 +89,7 @@ openContent($page);
 
 <div class="clearB">
 	<a name="minichef" id="minichef"></a><img class="" src="images/mc_logo.png" /><span id="mc" class="title2 blue2">Mini Chef Cooking Class</span>
+	<span class="red" style="font-size:12px;">Please check summer schedule for July/Aug class times. <a class="blue2 bold" href="schedule.php#summer">View summer schedule</a></span><br />
 	<img class="padR10 padT10 padB10" src="photos/mc.jpg" />
 	<br />
 	<span class="subtitle1 gray1">After-school program<br />
