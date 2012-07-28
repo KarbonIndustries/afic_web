@@ -11,8 +11,13 @@ openContent($page);
 <!--begin content-->
 
 <img class="pageImg" src="photos/weekend_programs.jpg" />
+
+<!-- ======================== -->
+<!-- = MORNINGS ON THE FARM = -->
+<!-- ======================== -->
+
 <span class="title2 blue2">Mornings on The Farm<br /></span>
-<span class="red" style="font-size:12px;">We will be closed Saturday and Sunday of Memorial Day Weekend.</span><br />
+<span class="red" style="font-size:12px;">We will be closed Saturday and Sunday of Labor Day Weekend.</span><br />
 <span class="subtitle1 gray1">1+ years<br />
 Saturday/Sunday 8am-10am</span>
 <span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>
@@ -20,9 +25,9 @@ Saturday/Sunday 8am-10am</span>
 <p class="pgraph">Where else in New York City can you begin your day on the farm?  With a basket full of hay and goodies, you and your children can spend the morning feeding and snuggling animals right here at our indoor farm on the Upper East Side.</p>
 
 
-
-
-
+<!-- ============= -->
+<!-- = MINI CHEF = -->
+<!-- ============= -->
 
 <img class="" src="images/mc_logo.png" /><span class="title2 blue2">Mini Chef Cooking Class</span>
 <span class="red" style="font-size:12px;">Please check summer schedule for July/Aug class times. <a class="blue2 bold" href="schedule.php#summer">View summer schedule</a></span><br />

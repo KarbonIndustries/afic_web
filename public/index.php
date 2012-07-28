@@ -24,18 +24,18 @@ drawActivitiesMenu();
 	<div id="mainRight" class="">
 		<span class="heading1">Featured</span>
 		<div id="featured">
-			<img src="photos/featured/featured_summer_camp_120103.jpg" />
-			<span class="size14 bold blue2 block padB5">Summer Camp</span>
-			<span class="smallCopy">Our indoor eco-friendly facility offers a full-day and half-day camp experience for children ages 3 to 8. All children get hands on experience learning about and caring for our live animals in our award-winning&hellip;</span>
+			<img src="photos/featured/featured_motf_120728.jpg" />
+			<span class="size14 bold blue2 block padB5">Mornings on The Farm</span>
+			<span class="smallCopy">Where else in New York City can you begin your day on the farm? With a basket full of hay and goodies&hellip;</span>
 			<br />
-			<a class="blue2 bold size11" href="camp.php">Learn more</a>
+			<a class="blue2 bold size11" href="weekend_programs.php">Learn more</a>
 		</div>
 		<div id="featured">
-			<img src="photos/1KidPlaytime.jpg" />
-			<span class="size14 bold green1 block padB5">Play Time!</span>
-			<span class="smallCopy">Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts & crafts and creative play in our playroom.</span>
+			<img src="photos/featured/featured_fall_classes_120728.jpg" />
+			<span class="size14 bold green1 block padB5">Fall Classes</span>
+			<span class="smallCopy">Come join us this fall for clases and programs for ages 1 - 8. Adulte &amp; Me, Afterschool, Cooking Drop Ins and more!</span>
 			<br />
-			<a class="green1 bold size11" href="drop_in.php">Learn more</a>
+			<a class="green1 bold size11" href="classes.php">Learn more</a>
 		</div>
 	</div>
 </div>

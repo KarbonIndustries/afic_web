@@ -72,7 +72,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 					$95
 				</td>
 				<td class="pad5">
-					$80
+					$85
 				</td>
 			</tr>
 			<tr class="gray1 size12">
@@ -86,16 +86,16 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 					$145
 				</td>
 				<td class="pad5">
-					$360
+					$400
 				</td>
 				<td class="pad5">
-					$250
+					$325
 				</td>
 			</tr>
 		</tbody>
 	</table>
 
-	<p class="pgraph">*$15/day for friends and family of current clients. Art Farm members receive 20% off current client package</p>
+	<p class="pgraph">*Art Farm members receive 20% off current client package</p>
 
 	<div id="" class="floatR clearB">
 		<a id="btn1R" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
@@ -113,7 +113,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
 	</span>
-	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">$45 | $20 for children currently registered in a class</span></span>
+	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">(with or without caregiver) $45 | $30 for children currently registered in a class</span></span>
 	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 visit: $200 | 10 visit: $300 | 20 visit: $500</span></span>
 	<span class="red" style="font-size:12px;">Reservations required 24 hours in advance for Drop Off</span>
 	
@@ -150,7 +150,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 		Saturday 9am - 10am | 2 - 8 years<br />
 		<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
 		<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span><br />
-		<span class="red" style="font-size:12px;">Drop In only available on Monday & Thursday</span>
+		<span class="red" style="font-size:12px;">Drop In only available on Monday &amp; Thursday</span>
 	</span>
 
 	<p class="pgraph">Get ready to mix, measure and create as Mini Chef brings their "Culinary Playground" to The Art Farm. The popular children's cooking program, Mini Chef helps kids of all ages develop a love of cooking through cooking classes and birthday parties with age appropriate menus. It's all about learning about good nutrition and creating good food through the hands-on cooking activities. Creating local and global cuisine, Mini Chef's head chef, Sylvie Berger, brings children on a taste bud voyage and cooking adventure. Create, make, eat, enjoy!</p>
@@ -160,19 +160,6 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
-
-<div class="clearB">
-	<span id="aam" class="title2 blue2">Art, Adventures and More</span>
-	<img class="padR10 padT10 padB10" src="photos/aam.jpg" />
-	<span class="subtitle1 gray1">After-school program <br />Tuesday: 3:30pm - 4:30pm | 4-10 years<br />
-	<span class="size12 gray2">Drop In: $45 | Winter: $480 | Spring: $480 | Summer: $320</span></span>
-	<p class="pgraph">Art, Adventures and More brings their art studio to The Art Farm. Children will learn techniques using acrylic paints, pastels, clay sculpting and other media. Classes will be led by two experienced artists who will educate through demonstrations and samples. Your child will be inspired and their imagination and creativity will flow. They will paint seascapes, underwater themes, landscapes, flora, and learn about the animals living in their natural habitats. There will also be an introduction to Master Artists of Impressionism, Expressionism, Contemporary Art, Caribbean Art and they will explore art across cultures. We connect the visual arts to other disciplines to interpret the world. Each child will take home their own "Masterpeice!"</p>
-	<div id="" class="floatR clearB">
-<a id="btn1R" class="" target="_blank" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909197&mode=0">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
 </div>
 
 <!--end content-->
