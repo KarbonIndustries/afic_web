@@ -16,6 +16,10 @@
 	<!--news slideshow
 		image size must be 180 x 180 pixels-->
 	<set2 folder="photos/slideshow2">
+		<item fileName="photo_01.jpg" link="bday_parties.php">
+			<text><![CDATA[<font color="#DB4A28">Amazing Birthday Parties</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">with live animals!</font>]]></text>
+		</item>
 		<item fileName="photo_02.jpg" link="preschool.php">
 			<text><![CDATA[<font color="#DB4A28">Preschool</font>]]></text>
 			<text><![CDATA[<font color="#DB4A28">Accepting 2013-2014 Applications in September!</font>]]></text>
