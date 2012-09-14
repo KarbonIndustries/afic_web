@@ -140,7 +140,6 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<img class="" src="images/mc_logo.png" /><span id="mc" class="block bold size18 blue2">Mini Chef Cooking Class</span>
-	<span class="red" style="font-size:12px;">Please check summer schedule for July/Aug class times. <a class="blue2 bold" href="schedule.php#summer">View summer schedule</a></span><br />
 	<span class="subtitle1 rust">
 	<span class="subtitle1 gray1">After-school/weekend program<br />
 		Monday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
