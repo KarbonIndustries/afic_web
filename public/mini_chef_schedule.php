@@ -8,20 +8,23 @@ closeHeader();
 <body>
 
 <div class="pad10">
-<span class="block size14 bold blue2 marginB5">March 26th, 29th & 31st - My Little Green Cake</span>
-<span class="block size14 bold blue2 marginB5">April 2nd, 5th, & 7th - Berry Pie Pops</span>
-<span class="block size14 bold blue2 marginB5">April 9th, 12th & 14th - Strawberry Rhubarb Twists</span>
-<span class="block size14 bold blue2 marginB5">April 16th, 19th & 21st - Lemon Hummus Bread</span>
-<span class="block size14 bold blue2 marginB5">April 23rd, 26th & 28th - Hot Cross Buns</span>
-<span class="block size14 bold blue2 marginB5">April 30th, May 3rd & 5th - Cinco de Mayo - Dulce de Leche Brioche</span>
-<span class="block size14 bold blue2 marginB5">May 7th & 10th - Raspberry Oatmeal Crusted Tartlets</span>
-<span class="block size14 bold blue2 marginB5">May 12th - Mother's Day - Mommy's Molten Chocolate Cake</span>
-<span class="block size14 bold blue2 marginB5">May 14th, 17th, 19th - Pizza Brioche</span>
-<span class="block size14 bold blue2 marginB5">May 21st & 24th - Buttermilk Panna Cotta</span>
-<span class="block size14 bold blue2 marginB5">May 31st & June 2nd - Dill Cucumber Cheese Cake</span>
-<span class="block size14 bold blue2 marginB5">June 4th, 7th & 9th - Strawberry Shortcake Cookies</span>
-<span class="block size14 bold blue2 marginB5">June 11th & 14th - Cherry Clafoutis</span>
-<span class="block size14 bold blue2 marginB5">June 16th - Daddy's Banana Caramel Cake</span>
+<span class="block size14 bold blue2 marginB5">Sep 6th &amp; 8th - Plum Pizza Tart</span>
+<span class="block size14 bold blue2 marginB5">Sep 10th, 13th &amp; 15th - Radish/Cucumber Tzatziki &amp; Pita</span>
+<span class="block size14 bold blue2 marginB5">Sep 17th - Rosh Hashanah: No Class</span>
+<span class="block size14 bold blue2 marginB5">Sep 20th &amp; 22nd - Grape Foccacia</span>
+<span class="block size14 bold blue2 marginB5">Sep 24th, 27th &amp; 29th - Wild Mushroom Turnover</span>
+<span class="block size14 bold blue2 marginB5">Oct 1st, 4th &amp; 6th - Apple Cinnamon Pull Apart Bread</span>
+<span class="block size14 bold blue2 marginB5">Oct 8th, 11th &amp; 13th - Gluten Free Quinoa</span>
+<span class="block size14 bold blue2 marginB5">Oct 15th, 18th &amp; 20th - Carrot Ginger Madeleines</span>
+<span class="block size14 bold blue2 marginB5">Oct 22nd, 25th &amp; 27th - Sweet Potato Roll</span>
+<span class="block size14 bold blue2 marginB5">Oct 29th - Halloween Cookie Decoration</span>
+<span class="block size14 bold blue2 marginB5">Nov 1st &amp; 3rd - Cranberry Spelt Bread</span>
+<span class="block size14 bold blue2 marginB5">Nov 5th, 8th &amp; 10th - Mini Apple Pie</span>
+<span class="block size14 bold blue2 marginB5">Nov 12th, 15th &amp; 17th - Butternut Biscuits</span>
+<span class="block size14 bold blue2 marginB5">Nov 19th - Mini Pumpkin Pie</span>
+<span class="block size14 bold blue2 marginB5">Nov 26th, 29th &amp; Dec 1st - Bonbon Sirop (Haitian spice cake)</span>
+<span class="block size14 bold blue2 marginB5">Dec 3rd, 6th &amp; 8th - Speculoos (Belgian spice cookies)</span>
+<span class="block size14 bold blue2 marginB5">Dec 10th, 13th &amp; 15th - Holiday Cookie Decoration</span>
 
 </body>
 </html>
