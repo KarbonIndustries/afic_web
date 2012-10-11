@@ -31,9 +31,9 @@ drawActivitiesMenu();
 			<a class="blue2 bold size11" href="weekend_programs.php">Learn more</a>
 		</div>
 		<div id="featured">
-			<img src="photos/featured/featured_fall_classes_120728.jpg" />
-			<span class="size14 bold green1 block padB5">Fall Classes</span>
-			<span class="smallCopy">Come join us this fall for clases and programs for ages 1 - 8. Adult &amp; Me, Afterschool, Cooking Drop Ins and more!</span>
+			<img src="photos/featured/featured_farm_foodies_121011.jpg" />
+			<span class="size14 bold green1 block padB5">Farm Foodies Cooking Class</span>
+			<span class="smallCopy">Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well.</span>
 			<br />
 			<a class="green1 bold size11" href="classes.php">Learn more</a>
 		</div>

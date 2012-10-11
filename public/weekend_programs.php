@@ -24,18 +24,18 @@ Saturday/Sunday 8am-10am</span>
 <p class="pgraph">Where else in New York City can you begin your day on the farm?  With a basket full of hay and goodies, you and your children can spend the morning feeding and snuggling animals right here at our indoor farm on the Upper East Side.</p>
 
 
-<!-- ============= -->
-<!-- = MINI CHEF = -->
-<!-- ============= -->
+<!-- ================ -->
+<!-- = FARM FOODIES = -->
+<!-- ================ -->
 
-<img class="" src="images/mc_logo.png" /><span class="title2 blue2">Mini Chef Cooking Class</span>
+<span class="title2 blue2">Farm Foodies Cooking Class</span>
 
 <span class="subtitle1 gray1">After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 	<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
 	<span class="size12 gray2">Drop In: $40 | Winter: $444 | Spring: $444 | Fall: $555</span><br />
 </span>
 
-<p class="pgraph">Get ready to mix, measure and create as Mini Chef brings their "Culinary Playground" to The Art Farm. The popular children's cooking program, Mini Chef helps kids of all ages develop a love of cooking through cooking classes and birthday parties with age appropriate menus. It's all about learning about good nutrition and creating good food through the hands-on cooking activities. Creating local and global cuisine, Mini Chef's head chef, Sylvie Berger, brings children on a taste bud voyage and cooking adventure. Create, make, eat, enjoy!</p>
+<p class="pgraph">Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>
 
 <div id="" class="floatR clearB">
 	<a id="btn1R" class="" href="register.php?d=class">
