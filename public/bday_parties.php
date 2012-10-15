@@ -28,7 +28,7 @@ function popup($row,$partyName)
 	<tr>
 		<td class="bdayBg4"><?php echo popup(1,"Princess &amp; Knights Party")?></td>
 		<td class="bdayBg5"><?php echo popup(2,"Treasure Hunt Party")?></td>
-		<td class="bdayBg6"><?php echo popup(2,"Mini Chef Party")?></td>
+		<td class="bdayBg6"><?php echo popup(2,"Cooking Party")?></td>
 	</tr>
 	<tr>
 		<td class="bdayBg7"><?php echo popup(2,"Mad Science Party")?></td>

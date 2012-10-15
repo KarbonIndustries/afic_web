@@ -65,7 +65,7 @@ openContent($page, "schedule");
 		</div>
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classMC">
-				Mini Chef
+				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">2 - 8 years<br />
@@ -282,7 +282,7 @@ openContent($page, "schedule");
 		</div>
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classMC">
-				Mini Chef
+				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">2 - 8 years<br />
@@ -356,7 +356,7 @@ openContent($page, "schedule");
 		<div class="scheduleDayTitle">Sat/Sun</div>
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classMC">
-				Mini Chef
+				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">Saturday<br />2 - 8 years<br />
@@ -506,7 +506,7 @@ openContent($page, "schedule");
 		</div>
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classMC">
-				Mini Chef
+				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">2 - 8 years<br />

@@ -40,7 +40,7 @@ closeHeader();
 						<li>Music time</li>
 						<li>Farm Time</li>
 						<li>Goodie bags</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Invitations</li>
 						<li>PigCasso t-shirt for birthday child</li>
 						<li>Bio-degradable balloons</li>
@@ -49,10 +49,10 @@ closeHeader();
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>1 hour with the farm animals(goats, sheep, chickens, ducks & turkey)</li>
+						<li>1 hour with the farm animals(goats, sheep, chickens, ducks &amp; turkey)</li>
 						<li>Art project</li>
 						<li>Farm themed place settings</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Goodie bag: farm plush animal</li>
 						<li>Invitations</li>
 						<li>PigCasso t-shirt for birthday child</li>
@@ -60,10 +60,10 @@ closeHeader();
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>1 hour exotic animal education and hands-on experience(snakes, lizards, & alligators!)</li>
+						<li>1 hour exotic animal education and hands-on experience(snakes, lizards, &amp; alligators!)</li>
 						<li>Art project</li>
 						<li>Themed place settings</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Goodie bag: reptile puppet</li>
 						<li>Invitations</li>
 						<li>PigCasso t-shirt for birthday child</li>
@@ -75,7 +75,7 @@ closeHeader();
 						<li>Play games with a princess(Sleeping Beauty, Belle, Ariel, etc.) of your choice</li>
 						<li>Decorate a tiara or sword</li>
 						<li>Princess and knight themed place settings</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Goodie bag: sequin purse or armor set</li>
 						<li>Invitations</li>
 						<li>PigCasso t-shirt for birthday child</li>
@@ -117,8 +117,8 @@ closeHeader();
 					<span class="normal size12">3-6 years</span>
 				</td>
 				<td class="pad5 bdayBg6">
-					Mini Chef Party<br />
-					<span class="normal size12">2-8 years</span>
+					Cooking Party<br />
+					<span class="normal size12">3-8 years</span>
 				</td>
 				<td class="pad5 bdayBg7">
 					Mad Science Party<br />
@@ -134,11 +134,11 @@ closeHeader();
 			<tr class="" valign="top">
 				<td class="padT5">
 					<ul>
-						<li>Dress up like princesses & pirates</li>
+						<li>Dress up like princesses &amp; pirates</li>
 						<li>Join an exciting treasure hunt</li>
 						<li>Decorate a treasure chest to hold treasure hunt goodies</li>
 						<li>Pirate themed place settings</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Goodie bag: treasures</li>
 						<li>Invitations</li>
 						<li>PigCasso t-shirt for birthday child</li>
@@ -146,8 +146,8 @@ closeHeader();
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>*1 hour cooking/baking lesson with a "Mini Chef" chef</li>
-						<li>Goodie bag: Mini Chef apron</li>
+						<li>*1 hour cooking/baking lesson with our chef</li>
+						<li>Goodie bag: Art Farm apron</li>
 						<li>Petting zoo</li>
 						<li>2 party coordinators</li>
 						<li>Themed place settings</li>
@@ -164,7 +164,7 @@ closeHeader();
 						<li>Farm Time</li>
 						<li>2 party coordinators</li>
 						<li>Themed place settings</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Invitations</li>
 						<li>PigCasso t-shirt for birthday child</li>
 					</ul>
@@ -175,7 +175,7 @@ closeHeader();
 						<li>Wendy stays and makes her amazing creations for party guests</li>
 						<li>Disco time</li>
 						<li>Farm time</li>
-						<li>Pizza or chicken nuggets & juice</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Goodie bag: make your own pipecleaner craft kit</li>
 					</ul>
 				</td>
@@ -227,7 +227,7 @@ closeHeader();
 				<td class="padT5">
 					<ul>
 						<li>Includes music, art, animal time and 2 staff members to run events and to help with set up and clean up</li>
-						<li>You Provide: All food, paper goods, *balloons, party favors & invitations</li>
+						<li>You Provide: All food, paper goods, *balloons, party favors &amp; invitations</li>
 						<br /><span class="size11 gray2">*Art Farm can supply latex balloons for $1/balloon. We can also inflate any balloons you bring for $1/balloon.</span>
 					</ul>
 				</td>
@@ -235,7 +235,7 @@ closeHeader();
 					<ul>
 						<li>Offered Monday - Thursday</li>
 						<li>4:30pm - 6pm (1&#189; hr party)</li>
-						<li>Includes music, animal time, meal & juice</li>
+						<li>Includes music, animal time, meal &amp; juice</li>
 						<li>2 party coordinators</li>
 						<li>Party Favors</li>
 					</ul>
