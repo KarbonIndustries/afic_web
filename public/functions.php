@@ -25,7 +25,7 @@ function openHeader($title)
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<meta name="author" content="Karbon Inc." />
 	<meta name="description" content="We are an cco-friendly and organic facility which teaches your children about nature, animals and how to better care for our planet. We also teach your children about responsibility through caring, loving and being in the company of animals. Our magical, USDA licensed, indoor petting zoo has a wide variety of animals including bunnies, chinchillas, guinea pigs, lizards, turtles, birds, tropical fish and more. You might even spot pigs, chickens, goats and sheep sometime!" />
-	<meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,baking,toy store,after school classes" />
+	<meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
 	<link rel="shortcut icon" href="favicon.ico" />
 	<link rel="stylesheet" href="styles.css?v=' . date(ymdHis) . '" type="text/css" />
 	<script type="text/javascript">
@@ -393,14 +393,14 @@ function drawChoose()
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909231&mode=0" target="_blank">
+					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809056&mode=0" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Holiday Camp</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=8909251&mode=0">
+				<a id="btn1L" class="" href="#" onclick="alert(' . "'Summer Camp registration open Jan 2013'" . ')">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Summer Camp</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>
