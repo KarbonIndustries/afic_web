@@ -26,8 +26,8 @@ openContent($page);
 </span>
 
 <span id="visitingHours" class="subtitle1 gray1">Visiting Hours</span>
-<span class="size12 gray2">Weekdays: 9am - 5pm<br />
-Weekends: 8:00am - 10:00am | 10:00pm - 11:00am</span><br /><br />
+<span class="size12 gray2">Weekdays: 11:30am - 4:30pm (Appointment required)<br />
+Weekends: 10am - 11am</span><br /><br />
 
 <span class="subtitle1 bold green1">Animal choices per year:</span>
 <span id="list1">

@@ -20,7 +20,7 @@ openContent($page);
 <div class="clearB">
 
 
-<span class="title2 blue clearB marginT20">Holiday Camp 2012</span>
+<span class="title2 blue clearB marginT20">Holiday Camp 2012 <span class="size14" style="font-weight:normal">(December 17 - 21, 27 & 28)</span></span>
 <span class="rust size16 italic">Spend your winter break with us!<br /><br/></span>
 
 <div class="clearB">
