@@ -312,9 +312,10 @@ a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #DB4A28 !
 
 .partyChart td{width: 25%;}
 .partyChart tbody ul{display: block;list-style: disc;list-style-type: disc;list-style-position: outside;margin: 0px 0px 10px 0px;padding-left: 20px;}
-//.partyChart tbody ul{display: block;list-style: disc;list-style-type: disc;list-style-position: outside;}
+/*.partyChart tbody ul{display: block;list-style: disc;list-style-type: disc;list-style-position: outside;}*/
 #winterPlayChart td{width: 20%;}
-#list1 ul{display: block;list-style: disc;list-style-type: disc;list-style-position: outside;}//padding-left: 15px;}
+#list1 ul{display: block;list-style: disc;list-style-type: disc;list-style-position: outside;}/*//padding-left: 15px;}*/
+#list1 ul li{margin-bottom:12px;}
 
 #slideshow1{float: left;}
 #slideshow3{display: block;margin-bottom: 15px;}

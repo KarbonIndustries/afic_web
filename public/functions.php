@@ -227,7 +227,7 @@ function drawHomePanel()
 			<span class="block">The Art Farm in The City</span>
 			<span class="size12">419 E. 91st Street<br />
 			New York, NY 10128<br />
-			(between York & 1st Ave.)<br />
+			(between York &amp; 1st Ave.)<br />
 			Phone: 212.410.3117<br />
 			Fax: 212.410.3525<br /></span>
 			<a class="white size12" href="mailto:frontdesk@theartfarms.org">frontdesk@theartfarms.org</a>
@@ -285,7 +285,7 @@ function drawPanel($page)
 			<span class="block">The Art Farm in The City</span>
 			<span class="size12">419 E. 91st Street<br />
 			New York, NY 10128<br />
-			(between York & 1st Ave.)<br />
+			(between York &amp; 1st Ave.)<br />
 			Phone: 212.410.3117<br />
 			Fax: 212.410.3525<br /></span>
 			<a class="white size12" href="mailto:frontdesk@theartfarms.org">frontdesk@theartfarms.org</a>
