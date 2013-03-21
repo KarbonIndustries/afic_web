@@ -28,15 +28,14 @@ function popup($row,$partyName)
 	<tr>
 		<td class="bdayBg4"><?php echo popup(1,"Princess &amp; Knights Party")?></td>
 		<td class="bdayBg5"><?php echo popup(2,"Treasure Hunt Party")?></td>
-		<td class="bdayBg6"><?php echo popup(2,"Cooking Party")?></td>
+		<td class="bdayBg6"><?php echo popup(2,"Farm Foodies Party")?></td>
 	</tr>
 	<tr>
 		<td class="bdayBg7"><?php echo popup(2,"Mad Science Party")?></td>
-		<td class="bdayBg8"><?php echo popup(2,"Wendy The Pipe Cleaner Party")?></td>
 		<td class="bdayBg9"><?php echo popup(3,"Do It Yourself Party")?></td>
+		<td class="bdayBg10"><?php echo popup(3,"Weekday Party")?></td>
 	</tr>
 	<tr>
-		<td class="bdayBg10"><?php echo popup(3,"Weekday Party")?></td>
 		<td class="bdayBg11"><?php echo popup(3,"The Art Farm on The Moove! Party")?></td>
 	</tr>
 </table>
@@ -54,15 +53,15 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
 	<tbody class="gray1">
 		<tr>
 			<td class="pad5 size13">Farm Animals</td>
-			<td class="pad5 size13 alignR">$395</td>
+			<td class="pad5 size13 alignR">$450</td>
 		</tr>
 		<tr>
 			<td class="pad5 size13">Exotic Animals</td>
-			<td class="pad5 size13 alignR">$395</td>
+			<td class="pad5 size13 alignR">$450</td>
 		</tr>
 		<tr>
 			<td class="pad5 size13">Princess</td>
-			<td class="pad5 size13 alignR">$225</td>
+			<td class="pad5 size13 alignR">$250</td>
 		</tr>
 		<tr>
 			<td class="pad5 size13">Art Farm Guitarist</td>
@@ -93,7 +92,7 @@ We schedule party timeslots for 2 hours.  That includes the entry and the exit o
 No, during your party the Art Farm becomes a private space and the entire facility is yours.</p>
 
 <p class="pgraph"><b><font color="0066CC">What are your party time slots?</font></b>
-On the weekends, we offer 11-1, 2-4, and 5-7.  During the week, 4:30-6:30 or 5:00-7:00.</p>
+On the weekends, we offer 11-1, 2-4, and 5-7.  During the week, Monday-Thursday 4:30pm-6:30pm or 5:00pm-7:00pm, Friday 1:30pm-3:30pm or 4:30pm-6:30pm.</p>
 
 
 

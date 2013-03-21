@@ -38,48 +38,59 @@ closeHeader();
 						<li>2 party coordinators</li>
 						<li>Art project</li>
 						<li>Music time</li>
-						<li>Farm Time</li>
-						<li>Goodie bags</li>
+						<li>Farm time</li>
+						<li>Party favors</li>
 						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
+						<li>T-shirt for birthday child</li>
 						<li>Bio-degradable balloons</li>
 						<li>All set up and clean up</li>
 					</ul>
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>1 hour with the farm animals(goats, sheep, chickens, ducks &amp; turkey)</li>
+						<li>2 hour party - 45 min. with farm animals and our petting zoo(goats, sheep, chickens, ducks)</li>
+						<li>2 party coordinators</li>
 						<li>Art project</li>
 						<li>Farm themed place settings</li>
 						<li>Pizza or chicken nuggets &amp; juice</li>
-						<li>Goodie bag: farm plush animal</li>
+						<li>Upgraded farm party favors</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
-					</ul>
+						<li>T-shirt for birthday child</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
+				</ul>
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>1 hour exotic animal education and hands-on experience(snakes, lizards, &amp; alligators!)</li>
+						<li>2 hour - 45 min. of Exotic Animal education and hands-on experience(snakes, lizards, &amp; alligators!)</li>
+						<li>2 party coordinators</li>
 						<li>Art project</li>
+						<li>Farm time</li>
 						<li>Themed place settings</li>
 						<li>Pizza or chicken nuggets &amp; juice</li>
-						<li>Goodie bag: reptile puppet</li>
+						<li>Upgraded reptile favors</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
-					</ul>
+						<li>T-shirt for birthday child</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
+				</ul>
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>Dress up in princess dresses and knight armor</li>
+						<li>2 hour party - Dress up in princess dresses and knight armor</li>
+						<li>2 party coordinators</li>
 						<li>Play games with a princess(Sleeping Beauty, Belle, Ariel, etc.) of your choice</li>
 						<li>Decorate a tiara or sword</li>
+						<li>Farm time</li>
 						<li>Princess and knight themed place settings</li>
 						<li>Pizza or chicken nuggets &amp; juice</li>
-						<li>Goodie bag: sequin purse or armor set</li>
+						<li>Upgraded princess &amp; knight party favors</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
-					</ul>
+						<li>T-shirt for birthday child</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
+				</ul>
 				</td>
 			</tr>
 		</tbody>
@@ -91,17 +102,17 @@ closeHeader();
 					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
-					$1,275 for 10 guests<br />
+					$1,345 for 10 guests<br />
 					Each additional child: $34<br />
 					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
-					$1,325 for 10 guests<br />
+					$1,345 for 10 guests<br />
 					Each additional child: $40<br />
 					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
-					$1,115 for 10 guests<br />
+					$1,200 for 10 guests<br />
 					Each additional child: $35<br />
 					Every +6 children: $40 staff charge
 				</td>
@@ -117,16 +128,12 @@ closeHeader();
 					<span class="normal size12">3-6 years</span>
 				</td>
 				<td class="pad5 bdayBg6">
-					Cooking Party<br />
+					Farm Foodies Party<br />
 					<span class="normal size12">3-8 years</span>
 				</td>
 				<td class="pad5 bdayBg7">
 					Mad Science Party<br />
 					<span class="normal size12">4-8 years</span>
-				</td>
-				<td class="pad5 bdayBg8">
-					Wendy The Pipe Cleaner Party<br />
-					<span class="normal size12">2-8 years</span>
 				</td>
 			</tr>
 		</thead>
@@ -134,49 +141,47 @@ closeHeader();
 			<tr class="" valign="top">
 				<td class="padT5">
 					<ul>
-						<li>Dress up like princesses &amp; pirates</li>
+						<li>2 hour party - Dress up like princesses &amp; pirates</li>
+						<li>2 party coordinators</li>
 						<li>Join an exciting treasure hunt</li>
 						<li>Decorate a treasure chest to hold treasure hunt goodies</li>
+						<li>Farm time</li>
 						<li>Pirate themed place settings</li>
 						<li>Pizza or chicken nuggets &amp; juice</li>
-						<li>Goodie bag: treasures</li>
+						<li>Upgraded pirate party favors</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
+						<li>T-shirt for birthday child</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
 					</ul>
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>*1 hour cooking/baking lesson with our chef</li>
-						<li>Goodie bag: Art Farm apron</li>
-						<li>Petting zoo</li>
+						<li>2 hour party - *1 hour cooking/baking lesson with our chef</li>
 						<li>2 party coordinators</li>
+						<li>Upgraded cooking party favors</li>
+						<li>Farm time</li>
 						<li>Themed place settings</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
-						<li>Pizza or chicken nuggets available for an additional $5/child</li>
-						<br /><span class="size11 gray2">*Cooking lessons are: cupcakes, pizza, pretzels, empanadas or dim sum.</span>
+						<li>T-shirt for birthday child</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
+						<br /><span class="size11 gray2">*Cooking lessons are: cupcakes, pizza, pretzels and more</span>
 					</ul>
 				</td>
 				<td class="padT5">
 					<ul>
-						<li>1 hour science experiment</li>
+						<li>2 hour party - 45 min. of interactive show &amp; science experiment</li>
+						<li>2 party coordinators &amp; a scientist</li>
 						<li>Mad science goodie bag</li>
 						<li>Farm Time</li>
-						<li>2 party coordinators</li>
 						<li>Themed place settings</li>
 						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Invitations</li>
-						<li>PigCasso t-shirt for birthday child</li>
-					</ul>
-				</td>
-				<td class="padT5">
-					<ul>
-						<li>Art lesson with Wendy "The Pipecleaner Lady"</li>
-						<li>Wendy stays and makes her amazing creations for party guests</li>
-						<li>Disco time</li>
-						<li>Farm time</li>
-						<li>Pizza or chicken nuggets &amp; juice</li>
-						<li>Goodie bag: make your own pipecleaner craft kit</li>
+						<li>T-shirt for birthday child</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
 					</ul>
 				</td>
 			</tr>
@@ -184,22 +189,19 @@ closeHeader();
 		<tfoot>
 			<tr class="size11 gray2">
 				<td class="padR5">
-					$1,049 for 10 guests<br />
-					Each additional child: $32<br />
+					$1,100 for 10 guests<br />
+					Each additional child: $35<br />
 					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
-					$1,325 for 15 guests<br />
-					Each additional child: $30<br />
+					$1,100 for 10 guests<br />
+					Each additional child: $35<br />
+					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
 					$1,200 for 10 guests<br />
-					Each additional child: $32<br />
+					Each additional child: $30<br />
 					Every +6 children: $40 staff charge
-				</td>
-				<td class="padR5">
-					$1,175 for 10 guests<br />
-					Each additional child: $28
 				</td>
 			</tr>
 		</tfoot>
@@ -228,16 +230,21 @@ closeHeader();
 					<ul>
 						<li>Includes music, art, animal time and 2 staff members to run events and to help with set up and clean up</li>
 						<li>You Provide: All food, paper goods, *balloons, party favors &amp; invitations</li>
-						<br /><span class="size11 gray2">*Art Farm can supply latex balloons for $1/balloon. We can also inflate any balloons you bring for $1/balloon.</span>
+						<br /><span class="size11 gray2">*Art Farm can supply and inflate latex balloons for $2/balloon. We can also inflate any balloons you bring for $1 per latex &amp; $5 per mylar balloon.</span>
 					</ul>
 				</td>
 				<td class="padT5">
 					<ul>
 						<li>Offered Monday - Thursday</li>
-						<li>4:30pm - 6pm (1&#189; hr party)</li>
-						<li>Includes music, animal time, meal &amp; juice</li>
 						<li>2 party coordinators</li>
+						<li>4:30pm - 6pm (1&#189; hr party)</li>
+						<li>Music time</li>
+						<li>Farm Time</li>
+						<li>Pizza or chicken nuggets &amp; juice</li>
 						<li>Party Favors</li>
+						<li>T-shirt for birthday child</li>
+						<li>Bio-degradable balloons</li>
+						<li>All set up and clean up</li>
 					</ul>
 				</td>
 				<td class="padT5">
@@ -261,7 +268,7 @@ closeHeader();
 					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
-					$645 for 10 guests<br />
+					$675 for 10 guests<br />
 					Each additional child: $20<br />
 					Every +6 children: $40 staff charge
 				</td>

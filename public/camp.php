@@ -11,28 +11,106 @@ drawActivitiesMenu("camp");
 openContent($page);
 ?>
 <!--begin content-->
+<style type="text/css">
+<!--
+.style4 {color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; }
+.style5 {
+	color: #666666;
+	font-weight: bold;
+}
+.style6 {color: #666666}
+-->
+</style>
+
 
 <div id="slideshow3">
-
-</div>
-
-
-<div class="clearB">
-	<span class="title2 blue2">June Camp <?= date('Y')?></span>
-	<span class="subtitle1 gray1">May 28 - June 21<br />
-	9:30am - 12:30pm | 3-5 years<br />
-	<span class="size12 gray2">Mon - Fri: $355 | Mon, Wed, Fri: $230 | Tues, Thurs: $155<br />
-	Tuition is calculated by the number of weeks your child is enrolled</span></span>
-	<p class="pgraph">Our June camp is a pre-summer camp experience. It is a time for your children to play outside, learn about our animals, create art and enjoy cooking. All activites will revolve around weekly themes such as beach, nature, artists and more. It is the perfect transition between school and summer camp.</p>
-
-	<p class='pgraph'>Our Summer camp June 24th  through Aug 16th  is a longer day which includes more sports and activies. Registration for that camp is below.</p>
-
-	<p class='pgraph'>June camp registration will begin in February.</p>
-	<!-- <div id="" class="floatR clearB">
+  <div class="clearB">
+    <p class='pgraph'>&nbsp;</p>
+    <!-- <div id="" class="floatR clearB">
 			<a id="btn1R" class="" href="register.php?d=juneCamp">
 			<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 			</a>
 		</div> -->
+  </div>
+</div>
+
+
+<!-- ===================== -->
+<!-- = SPRING BREAK CAMP = -->
+<!-- ===================== -->
+<div class="clearB">
+	<p>
+		<span class="title2 blue2">Spring Break Camp <?= date('Y')?><br />Spring is in the air&hellip; on the farm!</span><br />
+		<span class="subtitle1 gray1">
+			<strong>Week 1: March 18 - 22</strong><br />
+			<span class='size12 gray2'>
+				12:30pm-3:30pm (Only afternoon camp offered due to previously scheduled year-round programs)<br />
+				Ages 3-8: $70/day<br />
+			</span>
+			<span class="size12 gray2">(Children will be split up into age appropriate groups)<br />
+				Extended Day 3:30pm-5pm: $25/day
+			</span>
+		</span>
+	</p>
+
+	<p class="pgraph">Join us for some fun filled afternoons during week 1 of our Spring Break Camp. All children will have up close and personal experiences with our animals in our petting zoo and be a part of live animal science classes. They will cook in our kitchen and create art masterpieces as well. Since spring will be in the air, they will go outside to the park at Asphalt Green, weather permitting every day. Before the day is over, they will sing along with the guitar in music and rest with a snack before pick up.</p>
+
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809134&mode=0">
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		</a>
+	</div>
+
+	<p>
+		<div class='clearB'>
+			<span class='subtitle1 gray1'><strong>Week 2: March 25 - 29</strong><br />
+				<span class="size12 gray2">
+					<strong>Half Day Hamsters Group Ages 3-4 years</strong><br />
+					9am - 12:00pm: $70/day<br />
+					Early Drop Off 8:30am - 9:00am: $15/day<br /><br />
+					<strong>
+						Full Day Chinchilla Group Ages 4-5 years<br />
+						Full Day Salamander Group Ages 5-8 years<br />
+					</strong>
+					9am - 3pm | 1-2 days: $125, 3-4 days: $115, Whole Week: $550<br />
+					Early Drop Off 8:30am - 9:00am: $15/day<br />
+					Extended Day 3:30pm - 5pm: $30/day
+				</span>
+			</span>
+		</div>
+	</p>
+
+	<p class="pgraph">Spring is in the air on the farm and we want you to join us. Ladybugs, baby chicks, caterpillars to butterflies and more! All children will have up close and personal experiences with our animals in the petting zoo and be a part of live animal science classes. They will cook in our kitchen, create art masterpieces, and sing along with the guitar in music. Since spring will be upon us, all children will go outside every day to the park at Asphalt Green and our full day campers will play outdoor games in Carl Shurz Park (weather permitting). We will provide a snack for half day campers before pick up. Full day campers please bring a lunch and we will provide a snack before they leave.</p>
+
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809133&mode=0">
+		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		</a>
+	</div>
+</div>
+
+
+<!-- ============= -->
+<!-- = JUNE CAMP = -->
+<!-- ============= -->
+<div class="clearB">
+  <p class="title2 blue2"><span class="title2 blue2">June Camp 
+	<?= date('Y')?>
+	</span>
+	<span class="subtitle1 gray1">May 28 - June 21<br />
+	9:30am - 12:30pm | 3-5 years<br />
+	<span class="size12 gray2">Mon - Fri: $380 | Mon, Wed, Fri: $230 | Tues, Thurs: $180<br />
+	Tuition is calculated by the number of weeks your child is enrolled</span></span>  </p>
+<p class="pgraph">Our June camp is a pre-summer camp experience. It is a time for your children to play outside, learn about our animals, create art and enjoy cooking. All activites will revolve around weekly themes such as beach, nature, artists and more. It is the perfect transition between school and summer camp.</p>
+
+	<p class='pgraph'>Our Summer camp June 24th  through Aug 16th  is a longer day which includes more sports and activies. Registration for that camp is below.</p>
+
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809139&mode=0">
+			<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span>
+			</div>
+		</a>
+	</div>
 </div>
 
 <!-- <a name="juneChart"/>
@@ -121,52 +199,47 @@ openContent($page);
 	<span id="halfDay" class="title2 blue2 clearB">Half Day Hamsters Group</span>
 	<span class="subtitle1 gray1">9am - 12:30pm | 3-4 years<br />
 	<span class="size12 gray2">Mon - Fri: $505 | Mon, Wed, Fri: $380 | Tues, Thurs: $255<br />
-	Early Drop Off 9am - 9:30am: $15/day</span></span><br />
+	Early Drop Off 8:30am - 9:00am: $15/day</span></span><br />
 
 	<p class="pgraph">We offer  a half day camp with a warm nurturing program so that separation is easy. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, sing their favorite songs and play soccer with Super Soccer Stars. The children go outside every day. Twice a week they participate in soccer at Carl Schurz Park and when they are not playing soccer they  go to the outdoor playground at Asphalt Green. Every week the children get to participate in a weekly theme event which takes place on Tuesdays and Wednesdays so all children get to enjoy the fun.  Please pack a lunch for your child and if your child is not fully potty trained please send him or her in pull-ups. <a class="rust" href="#summerChart">view schedule</a></p>
 
-	<h3 class='floatR rust'>Registration begins Jan 7</h3>
-	<!-- <div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=summerCamp">
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809072&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
-	</div> -->
+	</div>
 </div>
 
 <div class="clearB">
 	<span id="fullDay" class="title2 blue2">Full Day Froggies Group</span>
 	<span class="subtitle1 gray1">9am - 3pm | 4-5 years<br />
 	<span class="size12 gray2">Mon - Fri: $630 | Mon, Wed, Fri: $505 | Tues, Thurs: $380<br />
-	Early Drop Off 9am - 9:30am: $15/day<br />
-	Extended Day 3:30pm - 5pm $30/day</span></span><br />
+	Early Drop Off 8:30am - 9:00am: $15/day<br />
+  Extended Day 3:30pm - 5pm $30/day</span></span><br />
 	
 	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately. On Wednesdays the children have field day in Carl Schurz Park. Every week we focus on a different theme. The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
 
-	<h3 class='floatR rust'>Registration begins Jan 7</h3>
-
-	<!-- <div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=summerCamp">
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809072&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
-	</div> -->
+	</div>
 </div>
 
 <div class="clearB">
 	<span class="title2 blue2">Full Day Geckos Group</span>
 	<span class="subtitle1 gray1">9am - 3pm | 5-7 years<br />
 	<span class="size12 gray2">Mon - Fri: $630 | Mon, Wed, Fri: $505 | Tues, Thurs: $380<br />
-	Early Drop Off 9am - 9:30am: $15/day<br />
-	Extended Day 3:30pm - 5pm $30/day</span></span><br />
+	Early Drop Off 8:30am - 9:00am: $15/day<br />
+  Extended Day 3:30pm - 5pm $30/day</span></span><br />
 
 	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. As the campers grow older we like to encourage independence through picking out what activities they want to participate in. Therefore, we give our Geckos group a chance to create their own schedule. The Geckos participate in electives twice a week where they get to customize their day. They can choose from jewelry making, digital photography, computer, wood working, dance, drama, animal science, sports and karaoke. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately.  On Wednesdays the children have field day in Carl Schurz Park where they play relay races and outdoor games. Every week we focus on a different theme.  The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
 
-	<h3 class='floatR rust'>Registration begins Jan 7</h3>
-
-	<!-- <div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=summerCamp">
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809072&mode=0">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
-	</div> -->
+	</div>
 </div>
 
 <a name="summerChart"/>
