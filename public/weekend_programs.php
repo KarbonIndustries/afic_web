@@ -17,6 +17,7 @@ openContent($page);
 <!-- ======================== -->
 
 <span class="title2 blue2">Mornings on The Farm<br /></span>
+<span class="red" style="font-size:12px;">We will be closed on Memorial Day and 4th of July weekends.</span>
 <span class="subtitle1 gray1">1+ years<br />
 Saturday/Sunday 8am-10am</span>
 <span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>
@@ -29,7 +30,7 @@ Saturday/Sunday 8am-10am</span>
 <!-- ================ -->
 
 <span class="title2 blue2">Farm Foodies Cooking Class</span>
-
+<span class="red" style="font-size:12px;">Class will not be offered on Memorial Day weekend.</span>
 <span class="subtitle1 gray1">After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 	<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
 	<span class="size12 gray2">Drop In: $40 | Winter: $456 | Spring: $456 | Summer: $304 | Fall: $570</span><br />

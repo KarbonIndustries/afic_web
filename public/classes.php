@@ -65,6 +65,7 @@ openContent($page);
 	<a name="minichef" id="minichef"></a><span id="mc" class="title2 blue2">Farm Foodies Cooking Class</span>
 	<img class="padR10 padT10 padB10" src="photos/mc.jpg" />
 	<br />
+	<span class="red" style="font-size:12px;">Class will not be offered on Memorial Day weekend.</span>
 	<span class="subtitle1 gray1">After-school program<br />
 		Monday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
 		Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
