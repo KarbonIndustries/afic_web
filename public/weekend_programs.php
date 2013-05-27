@@ -38,7 +38,7 @@ Saturday/Sunday 8am-10am</span>
 <p class="pgraph">Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>
 
 <div id="" class="floatR clearB">
-	<a id="btn1R" class="" href="register.php?d=class">
+	<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=3709104&mode=0">
 	<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
 	</a>
 </div>

@@ -1,6 +1,6 @@
 <?php
 require 'functions.php';
-$page = "Mini Chef Cooking Schedule";
+$page = "Farm Foodies Cooking Schedule";
 openHeader($page);
 closeHeader();
 ?>
@@ -8,23 +8,20 @@ closeHeader();
 <body>
 
 <div class="pad10">
-<span class="block size14 bold blue2 marginB5">Sep 6th &amp; 8th - Plum Pizza Tart</span>
-<span class="block size14 bold blue2 marginB5">Sep 10th, 13th &amp; 15th - Radish/Cucumber Tzatziki &amp; Pita</span>
-<span class="block size14 bold blue2 marginB5">Sep 17th - Rosh Hashanah: No Class</span>
-<span class="block size14 bold blue2 marginB5">Sep 20th &amp; 22nd - Grape Foccacia</span>
-<span class="block size14 bold blue2 marginB5">Sep 24th, 27th &amp; 29th - Wild Mushroom Turnover</span>
-<span class="block size14 bold blue2 marginB5">Oct 1st, 4th &amp; 6th - Apple Cinnamon Pull Apart Bread</span>
-<span class="block size14 bold blue2 marginB5">Oct 8th, 11th &amp; 13th - Gluten Free Quinoa</span>
-<span class="block size14 bold blue2 marginB5">Oct 15th, 18th &amp; 20th - Carrot Ginger Madeleines</span>
-<span class="block size14 bold blue2 marginB5">Oct 22nd, 25th &amp; 27th - Sweet Potato Roll</span>
-<span class="block size14 bold blue2 marginB5">Oct 29th - Halloween Cookie Decoration</span>
-<span class="block size14 bold blue2 marginB5">Nov 1st &amp; 3rd - Cranberry Spelt Bread</span>
-<span class="block size14 bold blue2 marginB5">Nov 5th, 8th &amp; 10th - Mini Apple Pie</span>
-<span class="block size14 bold blue2 marginB5">Nov 12th, 15th &amp; 17th - Butternut Biscuits</span>
-<span class="block size14 bold blue2 marginB5">Nov 19th - Mini Pumpkin Pie</span>
-<span class="block size14 bold blue2 marginB5">Nov 26th, 29th &amp; Dec 1st - Bonbon Sirop (Haitian spice cake)</span>
-<span class="block size14 bold blue2 marginB5">Dec 3rd, 6th &amp; 8th - Speculoos (Belgian spice cookies)</span>
-<span class="block size14 bold blue2 marginB5">Dec 10th, 13th &amp; 15th - Holiday Cookie Decoration</span>
+<span class="block size14 bold blue2 marginB5">Apr 1st, 4th &amp; 6th - Zucchini Cheese Naan</span>
+<span class="block size14 bold blue2 marginB5">Apr 8th, 11th &amp; 13th - Strawberry Balsamic Foccacia</span>
+<span class="block size14 bold blue2 marginB5">Apr 15th, 18th &amp; 20th - Pesto Pizza Brioche</span>
+<span class="block size14 bold blue2 marginB5">Apr 22nd, 25th &amp; 27th - Blackberry Cornmeal Cake</span>
+<span class="block size14 bold blue2 marginB5">Apr 29th, May 2nd &amp; 4th - Freash Pea Baked Ravioli</span>
+<span class="block size14 bold blue2 marginB5">May 6th &amp; 9th - Spring Color Breadsticks (made with natural veggie juice)</span>
+<span class="block size14 bold blue2 marginB5">May 11th - Raspberry Chocolate Mini Tarts</span>
+<span class="block size14 bold blue2 marginB5">May 13th, 16th &amp; 18th - Thyme Pita Crisps with Fresh Radish Dip</span>
+<span class="block size14 bold blue2 marginB5">May 20th, 23rd &amp; 25th - Rhubarb Raspberry Tartlets</span>
+<span class="block size14 bold blue2 marginB5">May 27th, 30th &amp; Jun 1st - Guacamole Bread</span>
+<span class="block size14 bold blue2 marginB5">Jun 3rd, 6th &amp; 8th - Strawberry Short Cake Cookies</span>
+<span class="block size14 bold blue2 marginB5">Jun 10th - Cheesy Popcorn Bread</span>
+<span class="block size14 bold blue2 marginB5">Jun 13th &amp; 15th - Cherry Tomato Fougasse</span>
+<span class="block size14 bold blue2 marginB5">Jun 17th, 20th &amp; 22nd - Mini Cherry Pie</span>
 
 </body>
 </html>

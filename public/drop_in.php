@@ -12,8 +12,10 @@ openContent($page);
 
 <img class="pageImg" src="photos/drop_in.jpg" />
 <span id="wpt" class="block bold size18 blue2">Play Time Package</span>
+<!--
 <span class="red" style="font-size:12px;">We will not be offering <strong>Drop Off</strong> during the week of March 25 - 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span><br />
 <span class="red" style="font-size:12px;">We will be offering our regular drop in with adult during this week.</span>
+-->
 <span class="subtitle1 gray1">6 months+<br />
 Monday - Thursday | 12:30pm - 3:30pm</span>
 <p class="pgraph">Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts & crafts and creative play in our playroom. You can pay by the day or buy a weekly or monthly package. Drop off available for 2&#189;+ years.</p>
@@ -109,7 +111,9 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="oh" class="block bold size18 blue2">Open House</span>
+<!--
 	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
+-->
 	<span class="subtitle1 gray1">All ages <span class="size12">(Drop Off optional for 2+ years)</span><br />
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
@@ -132,6 +136,7 @@ Monday - Thursday | 12:30pm - 3:30pm</span>
 
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on The Farm</span>
+	<span class="red" style="font-size:12px;">We will be closed on Memorial Day and 4th of July weekends.</span>
 	<span class="subtitle1 gray1">1+ years<br />
 	Saturday/Sunday 8am - 10am</span>
 	<span class="size12 gray2">1 visit: $15 | Adults: $5 | Members: $5</span>
