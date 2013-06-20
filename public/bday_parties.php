@@ -46,7 +46,7 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
 <table class="marginB20" cellpadding="0" cellspacing="1">
 	<thead>
 		<tr class="yellowBg1 bold rust">
-			<td class="pad5">Birthday Party Add-Ons<br /><span class="size11 normal">Face Painters, Balloon Animals & Magician prices vary</span></td>
+			<td class="pad5">Birthday Party Add-Ons<br /><span class="size11 normal">Face Painters, Balloon Animals &amp; Magician prices vary</span></td>
 			<td class="pad5 alignR">Price</td>
 		</tr>
 	</thead>
@@ -70,29 +70,37 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
 	</tbody>
 </table>
 
+<a style='display:block;background:#007AFF;padding:10px;color:white;border:1px solid #006BE0;margin:0 auto 25px;width:190px;text-align:center;' href='https://theartfarms.a.pcsparty.com/' target='_blank'>Book Your Party Now!</a>
+
 <span class="title2 rust">Birthday Party Frequently Asked Questions</span>
 
-<p class="pgraph"><b><font color="0066CC">What is the sequence of a party?</font></b>
-Music, Art, Animal Time, Food.  We do it in that order so that while the kids are downstairs we can clean up art  and set up for food. </p>
+<p class="pgraph"><b><font color="0066CC">What is the sequence of a party?</font></b><br />
+	Music, Art, Animal Time, Food.  We do it in that order so that while the kids are downstairs we can clean up art  and set up for food.
+</p>
 
-<p class="pgraph"><b><font color="0066CC">What is included in an Art Farm Party?</font></b>
-Everything is included for the children.  Food, drinks, party favors and entertainment.</p>
+<p class="pgraph"><b><font color="0066CC">What is included in an Art Farm Party?</font></b><br />
+	Everything is included for the children.  Food, drinks, party favors and entertainment.
+</p>
 
-<p class="pgraph"><b><font color="0066CC">How do I schedule a party?</font></b>
-To reserve your child's celebration, please contact call 212-410-3260 to book your party or email our Party Coordinator at christina@theartfarms.org .</p>
+<p class="pgraph"><b><font color="0066CC">How do I schedule a party?</font></b><br />
+	To reserve your child's celebration, please contact call 212-410-3260 to book your party or email our Party Coordinator at christina@theartfarms.org .
+</p>
 
+<p class="pgraph"><b><font color="0066CC">What is the maximum amount of guests?</font></b><br />
+	We can accommodate 25-30 children.
+</p>
 
-<p class="pgraph"><b><font color="0066CC">What is the maximum amount of guests?</font></b>
-We can accommodate 25-30 children.</p>
+<p class="pgraph"><b><font color="0066CC">How long is the party?</font></b><br />
+	We schedule party timeslots for 2 hours.  That includes the entry and the exit of guests.  After a 15 minute grace period a $60 service fee will be charged for each additional 15 minutes at the end of the party.
+</p>
 
-<p class="pgraph"><b><font color="0066CC">How long is the party?</font></b>
-We schedule party timeslots for 2 hours.  That includes the entry and the exit of guests.  After a 15 minute grace period a $60 service fee will be charged for each additional 15 minutes at the end of the party.</p>
+<p class="pgraph"><b><font color="0066CC">Will other people be allowed to be in the Art Farm during my party?</font></b><br />
+	No, during your party the Art Farm becomes a private space and the entire facility is yours.
+</p>
 
-<p class="pgraph"><b><font color="0066CC">Will other people be allowed to be in the Art Farm during my party?</font></b>
-No, during your party the Art Farm becomes a private space and the entire facility is yours.</p>
-
-<p class="pgraph"><b><font color="0066CC">What are your party time slots?</font></b>
-On the weekends, we offer 11-1, 2-4, and 5-7.  During the week, Monday-Thursday 4:30pm-6:30pm or 5:00pm-7:00pm, Friday 1:30pm-3:30pm or 4:30pm-6:30pm.</p>
+<p class="pgraph"><b><font color="0066CC">What are your party time slots?</font></b><br />
+	Starting September 2013 our year-round weekend timeslots will be Saturday and Sunday 10:30am - 12:30pm, 1:30pm - 3:30pm or 4:30pm - 6:30pm
+</p>
 
 
 

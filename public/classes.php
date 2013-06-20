@@ -61,11 +61,30 @@ openContent($page);
 -->
 </div>
 
+
+
+<div class="clearB">
+	<span id="kcc" class="title2 blue2">Italian on The Farm</span>
+	<img class="padR10 padT10 padB10" src="photos/iotf.jpg" />
+	<span class="subtitle1 gray1">Italian Language Class<br />3-6 years<br />
+		<span class="subtitle1 gray1">Wednesday: 3:30pm - 4:30pm<br /></span>
+		<span class="size12 gray2">Fall (Sept. 18 - Nov. 20): $300</span>
+	</span>
+	<p class="pgraph">Take a trip to Italy every week and join us for an engaging, fun and playful Italian language class. Children will learn basic concepts such as counting, shapes, colors and animals in Italian through play, movement, art and live animals. The Italian American Committee of Education has teamed up with The Art Farm to present this one of a kind class. Laura, an experienced children's Italian teacher, will be teaching the class along with The Art Farm teachers who will introduce you to their live animals every week. Children will be introduced to the beautiful Italian Language and enjoy the animals on the farm.</p>
+
+	<div id="" class="floatR clearB">
+		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&amp;RF=3709104&amp;mode=0" target="_blank">
+			<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register Now!</div><div class="btn1RL"><span class="invisible">.</span></div>
+		</a>
+	</div>
+</div>
+
+
+
 <div class="clearB">
 	<a name="minichef" id="minichef"></a><span id="mc" class="title2 blue2">Farm Foodies Cooking Class</span>
-	<img class="padR10 padT10 padB10" src="photos/mc.jpg" />
+	<img class="padR10 padT10 padB10" src="photos/mc3.jpg" />
 	<br />
-	<span class="red" style="font-size:12px;">Class will not be offered on Memorial Day weekend.</span>
 	<span class="subtitle1 gray1">After-school program<br />
 		Monday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
 		Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
