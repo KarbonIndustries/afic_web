@@ -26,16 +26,17 @@ drawActivitiesMenu();
 		<div id="featured">
 			<img src="photos/featured/featured_motf_120728.jpg" />
 			<span class="size14 bold blue2 block padB5">Mornings on The Farm</span>
-			<span class="smallCopy">Where else in New York City can you begin your day on the farm? With a basket full of hay and goodies&hellip;</span>
-			<br />
-			<a class="blue2 bold size11" href="weekend_programs.php">Learn more</a>
+			<span class="smallCopy">Where else in New York City can you begin your day on the farm? With a basket full of hay and goodies&hellip;<br />
+				<a class="blue2 bold size11" href="weekend_programs.php">Learn more</a>
+			</span>
 		</div>
 		<div id="featured">
-			<img src="photos/featured/featured_farm_foodies_121011.jpg" />
-			<span class="size14 bold green1 block padB5">Farm Foodies Cooking Class</span>
-			<span class="smallCopy">Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well.</span>
-			<br />
-			<a class="green1 bold size11" href="classes.php">Learn more</a>
+			<img src="photos/featured/featured_camp_classes_150416.jpg" />
+			<span class="size14 bold green1 block padB5">Join Us This Summer for Camps and Classes</span>
+			<span class="smallCopy">Join us for our one-of-a-kind classes and camps with animals, music, art, and more! Enjoy your city summer on our country farm!<br />
+				<a class="green1 bold size11" href="camp.php">Learn about Camps</a><br />
+				<a class="green1 bold size11" href="classes.php">Learn about Classes</a>
+			</span>
 		</div>
 	</div>
 </div>

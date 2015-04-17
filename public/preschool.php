@@ -35,21 +35,21 @@ Art and movement are daily activities which enable children to express themselve
 <span class="size13 bold rust block">Choice Time <span class="gray2 normal">9:30am</span></span>
 <p class="pgraph">Children can choose from an assortment of toys which are rotated through out the year, as well as manipulative toys, blocks, sensory table, easel time, and much more</p>
 
-<span class="size13 bold rust block">Circle Time & Daily Lesson <span class="gray2 normal">9:45am</span></span>
+<span class="size13 bold rust block">Circle Time &amp; Daily Lesson <span class="gray2 normal">9:45am</span></span>
 <p class="pgraph">Greeting, song, calendar and focus on monthly theme</p>
 
-<span class="size13 bold rust block">Art & Science <span class="gray2 normal">10:00am</span></span>
+<span class="size13 bold rust block">Art &amp; Science <span class="gray2 normal">10:00am</span></span>
 <p class="pgraph">Art, a time for the children to express themselves and show their individual styles and talents, also a time for sensory and scientific exploration</p>
 
 <span class="size13 bold rust block">Snack Time <span class="gray2 normal">10:30am</span></span>
 <p class="pgraph">Fresh fruit and organic snacks</p>
 
-<span class="size13 bold rust block">Animals & Time on the Farm <span class="gray2 normal">10:45am</span></span>
+<span class="size13 bold rust block">Animals &amp; Time on the Farm <span class="gray2 normal">10:45am</span></span>
 <p class="pgraph">Hands on time with our animals, participation in farm chores and learning with our animal educators</p>
 
 <img src="images/bb_icon.png" />
 <span class="size13 bold rust block">Music, Movement, Cooking and Learning Centers <span class="gray2 normal">11:15am</span></span>
-<p class="pgraph">One day a week, it's music time. Song & dance with The Art Farm guitarist or singing and learning Spanish with Bilingual Birdies, a bilingual music program. The other day of the week, it's time to cook with organic ingredients with recipes that revolve around our monthly theme or move in groove in movement, or play in our learning centers.</p>
+<p class="pgraph">One day a week, it's music time. Song &amp; dance with The Art Farm guitarist or singing and learning Spanish with Bilingual Birdies, a bilingual music program. The other day of the week, it's time to cook with organic ingredients with recipes that revolve around our monthly theme or move in groove in movement, or play in our learning centers.</p>
 
 <span class="size13 bold rust block marginB20">Goodbye Songs <span class="gray2 normal">11:55am</span></span>
 

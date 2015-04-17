@@ -7,20 +7,23 @@ closeHeader();
 drawMainMenu();
 drawActivitiesMenu();
 openContent($page, "schedule");
+$curYear  = 2014;
+$nextYear = $curYear + 1;
 ?>
 <!--begin content-->
 
 <div class="floatL fullWidth">
-	<a class="rust" href="#summer">Click for summer schedule</a>
+	<!--<a class="rust" href="#summer">Click for summer schedule</a>-->
 	<div class="floatR marginB15">
 	<script type="text/javascript">
 		drawIcon("data/af_class_schedule.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "");
 	</script>
 	</div>
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignC">
-		<span class="blue2 bold marginL10">Fall 2013 Semester </span><span class="gray2">Sept 3rd - Dec 20th</span><br />
-		<span class="blue2 bold marginL10">Winter 2013 Semester </span><span class="gray2">Jan 2nd - Mar 22nd</span><br />
-		<span class="blue2 bold marginL10">Spring 2013 Semester </span><span class="gray2">Apr 1st - Jun 22nd</span>
+		<span class="blue2 bold marginL10">Fall 2015 Semester </span><span class="gray2">Sept 8th - Dec 19th</span><br />
+		<span class="blue2 bold marginL10">Winter 2015 Semester </span><span class="gray2">Jan 5th - Mar 20th</span><br />
+		<span class="blue2 bold marginL10">Spring 2015 Semester </span><span class="gray2">Mar 30th - Jun 19th</span><br />
+		<span class="blue2 bold marginL10"><a href='#summer' class='blue2'>Summer 2015 Semester (click to jump) </a></span><span class="gray2">Jun 29th - Aug 21st</span>
 	</div>
 </div>
 
@@ -35,10 +38,12 @@ openContent($page, "schedule");
 				Rock, Smocks &amp; Animals
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">1 - 4 years<br />
+				<div id="scheduleClassTime">
+					(1 - 4 years)<br />
 					9:30am - 10:30am<br />
 				</div>
-				<div id="scheduleClassTime">14 - 24 months<br />
+				<div id="scheduleClassTime">
+					(2 - 3 years)<br />
 					10:30am - 11:30am<br />
 				</div>
 			</div>
@@ -54,21 +59,41 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classFHS">
+				Fall Homeschool 2014
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">6 - 8 years<br />
+					11:30am - 12:30pm
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classWPT">
 				Play Time
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Drop In<br />6 months - 7 years<br />
+				<div id="scheduleClassTime">Drop In<br />6 months+<br />
 					12:30pm - 3:30pm
 				</div>
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classMC">
-				Farm Foodies
+			<div id="scheduleClassTitle" class="classAKC">
+				Afternoon Kids Club
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2 - 8 years<br />
+				<div id="scheduleClassTime">2&frac12; - 6 years<br />
+					12:30pm - 3:30pm
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classACC">
+				Animal Care Class
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">3 - 4 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
@@ -117,33 +142,23 @@ openContent($page, "schedule");
 				Play Time
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Drop In<br />6 months - 7 years<br />
+				<div id="scheduleClassTime">Drop In<br />6 months+<br />
 					12:30pm - 3:30pm
 				</div>
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classRSA">
-				Rock, Smocks &amp; Animals
+			<div id="scheduleClassTitle" class="classAKC">
+				Afternoon Kids Club
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">14 - 24 months<br />
-					3:30pm - 4:30pm
+				<div id="scheduleClassTime">2&frac12; - 6 years<br />
+					12:30pm - 3:30pm
 				</div>
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAAM">
-				Art, Adventures and More
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 12 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classKCC">
+			<div id="scheduleClassTitle" class="classACC">
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -192,11 +207,31 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classFHS">
+				Fall Homeschool 2014
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">5 - 7 years<br />
+					11:30am - 12:30pm
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classWPT">
 				Play Time
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Drop In<br />6 months - 7 years<br />
+				<div id="scheduleClassTime">Drop In<br />6 months+<br />
+					12:30pm - 3:30pm
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classAKC">
+				Afternoon Kids Club
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">2&frac12; - 6 years<br />
 					12:30pm - 3:30pm
 				</div>
 			</div>
@@ -212,7 +247,7 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classKCC">
+			<div id="scheduleClassTitle" class="classACC">
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -221,6 +256,16 @@ openContent($page, "schedule");
 				</div>
 			</div>
 		</div>
+		<!-- <div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classAOTF">
+				Italian on the Farm
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">3 - 6 years<br />
+					3:30pm - 4:30pm
+				</div>
+			</div>
+		</div> -->
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classBP">
 				Birthday Parties
@@ -265,7 +310,17 @@ openContent($page, "schedule");
 				Play Time
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Drop In<br />6 months - 7 years<br />
+				<div id="scheduleClassTime">Drop In<br />6 months+<br />
+					12:30pm - 3:30pm
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classAKC">
+				Afternoon Kids Club
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">2&frac12; - 6 years<br />
 					12:30pm - 3:30pm
 				</div>
 			</div>
@@ -281,7 +336,7 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classMC">
+			<div id="scheduleClassTitle" class="classFF">
 				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -291,11 +346,11 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classKCC">
+			<div id="scheduleClassTitle" class="classACC">
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 5 years<br />
+				<div id="scheduleClassTime">4 - 6 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
@@ -318,23 +373,12 @@ openContent($page, "schedule");
 		<div class="scheduleDayTitle">Friday</div>
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classMT">
-				Music Together
+				Fun Fridays
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">1 - 4 years<br />
-					9:00am - 9:45am
+				<div id="scheduleClassTime">18 months+<br />
+					9:30am - 12:00pm
 				</div>
-				<div id="scheduleClassTime">2 - 3 years<br />
-					10:00am - 10:45am
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classOH">
-				Open House
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Drop In<br />18 months - 5 years<br />9:30am - 12:00pm</div>
 			</div>
 		</div>
 		<div id="scheduleClass">
@@ -355,7 +399,15 @@ openContent($page, "schedule");
 <!-- =================== -->
 		<div class="scheduleDayTitle">Sat/Sun</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classMC">
+			<div id="scheduleClassTitle" class="classMOTF">
+				Mornings on<br />The Farm
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">All Ages<br />Saturday/Sunday<br />8:00am - 10:00am</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classFF">
 				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -364,22 +416,24 @@ openContent($page, "schedule");
 				</div>
 			</div>
 		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classMOTF">
-				Mornings on<br />The Farm
+		<!-- <div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classAT">
+				Animal Tales
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Drop In<br />Saturday/Sunday<br />8:00am - 10:00am</div>
+				<div id="scheduleClassTime">Saturday<br />3 - 5 years<br />
+					9:30am - 10:30am<br />
+				</div>
 			</div>
-		</div>
+		</div> -->
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classBP">
 				Birthday Parties
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">Saturday/Sunday<br />11:00am - 1:00pm</div>
-				<div id="scheduleClassTime">Saturday/Sunday<br />2:00pm - 4:00pm</div>
-				<div id="scheduleClassTime">Saturday/Sunday<br />5:00pm - 7:00pm</div>
+				<div id="scheduleClassTime">Saturday/Sunday<br />10:30am - 12:30pm</div>
+				<div id="scheduleClassTime">Saturday/Sunday<br />1:30pm - 3:30pm</div>
+				<div id="scheduleClassTime">Saturday/Sunday<br />4:30pm - 6:30pm</div>
 			</div>
 		</div>
 	</div>
@@ -387,18 +441,16 @@ openContent($page, "schedule");
 </div>
 <!--end of spring fall schedule shell-->
 
-
 <!-- =================== -->
 <!-- = SUMMER SCHEDULE = -->
 <!-- =================== -->
 <div class="floatL fullWidth">
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignL">
-		<a name="summer"></a>
-		<span class="blue2 bold marginL10">Summer 2013 Semester </span><span class="gray2">Jun 24th - Aug 16th</span>
+		<a href='#summer' name="summer"></a>
+		<span class="blue2 bold marginL10">Summer <?= $nextYear ?> Semester </span><span class="gray2">Jun 29th - Aug 21st</span>
 	</div>
 </div>
 <div id="scheduleShell2" class="">
-
 <!-- ========== -->
 <!-- = MONDAY = -->
 <!-- ========== -->
@@ -415,7 +467,6 @@ openContent($page, "schedule");
 			</div>
 		</div>
 	</div>
-	<!--end of day-->
 
 <!-- =========== -->
 <!-- = TUESDAY = -->
@@ -436,17 +487,7 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAAM">
-				Art, Adventures and More
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 12 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classKCC">
+			<div id="scheduleClassTitle" class="classACC">
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -456,7 +497,6 @@ openContent($page, "schedule");
 			</div>
 		</div>
 	</div>
-	<!--end of day-->
 
 <!-- ============= -->
 <!-- = WEDNESDAY = -->
@@ -474,7 +514,7 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classKCC">
+			<div id="scheduleClassTitle" class="classACC">
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -484,7 +524,6 @@ openContent($page, "schedule");
 			</div>
 		</div>
 	</div>
-	<!--end of day-->
 
 <!-- ============ -->
 <!-- = THURSDAY = -->
@@ -505,7 +544,7 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classMC">
+			<div id="scheduleClassTitle" class="classFF">
 				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -515,7 +554,7 @@ openContent($page, "schedule");
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classKCC">
+			<div id="scheduleClassTitle" class="classACC">
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
@@ -525,7 +564,6 @@ openContent($page, "schedule");
 			</div>
 		</div>
 	</div>
-	<!--end of day-->
 </div>
 <!--end of summer schedule shell-->
 

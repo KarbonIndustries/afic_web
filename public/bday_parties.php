@@ -43,34 +43,49 @@ function popup($row,$partyName)
 <p class="pgraph">A $200 Non-Refundable deposit is required to reserve a date. Please see <a class="rust" href="schedule.php">schedule</a> to see party times. 
 Meal choices include regular, whole wheat or kosher pizza or organic chicken fingers with carrots. Organic juice is $10 extra.</p>
 
-<table class="marginB20" cellpadding="0" cellspacing="1">
-	<thead>
-		<tr class="yellowBg1 bold rust">
-			<td class="pad5">Birthday Party Add-Ons<br /><span class="size11 normal">Face Painters, Balloon Animals &amp; Magician prices vary</span></td>
-			<td class="pad5 alignR">Price</td>
-		</tr>
-	</thead>
-	<tbody class="gray1">
-		<tr>
-			<td class="pad5 size13">Farm Animals</td>
-			<td class="pad5 size13 alignR">$450</td>
-		</tr>
-		<tr>
-			<td class="pad5 size13">Exotic Animals</td>
-			<td class="pad5 size13 alignR">$450</td>
-		</tr>
-		<tr>
-			<td class="pad5 size13">Princess</td>
-			<td class="pad5 size13 alignR">$250</td>
-		</tr>
-		<tr>
-			<td class="pad5 size13">Art Farm Guitarist</td>
-			<td class="pad5 size13 alignR">$125</td>
-		</tr>
-	</tbody>
+<table>
+  <tr>
+    <td width='50%'>
+      <table class="marginB20" cellpadding="0" cellspacing="1">
+        <thead>
+          <tr class="yellowBg1 bold rust">
+            <td class="pad5">Birthday Party Add-Ons<br /><span class="size11 normal">Face Painters, Balloon Animals &amp; Magician prices vary</span></td>
+            <td class="pad5 alignR">Price</td>
+          </tr>
+        </thead>
+        <tbody class="gray1">
+          <tr>
+            <td class="pad5 size13">Farm Animals</td>
+            <td class="pad5 size13 alignR">$450</td>
+          </tr>
+          <tr>
+            <td class="pad5 size13">Exotic Animals</td>
+            <td class="pad5 size13 alignR">$450</td>
+          </tr>
+          <tr>
+            <td class="pad5 size13">Princess</td>
+            <td class="pad5 size13 alignR">$250</td>
+          </tr>
+          <tr>
+            <td class="pad5 size13">Art Farm Guitarist</td>
+            <td class="pad5 size13 alignR">$125</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+    <td width='50%' valign='top'>
+      <center>
+        <p style='margin:0;font-size:1.2em'>We've teamed up with the Evite team to bring you an exclusive line of invitations! Click below to get started.</p>
+        <a href='http://www.evite.com/c/theartfarm'>
+          <img src='images/evite_logo.png' />
+        </a>
+      </center>
+    </td>
+  </tr>
 </table>
 
-<a style='display:block;background:#007AFF;padding:10px;color:white;border:1px solid #006BE0;margin:0 auto 25px;width:190px;text-align:center;' href='https://theartfarms.a.pcsparty.com/' target='_blank'>Book Your Party Now!</a>
+<!-- 007AFF 006BE0 -->
+<a class='bold underline__hover btn__book_party' href='https://theartfarms.a.pcsparty.com/' target='_blank'>Click Here to Check Availability and Book Your Party</a>
 
 <span class="title2 rust">Birthday Party Frequently Asked Questions</span>
 

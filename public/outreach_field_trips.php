@@ -23,10 +23,14 @@ openContent($page);
 
 <div id="of" class="floatL clearB fullWidth">
 <span class="marginT20 marginB15 block size18 bold blue2">Looking for a fun, educational field trip? Come on down to the Farm!</span>
-<span class="block marginB10">All Field Trips to The Art Farm are $10/child with a minimum cost of $150 per class. Teachers and chaperones are free!
-The program is for a maximum of 25 students per class. Limited spaces available! Ask about our special programs for libraries, home-school groups and camps!</span>
 
+<span class="block marginB10">All field trips to The Art Farm are $10/child with a minimum cost of $100 per class. Teachers and chaperones are free! The program is for a maximum of 25 students per class. Limited spaces available! Ask about our special programs for home-school groups and camps! <em>(Field trips are appropriate for ages 2+)</em></span>
 
+<p class="pgraph">Field trips are offered September through June, Thursdays from 11:30am - 12:30pm. Please contact The Art Farm directly if you are looking to book a field trip during July and August.</p>
+
+<a style='display:block;background:#007AFF;padding:10px;color:white;border:1px solid #006BE0;margin:20px auto;width:190px;text-align:center;' href='https://theartfarms.a.pcsparty.com/bookings/choose_date.asp?event_id=72994' target='_blank'>Book Your Field Trip Now!</a>
+
+<!--
 <span class="marginT20 marginB15 block size18 bold blue2">Scout Troops</span>
 
 <span class="bold rust size15">Girl Scouts</span>
@@ -52,6 +56,7 @@ up-close encounter with frogs, lizards, turtles, birds, rabbits, chinchillas, an
 <span class="block gray2 size14 bold">Location <span class="size12 normal">Manhattan area only</span></span>
 <span class="block gray2 size14 bold">Time <span class="size12 normal">Please call for availability.</span></span>
 </div>
+-->
 
 <span class="marginT10 block gray2">Please contact <a class="blue2" href="mailto:gabby@theartfarms.org">Gabby</a> at gabby@theartfarms.org or (212) 410-3117 for more information or to reserve a date.<br /><br />
 The Art Farm in The City is <abbr title="Animal Welfare Act">AWA</abbr> approved and fully insured.</span>

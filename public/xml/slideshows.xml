@@ -22,7 +22,7 @@
 		</item>
 		<item fileName="photo_02.jpg" link="preschool.php">
 			<text><![CDATA[<font color="#DB4A28">Preschool</font>]]></text>
-			<text><![CDATA[<font color="#DB4A28">Accepting 2013-2014 Applications!</font>]]></text>
+			<text><![CDATA[<font color="#DB4A28">Accepting 2015-2016 Applications!</font>]]></text>
 		</item>
 		<item fileName="photo_03.jpg" link="classes.php">
 			<text><![CDATA[<font color="#DB4A28">Classes</font>]]></text>
@@ -42,5 +42,6 @@
 		<photo fileName="photo_07.jpg"/>
 		<photo fileName="photo_08.jpg"/>
 		<photo fileName="photo_09.jpg"/>
+		<!-- <photo fileName="photo_10.jpg"/> -->
 	</set3>
 </slideshow>

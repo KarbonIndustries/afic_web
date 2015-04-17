@@ -5,7 +5,7 @@ define("AF_LOGO_URL","http://www.theartfarms.org/");
 define("AF_HOME_URL",".");
 define("AF_HAMPTONS_URL","http://www.theartfarms.org/af/");
 define("AUTHOR","Karbon Inc.");
-define("AUTHOR_URL","http://www.karbonnyc.com/");
+define("AUTHOR_URL","http://www.karboninc.com/");
 
 
 // ==========
@@ -46,6 +46,16 @@ function openHeader($title)
 		{
 			alert("Your browser is out of date.\nThis may cause the site to display improperly.\nPlease upgrade to a newer version.\n\nRecommendations: Firefox, Safari, Chrome");
 		}
+	</script>
+	<script type="text/javascript">
+		(function() {
+		window._pa = window._pa || {};
+		var pa = document.createElement("script"); pa.type = "text/javascript"; pa.async = true;
+		pa.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//tag.perfectaudience.com/serve/507e0153f16a97000200001c.js";
+		var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(pa, s);
+		window._pq = window._pq || [];
+		_pq.push(["datasphere.track', 'BDSP-12588892"]);
+		})();
 	</script>
 	';
 }
@@ -129,7 +139,13 @@ function drawMainMenu($page)
 	  })();
 
 	</script>
-	
+	<div class="newsShell">
+		<div class="news">
+			<p>
+				We\'re a <a href="http://redtri.com/new-york/the-art-farm-in-the-city/" target="_blank">Red Tricycle Favorite!</a>
+			</p>
+		</div>
+	</div>
 	<div id="outerShell" class="">
 		<div id="header" class="">
 			<div id="headerLeft" class="">
@@ -221,7 +237,7 @@ function drawHomePanel()
 			<li><a class="mpUp" href="schedule.php">Schedule</a></li>
 			<li><a class="mpUp" href="membership.php">Membership</a></li>
 			<li><a class="mpUp" href="tour.php">Farm Tour</a></li>
-			<li><a class="mpUp" href="register.php?d=choose">Register Today!</a></li>
+			<li><a class="mpUp" href="https://campscui.active.com/orgs/TheArtFarminTheCity">Register Today!</a></li>
 		</ul>
 		<div id="menuPanelInfo">
 			<span class="block">The Art Farm in The City</span>
@@ -279,7 +295,8 @@ function drawPanel($page)
 			<li><a class="' . $schedule . '" href="schedule.php">Schedule</a></li>
 			<li><a class="' . $membership . '" href="membership.php">Membership</a></li>
 			<li><a class="' . $tour . '" href="tour.php">Farm Tour</a></li>
-			<li><a class="' . $register . '" href="register.php?d=choose">Register Today!</a></li>
+			<li><a class="' . $register . '" href="https://campscui.active.com/orgs/TheArtFarminTheCity">Register Today!</a></li>
+		 <!--<li><a class="' . $register . '" href="register.php?d=choose">Register Today!</a></li>-->
 		</ul>
 		<div id="menuPanelInfo">
 			<span class="block">The Art Farm in The City</span>
@@ -306,8 +323,20 @@ function drawPreschoolPanel()
 		
 		<span class="bold rust block marginT10">Three's Program<br />The Turtles Class</span>
 		<span class="gray2 size11">ages 2.10 - 3.6 years by Sept. 1st<br />
-		Monday/Wednesday<br />
+		Monday/*Wednesday<br />
 		9:30am - 12:00pm</span>
+
+		<span class='gray2 size11 block marginT10'>*Third day option available on Friday</span>
+
+		<span class="bold rust block marginT10">Tuition</span>
+		<span class="gray2 size11">The 2's or 3's Full Year<br />
+		2-Day/week program is $6,250</span>
+
+		<span class="bold rust block marginT10">How to Apply</span>
+		<span class="gray2 size11"><a class='blue2 bold' href='http://theartfarms.org/afic/data/preschool_application_2015_2016.pdf'>Click here</a> for application<br />
+		Please submit application via email to <a class='blue2 bold' href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#110;&#97;&#64;&#116;&#104;&#101;&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#115;&#46;&#111;&#114;&#103;'>&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#110;&#97;&#64;&#116;&#104;&#101;&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#115;&#46;&#111;&#114;&#103;</a> or via mail attention: <span class='bold' style='white-space:nowrap'>Pre-school&nbsp;Admissions</span>.<br />
+		After application is received, we will contact you to set up a tour with our director.</span>
+
 	</div>
 	<!--end of panel-->
 C;
@@ -359,19 +388,49 @@ function closeContent()
 
 function drawFooter()
 {
-	echo '</div>
+	echo '</div style="position:relative">
 		<!--end of outerShell-->
 		<div id="footer" class="">
-			<span class="block floatL">&#169; ' . date(Y) . ', The Art Farm. All rights reserved.</span>
-			<div id="" class="floatR">
+			<div id="footerBox" class="clearfix">
+
+				<div id="press">
+					<h3>Check out our recent press&hellip;</h3>
+					<ul>
+						<li><a href="http://pix11.com/2014/05/16/its-a-g-thing-the-art-farm-in-the-city-lets-kids-befriend-animals/#axzz32NPqwivD" target="_blank">PIX 11</a></li>
+						<li><a href="press/ny_post.pdf" target="_blank">New York Post</a></li>
+						<li><a href="http://digital.modernluxury.com/publication/?i=240584&ver=html5&p=59#{"page":59,"issue_id":240584}" target="_blank">Manhattan Magazine</a></li>
+						<li><a href="http://blog.kidzcentralstation.com/head-of-the-class-mom/head-class-mom-valentina-van-hise/" target="_blank">Kidz Central Station</a></li>
+						<li><a href="press.php">View all press</a></li>
+					</ul>
+				</div>
+
+				<div id="emailSignUp">
+					<!-- Begin MailChimp Signup Form -->
+					<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+					<div id="mc_embed_signup">
+					<form action="//theartfarms.us6.list-manage.com/subscribe/post?u=1cd721e945cbd26b9264e9189&amp;id=1b69ae14d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						<label for="mce-EMAIL">Subscribe to our mailing list…</label>
+						<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
+					    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					    <div style="position: absolute; left: -5000px;"><input type="text" name="b_1cd721e945cbd26b9264e9189_1b69ae14d8" tabindex="-1" value=""></div>
+					    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+					</form>
+					</div>
+
+					<!--End mc_embed_signup-->
+				</div>
+			</div>
+
+			<span class="block floatL padT5">&#169; ' . date(Y) . ', The Art Farm. All rights reserved.</span>
+			<div id="secondaryLinks" class="floatR clearfix">
 				<ul class="">
 					<li><a class="padT5" href="http://www.facebook.com/pages/New-York-NY/Art-Farm-in-the-City/160406469093/" target="_blank"><img src="images/fb_icon.png" /></a></li>
-					<li><a class="padT5" href="http://twitter.com/ArtFarmNYC/" target="_blank"><img src="images/twit_icon.png" /></a></li>
+					<li><a class="padT5" href="http://twitter.com/TheArtFarmNYC/" target="_blank"><img src="images/twit_icon.png" /></a></li>
 					<li><a class="hoverRust padT5" href="contact.php">Contact Us</a></li>
 					<li><a class="hoverRust padT5" href="sitemap.php">Sitemap</a></li>
 					<li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" target="_blank">Photos &copy; Victoria Jackson Photography</a></li>
 				</ul>
-				<a class="karbonHover marginL5 pad5" href="http://www.karbonnyc.com/" target="_blank">&#160;Site by <span class="bold">Karbon Interaktiv Inc.</span>&#160;</a>
+				<a class="karbonHover marginL5 pad5" href="' . AUTHOR_URL . '" target="_blank">&#160;Site by <span class="bold">Karbon Interaktiv Inc.</span>&#160;</a>
 			</div>
 		</div>
 		<!--end of footer-->
@@ -393,14 +452,14 @@ function drawChoose()
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809056&mode=0" target="_blank">
+					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809479&mode=0" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Holiday Camp</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>
 			</td></tr>
 			<tr><td>
 				<div id="" class="">
-					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809072&mode=0" target="_blank">
+					<a id="btn1L" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity" target="_blank">
 					<div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Summer Camp</div><div class="btn1LR"><span class="invisible">.</span></div>
 					</a>
 				</div>
@@ -419,6 +478,7 @@ function drawChoose()
 					</a>
 				</div>
 			</td></tr>
+			<!--
 			<tr><td>
 				<div id="" class="">
 					<a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=3709104&mode=0" target="_blank">
@@ -426,7 +486,7 @@ function drawChoose()
 					</a>
 				</div>
 			</td></tr>
-			
+			-->
 		</table>
 	</td></tr></table>
 	';
