@@ -219,12 +219,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 	</p>
 	<p class="pgraph">Our June camp is a pre-summer camp experience. It is a time for your children to play outside, learn about our animals, create art and enjoy cooking. All activities will revolve around weekly themes such as beach, nature, artists and more. It is the perfect transition between school and summer camp. Flexible registration done by week. You can register for 2, 3 or 5 days per week. Camp will not be running on Memorial Day.</p>
 
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=894003&location=455804">
-			<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span>
-			</div>
-		</a>
-	</div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=894003&location=455804" target="_blank">Register Now!</a>
+
+  <div class="clearB high30"></div>
 </div>
 
 
@@ -269,12 +266,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
 	<p class="pgraph">We offer  a half day camp with a warm nurturing program so that separation is easy. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, sing their favorite songs and play soccer with Super Soccer Stars. The children go outside every day. Twice a week they participate in soccer at Carl Schurz Park and when they are not playing soccer they  go to the outdoor playground at Asphalt Green. Every week the children get to participate in a weekly theme event which takes place on Tuesdays and Wednesdays so all children get to enjoy the fun.  Please pack a lunch for your child and if your child is not fully potty trained please send him or her in pull-ups. <a class="rust" href="#summerChart">view schedule</a></p>
 
-	<div id="" class="floatR clearB">
-		<?= NEW_REG_MSG ?>
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=789203">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=894003&location=455804" target="_blank">Register Now!</a>
+
+  <div class="clearB high30"></div>
 </div>
 
 <div class="separator"></div>
@@ -288,12 +282,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
 	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately. On Wednesdays the children have field day in Carl Schurz Park. Every week we focus on a different theme. The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
 
-	<div id="" class="floatR clearB">
-		<?= NEW_REG_MSG ?>
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=789203">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=894003&location=455804" target="_blank">Register Now!</a>
+
+  <div class="clearB high30"></div>
 </div>
 
 <div class="separator"></div>
@@ -307,12 +298,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
 	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. As the campers grow older we like to encourage independence through picking out what activities they want to participate in. Therefore, we give our Geckos group a chance to create their own schedule. The Geckos participate in electives twice a week where they get to customize their day. They can choose from jewelry making, digital photography, computer, wood working, dance, drama, animal science, sports and karaoke. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately.  On Wednesdays the children have field day in Carl Schurz Park where they play relay races and outdoor games. Every week we focus on a different theme.  The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
 
-	<div id="" class="floatR clearB">
-		<?= NEW_REG_MSG ?>
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=789203">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=894003&location=455804" target="_blank">Register Now!</a>
+
+  <div class="clearB high30"></div>
 </div>
 
 <div class="marginT20 clearB">&nbsp;</div>
