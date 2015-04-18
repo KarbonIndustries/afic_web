@@ -96,7 +96,7 @@ openContent($page);
 <div class="clearB">
 	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
 	<!-- <span class="red" style="font-size:12px;">Fun Fridays will not be running December 26th or January 2nd. Happy Holidays!</span> -->
-	<span class="red" style="font-size:12px">This program will not be running on April 10th due to our <a class='bold' href='camp.php'>Spring Break Camps</a>.</span>
+	<span class="red" style="font-size:12px">This program will not be running on April 10th due to our <a class='bold blue2' href='camp.php'>Spring Break Camps</a>.</span>
 <!--
 	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
 -->
@@ -138,10 +138,10 @@ openContent($page);
 
 	<p class="pgraph">Where else in New York City can you begin your day on the farm?  With a basket full of hay and goodies, you and your children can spend the morning feeding and snuggling animals right here in our indoor farm on the Upper East Side.</p>
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=945304" target="_blank">Register Now!</a>
+  <!--<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=945304" target="_blank">Register Now!</a>-->
 </div>
 
-<div class="clearB high30"></div>
+<!--<div class="clearB high30"></div>-->
 <div class="formSeparator1 marginB10 marginT10 clearB"></div>
 <div class="clearB high60"></div>
 

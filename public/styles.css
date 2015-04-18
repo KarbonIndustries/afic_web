@@ -362,6 +362,8 @@ a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #DB4A28 !
 .register_btn__winter{background:#FFCB00;color:#C01111}
 .register_btn__winter:hover{background:#FFB800}
 .btn__book_party{display:block;background:#1ACC6F;padding:16px;color:white;border:1px solid #0E9950;margin:0 auto 25px;font-size:22px;text-align:center;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px}
+.btn_img__evite{border:4px solid transparent;-moz-border-radius:50px;-webkit-border-radius:50px;border-radius:50px;-moz-transition:border-color 100ms;-webkit-transition:border-color 100ms;transition:border-color 100ms;}
+.btn_img__evite:hover{border-color:#72A922;}
 
 #scheduleShell{float: left;}
 #scheduleDay{width: 113px;float: left;margin-right: 1px;}

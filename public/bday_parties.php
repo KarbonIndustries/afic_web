@@ -43,9 +43,9 @@ function popup($row,$partyName)
 <p class="pgraph">A $200 Non-Refundable deposit is required to reserve a date. Please see <a class="rust" href="schedule.php">schedule</a> to see party times. 
 Meal choices include regular, whole wheat or kosher pizza or organic chicken fingers with carrots. Organic juice is $10 extra.</p>
 
-<table>
+<table style='margin-bottom:15px'>
   <tr>
-    <td width='50%'>
+    <td width='50%' valign='top'>
       <table class="marginB20" cellpadding="0" cellspacing="1">
         <thead>
           <tr class="yellowBg1 bold rust">
@@ -75,9 +75,9 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
     </td>
     <td width='50%' valign='top'>
       <center>
-        <p style='margin:0;font-size:1.2em'>We've teamed up with the Evite team to bring you an exclusive line of invitations! Click below to get started.</p>
+        <p style='margin:0 0 15px;font-size:1.2em'>We've teamed up with the Evite team to bring you an exclusive line of invitations! Click below to get started.</p>
         <a href='http://www.evite.com/c/theartfarm'>
-          <img src='images/evite_logo.png' />
+          <img class='btn_img__evite' src='images/evite_logo.png' />
         </a>
       </center>
     </td>

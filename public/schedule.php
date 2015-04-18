@@ -558,7 +558,7 @@ $nextYear = $curYear + 1;
 				Animal Care Class
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 5 years<br />
+				<div id="scheduleClassTime">4 - 7 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
