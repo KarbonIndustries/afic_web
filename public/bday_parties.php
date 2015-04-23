@@ -76,7 +76,7 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
     <td width='50%' valign='top'>
       <center>
         <p style='margin:0 0 15px;font-size:1.2em'>We've teamed up with the Evite team to bring you an exclusive line of invitations! Click below to get started.</p>
-        <a href='http://www.evite.com/c/theartfarm'>
+        <a href='http://www.evite.com/c/theartfarm' target='_blank'>
           <img class='btn_img__evite' src='images/evite_logo.png' />
         </a>
       </center>
