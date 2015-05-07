@@ -17,7 +17,7 @@ openContent($page);
 	<span class="block marginB10 size14 gray2">Plan a trip to our indoor petting zoo or have our animals visit your school! View our brochure to find out how your students can have up-close encounters with live animals!</span>
 
 <object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/_jfGW2wRMy4?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/_jfGW2wRMy4?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
-<a style="padding:7px;background:#326BBC;color:#FFFFFF;font-weight:bold;display:block;width:120px;text-align:center;margin-top:15px;" href="./data/af_outreach_brochure_2011.pdf">View Brochure</a>
+<a style="background:#007AFF;border:1px solid #006BE0;border-radius:20px;color:#FFFFFF;display:block;font-weight:bold;margin-top:15px;padding:7px;text-align:center;width:120px;" href="./data/af_outreach_brochure_2011.pdf">View Brochure</a>
 </div>
 
 
@@ -26,9 +26,9 @@ openContent($page);
 
 <span class="block marginB10">All field trips to The Art Farm are $10/child with a minimum cost of $100 per class. Teachers and chaperones are free! The program is for a maximum of 25 students per class. Limited spaces available! Ask about our special programs for home-school groups and camps! <em>(Field trips are appropriate for ages 2+)</em></span>
 
-<p class="pgraph">Field trips are offered September through June, Thursdays from 11:30am - 12:30pm. Please contact The Art Farm directly if you are looking to book a field trip during July and August.</p>
+<p class="pgraph">Field trips are offered June through August, Tuesday and Wednesday from 10:00am - 11:00am. Please contact The Art Farm directly for any information or availability. You can also book field trips online.</p>
 
-<a style='display:block;background:#007AFF;padding:10px;color:white;border:1px solid #006BE0;margin:20px auto;width:190px;text-align:center;' href='https://theartfarms.a.pcsparty.com/bookings/choose_date.asp?event_id=72994' target='_blank'>Book Your Field Trip Now!</a>
+<a style='display:block;background:#007AFF;border:1px solid #006BE0;border-radius:25px;color:white;margin:20px auto;padding:10px;text-align:center;width:190px;' href='https://theartfarms.a.pcsparty.com/bookings/choose_date.asp?event_id=72994' target='_blank'>Book Your Field Trip Now!</a>
 
 <!--
 <span class="marginT20 marginB15 block size18 bold blue2">Scout Troops</span>
