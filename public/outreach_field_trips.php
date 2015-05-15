@@ -24,11 +24,22 @@ openContent($page);
 <div id="of" class="floatL clearB fullWidth">
 <span class="marginT20 marginB15 block size18 bold blue2">Looking for a fun, educational field trip? Come on down to the Farm!</span>
 
-<span class="block marginB10">All field trips to The Art Farm are $10/child with a minimum cost of $100 per class. Teachers and chaperones are free! The program is for a maximum of 25 students per class. Limited spaces available! Ask about our special programs for home-school groups and camps! <em>(Field trips are appropriate for ages 2+)</em></span>
+<span class="block marginB10">All field trips to The Art Farm are $10/child with a minimum cost of $100 per class. Teachers and chaperones are free! The program is for a maximum of 25 students per class.</span>
+<span class="block marginB10">Come and meet many different types of small animals in our indoor petting zoo. Be apart of an amazing 60 minutes program with up close encounters with our animals. Your students will be able to pet, hold and touch lizards, rabbits, guinea pigs, turtles, chinchillas and more. Our teachers will speak and educate about our animal collection and before your trip is over you will walk around our petting zoo and get a chance to feed our rabbits. Limited spaces available! 1 Class per time slot recommended. Trips are appropriate for ages 3 and up.</span>
 
-<p class="pgraph">Field trips are offered June through August, Tuesday and Wednesday from 10:00am - 11:00am. Please contact The Art Farm directly for any information or availability. You can also book field trips online.</p>
+<h4 class='bold gray2' style='margin-bottom:0'>Field trips are offered</h4>
+<p style='margin-top:0'>
+	September through June:<br />
+	Tuesday, Wednesday, and Thursdays from 11:30am - 12:30pm
+</p>
 
-<a style='display:block;background:#007AFF;border:1px solid #006BE0;border-radius:25px;color:white;margin:20px auto;padding:10px;text-align:center;width:190px;' href='https://theartfarms.a.pcsparty.com/bookings/choose_date.asp?event_id=72994' target='_blank'>Book Your Field Trip Now!</a>
+<p>
+	July and August<br />
+	Tuesday and Wednesday from 10:00am - 11:00am
+</p>
+
+
+<a style='display:block;background:#006BE0;border:1px solid #006BE0;border-radius:25px;color:white;margin:20px auto;padding:10px;text-align:center;width:190px;' href='https://theartfarms.a.pcsparty.com/bookings/choose_date.asp?event_id=72994' target='_blank'>Book Your Field Trip Now!</a>
 
 <!--
 <span class="marginT20 marginB15 block size18 bold blue2">Scout Troops</span>
@@ -58,7 +69,6 @@ up-close encounter with frogs, lizards, turtles, birds, rabbits, chinchillas, an
 </div>
 -->
 
-<span class="marginT10 block gray2">Please contact <a class="blue2" href="mailto:gabby@theartfarms.org">Gabby</a> at gabby@theartfarms.org or (212) 410-3117 for more information or to reserve a date.<br /><br />
 The Art Farm in The City is <abbr title="Animal Welfare Act">AWA</abbr> approved and fully insured.</span>
 </div>
 
