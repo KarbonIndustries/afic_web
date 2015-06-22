@@ -31,7 +31,7 @@ openContent($page);
 <!-- ================ -->
 
 <span class="title2 blue2">Farm Foodies Cooking Class</span>
-<!-- <span class="red" style="font-size:12px;">Farm Foodies Winter 2015 classes will begin on January 8th</span> -->
+<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
 <span class="subtitle1 gray1">After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 	<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
 	<span class="size12 gray2">Drop In: $40 | Winter: $418 | Spring: $456 | Summer: $304 | Fall: $585</span><br />

@@ -92,8 +92,8 @@ openContent($page);
 <!-- =============== -->
 <div class="clearB">
 	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-	<!-- <span class="red" style="font-size:12px;">Fun Fridays will not be running December 26th or January 2nd. Happy Holidays!</span> -->
-	<span class="red" style="font-size:12px">This program will not be running on April 10th due to our <a class='bold blue2' href='camp.php'>Spring Break Camps</a>.</span>
+	<span class="red" style="font-size:12px">This program will not be running on April 10th due to our <a class='bold blue2' href='camp.php'>Spring Break Camps</a>.</span><br />
+	<span class="red" style="font-size:12px;">Program ends June 19th and resumes September 11th</span>
 <!--
 	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
 -->
@@ -147,7 +147,7 @@ openContent($page);
 <!-- ================ -->
 <div class="clearB">
 	<span id="mc" class="block bold size18 blue2">Farm Foodies Cooking Class</span>
-	<!-- <span class="red" style="font-size:12px;">Farm Foodies Winter 2015 classes will begin on January 8th</span> -->
+	<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
 	<span class="subtitle1 rust">
 	<span class="subtitle1 gray1">After-school/weekend program<br />
 		Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
