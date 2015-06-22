@@ -43,29 +43,26 @@ openContent($page);
 <!-- ===================== -->
 <!-- = SUMMER FARM HOURS = -->
 <!-- ===================== -->
-<!--
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Summer Farm Hours</span>
 	<span class="subtitle1 gray1">
 		1 year+<br />
-		Monday - Thursday | 12:00pm - 2:00pm<br />
-		Starts: June 23rd | Ends: August 21st<br />
-	</span>
-	<p class="pgraph">Drop in and stay cool in our indoor farm. The Art Farm staff will help you and your family hold, pet and cuddle with animas in our award-winning indoor petting zoo. You will meet rabbits, chinchillas, lizards, turtles, hamsters, birds and more. All children must be supervised by an adult/guardian.</p>
-
-	<p class='pgraph'>
+		Monday - Friday | 12:00pm - 2:30pm | Ages 1 &amp; up<br />
+		Starts: June 22nd | Ends: August 21st<br />
 		$15 per child<br />
-	</p>
+		<a class='bold blue2' href='membership.php'>FREE admission for members</a>
+	</span>
+	<p class="pgraph">Drop in and stay cool in our indoor farm. The Art Farm staff will help you and your family hold, pet and cuddle with animals in our award-winning indoor petting zoo. Meet rabbits, chinchillas, lizards, turtles, hamsters, birds, and more. All children must be supervised by an adult/guardian.</p>
+	<p>Play Time passes are not valid on this program. No reservation required.</p>
 </div>
--->
 
 
 <!-- ============= -->
 <!-- = PLAY TIME = -->
 <!-- ============= -->
 <div class="clearB">
-	<span id="wpt" class="block bold size18 blue2">Play Time Package</span>
-	<!-- <span class="red" style="font-size:12px;">Play Time will not be running from December 22nd - January 1st due to Holiday Camp</span> -->
+	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
+	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
 	<!--
 	<span class="red" style="font-size:12px;">We will not be offering <strong>Drop Off</strong> during the week of March 25 - 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span><br />
 	<span class="red" style="font-size:12px;">We will be offering our regular drop in with adult during this week.</span>
