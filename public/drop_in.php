@@ -92,7 +92,6 @@ openContent($page);
 <!-- =============== -->
 <div class="clearB">
 	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-	<span class="red" style="font-size:12px">This program will not be running on April 10th due to our <a class='bold blue2' href='camp.php'>Spring Break Camps</a>.</span><br />
 	<span class="red" style="font-size:12px;">Program ends June 19th and resumes September 11th</span>
 <!--
 	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
