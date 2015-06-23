@@ -170,13 +170,13 @@ openContent($page);
 <!-- ======================= -->
 <div class="clearB">
 	<span id="akc" class="block bold size18 blue2">Afternoon Kids Club</span>
-	<!-- <span class="red" style="font-size:12px;">Afternoon Kids Club will not be running from December 22nd  January 1st due to <a class='bold blue2' href='camp.php'>Holiday Camp</a></span> -->
+	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
 	<!-- <span class="red" style="font-size:12px">This program will not be running March 17 - 27 and April 14 - 17 due to our <a href='camp.php' class='blue2'>Spring Break Camps</a></span> -->
 	<!-- <span class="red" style="font-size:12px;">Not offered December 20th - January 5th. The Art Farm will be hosting a Holiday Camp.</span> -->
 	<!--<img class="padR10 padT10 padB10" src="photos/akc_130729.jpg" />-->
 	<span class="subtitle1 gray1">2&frac12;-6 years<br />
 		Monday - Thursday: 12:30pm - 3:30pm<br />
-		<span class="size12 gray2">1 Time visit: $45 at the door | 5 Pass: $200 | 10 Pass: $350 | 20 Pass: $600 | Semester Value Pass: $1,550 | Winter: $1,100</span><br />
+		<span class="size12 gray2">1 Time visit: $45 at the door | 5 Pass: $200 | 10 Pass: $350 | 20 Pass: $600</span><br />
 	</span>
 	<p class="pgraph">Need an afternoon activity for your child on a day when they are off from school or have early dismissal? Join our Afternoon Kids Club and enjoy our fun and flexible option! Children enjoy a number of fun, creative activities including arts and crafts, creative play, engaging time with over 50 animals in our Award-Winning indoor petting zoo, healthy snack, story time and more. You can also save with a semester value pass. You may use your visits as they work for you any Monday through Thursday with a 24-hour advance reservation. Each child must have their own pass.</p>
 
