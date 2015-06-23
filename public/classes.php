@@ -118,7 +118,7 @@ openContent($page);
 <div class="clearB">
 	<img class="padR10 padT10 padB10" src="photos/farm_foodies.jpg" />
 	<span id="ff" class="title2 blue2">Farm Foodies Cooking Class</span>
-	<!-- <span class="red" style="font-size:12px;">Saturday class will resume September 13th</span> -->
+	<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
 	<span class="subtitle1 gray1">After-school program<br />
 		Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
 	    Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
@@ -142,11 +142,12 @@ openContent($page);
 <div class="clearB">
 	<img class="padR10 padT10 padB10" src="photos/akc_130729.jpg" />
 	<span id="akc" class="title2 blue2">Afternoon Kids Club</span>
+	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
 	<!-- <span class="red" style="font-size:12px">This program will not be running March 17 - 27 and April 14 - 17 due to our <a href='camp.php' class='blue2'>Spring Break Camps</a></span> -->
 	<span class="subtitle1 gray1">2&frac12;-6 years<br />
 		Monday - Thursday: 12:30pm - 3:30pm <span class="red" style="font-size:12px">Offered September - June</span><br />
 	
-		<span class="size12 gray2">1 Time visit: $45 at the door | 5 Pass: $200 | 10 Pass: $350 | 20 Pass: $600 | Semester Value Pass: $1,550 | Winter: $1,100</span><br />
+		<span class="size12 gray2">1 Time visit: $45 at the door | 5 Pass: $200 | 10 Pass: $350 | 20 Pass: $600</span><br />
 	</span>
 	<p class="pgraph">Need an afternoon activity for your child on a day when they are off from school or have early dismissal? Join our Afternoon Kids Club and enjoy our fun and flexible option! Children enjoy a number of fun, creative activities including arts and crafts, creative play, engaging time with over 50 animals in our Award-Winning indoor petting zoo, healthy snack, story time and more. You can also save with a semester value pass. You may use your visits as they work for you any Monday through Thursday with a 24-hour advance reservation. Each child must have their own pass.</p>
 
