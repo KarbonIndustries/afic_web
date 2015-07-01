@@ -125,7 +125,7 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-	<!-- <span class="red" style="font-size:12px;">Mornings on the Farm will not be running December 27th or 28th</span> -->
+	<span class="red" style="font-size:12px;">We will be closed Saturday July 4th and Sunday July 5th. Happy Independence Day!</span>
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
