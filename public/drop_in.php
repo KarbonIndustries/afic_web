@@ -57,9 +57,9 @@ openContent($page);
 </div>
 
 
-<!-- ============= -->
-<!-- = PLAY TIME = -->
-<!-- ============= -->
+<!-- ================== -->
+<!-- = OPEN PLAY TIME = -->
+<!-- ================== -->
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
 	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
@@ -102,7 +102,7 @@ openContent($page);
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
 	</span>
 	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">(with or without caregiver) $45 | $30 for children currently registered in a class</span></span>
-	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 pass: $200 | 10 pass: $350 | Spring Semester value pass: $365</span></span>
+	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 pass: $200 | 10 pass: $375 | Fall Semester value pass: $525</span></span>
 	<span class="subtitle1 gray1 size12">Each child must have their own pass</span>
 	<span class="subtitle1 gray1 size12">10% sibling discount</span>
 	<span class="red" style="font-size:12px;">Reservations required 24 hours in advance for Drop Off</span>
@@ -112,7 +112,7 @@ openContent($page);
 		Drop Off must be reserved, drop ins with adult always welcome without reservation.
 	</p>
 
-<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=945304" target="_blank">Pay Now!</a>
+<a id="" class="register_btn register_btn__now" href="https://campsself.active.com/TheArtFarminTheCity" target="_blank">Pay Now!</a>
 
 </div>
 
@@ -125,7 +125,7 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-	<span class="red" style="font-size:12px;">We will be closed Saturday July 4th and Sunday July 5th. Happy Independence Day!</span>
+	<!--<span class="red" style="font-size:12px;">We will be closed Saturday July 4th and Sunday July 5th. Happy Independence Day!</span>-->
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
@@ -180,7 +180,7 @@ openContent($page);
 	</span>
 	<p class="pgraph">Need an afternoon activity for your child on a day when they are off from school or have early dismissal? Join our Afternoon Kids Club and enjoy our fun and flexible option! Children enjoy a number of fun, creative activities including arts and crafts, creative play, engaging time with over 50 animals in our Award-Winning indoor petting zoo, healthy snack, story time and more. You can also save with a semester value pass. You may use your visits as they work for you any Monday through Thursday with a 24-hour advance reservation. Each child must have their own pass.</p>
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=945304" target="_blank">Register Now!</a>
+  <a id="" class="register_btn register_btn__now" href="https://campsself.active.com/TheArtFarminTheCity" target="_blank">Register Now!</a>
 
 </div>
 
