@@ -79,7 +79,7 @@ openContent($page);
 	</p>
 	<!--<p class="pgraph">*Art Farm members receive 20% off current client package</p>-->
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=945304" target="_blank">Pay Now!</a>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1091902" target="_blank">Pay Now!</a>
 
 </div>
 
@@ -112,7 +112,7 @@ openContent($page);
 		Drop Off must be reserved, drop ins with adult always welcome without reservation.
 	</p>
 
-<a id="" class="register_btn register_btn__now" href="https://campsself.active.com/TheArtFarminTheCity" target="_blank">Pay Now!</a>
+<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1091902" target="_blank">Pay Now!</a>
 
 </div>
 
@@ -180,7 +180,7 @@ openContent($page);
 	</span>
 	<p class="pgraph">Need an afternoon activity for your child on a day when they are off from school or have early dismissal? Join our Afternoon Kids Club and enjoy our fun and flexible option! Children enjoy a number of fun, creative activities including arts and crafts, creative play, engaging time with over 50 animals in our Award-Winning indoor petting zoo, healthy snack, story time and more. You can also save with a semester value pass. You may use your visits as they work for you any Monday through Thursday with a 24-hour advance reservation. Each child must have their own pass.</p>
 
-  <a id="" class="register_btn register_btn__now" href="https://campsself.active.com/TheArtFarminTheCity" target="_blank">Register Now!</a>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1091902" target="_blank">Register Now!</a>
 
 </div>
 

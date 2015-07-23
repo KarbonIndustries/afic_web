@@ -17,7 +17,7 @@ openContent($page);
 <!-- ======================== -->
 
 <span class="title2 blue2">Mornings on The Farm<br /></span>
-<span class="red" style="font-size:12px;">We will be closed Saturday July 4th and Sunday July 5th. Happy Independence Day!</span>
+<!--<span class="red" style="font-size:12px;">We will be closed Saturday July 4th and Sunday July 5th. Happy Independence Day!</span>-->
 <span class="subtitle1 gray1">1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
