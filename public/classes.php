@@ -173,7 +173,7 @@ Each week, your child will be introduced to a world filled with amazing animals 
 
 	<p class="pgraph">Each week we will take an in-depth look into animal habitats and animal classification through animal skulls, x-rays and footprints. During the class we will focus on animal husbandry including weighing and measuring animals. The children will also learn animal handling skills and create enrichment toys for the animal.</p>
 
-	<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=958401&location=455804" target="_blank">Register Now!</a>
+	<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1097303" target="_blank">Register Now!</a>
 
 	<div class="clearB high30"></div>
 </div>
