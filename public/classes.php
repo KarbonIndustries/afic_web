@@ -162,6 +162,24 @@ openContent($page);
 <!-- ============== -->
 <div class="clearB">
 	<img class="padR10 padT10 padB10" src="photos/fall_homeschool_2014.jpg" />
+	<span id="ff" class="title2 blue2">Fall Home School 2015</span>
+	<span class="subtitle1 gray1">
+		Monday: 11:30am - 12:30pm | 5 - 8 years<br />
+		Sept 21st - Nov 30th<br />
+		<span class ="size12 gray2">10-week semester: $200</span><br />
+	</span>
+	<p class="pgraph">Children will be able to have a hands-on living science education at The Art Farm!
+Each week, your child will be introduced to a world filled with amazing animals as they participate in multi-sensory activities as well as encounters with live animals. Children will be encouraged to make observations, ask questions and use their sense of wonder about the natural world while exploring ways to be kind and respectful towards animals and the environment.</p>
+
+	<p class="pgraph">Each week we will take an in-depth look into animal habitats and animal classification through animal skulls, x-rays and footprints. During the class we will focus on animal husbandry including weighing and measuring animals. The children will also learn animal handling skills and create enrichment toys for the animal.</p>
+
+	<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=958401&location=455804" target="_blank">Register Now!</a>
+
+	<div class="clearB high30"></div>
+</div>
+<!--
+<div class="clearB">
+	<img class="padR10 padT10 padB10" src="photos/fall_homeschool_2014.jpg" />
 	<span id="ff" class="title2 blue2">Spring Home School 2015</span>
 	<span class="subtitle1 gray1">
 		Monday: 11:30am - 12:30pm | 5 - 8 years<br />
@@ -177,6 +195,7 @@ Each week, your child will be introduced to a world filled with amazing animals 
 
 	<div class="clearB high30"></div>
 </div>
+-->
 
 
 
