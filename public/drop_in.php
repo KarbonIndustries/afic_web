@@ -43,6 +43,7 @@ openContent($page);
 <!-- ===================== -->
 <!-- = SUMMER FARM HOURS = -->
 <!-- ===================== -->
+<!--
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Summer Farm Hours</span>
 	<span class="subtitle1 gray1">
@@ -55,6 +56,7 @@ openContent($page);
 	<p class="pgraph">Drop in and stay cool in our indoor farm. The Art Farm staff will help you and your family hold, pet and cuddle with animals in our award-winning indoor petting zoo. Meet rabbits, chinchillas, lizards, turtles, hamsters, birds, and more. All children must be supervised by an adult/guardian.</p>
 	<p>Play Time passes are not valid on this program. No reservation required.</p>
 </div>
+-->
 
 
 <!-- ================== -->
@@ -125,7 +127,7 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-	<!--<span class="red" style="font-size:12px;">We will be closed Saturday July 4th and Sunday July 5th. Happy Independence Day!</span>-->
+	<span class="red" style="font-size:12px;">We will be closed Saturday, September 5th and 6th over Labor Day weekend.</span>
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
