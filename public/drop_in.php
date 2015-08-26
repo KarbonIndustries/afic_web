@@ -77,7 +77,7 @@ openContent($page);
 
 	<p class='pgraph'>
 		$20 per child per visit or buy a pass<br />
-		$150 per 10 visit Play Date pass - multiple children can use this pass. $50 savings! Expires June 19, 2015<br />
+		$150 per 10 visit Play Date pass - multiple children can use this pass. $50 savings! Expires June 19, 2016<br />
 	</p>
 	<!--<p class="pgraph">*Art Farm members receive 20% off current client package</p>-->
 
@@ -103,7 +103,7 @@ openContent($page);
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
 	</span>
-	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">(with or without caregiver) $45 | $30 for children currently registered in a class</span></span>
+	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">(with or without caregiver) $45 | $35 for children currently registered in a class</span></span>
 	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 pass: $200 | 10 pass: $375 | Fall Semester value pass: $525</span></span>
 	<span class="subtitle1 gray1 size12">Each child must have their own pass</span>
 	<span class="subtitle1 gray1 size12">10% sibling discount</span>
