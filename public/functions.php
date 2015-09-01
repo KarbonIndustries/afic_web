@@ -333,7 +333,7 @@ function drawPreschoolPanel()
 		2-Day/week program is $6,250</span>
 
 		<span class="bold rust block marginT10">How to Apply</span>
-		<span class="gray2 size11"><a class='blue2 bold' href='http://theartfarms.org/afic/data/preschool_application_2015_2016.pdf'>Click here</a> for application<br />
+		<span class="gray2 size11"><a class='blue2 bold' href='http://theartfarms.org/afic/data/preschool_application_2016_2017.pdf'>Click here</a> for application<br />
 		Please submit application via email to <a class='blue2 bold' href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#110;&#97;&#64;&#116;&#104;&#101;&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#115;&#46;&#111;&#114;&#103;'>&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#110;&#97;&#64;&#116;&#104;&#101;&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#115;&#46;&#111;&#114;&#103;</a> or via mail attention: <span class='bold' style='white-space:nowrap'>Pre-school&nbsp;Admissions</span>.<br />
 		After application is received, we will contact you to set up a tour with our director.</span>
 
