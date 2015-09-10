@@ -10,6 +10,37 @@ openContent($page);
 ?>
 <!--begin content-->
 
+<!-- ========================= -->
+<!-- = PlayTime with Animals = -->
+<!-- ========================= -->
+<div class="clearB">
+	<img class="padR10 padT10 padB10" src="photos/playtime_with_animals.jpg" />
+	<span id="rsa" class="title2 blue2">PlayTime with Animals</span>
+	<span class="subtitle1 gray1">1-4 years and their caregivers<br />
+		<span class="size12 gray2">
+		Thursday: 9:30am - 11:00am | Sept. 17th - Oct. 15th<br />
+		5-pass: $125 | Drop In: $30 (Pay at the door)
+		</span>
+	</span>
+	<p class="pgraph">
+		Children and their caregivers will start the program off with creative play,
+		blocks, puzzles, and toys. Then The Art Farm in The City will bring their
+		expert animal educators downtown so you can meet 3 new live animals in each
+		class. Each child will get a chance to learn about the animals, how to pet
+		and hold them. Then it's on to the art tables to craft one of the animals we
+		met. We complete the morning with the bubble machine and parachute!
+	</p>
+
+	<a id="" class="register_btn register_btn__now"
+		href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1091902"
+		target="_blank">
+		Register Now!
+	</a>
+
+	<div class="clearB high60"></div>
+</div>
+
+
 <!-- ============================ -->
 <!-- = ROCK, SMOCKS AND ANIMALS = -->
 <!-- ============================ -->
