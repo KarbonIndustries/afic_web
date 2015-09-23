@@ -118,7 +118,9 @@ openContent($page);
 <div class="clearB">
 	<img class="padR10 padT10 padB10" src="photos/farm_foodies.jpg" />
 	<span id="ff" class="title2 blue2">Farm Foodies Cooking Class</span>
+<!--
 	<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
+-->
 	<span class="subtitle1 gray1">After-school program<br />
 		Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
 	    Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
@@ -179,8 +181,10 @@ openContent($page);
 <div class="clearB">
 	<img class="padR10 padT10 padB10" src="photos/akc_130729.jpg" />
 	<span id="akc" class="title2 blue2">Afternoon Kids Club</span>
+<!--
 	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
-	<!-- <span class="red" style="font-size:12px">This program will not be running March 17 - 27 and April 14 - 17 due to our <a href='camp.php' class='blue2'>Spring Break Camps</a></span> -->
+	<span class="red" style="font-size:12px">This program will not be running March 17 - 27 and April 14 - 17 due to our <a href='camp.php' class='blue2'>Spring Break Camps</a></span>
+-->
 	<span class="subtitle1 gray1">2&frac12;-6 years<br />
 		Monday - Thursday: 12:30pm - 3:30pm <span class="red" style="font-size:12px">Offered September - June</span><br />
 	

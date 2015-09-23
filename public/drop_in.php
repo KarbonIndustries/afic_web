@@ -64,8 +64,8 @@ openContent($page);
 <!-- ================== -->
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
-	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
 	<!--
+	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
 	<span class="red" style="font-size:12px;">We will not be offering <strong>Drop Off</strong> during the week of March 25 - 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span><br />
 	<span class="red" style="font-size:12px;">We will be offering our regular drop in with adult during this week.</span>
 	-->
@@ -94,8 +94,8 @@ openContent($page);
 <!-- =============== -->
 <div class="clearB">
 	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-	<span class="red" style="font-size:12px;">Program ends June 19th and resumes September 11th</span>
 <!--
+	<span class="red" style="font-size:12px;">Program ends June 19th and resumes September 11th</span>
 	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
 -->
 	<!-- <span class="red" style="font-size:12px;">Not offered December 27th or January 3rd</span> -->
@@ -127,7 +127,9 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
+<!--
 	<span class="red" style="font-size:12px;">We will be closed Saturday, September 5th and 6th over Labor Day weekend.</span>
+-->
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
@@ -148,7 +150,9 @@ openContent($page);
 <!-- ================ -->
 <div class="clearB">
 	<span id="mc" class="block bold size18 blue2">Farm Foodies Cooking Class</span>
+<!--
 	<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
+-->
 	<span class="subtitle1 rust">
 	<span class="subtitle1 gray1">After-school/weekend program<br />
 		Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
@@ -172,7 +176,9 @@ openContent($page);
 <!-- ======================= -->
 <div class="clearB">
 	<span id="akc" class="block bold size18 blue2">Afternoon Kids Club</span>
+<!--
 	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
+-->
 	<!-- <span class="red" style="font-size:12px">This program will not be running March 17 - 27 and April 14 - 17 due to our <a href='camp.php' class='blue2'>Spring Break Camps</a></span> -->
 	<!-- <span class="red" style="font-size:12px;">Not offered December 20th - January 5th. The Art Farm will be hosting a Holiday Camp.</span> -->
 	<!--<img class="padR10 padT10 padB10" src="photos/akc_130729.jpg" />-->
