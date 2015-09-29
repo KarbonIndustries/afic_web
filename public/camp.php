@@ -35,9 +35,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = COLUMBUS DAY MINI CAMP = -->
 <!-- ========================== -->
 
-<!--<div class="clearB">
+<div class="clearB">
 	<span id="halfDay" class="title2 blue2 clearB">Columbus Day Mini Camp</span>
-	<span class="subtitle1 gray1">Monday, October 14th</span>
+	<span class="subtitle1 gray1">Monday, October 12th</span>
 		<span class="size12 gray2">
 			Half Day 9am-12pm | 3-4 years $75/day<br />
 			Full Day 9am-3pm | 4-7 years $125/day<br />
@@ -47,14 +47,14 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 		<p class="pgraph">In 1492 Columbus sailed the ocean blue! To celebrate his discovery, The Art Farm is having a Mini Camp full of art, animals, and tons to do. Activities include music, story time, cooking, creative play, animal science, and time in our petting zoo! The Art Farm will provide a snack for all campers. Full-day campers, please bring a lunch.</p>
 
 	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809127">
+		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1171901">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
 
 <div class="marginT20 clearB">&nbsp;</div>
--->
+
 
 <!-- ========================= -->
 <!-- = MARTIN LUTHER KING JR = -->
@@ -208,6 +208,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = JUNE CAMP = -->
 <!-- ============= -->
 
+<!--
 <div class="clearB">
 	<p class="title2 blue2">
 		<span class="title2 blue2">June Camp 2015</span>
@@ -223,6 +224,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
   <div class="clearB high30"></div>
 </div>
+-->
 
 
 <!-- =============== -->
