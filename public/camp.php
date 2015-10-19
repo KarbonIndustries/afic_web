@@ -35,7 +35,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = COLUMBUS DAY MINI CAMP = -->
 <!-- ========================== -->
 
-<div class="clearB">
+<!--<div class="clearB">
 	<span id="halfDay" class="title2 blue2 clearB">Columbus Day Mini Camp</span>
 	<span class="subtitle1 gray1">Monday, October 12th</span>
 		<span class="size12 gray2">
@@ -53,7 +53,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 	</div>
 </div>
 
-<div class="marginT20 clearB">&nbsp;</div>
+<div class="marginT20 clearB">&nbsp;</div>-->
 
 
 <!-- ========================= -->
@@ -161,26 +161,22 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = HOLIDAY CAMP = -->
 <!-- ================ -->
 
-<!-- <span class="title2 blue2 clearB marginT20">Holiday Camp 2014</span><br />
-<span class="rust size16 italic">Spend your winter break with us&hellip;</span>
+<span class="title2 blue2 clearB marginT20">Holiday Camp <?= date('Y')?></span>
+<span class="subtitle1 gray1">December 21, 22, 23, 28, 29, 30</span>
+<span class="subtitle1 gray1">Join us for 1, 3 or all 6 days.</span>
 <br />
-<span class="size14 blue2">December 22, 23, 29, 30, January 2</span>
-<br />
-<span class="size14 blue2">Join us for 1, 3 or all 5 days.</span>
-<br />
-<span class="size14 blue2">Flexible registration!</span>
-<br />
-<br/>
+<span class="bold subtitle1 gray1">Activities for all ages include</span>
+<p class='pgraph'>Animal care, arts &amp; crafts, cooking with our amazing chef, live rockin' music, science projects, games, and a special event EVERY day!</p>
 
 <div class="clearB">
 	<span id="halfDay" class="title2 rust clearB">Half Day Snowflakes Group</span>
 	<span class="subtitle1 gray1"><span>AM Session | 9:30am - 12:30pm | 3-4 years</span><br />
 	<span>PM Session | 1:00pm - 4:00pm | 3-4 years</span><br />
-	<span>1 day: $75 | 3 or more days: $70/day</span><br />
+	<span class='bold'>$75 per day</span><br />
 	<span>Early Drop Off 9am - 9:30am: $15/day</span></span><br />
 	<p class="pgraph"> We offer a half day camp with a warm nurturing program. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, and sing their favorite songs to live guitar.  Every day the children get to participate in a special event. We will provide a snack for your child and if your child is not fully potty trained please send him or her in pull-ups. We close the group at 15 children with 3 qualified teachers. Children must be 3 years old to join the group.</p>
 	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809056">
+		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1186002&location=455804">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
@@ -190,17 +186,17 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 	<span class="subtitle1 gray1"><span>9:30am - 3:30pm | 4 - 5 years</span><br />
 	<span id="halfDay" class="title2 rust clearB">Full Day Gingerbreads Group</span>
 	<span class="subtitle1 gray1"><span>9:30am - 3:30pm | 5 - 8 years</span><br />
-	<span>1 day: $125 | 3 or more days: $100/day</span><br />
+	<span>$125 per day</span><br />
 	<span>Early Drop Off 9am - 9:30am: $15/day</span><br />
 	<span>Extended Day 3:30pm - 5pm $30/day.</span></span><br />
 	<p class="pgraph">Our Full day campers participate in music, art, cooking, science, nature, games, animal care, and much, much more. Every day, there will be a different special entertainer who will engage the children in fun, laughter and learning. Please send your child to camp with a lunch that is nut-free since we are a nut-free facility. We will provide the children with a snack before the end of the day. We close each group at 15 children with 3 qualified teachers.</p>
 	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=11809056">
+		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1186002&location=455804">
 		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
 		</a>
 	</div>
 </div>
-<div class="clearB" style="margin-top:15px;float:left;"></div> -->
+<div class="clearB" style="margin-top:15px;float:left;"></div>
 
 
 

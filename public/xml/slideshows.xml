@@ -32,7 +32,7 @@
 	
 	<!--slideshow on camp page
 		image size must be 685 x 400 pixels-->
-	<set3 folder="photos/slideshow3">
+	<set3 folder="photos/slideshow3/holiday_camp">
 		<photo fileName="photo_01.jpg"/>
 		<photo fileName="photo_02.jpg"/>
 		<photo fileName="photo_03.jpg"/>
@@ -42,6 +42,7 @@
 		<photo fileName="photo_07.jpg"/>
 		<photo fileName="photo_08.jpg"/>
 		<photo fileName="photo_09.jpg"/>
+		<photo fileName="photo_10.jpg"/>
 		<!-- <photo fileName="photo_10.jpg"/> -->
 	</set3>
 </slideshow>
