@@ -19,10 +19,11 @@ openContent($page);
 	<span class="subtitle1 gray1">Adult Participation | Music, Art and Animals<br />14-24 months | 1-4 years mixed ages | 2-3 years<br />
 	<span class='classCTA01'>Book Your Free Trial Today</span><br />
 	<a class="rust" href="schedule.php">View Schedule</a><br />
-	<span class="size12 gray2">Winter: $418 | Spring: $456 | Summer: $304 | Fall: $570</span></span>
+	<span class="size12 gray2">Winter: $456 | Spring: $456 | Summer: $304 | Fall: $570</span></span>
 	<p class='pgraph'>Join us on an animal adventure as we jump with the frogs and hop with the bunnies and learn about a new animal every week. We start out groovin' to the guitar, bouncing with the balls and dancing with our friends as we sing along with all types of instruments. As we wait with anticipation to meet the star of the show, "The Animal of The Week", we play and learn with toys that are similar to our animal visitor and just before he comes we settle down for a story. Once our special animal appears we get to touch, enjoy, and hear all about him. Every other week we pull out the paint, glue, feathers, sand and more as we create an animal masterpiece of our own. This one-of-a-kind class isn't over until you meet all of our friends in our indoor petting zoo.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
+	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=905804" target="_blank">Spring</a>
 	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
@@ -79,10 +80,11 @@ openContent($page);
 	<span class="subtitle1 gray1">After-school program<br />4-7 years<br />
 	<span class='classCTA01'>Book Your Free Trial Today</span><br />
 	<a class="rust" href="schedule.php">View Schedule</a><br />
-	<span class="size12 gray2">Winter: $418 | Spring: $456 | Summer: $304 | Fall: $570</span></span>
+	<span class="size12 gray2">Winter: $456 | Spring: $456 | Summer: $304 | Fall: $570</span></span>
 	<p class='pgraph'>This one-of-a-kind after school program will give your child the rare opportunity to spend time with live animals and to develop the important science skills of observation, classification and communication.  Using a hands-on approach to learning, your child will participate in age appropriate science activities, stories, fun games and creative crafts. Every session will include actively caring for our friendly critters, up-close animal encounters and time to record observations.  Before it's time to go the students can read an animal themed book or just relax with a favorite creature on the Farm. This one of a kind experience will instill in your child the importance of care, respect and responsibility for all living creatures.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
+	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=905804" target="_blank">Spring</a>
 	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
@@ -125,11 +127,12 @@ openContent($page);
 		Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
 	    Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
 		<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=480,height=400,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
-		<span class="size12 gray2">Drop In: $40 | Winter: $430 | Spring: $468 | Summer: $312 | Fall: $585</span><br />
+		<span class="size12 gray2">Drop In: $40 | Winter: $468 | Spring: $468 | Summer: $312 | Fall: $585</span><br />
 	</span>
 	<p class='pgraph'>Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
+	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=905804" target="_blank">Spring</a>
 	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
@@ -141,7 +144,7 @@ openContent($page);
 <!-- ========================= -->
 <!-- = PlayTime with Animals = -->
 <!-- ========================= -->
-<div class="clearB">
+<!--<div class="clearB">
 	<img class="padR10 padT10 padB10" src="photos/playtime_with_animals.jpg" />
 	<span id="rsa" class="title2 blue2">PlayTime with Animals</span>
 	<span class="subtitle1 gray1">1-4 years and their caregivers<br />
@@ -172,7 +175,7 @@ openContent($page);
 	</a>
 
 	<div class="clearB high60"></div>
-</div>
+</div>-->
 
 
 <!-- ======================= -->

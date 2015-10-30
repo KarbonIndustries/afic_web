@@ -21,7 +21,7 @@ $nextYear = $curYear + 1;
 	</div>
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignC">
 		<span class="blue2 bold marginL10">Fall 2015 Semester </span><span class="gray2">Sept 8th - Dec 19th</span><br />
-		<span class="blue2 bold marginL10">Winter 2015 Semester </span><span class="gray2">Jan 5th - Mar 20th</span><br />
+		<span class="blue2 bold marginL10">Winter 2016 Semester </span><span class="gray2">Jan 4th - Mar 26th</span><br />
 		<span class="blue2 bold marginL10">Spring 2015 Semester </span><span class="gray2">Mar 30th - Jun 19th</span><br />
 		<span class="blue2 bold marginL10"><a href='#summer' class='blue2'>Summer 2015 Semester (click to jump) </a></span><span class="gray2">Jun 29th - Aug 21st</span>
 	</div>
