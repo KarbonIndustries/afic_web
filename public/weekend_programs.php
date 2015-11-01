@@ -17,9 +17,7 @@ openContent($page);
 <!-- ======================== -->
 
 <span class="title2 blue2">Mornings on The Farm<br /></span>
-<!--
-<span class="red" style="font-size:12px;">We will be closed Saturday, September 5th and 6th over Labor Day weekend.</span>
--->
+<span class="notice" style="font-size:12px;">We will be closed Sunday, November 1st due to the NYC Marathon</span>
 <span class="subtitle1 gray1">1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
