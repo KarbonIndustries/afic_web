@@ -294,30 +294,30 @@ color: #808080;
 /*#activitiesMenu ul{list-style: none;list-style-type: none;list-style-position: outside;}*/
 #activitiesMenu li{float: left;}
 #activitiesMenu ul li a{display: block;width: 96px;padding-top: 85px;text-align: center;color: #000000;font-size: 13px;}
-.classesUp{background: url(images/activities_menu.png) no-repeat 0px 0px;}
+.membershipUp{background: url(images/activities_menu.png) no-repeat 0px 0px;}
+.membershipOver{background: url(images/activities_menu.png) no-repeat 0px -120px;color: #DB4A28 !important;}
+.classesUp{background: url(images/activities_menu.png) no-repeat -480px 0px;}
+.classesOver{background: url(images/activities_menu.png) no-repeat -480px -120px;color: #DB4A28 !important;}
 .bDayPartiesUp{background: url(images/activities_menu.png) no-repeat -96px 0px;}
-.preSchoolUp{background: url(images/activities_menu.png) no-repeat -192px 0px;}
-.playGroupUp{background: url(images/activities_menu.png) no-repeat -288px 0px;}
-.weekendProgramsUp{background: url(images/activities_menu.png) no-repeat -384px 0px;}
-.partTimePetUp{background: url(images/activities_menu.png) no-repeat -480px 0px;}
-.campUp{background: url(images/activities_menu.png) no-repeat -576px 0px;}
-.dropInUp{background: url(images/activities_menu.png) no-repeat -672px 0px;}
-.outreachFieldTripsUp{background: url(images/activities_menu.png) no-repeat -768px 0px;}
-.classesOver{background: url(images/activities_menu.png) no-repeat 0px -120px;color: #DB4A28 !important;}
 .bDayPartiesOver{background: url(images/activities_menu.png) no-repeat -96px -120px;color: #DB4A28 !important;}
+.preSchoolUp{background: url(images/activities_menu.png) no-repeat -192px 0px;}
 .preSchoolOver{background: url(images/activities_menu.png) no-repeat -192px -120px;color: #DB4A28 !important;}
+.playGroupUp{background: url(images/activities_menu.png) no-repeat -288px 0px;}
 .playGroupOver{background: url(images/activities_menu.png) no-repeat -288px -120px;color: #DB4A28 !important;}
+.weekendProgramsUp{background: url(images/activities_menu.png) no-repeat -384px 0px;}
 .weekendProgramsOver{background: url(images/activities_menu.png) no-repeat -384px -120px;color: #DB4A28 !important;}
-.partTimePetOver{background: url(images/activities_menu.png) no-repeat -480px -120px;color: #DB4A28 !important;}
+.campUp{background: url(images/activities_menu.png) no-repeat -576px 0px;}
 .campOver{background: url(images/activities_menu.png) no-repeat -576px -120px;color: #DB4A28 !important;}
+.dropInUp{background: url(images/activities_menu.png) no-repeat -672px 0px;}
 .dropInOver{background: url(images/activities_menu.png) no-repeat -672px -120px;color: #DB4A28 !important;}
+.outreachFieldTripsUp{background: url(images/activities_menu.png) no-repeat -768px 0px;}
 .outreachFieldTripsOver{background: url(images/activities_menu.png) no-repeat -768px -120px;color: #DB4A28 !important;}
-a.classesUp:hover{background-position: 0px -120px;color: #DB4A28 !important;}
+a.membershipUp:hover{background-position: 0px -120px;color: #DB4A28 !important;}
 a.bDayPartiesUp:hover{background-position: -96px -120px;color: #DB4A28 !important;}
 a.preSchoolUp:hover{background-position: -192px -120px;color: #DB4A28 !important;}
 a.playGroupUp:hover{background-position: -288px -120px;color: #DB4A28 !important;}
 a.weekendProgramsUp:hover{background-position: -384px -120px;color: #DB4A28 !important;}
-a.partTimePetUp:hover{background-position: -480px -120px;color: #DB4A28 !important;}
+a.classesUp:hover{background-position: -480px -120px;color: #DB4A28 !important;}
 a.campUp:hover{background-position: -576px -120px;color: #DB4A28 !important;}
 a.dropInUp:hover{background-position: -672px -120px;color: #DB4A28 !important;}
 a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #DB4A28 !important;}

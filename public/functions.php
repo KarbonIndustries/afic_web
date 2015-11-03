@@ -167,18 +167,21 @@ function drawMainMenu($page)
 
 function drawActivitiesMenu($page)
 {
-	$classes =				"classesUp";
-	$bDayParties =			"bDayPartiesUp";
-	$preSchool =			"preSchoolUp";
-	$playGroup =			"playGroupUp";
-	$weekendPrograms =		"weekendProgramsUp";
-	$partTimePet =			"partTimePetUp";
-	$camp =					"campUp";
-	$dropIn =				"dropInUp";
-	$outreachFieldTrips =	"outreachFieldTripsUp";
+	$membership         = "membershipUp";
+	$classes            = "classesUp";
+	$bDayParties        = "bDayPartiesUp";
+	$preSchool          = "preSchoolUp";
+	$playGroup          = "playGroupUp";
+	$weekendPrograms    = "weekendProgramsUp";
+	$camp               = "campUp";
+	$dropIn             = "dropInUp";
+	$outreachFieldTrips = "outreachFieldTripsUp";
 	
 	switch ($page)
 	{
+	    case "membership":
+	    $membership = "membershipOver";
+	    break;
 	    case "classes":
 	    $classes = "classesOver";
 	    break;
@@ -193,9 +196,6 @@ function drawActivitiesMenu($page)
 	    break;
 	    case "weekendPrograms":
 	    $weekendPrograms = "weekendProgramsOver";
-	    break;
-	    case "partTimePet":
-	    $partTimePet = "partTimePetOver";
 	    break;
 	    case "camp":
 	    $camp = "campOver";
@@ -213,15 +213,15 @@ function drawActivitiesMenu($page)
     echo '
     <div id="activitiesMenu" class="">
 		<ul>
-			<li><a class="' . $classes . '" href="classes.php">Classes</a></li>
-			<li><a class="' . $bDayParties . '" href="bday_parties.php">Birthday Parties</a></li>
-			<li><a class="' . $preSchool . '" href="preschool.php">Pre-School</a></li>
-			<li><a class="' . $playGroup . '" href="play_group.php">Play Group</a></li>
-			<li><a class="' . $weekendPrograms . '" href="weekend_programs.php">Weekend<br />Programs</a></li>
-			<li><a class="' . $partTimePet . '" href="part_time_pet.php">Part-Time Pet</a></li>
-			<li><a class="' . $camp . '" href="camp.php">Camp</a></li>
-			<li><a class="' . $dropIn . '" href="drop_in.php">Drop In</a></li>
-			<li><a class="' . $outreachFieldTrips . '" href="outreach_field_trips.php">Outreach<br />Field Trips</a></li>
+			<li><a class="' . $membership . '" href="membership.php" title="Membership">Membership</a></li>
+			<li><a class="' . $classes . '" href="classes.php" title="Classes">Classes</a></li>
+			<li><a class="' . $bDayParties . '" href="bday_parties.php" title="Birthday Parties">Birthday Parties</a></li>
+			<li><a class="' . $preSchool . '" href="preschool.php" title="Pre-School">Pre-School</a></li>
+			<li><a class="' . $playGroup . '" href="play_group.php" title="Play Group">Play Group</a></li>
+			<li><a class="' . $weekendPrograms . '" href="weekend_programs.php" title="Weekend Programs">Weekend<br />Programs</a></li>
+			<li><a class="' . $camp . '" href="camp.php" title="Camp">Camp</a></li>
+			<li><a class="' . $dropIn . '" href="drop_in.php" title="Drop In">Drop In</a></li>
+			<li><a class="' . $outreachFieldTrips . '" href="outreach_field_trips.php" title="Outreach Field Trips">Outreach<br />Field Trips</a></li>
 		</ul>
 	</div>
 	<!--end of activities menu-->

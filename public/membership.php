@@ -4,7 +4,7 @@ $page = "Membership";
 openHeader($page);
 closeHeader();
 drawMainMenu();
-drawActivitiesMenu();
+drawActivitiesMenu('membership');
 openContent($page, "membership");
 ?>
 <!--begin content-->
