@@ -127,7 +127,7 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-	<span class="notice" style="font-size:12px;">We will be closed Sunday, November 1st due to the NYC Marathon</span>
+	<span class="notice__red" style="font-size:12px;"></span>
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am

@@ -73,7 +73,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .gray1{color: #303030 !important;}
 .gray2{color: #606060 !important;}
 .red{color: #FF0000 !important;}
-.notice{background:#FF0000;border-radius:3px;color:#FFFFFF !important;display:inline-block;margin:4px 0;padding:6px}
+.notice__red{background:#FF0000;border-radius:3px;color:#FFFFFF !important;display:inline-block;margin:4px 0;padding:6px}
 
 .italic{font-style: italic;}
 .bold{font-weight: bold;}
