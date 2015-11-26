@@ -98,7 +98,7 @@ openContent($page);
 	<span class="red" style="font-size:12px;">Program ends June 19th and resumes September 11th</span>
 	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
 -->
-	<!-- <span class="red" style="font-size:12px;">Not offered December 27th or January 3rd</span> -->
+	<span class="red" style="font-size:12px;">We will not be open on Friday, November 27th</span>
 	<span class="subtitle1 gray1">18 months+ <span class="size12">(Drop Off optional for 2+ years)</span><br />
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
@@ -127,7 +127,7 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-	<span class="notice__red" style="font-size:12px;"></span>
+	<!--<span class="notice__red" style="font-size:12px;"></span>-->
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
