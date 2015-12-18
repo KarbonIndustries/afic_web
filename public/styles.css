@@ -446,3 +446,17 @@ a.abaLinks:hover{color: #326BBC !important;}
 #footer ul{display: inline;list-style: none;list-style-type: none;list-style-position: outside;float:left;margin:0;padding:0;}
 #footer #secondaryLinks ul li{float: left;padding-left: 10px;}
 #footer #secondaryLinks a{float: left;color: #808080;}
+
+/**********/
+/* MODALS */
+/**********/
+#modal_content .modal__header{background:#A13314 url('images/snow.gif') repeat 0 0;background-size:15%;padding:10px 0}
+#modal_content .modal__title{color:#FFFFFF;font-size:1.6em;font-weight:normal;letter-spacing:0.04em;margin:0 0 10px;text-align:center}
+#modal_content .subhead{color:#F5C0B2;font-size:1em;margin:0;text-align:center}
+#modal_content .activity_shell{margin:0 auto;width:620px}
+#modal_content .activity{margin-top:18px}
+#modal_content .activity .cta{background:#0087E6;border-radius:3px;color:white;display:inline-block;font-size:0.9em;font-weight:bold;letter-spacing:0.05em;padding:0.5em;text-align:center;width:260px;}
+#modal_content .activity .cta:hover{background:#2DA8FF}
+#modal_content .activity p{font-size:0.8em}
+.vex.vex-theme-default .vex-close.winter_modal_close{right:-17px;top:-17px}
+.vex.vex-theme-default .vex-close.winter_modal_close:before{background:#E0E0E0}
