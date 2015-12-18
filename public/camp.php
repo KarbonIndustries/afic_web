@@ -161,7 +161,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = HOLIDAY CAMP = -->
 <!-- ================ -->
 
-<span class="title2 blue2 clearB marginT20">Holiday Camp <?= date('Y')?></span>
+<span id='holiday_camp' class="title2 blue2 clearB marginT20">Holiday Camp <?= date('Y')?></span>
 <span class="subtitle1 gray1">December 21, 22, 23, 28, 29, 30</span>
 <span class="subtitle1 gray1">Join us for 1, 3 or all 6 days.</span>
 <br />
