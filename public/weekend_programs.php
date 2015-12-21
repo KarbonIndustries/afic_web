@@ -17,7 +17,7 @@ openContent($page);
 <!-- ======================== -->
 
 <span class="title2 blue2">Mornings on The Farm<br /></span>
-<!--<span class="notice__red" style="font-size:12px;"></span>-->
+<span class="notice__red" style="font-size:12px;">We will be closed December 26 &amp; 27. Happy Holidays!</span>
 <span class="subtitle1 gray1">1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
@@ -42,8 +42,7 @@ openContent($page);
 <p class="pgraph">Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>
 
 <h3 class='register_heading'>Choose a semester to register now!</h3>
-<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
-<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
+<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 
 <div class="clearB high60"></div>
 
