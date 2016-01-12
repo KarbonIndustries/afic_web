@@ -12,6 +12,7 @@ openContent($page);
 
 <img class="pageImg" src="photos/drop_in.jpg" />
 
+<!--
 <div class="clearB">
   <span id="wpt" class="block bold size18 blue2">Holiday Open Farm Hours</span>
   <span class="subtitle1 gray1">
@@ -31,6 +32,7 @@ openContent($page);
     <a class='bold blue2' href='membership.php'>FREE for members!</a>
   </span>
 </div>
+-->
 
 	<!--<p class="pgraph">*Art Farm members receive 20% off current client package</p>-->
 
@@ -64,23 +66,17 @@ openContent($page);
 	<p class="pgraph">Drop in and stay cool in our indoor farm. The Art Farm staff will help you and your family hold, pet and cuddle with animals in our award-winning indoor petting zoo. Meet rabbits, chinchillas, lizards, turtles, hamsters, birds, and more. All children must be supervised by an adult/guardian.</p>
 	<p>Play Time passes are not valid on this program. No reservation required.</p>
 </div>
--->
 
 <div class="clearB high30"></div>
 <div class="formSeparator1 marginB10 marginT10 clearB"></div>
 <div class="clearB high30"></div>
+-->
 
 <!-- ================== -->
 <!-- = OPEN PLAY TIME = -->
 <!-- ================== -->
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
-  <span class="notice__red" style="font-size:12px;">This program will not be running December 21-December 31</span>
-	<!--
-	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
-	<span class="red" style="font-size:12px;">We will not be offering <strong>Drop Off</strong> during the week of March 25 - 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span><br />
-	<span class="red" style="font-size:12px;">We will be offering our regular drop in with adult during this week.</span>
-	-->
 	<span class="subtitle1 gray1">
 		6 months+<br />
 		Monday - Thursday | 12:30pm - 3:30pm<br />
@@ -106,25 +102,16 @@ openContent($page);
 <!-- =============== -->
 <div class="clearB">
 	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-<!--
-	<span class="red" style="font-size:12px;">Program ends June 19th and resumes September 11th</span>
-	<span class="red" style="font-size:12px;">We will not be offering our <strong>Open House</strong> program on Friday, March 29 due to our <a class='blue2' href='camp.php'>Spring Break Camp</a>.</span>
-	<span class="red" style="font-size:12px;">We will not be open on Friday, November 27th</span>
--->
-	<span class="subtitle1 gray1">18 months+ <span class="size12">(Drop Off optional for 2+ years)</span><br />
+	<span class="subtitle1 gray1">18 months+<br />
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
 	</span>
-	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">(with or without caregiver) $45 | $35 for children currently registered in a class</span></span>
+	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">$45 | $35 for children currently registered in a class</span></span>
 	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 pass: $200 | 10 pass: $375 | Winter value pass: $420</span></span>
 	<span class="subtitle1 gray1 size12">Each child must have their own pass</span>
 	<span class="subtitle1 gray1 size12">10% sibling discount</span>
-	<span class="red" style="font-size:12px;">Reservations required 24 hours in advance for Drop Off</span>
 
-	<p class="pgraph">Drop by during these 2&#189; hours for baking, arts/crafts, music, singing and plenty of cuddling time with the animals. To see the animals you must arrive between 9:30am and 10:00am.  The farm closes at 10:15am.<br />
-		Drop Off is available but fills quickly. Priority goes to children enrolled in our programs.<br />
-		Drop Off must be reserved, drop ins with adult always welcome without reservation.
-	</p>
+	<p class="pgraph">Drop by during these 2&#189; hours for baking, arts/crafts, music, singing and plenty of cuddling time with the animals. To see the animals you must arrive between 9:30am and 10:00am.  The farm closes at 10:15am.</p>
 
 <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1238701" target="_blank">Pay Now!</a>
 
@@ -139,7 +126,6 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-  <span class="notice__red" style="font-size:12px;">We will be closed December 26 &amp; 27. Happy Holidays!</span>
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
@@ -160,9 +146,6 @@ openContent($page);
 <!-- ================ -->
 <div class="clearB">
 	<span id="mc" class="block bold size18 blue2">Farm Foodies Cooking Class</span>
-<!--
-	<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
--->
 	<span class="subtitle1 rust">
 	<span class="subtitle1 gray1">After-school/weekend program<br />
 		Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
@@ -184,14 +167,12 @@ openContent($page);
 <!-- ======================= -->
 <!-- = AFTERNOON KIDS CLUB = -->
 <!-- ======================= -->
+<!--
 <div class="clearB">
 	<span id="akc" class="block bold size18 blue2">Afternoon Kids Club</span>
-<!--
-	<span class="red" style="font-size:12px;">Program ends June 18th and resumes September 8th</span>
 -->
-	<!-- <span class="red" style="font-size:12px">This program will not be running March 17 - 27 and April 14 - 17 due to our <a href='camp.php' class='blue2'>Spring Break Camps</a></span> -->
-	<!-- <span class="red" style="font-size:12px;">Not offered December 20th - January 5th. The Art Farm will be hosting a Holiday Camp.</span> -->
 	<!--<img class="padR10 padT10 padB10" src="photos/akc_130729.jpg" />-->
+<!--
 	<span class="subtitle1 gray1">2&frac12;-6 years<br />
 		Monday - Thursday: 12:30pm - 3:30pm<br />
 		<span class="size12 gray2">1 Time visit: $45 at the door | 5 Pass: $200 | 10 Pass: $350 | 20 Pass: $600</span><br />
@@ -205,6 +186,7 @@ openContent($page);
 <div class="clearB high30"></div>
 <div class="formSeparator1 marginB10 marginT10 clearB"></div>
 <div class="clearB high30"></div>
+-->
 
 <!--end content-->
 <?php

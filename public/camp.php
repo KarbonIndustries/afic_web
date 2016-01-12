@@ -161,6 +161,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = HOLIDAY CAMP = -->
 <!-- ================ -->
 
+<!--
 <span id='holiday_camp' class="title2 blue2 clearB marginT20">Holiday Camp <?= date('Y')?></span>
 <span class="subtitle1 gray1">December 21, 22, 23, 28, 29, 30</span>
 <span class="subtitle1 gray1">Join us for 1, 3 or all 6 days.</span>
@@ -197,7 +198,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 	</div>
 </div>
 <div class="clearB" style="margin-top:15px;float:left;"></div>
-
+-->
 
 
 <!-- ============= -->
@@ -227,7 +228,8 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = SUMMER CAMP = -->
 <!-- =============== -->
 
-<span class="title2 blue2 clearB marginT20">Summer Camp 2015</span>
+<span class="title2 blue2 clearB marginT20">2016 Summer Camp information coming soon!</span>
+<!--
 <span class="rust size16 italic">Enjoy your city summer on our country farm!<br /><br /></span>
 
 <p class="pgraph">Our indoor eco-friendly facility offers a full day and half day camp experience for children ages 3 to 8. All children get hands on experience learning about and caring for our live animals in our award winning petting zoo. It's time for them to coo with the birds and hop with the bunnies.</p>
@@ -396,6 +398,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 		<li>more...</li>
 	</ul>
 </span>
+-->
 
 <div class="marginT20 clearB">&nbsp;</div>
 
