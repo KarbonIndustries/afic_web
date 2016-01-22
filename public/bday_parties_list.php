@@ -16,10 +16,6 @@ closeHeader();
 					Standard Art Farm Party<br />
 					<span class="normal size12">1-8 years</span>
 				</td>
-				<td class="pad5 bdayBg2">
-					Farm Animal Party
-					<span class="normal size12">1-8 years</span>
-				</td>
 				<td class="pad5 bdayBg3">
 					Exotic Animal Party
 					<span class="normal size12">4-8 years</span>
@@ -46,20 +42,6 @@ closeHeader();
 						<li>Bio-degradable balloons</li>
 						<li>All set up and clean up</li>
 					</ul>
-				</td>
-				<td class="padT5">
-					<ul>
-						<li>2 hour party - 45 min. with farm animals and our petting zoo(goats, sheep, chickens, ducks)</li>
-						<li>2 party coordinators</li>
-						<li>Art project</li>
-						<li>Farm themed place settings</li>
-						<li>Pizza or chicken nuggets &amp; juice</li>
-						<li>Upgraded farm party favors</li>
-						<li>Invitations</li>
-						<li>T-shirt for birthday child</li>
-						<li>Bio-degradable balloons</li>
-						<li>All set up and clean up</li>
-				</ul>
 				</td>
 				<td class="padT5">
 					<ul>
@@ -99,11 +81,6 @@ closeHeader();
 				<td class="padR5">
 					$865 for 10 guests<br />
 					Each additional child: $25<br />
-					Every +6 children: $40 staff charge
-				</td>
-				<td class="padR5">
-					$1,345 for 10 guests<br />
-					Each additional child: $34<br />
 					Every +6 children: $40 staff charge
 				</td>
 				<td class="padR5">
