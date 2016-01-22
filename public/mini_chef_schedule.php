@@ -7,22 +7,69 @@ closeHeader();
 
 <body>
 
-<div class="pad10">
-<span class="block size14 bold blue2 marginB5">Sept 10 &amp; 12 - Apple Pie Filo Cigars</span>
-<span class="block size14 bold blue2 marginB5">Sept 17 &amp; 19 - Butternut Mozzarella Twists</span>
-<span class="block size14 bold blue2 marginB5">Sept 24 &amp; 26 - Concorde Grape Pop Tarts</span>
-<span class="block size14 bold blue2 marginB5">Oct 1 &amp; 3 - Roasted Sweet Potato Fougasse</span>
-<span class="block size14 bold blue2 marginB5">Oct 8 &amp; 10 - Caramelized Pear Pie Pops</span>
-<span class="block size14 bold blue2 marginB5">Oct 15 &amp; 17 - Pumpkin Parmesan Gnocchi</span>
-<span class="block size14 bold blue2 marginB5">Oct 22 &amp; 24 - Cider Brioche</span>
-<span class="block size14 bold blue2 marginB5">Oct 29 &amp; 31 - Halloween Cookie Deco</span>
-<span class="block size14 bold blue2 marginB5">Nov 5 &amp; 7 - Cranberry Petit Beurre</span>
-<span class="block size14 bold blue2 marginB5">Nov 12 &amp; 14 - Cauliflower Gratin Buns</span>
-<span class="block size14 bold blue2 marginB5">Nov 19 &amp; 21 - Pumpkin Pie</span>
-<span class="block size14 bold blue2 marginB5">Nov 28 - Cheezy Wild Mushroom Pretzel Pies</span>
-<span class="block size14 bold blue2 marginB5">Dec 3 &amp; 5 - Salted Chocolate Sparkle Cookies</span>
-<span class="block size14 bold blue2 marginB5">Dec 10 &amp; 12 - Holiday Cookie Extravaganza</span>
-<span class="block size14 bold blue2 marginB5">Dec 17 &amp; 19 Gingerbread Pancakes</span>
+<div class='pad10'>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Jan 7 &amp; 9 </span>
+    <span class='size14'>Orange Kings Cake</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Jan 14th &amp; 16th</span>
+    <span class='size14'>Mashed Potato and Leek Monkey Bread</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Jan 21st &amp; 23rd</span>
+    <span class='size14'>Roasted Pear Biscuits</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Jan 28th &amp; 30th</span>
+    <span class='size14'>Carrot Soup Buns</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Feb 4th &amp; 6th</span>
+    <span class='size14'>Buttermilk Lemon Tarts</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Feb 11th &amp; 13th</span>
+    <span class='size14'>Root Vegetable Pretzels</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Feb 18th &amp; 20th</span>
+    <span class='size14'>Mandarin Challah Twists</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Feb 25th &amp; 27th</span>
+    <span class='size14'>Cauliflower Cheese Naan</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Mar 3rd &amp; 5th</span>
+    <span class='size14'>Banana Yeast Bread</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Mar 10th &amp; 12th</span>
+    <span class='size14'>Nut-Free Petit Pain Muesli</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Mar 17th &amp; 19th</span>
+    <span class='size14'>Strawberry Rhubarb Compote Mini Tart</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Mar 24th &amp; 26th</span>
+    <span class='size14'>Artichoke Bagels</span>
+  </div>
+
+</div>
 
 </body>
 </html>
