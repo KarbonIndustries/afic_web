@@ -11,8 +11,7 @@ openContent($page);
 
 <img class="pageImg" src="photos/play_group.jpg" />
 <span class="red" style="font-size:12px">The Art Farm does not offer make-up classes for Play Group</span>
-<span class="subtitle1 gray1">Gentle Separation Program<br />
-2 year-old independent play group<br />
+<span class="subtitle1 gray1">2 Year-Old Independent Play Group<br />
 Tuesday/Thursday 9:30am-11:30am</span>
 <span class='gray1'>1 day/week </span><span class='size12 gray2'>$530</span><br />
 <span class='gray1'>2 days/week </span><span class='size12 gray2'>$1,060</span><br />
