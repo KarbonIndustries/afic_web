@@ -16,17 +16,18 @@ Tuesday/Thursday 9:30am-11:30am</span>
 <span class='gray1'>Spring 1 day/week <span class='size12 gray2'>$689</span> | 2 days/week <span class='size12 gray2'>$1,378</span></span><br />
 <span class='gray1'>Summer 1 day/week <span class='size12 gray2'>$424</span> | 2 days/week <span class='size12 gray2'>$848</span></span><br />
 
-<p class='pgraph'>All children must be 2 years old by the beginning of the enrolled
-semester. Our warm, cozy atmosphere and our nurturing staff will help your child
-to play independently and relax. And best of all, our animals will get their attention.
-All of this combined will allow your child to feel safe and get ready to play on
-their own with our teachers. Our Play Group is designed to encourage independence,
-help develop social skills, and promote interaction among the children in the group.
-this class is closed at eight 2-year-olds and two teachers. Our program is based
-on creative play, and lets children explore and enjoy our classroom with toys,
-puzzles, and blocks, as well as enjoy the parachute and familiar songs in our music
-room. They will also get a chance to create masterpieces during art, have a healthy
-snack and best of all, cuddle with our animals.</p>
+<p class='pgraph'>All children joining the program must be 2 years old by the
+beginning of the enrolled semester. Our warm, cozy atmosphere and our nurturing
+staff will help your child to play independently and relax. And best of all, our
+animals will get their attention. All of this combined will allow your child to
+feel safe and get ready to play on their own with our teachers. Our Play Group
+is designed to encourage independence, help develop social skills, and promote
+interaction among the children in the group.  this class is closed at eight
+2-year-olds and two teachers. Our program is based on creative play, and lets
+children explore and enjoy our classroom with toys, puzzles, and blocks, as well
+as enjoy the parachute and familiar songs in our music room. They will also get
+a chance to create masterpieces during art, have a healthy snack and best of all,
+cuddle with our animals.</p>
 
 <p class='gray1'>All children joining the program must be 2 years old by January 1st, 2016.</p>
 <p class='gray1'>All parents and caregivers must remain on premises.</p>
