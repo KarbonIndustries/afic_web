@@ -14,460 +14,199 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 ?>
 <!--begin content-->
 
-<div id="slideshow3">
+<h1 class='alignC margin0' style='color:#FF3333'>Join us for our camp open house<br /><span style='font-size:0.8em'>March 5th, 1pm-3pm</span></h1>
 
-</div>
+<div class='clearB high20'></div>
 
-
-<div class="clearB">
-
-<!-- =============== -->
-<!-- = WINTER CAMP = -->
-<!-- =============== -->
-
-<!--
-<span class="title2 blue2 clearB marginT20">Winter Camp 2015</span>
-<p class="pgraph">School's out but we're not! We will be offering a full day and half day camp for children ages 3-8. The children will participate in many activities including art, music with a live guitarist, cooking, animal science classes with our live animals and plenty of time to hold and pet their favorite animal. Our full day campers will also experiment with science, learn with nature, play games and burn some energy in music. Full day campers will be split into age-appropriate groups of 4-5-year-olds and older 5-8-year-olds.</p>
--->
-
-
-<!-- ========================== -->
-<!-- = COLUMBUS DAY MINI CAMP = -->
-<!-- ========================== -->
-
-<!--<div class="clearB">
-	<span id="halfDay" class="title2 blue2 clearB">Columbus Day Mini Camp</span>
-	<span class="subtitle1 gray1">Monday, October 12th</span>
-		<span class="size12 gray2">
-			Half Day 9am-12pm | 3-4 years $75/day<br />
-			Full Day 9am-3pm | 4-7 years $125/day<br />
-			Extended Full Day 3pm-5pm | 4-7 years $30/day
-		</span><br /><br />
-
-		<p class="pgraph">In 1492 Columbus sailed the ocean blue! To celebrate his discovery, The Art Farm is having a Mini Camp full of art, animals, and tons to do. Activities include music, story time, cooking, creative play, animal science, and time in our petting zoo! The Art Farm will provide a snack for all campers. Full-day campers, please bring a lunch.</p>
-
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1171901">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-
-<div class="marginT20 clearB">&nbsp;</div>-->
-
-
-<!-- ========================= -->
-<!-- = MARTIN LUTHER KING JR = -->
-<!-- ========================= -->
-
-<!--
-<div class="clearB">
-	<span id="halfDay" class="title2 blue2 clearB">Martin Luther King Jr. Day Camp 2015</span>
-	<span class="subtitle1 gray1">Monday, January 19th</span><br />
-		<span class="subtitle1 gray1 bold">Half Day Hamsters</span>
-		<span class="size12 gray2">
-			9am-12pm | 3-4 years $75/day<br />
-			Early Drop Off 8:30am-9am: $15/day
-		</span><br /><br />
-
-		<span class="subtitle1 gray1 bold">Full Day Chinchilla</span>
-		<span class="size12 gray2">
-			9am-3pm | 4-8 years $125/day<br />
-			Early Drop Off 8:30am-9am: $15/day<br />
-			Extended Day 3pm-5pm $45/day<br />
-		</span>
-		<br /><br />
-
-	<div id="" class="floatR clearfix">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=853003">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-
-<div class="marginT20 clearB">&nbsp;</div>
--->
-
-<!-- ======================== -->
-<!-- = PRESIDENT'S DAY CAMP = -->
-<!-- ======================== -->
-
-<!--
-<div class="clearB">
-	<span id="halfDay" class="title2 blue2 clearB">President's Day Camp 2015</span>
-	<span class="subtitle1 gray1">Monday, February 16th</span><br />
-		<span class="subtitle1 gray1 bold">Half Day Hamsters</span>
-		<span class="size12 gray2">
-			9am-12pm | 3-4 years $75/day<br />
-			Early Drop Off 8:30am-9am: $15/day
-		</span><br /><br />
-
-		<span class="subtitle1 gray1 bold">Full Day Chinchilla</span>
-		<span class="size12 gray2">
-			9am-3pm | 4-8 years $125/day<br />
-			Early Drop Off 8:30am-9am: $15/day<br />
-			Extended Day 3:30pm-5pm $45/day<br />
-		</span>
-		<br /><br />
-
-	<p class="pgraph bold">February 17th-19th options available. Check out our <a href="drop_in.php" class="blue2">Afternoon Kids Club</a> program</p>
-
-	<div id="" class="floatR clearfix">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=853003">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
--->
-
-<!-- <div class="marginT20 clearB">&nbsp;</div>-->
-
-<!-- ===================== -->
-<!-- = SPRING BREAK CAMP = -->
-<!-- ===================== -->
-<!--
-<div class="clearB">
-	<span class="title2 blue2">Spring Break Camp 2015</span>
-	<span class="subtitle1 gray1 bold">Week 1 March 16 - March 20</span><br />
-	<span>12:30pm - 3:30pm Afternoon Camp | 3-8 years</span><br />
-	<span class="size12 gray2">Mon - Thurs: $65/day | Full Week (Mon - Thurs): $250</span><br />
-	<br />
-	<span class="subtitle1 gray1 bold">Week 2 March 23 - March 27 (Half Day &amp; Full Day)</span>
-	<span class="subtitle1 gray1 bold">Week 3 Apr 6 - Apr 10 (Half Day &amp; Full Day)</span>
-	<br />
-	<span>9am - 12pm Half-day | 3-4 years</span><br />
-	<span class="size12 gray2">Mon - Fri: $75/day | Full Week: $325</span><br />
-	<span class="size12 gray2">8:30am - 9am Early Drop-Off $15/day</span><br />
-	<br />
-	<span>9am - 3pm Full-day | 4-8 years</span><br />
-	<span class="size12 gray2">Mon - Fri: $125/day | Full Week: $550</span><br />
-	<span class="size12 gray2">8:30am - 9am Early Drop-Off $15/day</span><br />
-	<span class="size12 gray2">3pm - 5pm Extended Day $30/day</span><br />
-	<br />
-	<p class="pgraph">Spring is in the air on the farm and we want you to join us for some fun! From  <strong>Ladybugs, baby chicks, and caterpillars to butterflies and more!</strong> All children will have an up close and personal experience with our animals in our <strong>petting zoo</strong> and be a part of live animal <strong>science</strong> classes. They will <strong>cook</strong> in our kitchen, create <strong>art</strong> masterpieces, and sing along with a guitarist during <strong>music</strong>. Since Spring will be upon us, all children will go outside every day to the <strong>park</strong> at Asphalt Green and our full-day campers will play outdoor games in Carl Shurz Park (weather-permitting). We will provide a snack for half-day campers before pick up and full-day campers please bring a nut-free lunch. We will provide snack before pick up from camp.</p>
-
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=893303">
-			<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span>
-			</div>
-		</a>
-	</div>
-</div>
-
-<div class="marginT20 clearB">&nbsp;</div>
--->
-
-<!-- ================ -->
-<!-- = HOLIDAY CAMP = -->
-<!-- ================ -->
-
-<!--
-<span id='holiday_camp' class="title2 blue2 clearB marginT20">Holiday Camp <?= date('Y')?></span>
-<span class="subtitle1 gray1">December 21, 22, 23, 28, 29, 30</span>
-<span class="subtitle1 gray1">Join us for 1, 3 or all 6 days.</span>
-<br />
-<span class="bold subtitle1 gray1">Activities for all ages include</span>
-<p class='pgraph'>Animal care, arts &amp; crafts, cooking with our amazing chef, live rockin' music, science projects, games, and a special event EVERY day!</p>
+<div id="slideshow3"></div>
 
 <div class="clearB">
-	<span id="halfDay" class="title2 rust clearB">Half Day Snowflakes Group</span>
-	<span class="subtitle1 gray1"><span>AM Session | 9:30am - 12:30pm | 3-4 years</span><br />
-	<span>PM Session | 1:00pm - 4:00pm | 3-4 years</span><br />
-	<span class='bold'>$75 per day</span><br />
-	<span>Early Drop Off 9am - 9:30am: $15/day</span></span><br />
-	<p class="pgraph"> We offer a half day camp with a warm nurturing program. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, and sing their favorite songs to live guitar.  Every day the children get to participate in a special event. We will provide a snack for your child and if your child is not fully potty trained please send him or her in pull-ups. We close the group at 15 children with 3 qualified teachers. Children must be 3 years old to join the group.</p>
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1186002&location=455804">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-<div class="clearB">
-	<span id="halfDay" class="title2 rust clearB">Full Day Peppermints Group</span>
-	<span class="subtitle1 gray1"><span>9:30am - 3:30pm | 4 - 5 years</span><br />
-	<span id="halfDay" class="title2 rust clearB">Full Day Gingerbreads Group</span>
-	<span class="subtitle1 gray1"><span>9:30am - 3:30pm | 5 - 8 years</span><br />
-	<span>$125 per day</span><br />
-	<span>Early Drop Off 9am - 9:30am: $15/day</span><br />
-	<span>Extended Day 3:30pm - 5pm $30/day.</span></span><br />
-	<p class="pgraph">Our Full day campers participate in music, art, cooking, science, nature, games, animal care, and much, much more. Every day, there will be a different special entertainer who will engage the children in fun, laughter and learning. Please send your child to camp with a lunch that is nut-free since we are a nut-free facility. We will provide the children with a snack before the end of the day. We close each group at 15 children with 3 qualified teachers.</p>
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1186002&location=455804">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-<div class="clearB" style="margin-top:15px;float:left;"></div>
--->
-
-
-<!-- ============= -->
-<!-- = JUNE CAMP = -->
-<!-- ============= -->
-
-<!--
-<div class="clearB">
-	<p class="title2 blue2">
-		<span class="title2 blue2">June Camp 2015</span>
-		<span class="subtitle1 gray1">May 26 - June 26<br />
-			9:30am - 12:30pm | 3-5 years<br />
-			<span class="size12 gray2">Mon - Fri: $425 | Mon, Wed, Fri: $275 | Tues, Thurs: $185</span><br />
-			<span class="size12 gray2">Early Drop Off 8:30am - 9am: $15/day</span>
-		</span>
-	</p>
-	<p class="pgraph">Our June camp is a pre-summer camp experience. It is a time for your children to play outside, learn about our animals, create art and enjoy cooking. All activities will revolve around weekly themes such as beach, nature, artists and more. It is the perfect transition between school and summer camp. Flexible registration done by week. You can register for 2, 3 or 5 days per week. Camp will not be running on Memorial Day.</p>
-
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=894003&location=455804" target="_blank">Register Now!</a>
-
-  <div class="clearB high30"></div>
-</div>
--->
-
 
 <!-- =============== -->
 <!-- = SUMMER CAMP = -->
 <!-- =============== -->
 
-<span class="title2 blue2 clearB marginT20">2016 Summer Camp information coming soon!</span>
-<!--
-<span class="rust size16 italic">Enjoy your city summer on our country farm!<br /><br /></span>
+<h1 class='alignC margin0' style='color:#B9C9DA'>
+  The Art Farm in The City <span style='color:#FF3333'>Summer Camp</span>
+</h1>
 
-<p class="pgraph">Our indoor eco-friendly facility offers a full day and half day camp experience for children ages 3 to 8. All children get hands on experience learning about and caring for our live animals in our award winning petting zoo. It's time for them to coo with the birds and hop with the bunnies.</p>
+<h2 class='alignC marginT0' style='color:#B9C9DA;font-weight:normal'>
+  at <span class='bold' style='color:#548FCF'>Trevor Day School</span><span
+  class='italic' style='color:#3FBB67'>, East Campus</span>
+</h2>
 
-<p class="pgraph">Camp activities include animal science/care, cooking,  crazy science experiments, nature, music, drama and outdoor play at our local parks and playgrounds, Asphalt Green and Carl Schurz Park.  All campers play outdoors every day. They have soccer twice a week with Super Soccer Stars and our full day campers swim at The 92nd St Y.</p>
+<h2 class='alignC marginT0' style='color:#548FCF;font-weight:normal'>
+  June 27 - August 19, 2016
+</h2>
 
- <p class="pgraph">Every week we focus on a different theme. All children get to experience our theme entertainers and our full day campers get to go on excursions which relate to our themes. Our art projects and many of our activities revolve around our weekly themes making camp a different experience every week.</p>
+<p class='alignC bold size20' style='color:#FF3333'>We've grown!</p>
 
-<div class="wide420 yellowBg1 size12 rust pad5 marginR10 marginB20 floatL">
-	<strong class="size16 block padB5">General Summer Camp Information:</strong>
-	<span id="list1">
-		<ul>
-			<li>Summer Camp Dates: June 29th - August 21st, <?= date('Y')?></li>
-			<li>All campers eat lunch at The Art Farm. You may either pack your child a lunch or buy one through us from Red Rabbit.</li>
-			<li>If you choose to pack your child's lunch please pack with an ice pack and <strong>no nuts</strong>. <strong>We are a nut-free environment.</strong></li>
-			<li>Groups are based on 15 children + 3 teachers</li>
-			<li>Swimming and field trips are offered to full day campers only.</li>
-			<li>Tuition is calculated by the number of weeks your child is enrolled.</li>
-			<li>We offer a 10% sibling discount.</li>
-		</ul>
-	</span>
-</div>
+<p class='alignC size16 blue2' style='width:440px;margin:auto'>We are
+excited to offer camp in a new state-of-the-art facility at the Trevor Day School
+East Campus<br />on 95th St between 1st and 2nd Ave.</p>
 
-<img src="images/sss_logo.png" />
-<img src="images/red_rabbit_logo.png" />
+<div class='clearB high20'></div>
 
-<p class='clearB'><a class='bold blue2' href='data/red_rabbit_sample_menu.pdf'>View Red Rabbit Sample Menu</a></p>
+<p class="pgraph">We will now be offering more age groups with the same exceptional
+programming we are known for. The Art Farm will be offering a full-day and half-day
+camp experience for ages 3-9 years old. All children will get hands-on experience
+learning about our live animals. Full-day groups will take walking trips to our
+indoor petting zoo several times a week and our half-day campers will receive passes
+to visit The Art Farm with their family. All campers will garden and enjoy outdoor
+activities on the terrace every day.</p>
+
+<p class='pgraph'>Every camper will enjoy cooking with us as we introduce our
+farm-to-table lessons that coincide with our gardening. Full-day campers will swim
+at the 92nd St. Y and all groups will participate in many physical activities
+including indoor soccer and games. All of our art will revolve around our
+<a class='blue2 bold' href='#weekly_themes'>weekly themes</a> which will include
+special events.</p>
+
+<p class='pgraph'>
+  <span class='bold'>Our <a class='blue2' href='#weekly_themes'>weekly themes</a>
+  include:</span> Mini Olympics, Safari Adventure, Under The Sea, Circus Mania,
+  Blast Off Into Space.
+</p>
+
+<p class='pgraph'>You may pack a lunch or purchase one. We are offering lunch
+through Red Rabbit, a healthy organic nut-free school/camp lunch program. Hot
+meals are offered for all groups for $7/day including juice or milk. Groups are
+based on 15-18 children with 3 teachers. We offer a 10% sibling discount.</p>
+
+<p class='clearB'>
+  <a class='bold blue2' href='data/red_rabbit_sample_menu.pdf'>View Red Rabbit Sample Menu</a>
+</p>
 
 <div class="clearB">
-	<span id="halfDay" class="title2 blue2 clearB">Half Day Hamsters Group</span>
+	<span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Hamsters Half Day Camp</span>
 	<span class="subtitle1 gray1">9am - 12:30pm | 3-4 years<br />
 	<span class="size12 gray2">Mon - Fri: $525 | Mon, Wed, Fri: $385 | Tues, Thurs: $275<br />
 	Early Drop Off 8:30am - 9:00am: $15/day</span></span><br />
 
-	<p class="pgraph">We offer  a half day camp with a warm nurturing program so that separation is easy. Children spend time on the farm learning about and caring for our animals. They create art masterpieces, bake goodies, sing their favorite songs and play soccer with Super Soccer Stars. The children go outside every day. Twice a week they participate in soccer at Carl Schurz Park and when they are not playing soccer they  go to the outdoor playground at Asphalt Green. Every week the children get to participate in a weekly theme event which takes place on Tuesdays and Wednesdays so all children get to enjoy the fun.  Please pack a lunch for your child and if your child is not fully potty trained please send him or her in pull-ups. <a class="rust" href="#summerChart">view schedule</a></p>
+  <p class="pgraph">We offer a half-day camp with a warm, nurturing program so that
+  separation is easy. Children will have live animal science lessons and up-close
+  encounters with our live animals daily. They will create art masterpieces, garden,
+  cook in the kitchen, and will enjoy playing musical instruments in music with
+  guitar and singing. Every day, our campers will get fresh air outside on the
+  terrace, play parachute games, water play, and more. They will also have indoor
+  soccer, yoga, and physical games to keep them busy. Every week, the children get
+  to participate in a weekly theme event which takes place on Tuesday and Wednesday
+  so all campers can participate in the fun. Please pack a lunch for your child
+  or buy one through our lunch program. Our half-day campers will remain on the
+  grounds of the Trevor Day facility during camp. Half-day campers will receive
+  passes to see the animals in The Art Farm petting zoo to go with their family
+  during the week. Passes will be granted for the equal amount of days they are
+  attending camp and they must be used within their camp week.</p>
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=789203&location=455804" target="_blank">Register Now!</a>
+  <div class="clearB high20"></div>
 
-  <div class="clearB high30"></div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1235401" target="_blank">Register Now!</a>
 </div>
 
 <div class="separator"></div>
 
 <div class="clearB">
-	<span id="fullDay" class="title2 blue2">Full Day Froggies Group</span>
-	<span class="subtitle1 gray1">9am - 3pm | 4-5 years<br />
+	<span id="fullDay" class="size20 bold" style='color:#FF3333'>Froggies</span>
+	<span class="subtitle1 gray1">9am - 3pm | 4 years<br />
 	<span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
 	Early Drop Off 8:30am - 9:00am: $15/day<br />
   Extended Day 3:00pm - 5pm $30/day</span></span><br />
 
-	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately. On Wednesdays the children have field day in Carl Schurz Park. Every week we focus on a different theme. The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
+  <p class="pgraph">Our Full-Day Froggies group is a great segue into our full-day
+  camp. Our teachers are very sweet and nurturing to help ease those entering a
+  full- day experience for the first time. They will participate in music, art,
+  cooking, animal care, science, nature, and more. Campers will also play sports
+  every day. If your child is enrolled in our camp for 5 days then your child
+  will have 2 days of swimming at the 92nd St Y and the other 3 days will be a
+  combination of sports including indoor soccer, yoga, dance, and physical games.
+  If your child is enrolled in 3 or 2 days of camp then your child will have one
+  day of swimming and the other days they will have other included sports. During
+  swim, the children will receive swim lessons instructed by Red Cross-trained
+  life guards. Your child can be a beginner in the pool or a pro. We are excited
+  to introduce gardening on the terrace this summer and we will inncorporate it
+  into our cooking lessons. Campers will also have the opportunity to eat lunch
+  outside. Our Froggies group will take a walk to visit our indoor petting zoo at
+  The Art Farm several times during the week. Every week we will focus on a different
+  theme and the children will enjoy special theme presentations on Tuesdays and
+  Wednesdays so everyone is included in the fun.</p>
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=789203&location=455804" target="_blank">Register Now!</a>
+  <div class="clearB high20"></div>
 
-  <div class="clearB high30"></div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1235401" target="_blank">Register Now!</a>
 </div>
 
 <div class="separator"></div>
 
 <div class="clearB">
-	<span class="title2 blue2">Full Day Geckos Group</span>
-	<span class="subtitle1 gray1">9am - 3pm | 5-8 years<br />
+	<span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
+	<span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 6 years | Chinchillas: 7-9 years<br />
 	<span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
 	Early Drop Off 8:30am - 9:00am: $15/day<br />
   Extended Day 3:00pm - 5pm $30/day</span></span><br />
 
-	<p class="pgraph">Our full day campers participate in music, art, cooking, animal care, science, nature and outdoor play. They also play sports every day. As the campers grow older we like to encourage independence through picking out what activities they want to participate in. Therefore, we give our Geckos group a chance to create their own schedule. The Geckos participate in electives twice a week where they get to customize their day. They can choose from jewelry making, digital photography, computer, wood working, dance, drama, animal science, sports and karaoke. Twice a week they play soccer at Carl Schurz Park instructed by Super Soccer Stars. They also swim twice a week at the 92nd Street Y, where they receive swim lessons instructed by the Red Cross trained lifeguards. Your child can be a beginner in the pool or a pro. The swim teachers will assess the children and teach lessons appropriately.  On Wednesdays the children have field day in Carl Schurz Park where they play relay races and outdoor games. Every week we focus on a different theme.  The children enjoy special theme presentations and they will also get a chance to venture out on field trips throughout the summer. <a class="rust" href="#summerChart">view schedule</a></p>
+  <p class="pgraph">Our full-day campers in these groups will be separated into
+  their own age groups. The programming will be applied to the skill level they
+  can age-appropriately handle. They will participate in music, art, cooking, animal
+  care, science, nature, and more. Campers will also play sports every day. If your
+  child is enrolled in our camp for 5 days then your child will have 2 days of swimming
+  at the 92nd St Y and the other 3 days will be a combination of sports including
+  indoor soccer, yoga, dance, and physical games. If your child is enrolled in 3
+  or 2 days of camp then your child will have one day of swimming and the other
+  days they will have other included sports. During swim, the children will receive
+  swim lessons instructed by Red Cross-trained life guards. Your child can be a
+  beginner in the pool or a pro. We are excited to introduce gardening on the terrace
+  this summer and we will incorporate it into our cooking lessons. Campers will
+  also have the oppoprtunity to eat lunch outside. Our full-day groups will take
+  a walk to visit our indoor petting zoo at The Art Farm several times during the
+  week. Children ages 5-9 will participate in electives twice a week where they
+  can customize their day and choose from jewelry making, scrapbooking, woodworking,
+  drama, sports, and digital photography. Every week we will focus on a different
+  theme and the children will enjoy special theme presentations on Tuesdays and
+  Wednesdays so everyone is included in the fun.</p>
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=789203&location=455804" target="_blank">Register Now!</a>
+  <div class="clearB high20"></div>
 
-  <div class="clearB high30"></div>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1235401" target="_blank">Register Now!</a>
 </div>
 
-<div class="marginT20 clearB">&nbsp;</div>
+<div class="separator"></div>
 
-<a name="summerChart"></a>
-<table id="" class="fullWidth marginB20 marginT15" cellpadding="0" cellspacing="1">
-	<tr class="">
-		<td class="wide130 blueBg2 white bold size13 pad5">
-			Week 1<br />
-			<span class="size12 normal">June 29th - July 3rd</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>The Big Apple and The Red, White, and Blue:</strong> We will celebrate and take pride in our city and country.
-		</td>
-  </tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 2<br />
-			<span class="size12 normal">July 6th - 10th</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>Safari Adventure:</strong> Grab your binoculars and join us as we set out on an expedition through the safari! Snakes, alligators, hedgehogs, and other exotic creatures visit The Art Farm!
-		</td>
-  </tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 3<br />
-			<span class="size12 normal">July 13th - 17th</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>Story Book Land:</strong> We will keep the spirit of childhood alive as we explore many favorite children's authors, stories and characters&hellip; and The Cat and The Hat might drop by.
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 4<br />
-			<span class="size12 normal">July 20th - 24th</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>Feelin' Frosty:</strong> As the summer sun heats up we will be cooling off as we explore arctic animals and places, experiment with ice and reconnect with our snowy friends.
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 5<br />
-			<span class="size12 normal">July 27th - 31st</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>Under the Big Top:</strong> Come one, come all! Join The Art Farm for a week of silliness and fun including face-painting, balloon animals, carnival games and tons more!
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 6<br />
-			<span class="size12 normal">August 3rd - 7th</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>S'More Fun:</strong> A camping we will go, a camping we will go&hellip; we will make s'mores, pitch a tent and learn how to rough it under the stars during this fun camping theme.
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 7<br />
-			<span class="size12 normal">August 10th - 14th</span>
-		</td>
-		<td valign="top" class="gray1 size12 pad5">
-			<strong>Barnyard Fun:</strong> Join the Barnyard Fun and meet visiting goats, sheep, ducks, and more!
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 8<br />
-			<span class="size12 normal">August 17th - 21st</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="top">
-			<strong>Rock and Roll Week:</strong> It's time to rock with the best of them as we bring camp to a close as we celebrate rock and roll and watch our rock stars come to life.
-		</td>
-	</tr>
-</table>
+<h2 id='weekly_themes'>Summer Camp Weekly Themes</h2>
 
-<span class="title2 green1">Activities</span>
-<span id="list1">
-	<ul class="gray1 size13 marginT5">
-		<li>Animal Care/Science</li>
-		<li>Cooking</li>
-		<li>Music &amp; Drama</li>
-		<li>Arts &amp; Crafts</li>
-		<li>Outdoor Play Time</li>
-		<li>Soccer with Super Soccer Stars</li>
-		<li>Swimming</li>
-		<li>Science Experiments</li>
-		<li>Nature</li>
-		<li>Special Weekly Theme Entertainers</li>
-		<li>Field Trips</li>
-		<li>more...</li>
-	</ul>
-</span>
--->
+<h3 style='margin-bottom:0'><span class='blue2'>Week 1:</span> Blast Off into Camp and Space <span style='font-weight:normal;font-size:0.8em'>(June 27 - July 1)</span></h3>
+<p class='pgraph'>We will blast off into camp and space as we explore the solar
+system and the world beyond.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 2:</span> Green Week <span style='font-weight:normal;font-size:0.8em'>(July 5 - July 8)</span></h3>
+<p class='pgraph'>Help us compost, garden, create art with recycled crafts, learn
+about our planet and to better preserve it.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 3:</span> Passport Around The World <span style='font-weight:normal;font-size:0.8em'>(July 11 - 15)</span></h3>
+<p class='pgraph'>Take a cruise around the world with us to learn about and experience
+different cultures.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 4:</span> Safari Expedition <span style='font-weight:normal;font-size:0.8em'>(July 18 - 22)</span></h3>
+<p class='pgraph'>Grab your binoculars and join us as we set out on a trip through
+the safari. Snakes, alligators, hedgehogs, and other exotic creatures will visit.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 5:</span> Under The Sea <span style='font-weight:normal;font-size:0.8em'>(July 25 - 29)</span></h3>
+<p class='pgraph'>Mermaids, shells, fish, whales and SHARKS as we explore life
+under the sea. Of course the week wouldn't be complete without some wet, wild, and
+wacky water games as we'll find plenty of ways to beat the summer heat.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 6:</span> Circus Mania <span style='font-weight:normal;font-size:0.8em'>(August 1 - 5)</span></h3>
+<p class='pgraph'>Join us for a week of silliness and fun including face painting,
+balloon animals, carnival games and more.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 7:</span> Time Machine Adventures <span style='font-weight:normal;font-size:0.8em'>(August 8 - 12)</span></h3>
+<p class='pgraph'>Jump in our time machine with us as we go to the prehistoric
+lands to visit the dinosaurs and bounce back to present time.</p>
+
+<h3 style='margin-bottom:0'><span class='blue2'>Week 8:</span> Mini Olympics <span style='font-weight:normal;font-size:0.8em'>(August 15 - 19)</span></h3>
+<p class='pgraph'>As the 2016 Summer Games and camp come to an end we will have
+our own Olympics games.</p>
 
 <div class="marginT20 clearB">&nbsp;</div>
-
-
-<!-- REMOVED 121111
-<div class="clearB">
-	<span class="title2 blue2">June Camp 2011</span>
-	<span class="subtitle1 gray1">May 23 - June 24(no camp Memorial Day)<br />
-	9:30am - 12:30pm | 3-5 years<br />
-	<span class="size12 gray2">Mon - Fri: $350 | Mon, Wed, Fri: $225 | Tues, Thurs: $150<br />
-	Tuition is calculated by the number of weeks your child is enrolled</span></span>
-	<p class="pgraph">Our June camp is a pre-summer camp experience. It is a time for your children to play outside, learn about our animals, create art and enjoy cooking. It is the perfect transition between school and summer camp.<br /><br /><span class="rust">Please see weekly themes below.</span></p>
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="register.php?d=juneCamp">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
-</div>
-<a name="juneChart"/>
-<table id="" class="fullWidth marginB20 marginT15 clearB" cellpadding="0" cellspacing="1">
-	<tr class="">
-		<td class="wide130 blueBg2 white bold size13 pad5">
-			Week 1<br />
-			<span class="size12 normal">May 23th - 27th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="middle">
-			<strong>Nature Week</strong> 
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 2<br />
-			<span class="size12 normal">May 31st - June 3rd (No Camp Memorial Day)</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="middle">
-			<strong>Safari Week</strong> 
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 3<br />
-			<span class="size12 normal">June 6th - 10th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="middle">
-			<strong>Fairytale Week</strong> 
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 4<br />
-			<span class="size12 normal">June 13th - 17th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="middle">
-			<strong>Beach Week</strong> 
-		</td>
-	</tr>
-	<tr class="">
-		<td class="blueBg2 white bold size13 pad5">
-			Week 5<br />
-			<span class="size12 normal">June 20th - 24th</span>
-		</td>
-		<td class="gray1 size12 pad5" valign="middle">
-			<strong>Artists Week</strong> 
-		</td>
-	</tr>
-</table>
--->
-
-
 
 
 <!--end content-->
