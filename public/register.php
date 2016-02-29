@@ -37,39 +37,7 @@ openContent($page, "register");
 <!--begin content-->
 
 <?php
-switch($_GET['d'])
-{
-	case "choose":
-	drawChoose();
-	break;
-	case "class":
-	drawClassForm();
-	break;
-	case "summerCamp":
-	drawSummerCampForm();
-	break;
-	case "holidayCamp":
-	drawHolidayCampForm();
-	break;
-	case "juneCamp":
-	drawJuneCampForm();
-	break;
-	case "dropIn":
-	drawDropInForm();
-	break;
-	case "playGroup":
-	drawPlayGroupForm();
-	break;
-	case "success":
-	drawSuccess();
-	break;
-	case "fail":
-	drawFailure();
-	break;
-	default:
-	drawChoose();
-	break;
-}
+drawChoose();
 ?>
 
 <!--end content-->
