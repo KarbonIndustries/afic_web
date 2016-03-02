@@ -13,6 +13,8 @@ function popup($row,$partyName)
 ?>
 <!--begin content-->
 
+<a class='bold underline__hover btn__book_party' href='https://theartfarms.a.pcsparty.com/' target='_blank'>Book Your Party Online Now!</a>
+
 <img class="block margin0" src="photos/birthday_parties_1.jpg" />
 <img class="block marginT10 marginB15" src="photos/birthday_parties_2.jpg" />
 <p class="pgraph">Give your child a party they will always remember and your guests will enjoy!</p>

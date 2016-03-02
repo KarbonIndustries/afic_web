@@ -20,10 +20,10 @@ $nextYear = $curYear + 1;
 	</script>
 	</div>
 	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignC">
-		<span class="blue2 bold marginL10">Fall 2015 Semester </span><span class="gray2">Sept 8th - Dec 19th</span><br />
-		<span class="blue2 bold marginL10">Winter 2016 Semester </span><span class="gray2">Jan 4th - Mar 26th</span><br />
-		<span class="blue2 bold marginL10">Spring 2015 Semester </span><span class="gray2">Mar 30th - Jun 19th</span><br />
-		<span class="blue2 bold marginL10"><a href='#summer' class='blue2'>Summer 2015 Semester (click to jump) </a></span><span class="gray2">Jun 29th - Aug 21st</span>
+		<span class="blue2 bold marginL10">Winter 2016 Semester</span> <span class="gray2">Jan 4th - Mar 26th</span><br />
+		<span class="blue2 bold marginL10">Spring 2016 Semester</span> <span class="gray2">Mar 28th - Jun 25th</span><br />
+		<span class="blue2 bold marginL10">Summer 2016 Semester</span> <span class="gray2">Jun 27th - Aug 19th</span><br />
+		<span class="blue2 bold marginL10">Fall 2016 Semester</span> <span class="gray2">Sept 6th - Dec 17th</span>
 	</div>
 </div>
 
@@ -49,6 +49,16 @@ $nextYear = $curYear + 1;
 			</div>
 		</div>
 		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classFarmFriends">
+				Farm Friends
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">18m - 2&frac12; years<br />
+					9:30am - 11:00am
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classPG">
 				Play Group
 			</div>
@@ -60,7 +70,7 @@ $nextYear = $curYear + 1;
 		</div>
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classFHS">
-				Fall Homeschool 2014
+				Homeschool<br />2016
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">6 - 8 years<br />
@@ -75,26 +85,6 @@ $nextYear = $curYear + 1;
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">Drop In<br />6 months+<br />
 					12:30pm - 3:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAKC">
-				Afternoon Kids Club
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2&frac12; - 6 years<br />
-					12:30pm - 3:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classACC">
-				Animal Care Class
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">3 - 4 years<br />
-					3:30pm - 4:30pm
 				</div>
 			</div>
 		</div>
@@ -128,6 +118,16 @@ $nextYear = $curYear + 1;
 			</div>
 		</div>
 		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classFarmFriends">
+				Farm Friends
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">18m - 2&frac12; years<br />
+					9:30am - 11:00am
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classPG">
 				Play Group
 			</div>
@@ -148,13 +148,14 @@ $nextYear = $curYear + 1;
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAKC">
-				Afternoon Kids Club
+			<div id="scheduleClassTitle" class="classRSA">
+				Rock, Smocks &amp; Animals
 			</div>
 			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2&frac12; - 6 years<br />
-					12:30pm - 3:30pm
+				<div id="scheduleClassTime">1 - 4 years<br />
+					3:30pm - 4:30pm
 				</div>
+				<div id="scheduleClassTime">Summer only</div>
 			</div>
 		</div>
 		<div id="scheduleClass">
@@ -163,6 +164,16 @@ $nextYear = $curYear + 1;
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">4 - 6 years<br />
+					3:30pm - 4:30pm
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classMM">
+				Mini Masterpieces
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">4 - 8 years<br />
 					3:30pm - 4:30pm
 				</div>
 			</div>
@@ -197,6 +208,16 @@ $nextYear = $curYear + 1;
 			</div>
 		</div>
 		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classAFBK">
+				Art for Busy Kids
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">2 - 4 years<br />
+					9:30am - 10:30am
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classPG">
 				Play Group
 			</div>
@@ -207,31 +228,11 @@ $nextYear = $curYear + 1;
 			</div>
 		</div>
 		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classFHS">
-				Fall Homeschool 2014
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">5 - 7 years<br />
-					11:30am - 12:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classWPT">
 				Play Time
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">Drop In<br />6 months+<br />
-					12:30pm - 3:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAKC">
-				Afternoon Kids Club
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2&frac12; - 6 years<br />
 					12:30pm - 3:30pm
 				</div>
 			</div>
@@ -256,16 +257,6 @@ $nextYear = $curYear + 1;
 				</div>
 			</div>
 		</div>
-		<!-- <div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAOTF">
-				Italian on the Farm
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">3 - 6 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div> -->
 		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classBP">
 				Birthday Parties
@@ -296,6 +287,16 @@ $nextYear = $curYear + 1;
 			</div>
 		</div>
 		<div id="scheduleClass">
+			<div id="scheduleClassTitle" class="classFarmFriends">
+				Farm Friends
+			</div>
+			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">18m - 2&frac12; years<br />
+					9:30am - 11:00am
+				</div>
+			</div>
+		</div>
+		<div id="scheduleClass">
 			<div id="scheduleClassTitle" class="classPG">
 				Play Group
 			</div>
@@ -311,16 +312,6 @@ $nextYear = $curYear + 1;
 			</div>
 			<div id="scheduleClassInfo" class="">
 				<div id="scheduleClassTime">Drop In<br />6 months+<br />
-					12:30pm - 3:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classAKC">
-				Afternoon Kids Club
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2&frac12; - 6 years<br />
 					12:30pm - 3:30pm
 				</div>
 			</div>
@@ -441,131 +432,6 @@ $nextYear = $curYear + 1;
 </div>
 <!--end of spring fall schedule shell-->
 
-<!-- =================== -->
-<!-- = SUMMER SCHEDULE = -->
-<!-- =================== -->
-<div class="floatL fullWidth">
-	<div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignL">
-		<a href='#summer' name="summer"></a>
-		<span class="blue2 bold marginL10">Summer <?= $nextYear ?> Semester </span><span class="gray2">Jun 29th - Aug 21st</span>
-	</div>
-</div>
-<div id="scheduleShell2" class="">
-<!-- ========== -->
-<!-- = MONDAY = -->
-<!-- ========== -->
-	<div id="scheduleDay" class="">
-		<div class="scheduleDayTitle">Monday</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classPG">
-				Play Group
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2 years<br />
-					2:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-	</div>
-
-<!-- =========== -->
-<!-- = TUESDAY = -->
-<!-- =========== -->
-	<div id="scheduleDay" class="">
-		<div class="scheduleDayTitle">Tuesday</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classRSA">
-				Rock, Smocks &amp; Animals
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">14 - 24 months<br />
-					2:30pm - 3:30pm
-				</div>
-				<div id="scheduleClassTime">1 - 4 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classACC">
-				Animal Care Class
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 6 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-	</div>
-
-<!-- ============= -->
-<!-- = WEDNESDAY = -->
-<!-- ============= -->
-	<div id="scheduleDay" class="">
-		<div class="scheduleDayTitle">Wednesday</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classPG">
-				Play Group
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2 years<br />
-					2:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classACC">
-				Animal Care Class
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">5 - 7 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-	</div>
-
-<!-- ============ -->
-<!-- = THURSDAY = -->
-<!-- ============ -->
-	<div id="scheduleDay" class="">
-		<div class="scheduleDayTitle">Thursday</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classRSA">
-				Rock, Smocks &amp; Animals
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2 - 3 years<br />
-					2:30pm - 3:30pm
-				</div>
-				<div id="scheduleClassTime">1 - 4 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classFF">
-				Farm Foodies
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">2 - 8 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-		<div id="scheduleClass">
-			<div id="scheduleClassTitle" class="classACC">
-				Animal Care Class
-			</div>
-			<div id="scheduleClassInfo" class="">
-				<div id="scheduleClassTime">4 - 7 years<br />
-					3:30pm - 4:30pm
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!--end of summer schedule shell-->
 
 <!--end content-->
 <?php
