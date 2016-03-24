@@ -253,7 +253,8 @@ closeHeader();
 					$350 for 15 children<br />
 					Each additional child: $10<br />
 					Maximum 25 children<br />
-					Goodie bags are available for additional fee
+					Goodie bags are available for additional fee<br />
+          Travel fee may apply
 				</td>
 			</tr>
 		</tfoot>

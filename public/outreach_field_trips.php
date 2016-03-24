@@ -35,7 +35,7 @@ openContent($page);
 
 <p>
 	July and August<br />
-	Tuesday and Wednesday from 10:00am - 11:00am
+	Monday, Tuesday, Wednesday, and Thursday from 11:30am - 12:30pm
 </p>
 
 
