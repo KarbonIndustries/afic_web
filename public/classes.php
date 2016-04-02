@@ -14,22 +14,22 @@ openContent($page);
 <!-- = ROCK, SMOCKS AND ANIMALS = -->
 <!-- ============================ -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="photos/rock_smocks_animals.jpg" />
-	<span id="rsa" class="title2 blue2">Rock, Smocks and Animals</span>
-	<span class="subtitle1 gray1">Adult Participation | Music, Art and Animals<br />14-24 months | 1-4 years mixed ages | 2-3 years<br />
+  <img class="padR10 padT10 padB10" src="photos/rock_smocks_animals.jpg" />
+  <span id="rsa" class="title2 blue2">Rock, Smocks and Animals</span>
+  <span class="subtitle1 gray1">Adult Participation | Music, Art and Animals<br />14-24 months | 1-4 years mixed ages | 2-3 years<br />
     <span class="size12 gray2">Spring: $494 | Summer: $304</span>
     <span class='classCTA01'>Book Your Free Trial Today</span><br />
     <a class="rust" href="schedule.php">View Schedule</a><br />
-	</span>
-	<p class='pgraph'>Join us on an animal adventure as we jump with the frogs and hop with the bunnies and learn about a new animal every week. We start out groovin' to the guitar, bouncing with the balls and dancing with our friends as we sing along with all types of instruments. As we wait with anticipation to meet the star of the show, "The Animal of The Week", we play and learn with toys that are similar to our animal visitor and just before he comes we settle down for a story. Once our special animal appears we get to touch, enjoy, and hear all about him. Every other week we pull out the paint, glue, feathers, sand and more as we create an animal masterpiece of our own. This one-of-a-kind class isn't over until you meet all of our friends in our indoor petting zoo.</p>
+  </span>
+  <p class='pgraph'>Join us on an animal adventure as we jump with the frogs and hop with the bunnies and learn about a new animal every week. We start out groovin' to the guitar, bouncing with the balls and dancing with our friends as we sing along with all types of instruments. As we wait with anticipation to meet the star of the show, "The Animal of The Week", we play and learn with toys that are similar to our animal visitor and just before he comes we settle down for a story. Once our special animal appears we get to touch, enjoy, and hear all about him. Every other week we pull out the paint, glue, feathers, sand and more as we create an animal masterpiece of our own. This one-of-a-kind class isn't over until you meet all of our friends in our indoor petting zoo.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
-	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
-	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+  <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
+  <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
+  <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
-	<div class="clearB high60"></div>
+  <div class="clearB high60"></div>
 </div>
 
 
@@ -37,9 +37,9 @@ openContent($page);
 <!-- = FARM FRIENDS = -->
 <!-- ================ -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="photos/farm_friends.jpg" />
-	<span id="rsa" class="title2 blue2">Farm Friends</span>
-	<span class="subtitle1 gray1">9:30am - 11:00am | 18 months to 2&frac12; years<br />
+  <img class="padR10 padT10 padB10" src="photos/farm_friends.jpg" />
+  <span id="rsa" class="title2 blue2">Farm Friends</span>
+  <span class="subtitle1 gray1">9:30am - 11:00am | 18 months to 2&frac12; years<br />
     <span class="size12 gray2">Spring: $624 | Summer: $384</span>
   </span>
   <p class='pgraph'>Is your child ready for a longer class? Our Farm Friends, hour
@@ -54,12 +54,12 @@ openContent($page);
   will end with meeting a new animal every week and free time in our petting zoo.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
-	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
-	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+  <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
+  <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
+  <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
-	<div class="clearB high60"></div>
+  <div class="clearB high60"></div>
 </div>
 
 
@@ -67,10 +67,10 @@ openContent($page);
 <!-- = ART FOR BUSY KIDS = -->
 <!-- ===================== -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="images/afbk_logo.png" />
-	<span id="rsa" class="title2 blue2">Art for Busy Kids</span>
-	<span class="subtitle1 gray1">Wednesday: 9:30am - 10:30am | 2-4 years<br />
-	<span class="size12 gray2">Spring: $416 | Summer: $256</span></span>
+  <img class="padR10 padT10 padB10" src="images/afbk_logo.png" />
+  <span id="rsa" class="title2 blue2">Art for Busy Kids</span>
+  <span class="subtitle1 gray1">Wednesday: 9:30am - 10:30am | 2-4 years<br />
+  <span class="size12 gray2">Spring: $416 | Summer: $256</span></span>
   <p class='pgraph'>Join us for exploration and play through art. We will begin
   with open art time where the children will be invited to explore painting with
   different mediums and objects on a large piece of paper with their class. We
@@ -85,12 +85,12 @@ openContent($page);
   zoo.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
-	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
-	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+  <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
+  <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
+  <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
-	<div class="clearB high60"></div>
+  <div class="clearB high60"></div>
 </div>
 
 
@@ -98,8 +98,8 @@ openContent($page);
 <!-- = ANIMAL CARE CLASS = -->
 <!-- ===================== -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="photos/animal_care.jpg" />
-	<span id="acc" class="title2 blue2">Animal Care Class</span>
+  <img class="padR10 padT10 padB10" src="photos/animal_care.jpg" />
+  <span id="acc" class="title2 blue2">Animal Care Class</span>
     <span class="subtitle1 gray1">After-school program<br />4-7 years<br />
     <span class="size12 gray2">Spring: $494 | Summer: $304</span>
     <span class='classCTA01'>Book Your Free Trial Today</span><br />
@@ -117,12 +117,12 @@ openContent($page);
   responsibility for all living creatures.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
-	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
-	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+  <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
+  <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
+  <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
-	<div class="clearB high60"></div>
+  <div class="clearB high60"></div>
 </div>
 
 
@@ -130,11 +130,11 @@ openContent($page);
 <!-- = MINI MASTERPIECES = -->
 <!-- ===================== -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="photos/mini_masterpieces.jpg" />
-	<span id="acc" class="title2 blue2">Mini Masterpieces</span>
-	<span class="subtitle1 gray1">After-school program<br />
-	<span class="subtitle1 gray1">Tuesday: 3:30pm - 4:30pm | 4-8 years<br />
-	<span class="size12 gray2">Spring: $455 | Summer: $256</span></span>
+  <img class="padR10 padT10 padB10" src="photos/mini_masterpieces.jpg" />
+  <span id="acc" class="title2 blue2">Mini Masterpieces</span>
+  <span class="subtitle1 gray1">After-school program<br />
+  <span class="subtitle1 gray1">Tuesday: 3:30pm - 4:30pm | 4-8 years<br />
+  <span class="size12 gray2">Spring: $455 | Summer: $256</span></span>
   <p class='pgraph'>In this unique art class, students will focus on a different
   famous artist every week. We will explore their techniques and masterpieces before
   we create our own. Children will be introduced to different mediums such as acrylic
@@ -143,12 +143,12 @@ openContent($page);
   their own pieces of art.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
-	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
-	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+  <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
+  <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
+  <!--<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>-->
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
-	<div class="clearB high60"></div>
+  <div class="clearB high60"></div>
 </div>
 
 
@@ -156,17 +156,17 @@ openContent($page);
 <!-- = FARM FOODIES COOKING CLASS = -->
 <!-- ============================== -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="photos/farm_foodies.jpg" />
-	<span id="ff" class="title2 blue2">Farm Foodies Cooking Class</span>
+  <img class="padR10 padT10 padB10" src="photos/farm_foodies.jpg" />
+  <span id="ff" class="title2 blue2">Farm Foodies Cooking Class</span>
 <!--
-	<span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
+  <span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
 -->
-	<span class="subtitle1 gray1">After-school program<br />
-		Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
-	    Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
-		<a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=480,height=400,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
-		<span class="size12 gray2">Drop In: $40 | Winter: $468 | Spring: $507 | Summer: $312 | Fall: $585</span><br />
-	</span>
+  <span class="subtitle1 gray1">After-school program<br />
+    Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
+      Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
+    <a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=480,height=400,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
+    <span class="size12 gray2">Drop In: $40 | Winter: $468 | Spring: $507 | Summer: $312 | Fall: $585</span><br />
+  </span>
   <p class='pgraph'>Farm Fresh and Seasonal! Finally your child can enjoy a cooking
   class where they learn about the basics of cooking and the importance of fresh
   ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche,
@@ -176,12 +176,12 @@ openContent($page);
   while developing their taste buds for food fresh from the farm.</p>
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
-	<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
-	<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-	<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+  <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
+  <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
+  <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
   <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
-	<div class="clearB high60"></div>
+  <div class="clearB high60"></div>
 </div>
 
 
@@ -189,13 +189,14 @@ openContent($page);
 <!-- = HOMESCHOOL = -->
 <!-- ============== -->
 <div class="clearB">
-	<img class="padR10 padT10 padB10" src="photos/fall_homeschool_2014.jpg" />
-	<span id="ff" class="title2 blue2">Winter Home School 2016</span>
-	<span class="subtitle1 gray1">
-		Monday: 11:30am - 12:30pm | 5 - 8 years<br />
-		Jan 25th - Mar 21st<br />
-		<span class ="size12 gray2">8-week semester: $160</span><br />
-	</span>
+  <img class="padR10 padT10 padB10" src="photos/fall_homeschool_2014.jpg" />
+  <span id="ff" class="title2 blue2">Spring Home School 2016</span>
+  <span class="subtitle1 gray1">
+    Monday: 11:30am - 12:30pm | 5 - 8 years<br />
+    Apr 11th - Jun 13th<br />
+    <span class='notice__red'>No class Apr 18th or May 30th</span><br />
+    <span class ="size12 gray2">8-week semester: $160</span><br />
+  </span>
   <p class='pgraph'>Children will be able to have a hands-on living science education
   at The Art Farm! Each week, your child will be introduced to a world filled with
   amazing animals as they participate in multi-sensory activities as well as encounters
@@ -209,11 +210,11 @@ openContent($page);
   animals. The children will also learn animal handling skills and create enrichment
   toys for the animal.</p>
 
-	<div class="clearB high20"></div>
+  <div class="clearB high20"></div>
 
-	<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1234103&session=12607203" target="_blank">Register Now!</a>
+  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1426403&location=455804" target="_blank">Register Now!</a>
 
-	<div class="clearB high30"></div>
+  <div class="clearB high30"></div>
 </div>
 
 
