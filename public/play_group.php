@@ -38,7 +38,7 @@ cuddle with our animals.</p>
 <h3 class='register_heading'>Choose a semester to register now!</h3>
 <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504" target="_blank">Summer</a>
+<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
 <a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
 
 <div class="clearB high60"></div>
