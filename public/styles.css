@@ -460,3 +460,9 @@ a.abaLinks:hover{color: #326BBC !important;}
 #modal_content .activity p{font-size:0.8em}
 .vex.vex-theme-default .vex-close.winter_modal_close{right:-17px;top:-17px}
 .vex.vex-theme-default .vex-close.winter_modal_close:before{background:#E0E0E0}
+
+
+.list_item__testimonials{border:1px solid #C4CBD4;border-radius:2px;margin-bottom:25px;box-shadow:0 2px 2px 0px rgba(0,0,0,0.1);position:relative;}
+.list_item__testimonials .testimonial__name{background:#E8EEF6;margin:0;padding:0.5em;color:#9BAAC0;font-weight:normal;text-shadow:0 1px 0px #FFFFFF,0 -1px 0px #657386;border-top:1px solid #F0F4F9;}
+.list_item__testimonials .testimonial__content{color:#68717D;font-size:1em;line-height:1.6;margin:0;padding:1em;letter-spacing:0.015em;}
+.list_item__testimonials .testimonial__date{display:inline-block;position:absolute;top:0;right:0;color:#68717D;padding:1.5em;letter-spacing:0.015em;}
