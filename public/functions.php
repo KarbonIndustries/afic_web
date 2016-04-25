@@ -224,6 +224,7 @@ function drawHomePanel()
       <li><a class="mpUp" href="membership.php">Membership</a></li>
       <li><a class="mpUp" href="tour.php">Farm Tour</a></li>
       <li><a class="mpUp" href="https://campscui.active.com/orgs/TheArtFarminTheCity">Register Today!</a></li>
+      <li><a class="mpUp" href="testimonials.php">Testimonials</a></li>
     </ul>
     <div id="menuPanelInfo">
       <span class="block">The Art Farm in The City</span>
@@ -248,15 +249,16 @@ function drawHomePanel()
 
 function drawPanel($page)
 {
-  $actByAge =   "mpUp";
-  $schedule =   "mpUp";
-  $membership = "mpUp";
-  $tour =     "mpUp";
-  $register =   "mpUp";
+  $actByAge     = "mpUp";
+  $schedule     = "mpUp";
+  $membership   = "mpUp";
+  $tour         = "mpUp";
+  $register     = "mpUp";
+  $testimonials = "mpUp";
   
   switch ($page)
   {
-      case "actByAge":
+    case "actByAge":
     $actByAge = "mpOver";
     break;
     case "schedule":
@@ -270,6 +272,9 @@ function drawPanel($page)
     break;
     case "register":
     $register = "mpOver";
+    break;
+    case "testimonials":
+    $testimonials = "mpOver";
     default:
     break;
   }
@@ -282,7 +287,7 @@ function drawPanel($page)
       <li><a class="' . $membership . '" href="membership.php">Membership</a></li>
       <li><a class="' . $tour . '" href="tour.php">Farm Tour</a></li>
       <li><a class="' . $register . '" href="https://campscui.active.com/orgs/TheArtFarminTheCity">Register Today!</a></li>
-     <!--<li><a class="' . $register . '" href="register.php?d=choose">Register Today!</a></li>-->
+      <li><a class="' . $testimonials . '" href="testimonials.php">Testimonials</a></li>
     </ul>
     <div id="menuPanelInfo">
       <span class="block">The Art Farm in The City</span>

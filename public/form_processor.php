@@ -10,8 +10,6 @@ $mailerAddress = 'noreply@theartfarms.org'; //server domain
 $afDomain = 'http://www.theartfarms.org/afic/'; //url for logo link
 $afLogo = 'http://www.theartfarms.org/afic/images/artfarm_logo.png'; //logo url
 
-#$afEmail = 'sidekick2rida@gmail.com'; //who the data gets sent to
-#$afEmail2 = 'shammel.lee@gmail.com'; //who the data gets sent to
 $afEmail = 'frontdesk@theartfarms.org'; //who the data gets sent to
 $afEmail2 = 'artfarminthecityregs@gmail.com'; //who the data gets sent to
 $to;
@@ -587,8 +585,6 @@ function infoEnd2()
 	newRow('TOTAL','=>','$ ' . $data['total']);
 	$message.= msgFoot();
 }
-
-// echo $message;
 
 if($data['childFirstName'] != '')
 {
