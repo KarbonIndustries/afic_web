@@ -17,7 +17,7 @@ openContent($page);
 	<span class="block marginB10 size14 gray2">Plan a trip to our indoor petting zoo or have our animals visit your school! View our brochure to find out how your students can have up-close encounters with live animals!</span>
 
 <object style="height: 390px; width: 640px"><param name="movie" value="http://www.youtube.com/v/_jfGW2wRMy4?version=3&feature=player_detailpage"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><embed src="http://www.youtube.com/v/_jfGW2wRMy4?version=3&feature=player_detailpage" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="360"></object>
-<a style="background:#007AFF;border:1px solid #006BE0;border-radius:20px;color:#FFFFFF;display:block;font-weight:bold;margin-top:15px;padding:7px;text-align:center;width:120px;" href="./data/af_outreach_brochure_2011.pdf">View Brochure</a>
+<a style="background:#007AFF;border:1px solid #006BE0;border-radius:20px;color:#FFFFFF;display:block;font-weight:bold;margin-top:15px;padding:7px;text-align:center;width:120px;" href="./data/af_outreach_brochure.pdf">View Brochure</a>
 </div>
 
 
