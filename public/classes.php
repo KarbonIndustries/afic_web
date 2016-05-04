@@ -16,7 +16,8 @@ openContent($page);
 <div class="clearB">
   <img class="padR10 padT10 padB10" src="photos/rock_smocks_animals.jpg" />
   <span id="rsa" class="title2 blue2">Rock, Smocks and Animals</span>
-  <span class="subtitle1 gray1">Adult Participation | Music, Art and Animals<br />14-24 months | 1-4 years mixed ages | 2-3 years<br />
+  <span class="subtitle1 gray1">Adult Participation | Music, Art and Animals<br />
+    14-24 months | 1-4 years mixed ages | 2-3 years<br />
     <span class="size12 gray2">Spring: $494 | Summer: $304</span>
     <span class='classCTA01'>Book Your Free Trial Today</span><br />
     <a class="rust" href="schedule.php">View Schedule</a><br />
@@ -39,7 +40,8 @@ openContent($page);
 <div class="clearB">
   <img class="padR10 padT10 padB10" src="photos/farm_friends.jpg" />
   <span id="rsa" class="title2 blue2">Farm Friends</span>
-  <span class="subtitle1 gray1">9:30am - 11:00am | 18 months to 2&frac12; years<br />
+  <span class="subtitle1 gray1">90-minute Adult and Me pre-school prep class<br />
+    9:30am - 11:00am | 18 months to 2&frac12; years<br />
     <span class="size12 gray2">Spring: $624 | Summer: $384</span>
   </span>
   <p class='pgraph'>Is your child ready for a longer class? Our Farm Friends, hour
