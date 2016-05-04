@@ -14,10 +14,6 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 ?>
 <!--begin content-->
 
-<h1 class='alignC margin0' style='color:#FF3333'>Join us for our camp open house<br /><span style='font-size:0.8em'>March 5th, 1pm-3pm</span></h1>
-
-<div class='clearB high20'></div>
-
 <div id="slideshow3"></div>
 
 <div class="clearB">
@@ -139,7 +135,7 @@ based on 15-18 children with 3 teachers. We offer a 10% sibling discount.</p>
 
 <div class="clearB">
 	<span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
-	<span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 6 years | Chinchillas: 7-9 years<br />
+	<span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 5 - 6 years | Chinchillas: 7-9 years<br />
 	<span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
 	Early Drop Off 8:30am - 9:00am: $15/day<br />
   Extended Day 3:00pm - 5pm $30/day</span></span><br />
