@@ -85,7 +85,7 @@ openContent($page);
 
 	<p class='pgraph'>
 		$20 per child per visit or buy a pass<br />
-		$150 per 10 visit Play Date pass - multiple children can use this pass. $50 savings! Expires June 19, 2016<br />
+		$150 per 10 visit Play Date pass - multiple children can use this pass. $50 savings! Expires 1 year after purchase<br />
 	</p>
 	<!--<p class="pgraph">*Art Farm members receive 20% off current client package</p>-->
 
@@ -160,7 +160,7 @@ openContent($page);
 <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
 <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
-<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
+<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1444902&location=455804" target="_blank">Fall</a>
 
 </div>
 

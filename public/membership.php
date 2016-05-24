@@ -120,9 +120,7 @@ openContent($page, "membership");
   </tr>
 </table>
 
-<p class='pgraph rust'>If your are buying a holiday gift certificate, it will be attached to your email confirmation after purchase.</p>
-
-<p><a href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&amp;RF=8909289&amp;mode=0"><img src="images/af_mbutton.jpg" alt="" width="179" height="47" border="0" align="top" /></a></p>
+<p><a href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1482102&location=455804"><img src="images/af_mbutton.jpg" alt="" width="179" height="47" border="0" align="top" /></a></p>
 
 <!--end content-->
 <?php
