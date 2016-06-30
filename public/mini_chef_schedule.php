@@ -10,63 +10,43 @@ closeHeader();
 <div class='pad10'>
 
   <div class='marginB5'>
-    <span class="bold blue2">Apr 7 &amp; 9</span>
-    <span class='size14'>Red Tomato Brioche and Mozzarella</span>
+    <span class="bold blue2">Jun 30</span>
+    <span class='size14'>Red, White, Blue Spring Rolls &amp; Strawberry Mint Pesto</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Apr 14 &amp; 16</span>
-    <span class='size14'>Strawberry Cookie Tart</span>
+    <span class="bold blue2">Jul 7</span>
+    <span class='size14'>Green Pizza Pops &amp; Summer Tomatoes</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Apr 21 &amp; 23</span>
-    <span class='size14'>Artichoke Chickpea Crackers</span>
+    <span class="bold blue2">Jul 14</span>
+    <span class='size14'>Melon Matcha Cookie Bites</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Apr 28 &amp; 30</span>
-    <span class='size14'>Mango Lemon Madeleine</span>
+    <span class="bold blue2">Jul 21</span>
+    <span class='size14'>Grilled Corn &amp; Cheddar Flatbread</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">May 5 &amp; 7</span>
-    <span class='size14'>Mother's Day - Raspberry Pink Cake</span>
+    <span class="bold blue2">Jul 28</span>
+    <span class='size14'>Peaches &amp; Honey Challah</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">May 12 &amp; 14</span>
-    <span class='size14'>Blueberry Hand Pie</span>
+    <span class="bold blue2">Aug 4</span>
+    <span class='size14'>Summer Squash Falafel</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">May 19 &amp; 21</span>
-    <span class='size14'>Green Biscuits</span>
+    <span class="bold blue2">Aug 11</span>
+    <span class='size14'>Vanilla Plum Cookie Tarts</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">May 26 &amp; 28</span>
-    <span class='size14'>Blackberry Ricotta Cubes</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">June 2 &amp; 4</span>
-    <span class='size14'>Fresh Corn Foccacia</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">June 9 &amp; 11</span>
-    <span class='size14'>Peach Pull-Apart Mini Breads</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">June 16 &amp; 18</span>
-    <span class='size14'>Father's Day - Cheezy Avocado Pretzels</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">June 23 &amp; 25</span>
-    <span class='size14'>Cherry Pop Tarts</span>
+    <span class="bold blue2">Aug 18</span>
+    <span class='size14'>Spinach Pita Chips &amp; Tzatziki</span>
   </div>
 
 </div>

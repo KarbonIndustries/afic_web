@@ -160,9 +160,7 @@ openContent($page);
 <div class="clearB">
   <img class="padR10 padT10 padB10" src="photos/farm_foodies.jpg" />
   <span id="ff" class="title2 blue2">Farm Foodies Cooking Class</span>
-<!--
-  <span class="red" style="font-size:12px;">No Saturday classes June 27th - September 5th</span>
--->
+  <span class='notice__yellow'>No Saturday classes during Summer. Classes will resume after Labor Day!</span><br />
   <span class="subtitle1 gray1">After-school program<br />
     Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
       Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
@@ -196,7 +194,6 @@ openContent($page);
   <span class="subtitle1 gray1">
     Monday: 11:30am - 12:30pm | 5 - 8 years<br />
     Apr 11th - Jun 13th<br />
-    <span class='notice__red'>No class May 30th</span><br />
     <span class ="size12 gray2">8-week semester: $160</span><br />
   </span>
   <p class='pgraph'>Children will be able to have a hands-on living science education
