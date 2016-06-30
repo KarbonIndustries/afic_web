@@ -77,6 +77,7 @@ openContent($page);
 <!-- ================== -->
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
+  <span class='notice__red'>We will be closed Monday, July 4th. Have a safe, happy holiday!</span><br />
 	<span class="subtitle1 gray1">
 		6 months+<br />
 		Monday - Thursday | 12:30pm - 3:30pm<br />
@@ -85,7 +86,7 @@ openContent($page);
 
 	<p class='pgraph'>
 		$20 per child per visit or buy a pass<br />
-		$150 per 10 visit Play Date pass - multiple children can use this pass. $50 savings! Expires June 19, 2016<br />
+		$150 per 10 visit Play Date pass - multiple children can use this pass. $50 savings! Expires 1 year after purchase<br />
 	</p>
 	<!--<p class="pgraph">*Art Farm members receive 20% off current client package</p>-->
 
@@ -126,6 +127,7 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
+  <span class='notice__red'>We will be closed July 2nd and 3rd. Have a safe, happy holiday!</span><br />
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
@@ -160,7 +162,7 @@ openContent($page);
 <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
 <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
-<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
+<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1444902&location=455804" target="_blank">Fall</a>
 
 </div>
 

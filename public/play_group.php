@@ -15,6 +15,7 @@ openContent($page);
 Monday, Tuesday, Wednesday, or Thursday 9:30am-11:30am</span>
 <span class='gray1'>Spring 1 day/week <span class='size12 gray2'>$689</span> | 2 days/week <span class='size12 gray2'>$1,378</span></span><br />
 <span class='gray1'>Summer 1 day/week <span class='size12 gray2'>$424</span> | 2 days/week <span class='size12 gray2'>$848</span></span><br />
+<span class='gray1'>Fall 1 day/week <span class='size12 gray2'>$848</span> | 2 days/week <span class='size12 gray2'>$1,696</span></span><br />
 
 <p class='pgraph'>All children joining the program must be 2 years old by the
 beginning of the enrolled semester. Our warm, cozy atmosphere and our nurturing
@@ -39,7 +40,7 @@ cuddle with our animals.</p>
 <a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804" target="_blank">Winter</a>
 <a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
 <a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
-<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=986404" target="_blank">Fall</a>
+<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1444902&location=455804" target="_blank">Fall</a>
 
 <div class="clearB high60"></div>
 
