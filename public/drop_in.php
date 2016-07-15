@@ -77,7 +77,6 @@ openContent($page);
 <!-- ================== -->
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
-  <span class='notice__red'>We will be closed Monday, July 4th. Have a safe, happy holiday!</span><br />
 	<span class="subtitle1 gray1">
 		6 months+<br />
 		Monday - Thursday | 12:30pm - 3:30pm<br />
@@ -127,7 +126,6 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-  <span class='notice__red'>We will be closed July 2nd and 3rd. Have a safe, happy holiday!</span><br />
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
