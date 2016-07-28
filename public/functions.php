@@ -307,26 +307,45 @@ function drawPreschoolPanel()
 {
   echo <<<C
   <div id="preschoolPanel" class="">
-    <span class="bold rust block">Two's Program<br />The Bunnies Class</span>
+    <span class="bold rust block">Two's Program<br />
+    Half-Day Morning<br />
+    The Bunnies Class</span>
     <span class="gray2 size11">ages 2.3 - 2.9 years by Sept. 1st<br />
     Tuesday/Thursday<br />
-    9:30am - 12:00pm</span>
-    
-    <span class="bold rust block marginT10">Three's Program<br />The Turtles Class</span>
-    <span class="gray2 size11">ages 2.10 - 3.6 years by Sept. 1st<br />
-    Monday/*Wednesday<br />
-    9:30am - 12:00pm</span>
+    9:30am - 12:00pm<br />
+    or 9:00am - 12:00pm</span>
 
-    <span class='gray2 size11 block marginT10'>*Third day option available on Friday</span>
+    <span class="bold rust block marginT10">Three's Program<br />
+    Half-Day Morning<br />
+    The Turtles Class for children born in 2013</span>
+    <span class="gray2 size11">Monday/Wednesday<br />
+    or 3-day Monday/Wednesday/Friday<br />
+    9:30am - 12:00pm<br />
+    or 9:00am - 12:00pm</span>
 
-    <span class="bold rust block marginT10">Tuition</span>
-    <span class="gray2 size11">The 2's or 3's Full Year<br />
-    2-Day/week program is $6,250</span>
+    <span class="bold rust block marginT10">Four's Program<br />
+    Half-Day Afternoon<br />
+    The Doves Class for children born in 2012</span>
+    <span class="gray2 size11">Monday - Thursday Afternoon<br />
+    12:30pm - 3:30pm<br />
+    or Monday - Thursday Afternoon<br />
+    and Friday Morning
+    9:00am - 12:00pm<br />
+    <span class='bold'>Director will assist with kindergarten admissions</span>
+    </span>
 
-    <span class="bold rust block marginT10">How to Apply</span>
-    <span class="gray2 size11"><a class='blue2 bold' href='http://theartfarms.org/afic/data/preschool_application_2016_2017.pdf'>Click here</a> for application<br />
-    Please submit application via email to <a class='blue2 bold' href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#110;&#97;&#64;&#116;&#104;&#101;&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#115;&#46;&#111;&#114;&#103;'>&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#110;&#97;&#64;&#116;&#104;&#101;&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#115;&#46;&#111;&#114;&#103;</a> or via mail attention: <span class='bold' style='white-space:nowrap'>Pre-school&nbsp;Admissions</span>.<br />
-    After application is received, we will contact you to set up a tour with our director.</span>
+    <div class='marginT10'></div>
+
+    <span class="gray2 size14">
+      <a class='blue2 bold' href='data/class_schedule_and_tuition.pdf'>Click here</a> for pricing<br />
+    </span>
+
+    <div class='marginT5'></div>
+
+    <span class="gray2 size14">
+      Please contact us for an application<br />
+       <span class='bold'>&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#110;&#121;&#99;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</span>
+    </span>
 
   </div>
   <!--end of panel-->
