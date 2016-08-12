@@ -11,6 +11,11 @@ openPreschoolContent($page);
 
 <img class='pageImg' src='photos/preschool.jpg' />
 
+<h1 class='title2 blue2 alignC'>Preschool Open House</h1>
+<p class='subtitle1 alignC'>Wednesday, August 17th</p>
+<p class='subtitle1 alignC'>5:30pm - 7:30pm</p>
+<p class='subtitle1 alignC'>74th St. location: 351 E. 74th St.</p>
+
 <div class="">
 
   <span class='title2 blue2 marginB10'>One of a kind program&hellip;</span>
