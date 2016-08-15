@@ -162,6 +162,7 @@ openContent($page);
   <span id="ff" class="title2 blue2">Farm Foodies Cooking Class</span>
   <span class='notice__yellow'>No Saturday classes during Summer. Classes will resume after Labor Day!</span><br />
   <span class="subtitle1 gray1">After-school program<br />
+    Thursday: 11:30am - 12:30pm | 2-8 years mixed ages<br />
     Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
       Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
     <a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=480,height=400,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
@@ -190,10 +191,10 @@ openContent($page);
 <!-- ============== -->
 <div class="clearB">
   <img class="padR10 padT10 padB10" src="photos/fall_homeschool_2014.jpg" />
-  <span id="ff" class="title2 blue2">Spring Home School 2016</span>
+  <span id="ff" class="title2 blue2">Fall Home School 2016</span>
   <span class="subtitle1 gray1">
     Monday: 11:30am - 12:30pm | 5 - 8 years<br />
-    Apr 11th - Jun 13th<br />
+    September 12th - November 21st<br />
     <span class ="size12 gray2">8-week semester: $160</span><br />
   </span>
   <p class='pgraph'>Children will be able to have a hands-on living science education
@@ -211,7 +212,9 @@ openContent($page);
 
   <div class="clearB high20"></div>
 
-  <a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1426403&location=455804" target="_blank">Register Now!</a>
+  <a id="" class="register_btn register_btn__now"
+    href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1582601&location=455804"
+    target="_blank">Register Now!</a>
 
   <div class="clearB high30"></div>
 </div>

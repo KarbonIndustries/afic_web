@@ -23,7 +23,7 @@ $nextYear = $curYear + 1;
 		<span class="blue2 bold marginL10">Winter 2016 Semester</span> <span class="gray2">Jan 4th - Mar 26th</span><br />
 		<span class="blue2 bold marginL10">Spring 2016 Semester</span> <span class="gray2">Mar 28th - Jun 25th</span><br />
 		<span class="blue2 bold marginL10">Summer 2016 Semester</span> <span class="gray2">Jun 27th - Aug 19th</span><br />
-		<span class="blue2 bold marginL10">Fall 2016 Semester</span> <span class="gray2">Sept 6th - Dec 17th</span>
+		<span class="blue2 bold marginL10">Fall 2016 Semester</span> <span class="gray2">Sept 6th - Dec 23rd</span>
 	</div>
 </div>
 
@@ -331,6 +331,9 @@ $nextYear = $curYear + 1;
 				Farm Foodies
 			</div>
 			<div id="scheduleClassInfo" class="">
+				<div id="scheduleClassTime">2 - 8 years<br />
+					11:30am - 12:30pm
+				</div>
 				<div id="scheduleClassTime">2 - 8 years<br />
 					3:30pm - 4:30pm
 				</div>
