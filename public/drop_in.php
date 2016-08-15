@@ -151,6 +151,7 @@ openContent($page);
 	<span id="mc" class="block bold size18 blue2">Farm Foodies Cooking Class</span>
 	<span class="subtitle1 rust">
 	<span class="subtitle1 gray1">After-school/weekend program<br />
+    Thursday: 11:30am - 12:30pm | 2-8 years mixed ages<br />
 		Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
 		Saturday 9am - 10am | 2 - 8 years<br />
 	</span>
