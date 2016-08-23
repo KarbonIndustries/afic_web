@@ -195,7 +195,7 @@ openContent($page);
   <span class="subtitle1 gray1">
     Monday: 11:30am - 12:30pm | 5 - 8 years<br />
     September 12th - November 21st<br />
-    <span class ="size12 gray2">8-week semester: $160</span><br />
+    <span class ="size12 gray2">10-week semester: $250</span><br />
   </span>
   <p class='pgraph'>Children will be able to have a hands-on living science education
   at The Art Farm! Each week, your child will be introduced to a world filled with
