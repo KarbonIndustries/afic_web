@@ -52,7 +52,7 @@ drawActivitiesMenu();
 		<div id="featured">
 			<img src="photos/featured/featured_camp_classes_150923.jpg" />
 			<span class="size14 bold green1 block padB5">
-				Join us for your Winter programs today!
+				Classes
 			</span>
 			<span class="smallCopy">
 				Join us for a one-of-a-kind class in music, animals, art, cooking, and
