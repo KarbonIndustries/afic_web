@@ -27,7 +27,7 @@ For questions or concerns regarding animal outreach for birthday parties, school
 
 <div class="gray2 marginB15">
 <div id="" class="size16 bold blue2">The Art Farm in The City Director</div>
-To speak with the director, you can email Valentina Van Hise<br /><a class="rust" href="mailto:val@theartfarms.org">val@theartfarms.org</a>
+To speak with the director, you can email Valentina Van Hise<br /><a class="rust" href="mailto:artfarmnyc@gmail.com">artfarmnyc@gmail.com</a>
 </div>
 
 <div class="gray2">
