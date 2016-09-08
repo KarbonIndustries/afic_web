@@ -77,7 +77,6 @@ openContent($page);
 <!-- ================== -->
 <div class="clearB">
 	<span id="wpt" class="block bold size18 blue2">Open Play Time</span>
-  <span class='notice__red'>We will be closed from August 22nd to September 5th, preparing for our fall programs.</span>
 	<span class="subtitle1 gray1">
 		6 months+<br />
 		Monday - Thursday | 12:30pm - 3:30pm<br />
@@ -103,7 +102,6 @@ openContent($page);
 <!-- =============== -->
 <div class="clearB">
 	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-  <span class='notice__red'>We will be closed from August 22nd to September 5th, preparing for our fall programs.</span>
 	<span class="subtitle1 gray1">18 months+<br />
 		Friday 9:30am - 12:00pm<br />
 		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
@@ -128,7 +126,6 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
 	<span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-  <span class='notice__red'>We will be closed Labor Day weekend. Enjoy your holiday!</span>
 	<span class="subtitle1 gray1">1+ years<br />
 		Year-round program<br />
 		Saturday/Sunday 8am - 10am
