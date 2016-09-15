@@ -101,19 +101,59 @@ openContent($page);
 <!-- = FUN FRIDAYS = -->
 <!-- =============== -->
 <div class="clearB">
-	<span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-	<span class="subtitle1 gray1">18 months+<br />
-		Friday 9:30am - 12:00pm<br />
-		<a class="rust mouseCursor" onclick="window.open('open_house_schedule.php','ohSchedule','width=400,height=135,left=100,top=100');">View Schedule</a>
-	</span>
-	<span class="blue2 size13 block">One-Time Visit <span class="size12 normal gray2">$45 | $35 for children currently registered in a class</span></span>
-	<span class="blue2 size13 block">Value Passes (per semester) <span class="size12 normal gray2">5 pass: $200 | 10 pass: $375 | Winter value pass: $420</span></span>
-	<span class="subtitle1 gray1 size12">Each child must have their own pass</span>
-	<span class="subtitle1 gray1 size12">10% sibling discount</span>
+  <span id="ff" class="block bold size18 blue2">Fun Fridays</span>
+  <span class="subtitle1 gray1">
+    18 months+<br />
+    Friday 9:30am - 11:30am
+  </span>
 
-	<p class="pgraph">Drop by during these 2&#189; hours for baking, arts/crafts, music, singing and plenty of cuddling time with the animals. To see the animals you must arrive between 9:30am and 10:00am.  The farm closes at 10:15am.</p>
+  <span class="blue2 size13 block">
+    One-Time Visit
+    <span class="size12 normal gray2">
+      $45 | $35 for children currently registered in a class
+    </span>
+  </span>
 
-<a id="" class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1387801&location=455804" target="_blank">Pay Now!</a>
+  <span class="blue2 size13 block">
+    Value Passes (per semester)
+    <span class="size12 normal gray2">
+      5 pass: $200 | 10 pass: $375 | 20 pass: $660
+    </span>
+  </span>
+
+  <span class="subtitle1 gray1 size12">
+    Each child must have their own pass. Passes expire one year from date of
+    purchase.
+  </span>
+
+  <!--<span class="subtitle1 gray1 size12">10% sibling discount</span>-->
+
+  <p class="pgraph">
+    Drop by during these 2 hours for baking, arts/crafts, music, singing and
+    plenty of cuddling time with the animals. All guests should arrive by 10am
+    to participate in all activities.
+  </p>
+
+  <p class='size12 gray2'>
+    <span class='bold'>Fun Friday Activities</span><br />
+    Animal Time<br />
+    Arts &amp; Crafts and Baking with our chef<br />
+    Sing-Along with our guitarist<br />
+    Healthy Snack<br />
+    <span class='size11'>
+      All guests must arrive by 10am to participate in all activities.
+    </span>
+  </p>
+
+  <div class="clearB high30"></div>
+
+  <a
+    id=""
+    class="register_btn register_btn__now"
+    href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1387801&location=455804"
+    target="_blank">
+    Pay Now!
+  </a>
 
 </div>
 
