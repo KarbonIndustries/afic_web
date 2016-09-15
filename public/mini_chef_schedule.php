@@ -10,43 +10,83 @@ closeHeader();
 <div class='pad10'>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jun 30</span>
-    <span class='size14'>Red, White, Blue Spring Rolls &amp; Strawberry Mint Pesto</span>
+    <span class="bold blue2">Sep 8 - 10</span>
+    <span class='size14'>Plum Clafoutis</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jul 7</span>
-    <span class='size14'>Green Pizza Pops &amp; Summer Tomatoes</span>
+    <span class="bold blue2">Sep 15 - 17</span>
+    <span class='size14'>Savory Spaghetti Squash Cakes</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jul 14</span>
-    <span class='size14'>Melon Matcha Cookie Bites</span>
+    <span class="bold blue2">Sep 22 - 24</span>
+    <span class='size14'>Grapes in a Blanket</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jul 21</span>
-    <span class='size14'>Grilled Corn &amp; Cheddar Flatbread</span>
+    <span class="bold blue2">Sep 29 - Oct 1</span>
+    <span class='size14'>Cheesy Spinach Flatbread</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jul 28</span>
-    <span class='size14'>Peaches &amp; Honey Challah</span>
+    <span class="bold blue2">Oct 6 - 8</span>
+    <span class='size14'>Caramelized Pear Pot Pies</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Aug 4</span>
-    <span class='size14'>Summer Squash Falafel</span>
+    <span class="bold blue2">Oct 13 - 15</span>
+    <span class='size14'>Cauliflower Focaccia</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Aug 11</span>
-    <span class='size14'>Vanilla Plum Cookie Tarts</span>
+    <span class="bold blue2">Oct 20 - 22</span>
+    <span class='size14'>Apple Pie</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Aug 18</span>
-    <span class='size14'>Spinach Pita Chips &amp; Tzatziki</span>
+    <span class="bold blue2">Oct 27 - 29</span>
+    <span class='size14'>Halloween Cookie Decorating</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Nov 3 - 5</span>
+    <span class='size14'>Butternut Crust Pizza</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Nov 10 - 12</span>
+    <span class='size14'>Wild Mushroom Hand Pies</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Nov 17 - 19</span>
+    <span class='size14'>Pumpkin Pie</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Nov 26</span>
+    <span class='size14'>Cranberry Cream Cheese Buns</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Dec 1 - 3</span>
+    <span class='size14'>Speculoos (Spice Cookies)</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Dec 8 - 10</span>
+    <span class='size14'>Leek Quiche Baguette</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Dec 15 - 17</span>
+    <span class='size14'>Gingerbread Brioche</span>
+  </div>
+
+  <div class='marginB5'>
+    <span class="bold blue2">Dec 22</span>
+    <span class='size14'>Holiday Cookie Decorating</span>
   </div>
 
 </div>
