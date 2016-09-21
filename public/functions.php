@@ -307,31 +307,43 @@ function drawPreschoolPanel()
 {
   echo <<<C
   <div id="preschoolPanel" class="">
-    <span class="bold rust block">Two's Program<br />
-    Half-Day Morning<br />
-    The Bunnies Class</span>
-    <span class="gray2 size11">ages 2.3 - 2.9 years by Sept. 1st<br />
-    Tuesday/Thursday<br />
-    9:30am - 12:00pm<br />
-    or 9:00am - 12:00pm</span>
+    <span class="bold rust block">
+      Two's Program<br />
+      Half-Day Morning<br />
+      The Bunnies Class
+    </span>
+    <span class="gray2 size11">
+      For children turning 2 Jan - Jul<br />
+      Tuesday/Thursday<br />
+      9:30am - 12:00pm<br />
+      or 9:00am - 12:00pm
+    </span>
 
-    <span class="bold rust block marginT10">Three's Program<br />
-    Half-Day Morning<br />
-    The Turtles Class for children born in 2013</span>
-    <span class="gray2 size11">Monday/Wednesday<br />
-    or 3-day Monday/Wednesday/Friday<br />
-    9:30am - 12:00pm<br />
-    or 9:00am - 12:00pm</span>
+    <span class="bold rust block marginT10">
+      Three's Program<br />
+      Half-Day Morning<br />
+      The Turtles Class for children born in 2013 (2016 - 2017 School Year)<br />
+      or children born in 2014 (2017 - 2018 School Year)
+    </span>
+    <span class="gray2 size11">
+      Monday/Wednesday<br />
+      or 3-day Monday/Wednesday/Friday<br />
+      9:30am - 12:00pm<br />
+      or 9:00am - 12:00pm
+    </span>
 
-    <span class="bold rust block marginT10">Four's Program<br />
-    Half-Day Afternoon<br />
-    The Doves Class for children born in 2012</span>
-    <span class="gray2 size11">Monday - Thursday Afternoon<br />
-    12:30pm - 3:30pm<br />
-    or Monday - Thursday Afternoon<br />
-    and Friday Morning
-    9:00am - 12:00pm<br />
-    <span class='bold'>Director will assist with kindergarten admissions</span>
+    <span class="bold rust block marginT10">
+      Four's Program<br />
+      Half-Day Afternoon<br />
+      The Doves Class for children born in 2012 (2016 - 2017 School Year)<br />
+      or children born in 2013 (2017 - 2018 School Year)
+    </span>
+    <span class="gray2 size11">
+      Monday - Thursday Afternoon<br />
+      12:30pm - 3:30pm<br />
+      and Friday Morning
+      9:00am - 12:00pm<br />
+      <span class='bold'>Director will assist with kindergarten admissions</span>
     </span>
 
     <div class='marginT10'></div>

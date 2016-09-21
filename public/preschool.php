@@ -11,10 +11,8 @@ openPreschoolContent($page);
 
 <img class='pageImg' src='photos/preschool.jpg' />
 
-<h1 class='title2 blue2 alignC'>Preschool Open House</h1>
-<p class='subtitle1 alignC'>Wednesday, August 17th</p>
-<p class='subtitle1 alignC'>5:30pm - 7:30pm</p>
-<p class='subtitle1 alignC'>74th St. location: 351 E. 74th St.</p>
+<h1 class='title2 blue2 alignC'>Rolling Admissions Still Enrolling for the 2016 - 2017 School Year all Ages!</h1>
+<p class='subtitle1 alignC'>Currently Accepting 2017 - 2018 Applications</p>
 
 <div class="">
 
