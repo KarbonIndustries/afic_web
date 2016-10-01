@@ -40,7 +40,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
     <p class='pgraph'>
       The Art Farm will be partnering with The Iken Science Academy and the
       camp will be hosted at their school at 351 E. 74th St. between 1st Ave.
-      &amp; York Ave.
+      &amp; 2nd Ave.
     </p>
 
 	<div id="" class="floatR clearB">
