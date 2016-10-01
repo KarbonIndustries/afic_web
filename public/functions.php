@@ -1,7 +1,7 @@
 <?php
 error_reporting(0);
 
-define("AF_LOGO_URL","http://www.theartfarms.org/");
+define("AF_LOGO_URL","/");
 define("AF_HOME_URL",".");
 define("AF_HAMPTONS_URL","http://www.theartfarms.org/af/");
 define("AUTHOR","Karbon Inc.");
