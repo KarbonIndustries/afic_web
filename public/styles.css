@@ -3,7 +3,7 @@ html{}
 body{margin: 0px;padding: 0px;height: 100%;font-family: Arial,Helvetica,sans-serif;font-size: 14px;background: #FFFFFF;}
 a{text-decoration: none;}
 a img{border: none;}
-a.karbonHover:hover{color: #000000 !important;}
+a.authorHover:hover{color: #000000 !important;}
 a.hoverRust:hover{color: #DB4A28 !important;}
 a.bdayBtn{display:block;/*-moz-border-radius:5px;-webkit-border-radius:5px;*/color:#FFFFFF;}
 a.bdayBtn:hover{text-decoration:underline;}
