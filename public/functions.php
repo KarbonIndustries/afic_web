@@ -4,8 +4,8 @@ error_reporting(0);
 define("AF_LOGO_URL","/");
 define("AF_HOME_URL",".");
 define("AF_HAMPTONS_URL","http://www.theartfarms.org/af/");
-define("AUTHOR","Karbon Inc.");
-define("AUTHOR_URL","http://www.karboninc.com/");
+define("AUTHOR","Shammel Lee");
+define("AUTHOR_URL","http://www.shammellee.com/");
 
 
 // ==========
@@ -23,7 +23,7 @@ function openHeader($title)
   <head>
   <title>The Art Farm in The City' . $title . '</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-  <meta name="author" content="Karbon Inc." />
+  <meta name="author" content="Shammel Lee" />
   <meta name="description" content="We are an cco-friendly and organic facility which teaches your children about nature, animals and how to better care for our planet. We also teach your children about responsibility through caring, loving and being in the company of animals. Our magical, USDA licensed, indoor petting zoo has a wide variety of animals including bunnies, chinchillas, guinea pigs, lizards, turtles, birds, tropical fish and more. You might even spot pigs, chickens, goats and sheep sometime!" />
   <meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -127,9 +127,9 @@ function drawMainMenu($page)
   <body>
     <div class="newsShell">
       <div class="news">
-        <p>
-          We\'re a <a href="http://redtri.com/new-york/the-art-farm-in-the-city/" target="_blank">Red Tricycle Favorite!</a>
-        </p>
+        <a href="http://redtri.com/new-york-2016-totally-awesome-award-winners/" target="_blank" title="2016 Red Tricycle Award">
+          <img src="./images/2016_red_tricycle_award.png" alt="2016 Red Tricycle Award"/>
+        </a>
       </div>
     </div>
     <div id="outerShell" class="">
@@ -452,7 +452,7 @@ function drawFooter()
           <li><a class="hoverRust padT5" href="sitemap.php">Sitemap</a></li>
           <li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" target="_blank">Photos &copy; Victoria Jackson Photography</a></li>
         </ul>
-        <a class="karbonHover marginL5 pad5" href="' . AUTHOR_URL . '" target="_blank">&#160;Site by <span class="bold">Karbon Interaktiv Inc.</span>&#160;</a>
+        <a class="authorHover marginL5 pad5" href="' . AUTHOR_URL . '" target="_blank">&#160;Site by <span class="bold">Shammel Lee</span>&#160;</a>
       </div>
     </div>
     <!--end of footer-->

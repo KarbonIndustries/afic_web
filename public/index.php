@@ -39,6 +39,11 @@ drawActivitiesMenu();
 		<!-- <img class="block marginT30" src="images/tmp.png" width="530" height="180"/> -->
 	</div>
 	<div id="mainRight" class="">
+    <div class='homepage_ad'>
+      <a class='homepage_ad_link' href='http://fundraise.cityharvest.org/site/TR/VFD/General?pg=team&fr_id=1060&team_id=1091' target='_blank'>
+        <img src='images/city_harvest.png' title='City Harvest'/>
+      </a>
+    </div>
 		<span class="heading1">Featured</span>
 		<div id="featured">
 			<img src="photos/featured/featured_motf_120728.jpg" />
