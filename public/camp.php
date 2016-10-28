@@ -22,13 +22,14 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- = COLUMBUS DAY CAMP = -->
 <!-- ===================== -->
 
+<!--
 <div class="clearB">
-	<span id="halfDay" class="title2 blue2 clearB">Columbus Day Camp</span>
-	<span class="subtitle1 gray1">Monday, October 10th</span>
-		<span class="size12 gray2">
-			Full Day 9am-3pm | 4-8 years $125/day<br />
-			Half Day 9am-12pm | 3-4 years $75/day<br />
-		</span><br /><br />
+  <span id="halfDay" class="title2 blue2 clearB">Columbus Day Camp</span>
+  <span class="subtitle1 gray1">Monday, October 10th</span>
+    <span class="size12 gray2">
+      Full Day 9am-3pm | 4-8 years $125/day<br />
+      Half Day 9am-12pm | 3-4 years $75/day<br />
+    </span><br /><br />
 
     <p class="pgraph">
       In 1492 Columbus sailed the ocean blue. The Art Farm camp is offering
@@ -43,27 +44,95 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
       &amp; 2nd Ave.
     </p>
 
-	<div id="" class="floatR clearB">
-		<a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1636101">
-		<div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
-		</a>
-	</div>
+  <div id="" class="floatR clearB">
+    <a id="btn1R" class="" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1636101">
+    <div class="btn1RR"><span class="invisible">.</span></div><div class="btn1RC">&#187; Register!</div><div class="btn1RL"><span class="invisible">.</span></div>
+    </a>
+  </div>
 </div>
 
 <div class="marginT20 clearB">&nbsp;</div>
+-->
+
+
+<!-- ================ -->
+<!-- = HOLIDAY CAMP = -->
+<!-- ================ -->
+
+<span class="title2 blue2 clearB marginT20">Holiday Camp <?= date('Y')?></span>
+<span class="subtitle1 gray1">December 19 - 23 and 27 - 30</span>
+<span class="subtitle1 gray1">Join us for 1 day or all 9 days.</span>
+<br />
+<span class="bold subtitle1 gray1">Activities for all ages include</span>
+<p class='pgraph'>
+  Live animal science lessons where the children can meet and pet new animals
+  every day, arts &amp; crafts, cooking with our amazing chef, live rockin'
+  music with guitar and singing, science projects, games, and special events!
+</p>
 
 <div class="clearB">
-  <p class='rust size16 alignC'>
-    Holiday Camp for the end of December will be posted very soon.<br />
-    Please subscribe to our email list for registration information.
+  <span id="halfDay" class="title2 rust clearB">Half Day Snowflakes Group</span>
+  <span class="subtitle1 gray1">
+    <span>AM Session | 9:00am - 12:00pm | 3-4 years</span><br />
+    <span>PM Session | 12:30pm - 3:30pm | 3-4 years</span><br />
+    <span class='bold'>Early Bird Price: $70 per day until December 1st</span><br />
+    <span class='bold'>Regular Price: $75 per day</span><br />
+    <span>Early Drop Off 8:30am - 9:00am: $15/day</span><br />
+    <span>Extended Day for afternoons 3:30pm - 5:00pm: $30/day</span>
+  </span><br />
+
+  <p class="pgraph">
+    We offer a half day camp with a warm nurturing program. Children spend time
+    learning about holding and caring for our animals. They create art
+    masterpieces, bake goodies, and sing their favorite songs to live guitar.
+    Lots of play fun and games to celebrate winter break. We will provide a
+    snack for your child and if your child is not fully potty trained, please
+    send him or her in pull-ups. We close the group at 15 children with 3
+    qualified teachers. Children must be 3 years old to join the group.
   </p>
 
-  <p class='rust size16 alignC'>
-    Summer Camp 2017 registration begins January 2nd.
-  </p>
+  <div id="" class="floatR clearB">
+    <a id="btn1R" class=""
+      href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1667202">
+      <div class="btn1RR"><span class="invisible">.</span></div>
+      <div class="btn1RC">&#187; Register!</div>
+      <div class="btn1RL"><span class="invisible">.</span></div>
+    </a>
+  </div>
 </div>
 
-<div class="marginT20 clearB">&nbsp;</div>
+<div class="clearB">
+  <span id="halfDay" class="title2 rust clearB">Full Day Peppermints Group</span>
+  <span class="subtitle1 gray1"><span>9:00am - 3:00pm | 4 - 5 years</span><br />
+  <span id="halfDay" class="title2 rust clearB">Full Day Gingerbreads Group</span>
+  <span class="subtitle1 gray1"><span>9:00am - 3:00pm | 6 - 8 years</span><br />
+  <span class='bold'>Early Bird Price: $110 per day until December 1st</span><br />
+  <span class='bold'>Regular Price: $125 per day</span><br />
+  <span>Early Drop Off 8:30am - 9:00am: $15/day</span><br />
+  <span>Extended Day 3:00pm - 5pm $30/day.</span></span><br />
+
+  <p class="pgraph">
+    Our Full day campers participate in music, art, cooking, science, nature,
+    games, and live science animal lessons where the children will meet and pet
+    new animals every day. The children will engage in many age-appropriate
+    activities with lots of laughter and fun as we all celebrate winter break.
+    Please send your child to camp with a lunch that is nut-free since we are
+    a nut-free facility. We will provide the children with a snack before the
+    end of the day. We close each group at 15 children with 3 qualified
+    teachers.
+  </p>
+
+  <div id="" class="floatR clearB">
+    <a id="btn1R" class=""
+      href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1667202">
+      <div class="btn1RR"><span class="invisible">.</span></div>
+      <div class="btn1RC">&#187; Register!</div>
+      <div class="btn1RL"><span class="invisible">.</span></div>
+    </a>
+  </div>
+</div>
+<div class="clearB" style="margin-top:15px;float:left;"></div>
+
 
 <!-- =============== -->
 <!-- = SUMMER CAMP = -->
@@ -122,10 +191,10 @@ based on 15-18 children with 3 teachers. We offer a 10% sibling discount.</p>
 </p>
 
 <div class="clearB">
-	<span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Hamsters Half Day Camp</span>
-	<span class="subtitle1 gray1">9am - 12:30pm | 3-4 years<br />
-	<span class="size12 gray2">Mon - Fri: $525 | Mon, Wed, Fri: $385 | Tues, Thurs: $275<br />
-	Early Drop Off 8:30am - 9:00am: $15/day</span></span><br />
+  <span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Hamsters Half Day Camp</span>
+  <span class="subtitle1 gray1">9am - 12:30pm | 3-4 years<br />
+  <span class="size12 gray2">Mon - Fri: $525 | Mon, Wed, Fri: $385 | Tues, Thurs: $275<br />
+  Early Drop Off 8:30am - 9:00am: $15/day</span></span><br />
 
   <p class="pgraph">We offer a half-day camp with a warm, nurturing program so that
   separation is easy. Children will have live animal science lessons and up-close
@@ -150,10 +219,10 @@ based on 15-18 children with 3 teachers. We offer a 10% sibling discount.</p>
 <div class="separator"></div>
 
 <div class="clearB">
-	<span id="fullDay" class="size20 bold" style='color:#FF3333'>Froggies</span>
-	<span class="subtitle1 gray1">9am - 3pm | 4 years<br />
-	<span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
-	Early Drop Off 8:30am - 9:00am: $15/day<br />
+  <span id="fullDay" class="size20 bold" style='color:#FF3333'>Froggies</span>
+  <span class="subtitle1 gray1">9am - 3pm | 4 years<br />
+  <span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
+  Early Drop Off 8:30am - 9:00am: $15/day<br />
   Extended Day 3:00pm - 5pm $30/day</span></span><br />
 
   <p class="pgraph">Our Full-Day Froggies group is a great segue into our full-day
@@ -182,10 +251,10 @@ based on 15-18 children with 3 teachers. We offer a 10% sibling discount.</p>
 <div class="separator"></div>
 
 <div class="clearB">
-	<span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
-	<span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 5 - 6 years | Chinchillas: 7-9 years<br />
-	<span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
-	Early Drop Off 8:30am - 9:00am: $15/day<br />
+  <span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
+  <span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 5 - 6 years | Chinchillas: 7-9 years<br />
+  <span class="size12 gray2">Mon - Fri: $650 | Mon, Wed, Fri: $525 | Tues, Thurs: $385<br />
+  Early Drop Off 8:30am - 9:00am: $15/day<br />
   Extended Day 3:00pm - 5pm $30/day</span></span><br />
 
   <p class="pgraph">Our full-day campers in these groups will be separated into

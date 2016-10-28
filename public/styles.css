@@ -223,7 +223,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 
 
 .newsShell{width: 900px;margin:0 auto;overflow:hidden;text-align:center;}
-.news{background:#E00000;display:inline-block;border-bottom-left-radius:3px;border-bottom-right-radius:3px;}
+.news{display:inline-block;border-bottom-left-radius:3px;border-bottom-right-radius:3px;}
 .news p,.news a{color:#FFFFFF;}
 .news p{margin:0;padding:12px 25px;}
 .news a{border-bottom:1px dotted #FFFFFF;font-weight:bold;}
@@ -324,7 +324,9 @@ a.dropInUp:hover{background-position: -672px -120px;color: #DB4A28 !important;}
 a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #DB4A28 !important;}
 
 #mainLeft{width: 530px;padding-right: 15px;float: left;}
-#mainRight{width: 339px;float: right;padding-left: 15px;border-left: 1px dotted #606060;}
+#mainRight{width: 340px;float: right;padding-left: 14px;border-left: 1px dotted #606060;}
+.homepage_ad{margin-bottom:20px}
+.homepage_ad_link{border:none;display:block}
 
 #featured{border: 1px solid #B3B3B3;margin-top: 10px;overflow: hidden;padding: 10px;}
 #featured img{display: block;float: left;width: 128px; height: 128px; padding: 0px 10px 10px 0px;}
