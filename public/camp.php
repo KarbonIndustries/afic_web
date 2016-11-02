@@ -70,6 +70,12 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
   music with guitar and singing, science projects, games, and special events!
 </p>
 
+<p class='pgraph'>
+  The Art Farm will be partnering with The Iken Science Academy and the camp
+  will be hosted at their school at 351 East 74th Street between 1st Avenue and
+  2nd Avenue.
+</p>
+
 <div class="clearB">
   <span id="halfDay" class="title2 rust clearB">Half Day Snowflakes Group</span>
   <span class="subtitle1 gray1">
@@ -105,7 +111,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
   <span id="halfDay" class="title2 rust clearB">Full Day Peppermints Group</span>
   <span class="subtitle1 gray1"><span>9:00am - 3:00pm | 4 - 5 years</span><br />
   <span id="halfDay" class="title2 rust clearB">Full Day Gingerbreads Group</span>
-  <span class="subtitle1 gray1"><span>9:00am - 3:00pm | 6 - 8 years</span><br />
+  <span class="subtitle1 gray1"><span>9:00am - 3:00pm | 5 - 8 years</span><br />
   <span class='bold'>Early Bird Price: $110 per day until December 1st</span><br />
   <span class='bold'>Regular Price: $125 per day</span><br />
   <span>Early Drop Off 8:30am - 9:00am: $15/day</span><br />
