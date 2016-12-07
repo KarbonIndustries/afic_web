@@ -166,10 +166,6 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
   <span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-  <span class='notice__red'>
-    We wil not be open on Sunday, November 5th due to the NYC Marathon running
-    up 1st Avenue. We will be open on Saturday, November 4th.
-  </span><br />
   <span class="subtitle1 gray1">1+ years<br />
     Year-round program<br />
     Saturday/Sunday 8am - 10am
