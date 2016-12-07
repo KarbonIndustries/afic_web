@@ -203,11 +203,12 @@ openContent($page);
 <!-- ============== -->
 <div class="clearB">
   <img class="padR10 padT10 padB10" src="photos/fall_homeschool_2014.jpg" />
-  <span id="ff" class="title2 blue2">Fall Home School 2016</span>
+  <span id="ff" class="title2 blue2">Home School Winter 2017</span>
   <span class="subtitle1 gray1">
     Monday: 11:30am - 12:30pm | 5 - 8 years<br />
-    September 12th - November 21st<br />
-    <span class ="size12 gray2">10-week semester: $250</span><br />
+    January 23rd - March 27th<br />
+    <span class ="size12 gray2">9-week semester: $225</span><br />
+    Class not running on Presiden'ts Day
   </span>
   <p class='pgraph'>Children will be able to have a hands-on living science education
   at The Art Farm! Each week, your child will be introduced to a world filled with
@@ -225,7 +226,7 @@ openContent($page);
   <div class="clearB high20"></div>
 
   <a id="" class="register_btn register_btn__now"
-    href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1582601&location=455804"
+    href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1730303&location=455804"
     target="_blank">Register Now!</a>
 
   <div class="clearB high30"></div>
