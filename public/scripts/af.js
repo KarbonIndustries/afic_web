@@ -7,7 +7,7 @@
     if(typeof vex != 'undefined')
     {
       AF.modal_theme               = 'vex-theme-default';
-      AF.modal_display_cookie      = 'disable_modal';
+      AF.modal_display_cookie      = 'disable_holiday_modal_2017';
       $holiday_activity_btn        = $('.activity','#modal_content').find('.cta');
       vex.defaultOptions.className = AF.modal_theme;
 

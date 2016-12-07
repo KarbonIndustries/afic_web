@@ -28,6 +28,8 @@ function openHeader($title)
   <meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="stylesheet" href="styles.css?v=' . date(ymdHis) . '" type="text/css" />
+  <link rel="stylesheet" href="css/vex.css" />
+  <link rel="stylesheet" href="css/vex-theme-default.css" />
   <script type="text/javascript">
     function getIEVersion()
     {
@@ -135,7 +137,7 @@ function drawMainMenu($page)
     <div id="outerShell" class="">
       <div id="header" class="">
         <div id="headerLeft" class="">
-          <a href="' . AF_LOGO_URL . '"><img class="block" src="images/artfarm_logo.png" /></a>
+          <a href="' . AF_LOGO_URL . '"><img class="block" src="images/artfarm_logo_winter.png" /></a>
         </div>
         <div id="headerRight" class="">
           <ul>
@@ -484,7 +486,7 @@ function drawFooter()
           </div>
           <div class="activity activity__winter_classes">
             <a class="cta" href="classes.php">Give the Gift of Winter Classes</a>
-            <p>The weather outside may be frightful, but The Art Farm classes make it so much more delightful! Chase the winter blues away starting January 4th.</p>
+            <p>The weather outside may be frightful, but The Art Farm classes make it so much more delightful! Chase the winter blues away starting January 3rd.</p>
           </div>
           <div class="activity activity__holiday_camp">
             <a class="cta" href="camp.php#holiday_camp">Give the Gift of Holiday Camp</a>
@@ -499,6 +501,7 @@ function drawFooter()
     </div>
     <script src="scripts/js.cookie.js"></script>
     <script src="scripts/jquery-1.11.3.min.js"></script>
+    <script src="scripts/vex.combined.min.js"></script>
     <script src="scripts/af.js?v=' . time() . '"></script>
   </body>
   </html>';
