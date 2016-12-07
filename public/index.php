@@ -40,9 +40,8 @@ drawActivitiesMenu();
 	</div>
 	<div id="mainRight" class="">
     <div class='homepage_ad'>
-      <a class='homepage_ad_link' href='http://fundraise.cityharvest.org/site/TR/VFD/General?pg=team&fr_id=1060&team_id=1091' target='_blank'>
-        <img src='images/city_harvest.png' title='City Harvest'/>
-      </a>
+      <img width='340' src='images/holiday_toy_drive.jpg' title='Holiday Toy Drive'/>
+      <p class='notice__yellow alignC' style='width:96%'>Please drop of unwrapped toys by December 21st</p>
     </div>
 		<span class="heading1">Featured</span>
 		<div id="featured">
