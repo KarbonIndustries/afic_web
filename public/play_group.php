@@ -16,6 +16,7 @@ Monday, Tuesday, Wednesday, or Thursday 9:30am-11:30am</span>
 <span class='gray1'>Spring 1 day/week <span class='size12 gray2'>$689</span> | 2 days/week <span class='size12 gray2'>$1,378</span></span><br />
 <span class='gray1'>Summer 1 day/week <span class='size12 gray2'>$424</span> | 2 days/week <span class='size12 gray2'>$848</span></span><br />
 <span class='gray1'>Fall 1 day/week <span class='size12 gray2'>$848</span> | 2 days/week <span class='size12 gray2'>$1,696</span></span><br />
+<span class='gray1'>Winter 1 day/week <span class='size12 gray2'>$689</span> | 2 days/week <span class='size12 gray2'>$1,378</span></span><br />
 
 <p class='pgraph'>All children joining the program must be 2 years old by the
 beginning of the enrolled semester. Our warm, cozy atmosphere and our nurturing
