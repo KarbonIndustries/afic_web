@@ -13,12 +13,21 @@ openContent($page);
 <div class='clearB'>
   <img src='images/new_for_2017.png' />
   <span id="rsa" class="title2">&nbsp;</span>
-  <span id="rsa" class="title2 alignC">Benefits of Being Enrolled in a Semester of Classes</span>
-  <ul class='alignC size16 gray2' style='line-height:1.4'>
-    <li><span class='bold blue2'>5 Passes</span> to our Drop In Play Time (M-Th 12:30pm-3:30pm)</li>
-    <li><span class='bold blue2'>$50 off</span> an Art Farm birthday party (valid for 1 year)</li>
-    <li><span class='bold blue2'>10% off</span> our toy store (valid during enrolled semester)</li>
-  </ul>
+  <span id="rsa" class="title2 alignC">Semester Class Benefits</span>
+  <table width='100%'>
+    <tr class='size16'>
+      <td align='right' width='30%' class='bold blue2'>5 Free Passes</td>
+      <td class='gray2'>to our Drop In Play Time <span class='size12'>(M-Th 12:30pm-3:30pm)</span></td>
+    </tr>
+    <tr class='size16'>
+      <td align='right' width='30%' class='bold blue2'>$50 off</td>
+      <td class='gray2'>an Art Farm birthday party <span class='size12'>(valid for 1 year)</span></td>
+    </tr>
+    <tr class='size16'>
+      <td align='right' width='30%' class='bold blue2'>10% off</td>
+      <td class='gray2'>our toy store <span class='size12'>(valid during enrolled semester)</span></td>
+    </tr>
+  </table>
   </span>
 
   <div class="clearB high60"></div>
