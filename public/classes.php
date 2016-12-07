@@ -10,6 +10,19 @@ openContent($page);
 ?>
 <!--begin content-->
 
+<div class='clearB'>
+  <img src='images/new_for_2017.png' />
+  <span id="rsa" class="title2">&nbsp;</span>
+  <span id="rsa" class="title2 alignC">Benefits of Being Enrolled in a Semester of Classes</span>
+  <ul class='alignC size16 gray2' style='line-height:1.4'>
+    <li><span class='bold blue2'>5 Passes</span> to our Drop In Play Time (M-Th 12:30pm-3:30pm)</li>
+    <li><span class='bold blue2'>$50 off</span> an Art Farm birthday party (valid for 1 year)</li>
+    <li><span class='bold blue2'>10% off</span> our toy store (valid during enrolled semester)</li>
+  </ul>
+  </span>
+
+  <div class="clearB high60"></div>
+</div>
 <!-- ============================ -->
 <!-- = ROCK, SMOCKS AND ANIMALS = -->
 <!-- ============================ -->
