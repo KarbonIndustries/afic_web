@@ -431,7 +431,7 @@ function drawFooter()
           <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
           <div id="mc_embed_signup">
           <form action="//theartfarms.us6.list-manage.com/subscribe/post?u=1cd721e945cbd26b9264e9189&amp;id=1b69ae14d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-            <label for="mce-EMAIL">Subscribe to our mailing list…</label>
+            <label for="mce-EMAIL">Subscribe to our mailing list&hellip;</label>
             <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email address" required>
               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
               <div style="position: absolute; left: -5000px;"><input type="text" name="b_1cd721e945cbd26b9264e9189_1b69ae14d8" tabindex="-1" value=""></div>
