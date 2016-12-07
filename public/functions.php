@@ -450,9 +450,9 @@ function drawFooter()
           <li><a class="padT5" href="http://twitter.com/TheArtFarmNYC/" target="_blank"><img src="images/twit_icon.png" /></a></li>
           <li><a class="hoverRust padT5" href="contact.php">Contact Us</a></li>
           <li><a class="hoverRust padT5" href="sitemap.php">Sitemap</a></li>
-          <li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" target="_blank">Photos &copy; Victoria Jackson Photography</a></li>
+          <li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" rel="nofollow" target="_blank">Photos &copy; Victoria Jackson Photography</a></li>
         </ul>
-        <a class="authorHover marginL5 pad5" href="' . AUTHOR_URL . '" target="_blank">&#160;Site by <span class="bold">Shammel Lee</span>&#160;</a>
+        <a class="authorHover marginL5 pad5" href="' . AUTHOR_URL . '" rel="nofollow" target="_blank">&#160;Site by <span class="bold">Shammel Lee</span>&#160;</a>
       </div>
     </div>
     <!--end of footer-->
