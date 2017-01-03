@@ -137,9 +137,19 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
     </a>
   </div>
 </div>
-<div class="clearB" style="margin-top:15px;float:left;"></div>
+<div class="clearB marginT15" style="float:left"></div>
 
+<div class="formSeparator1 marginB10 marginT10 clearB"></div>
+<div class="clearB high30"></div>
 
+<span id="rsa" class="red title2 alignC">
+  Summer Camp Registration Begins January 15th<br />
+  <span class='size12'>The Art Farm Summer Camp will be located at The Trevor Day School East 95th
+  St.</span>
+</span>
+
+<div class="clearB high30"></div>
+<div class="clearB high30"></div>
 <!-- =============== -->
 <!-- = SUMMER CAMP = -->
 <!-- =============== -->
