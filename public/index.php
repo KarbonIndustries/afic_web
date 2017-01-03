@@ -39,10 +39,6 @@ drawActivitiesMenu();
 		<!-- <img class="block marginT30" src="images/tmp.png" width="530" height="180"/> -->
 	</div>
 	<div id="mainRight" class="">
-    <div class='homepage_ad'>
-      <img width='340' src='images/holiday_toy_drive.jpg' title='Holiday Toy Drive'/>
-      <p class='notice__yellow alignC' style='width:96%'>Please drop off unwrapped toys by December 21st</p>
-    </div>
 		<span class="heading1">Featured</span>
 		<div id="featured">
 			<img src="photos/featured/featured_motf_120728.jpg" />
