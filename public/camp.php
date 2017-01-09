@@ -68,6 +68,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
   <div class="clearB">
     <span id="fullDay" class="size20 bold" style='color:#FF3333'>Full Day Groups</span>
+    <span class="subtitle1 gray1">MLK Day Jan 16th</span>
     <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20th - 24th</span>
     <span class="subtitle1 gray1">(Register for on day or all of them)</span>
     <span class="subtitle1 gray1">9am - 3pm | 4-5 or 6-8 years | $125/day</span>
@@ -80,7 +81,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
       Our full-day campers participate in music, art, cooking, science, nature,
       games, and live science animal lessons where the children will meet and
       pet new animals every day. The children will engage in many age-
-      appropriate activities with lots of laughter and fun as we all clebrate
+      appropriate activities with lots of laughter and fun as we all celebrate
       winter break. Please send your child to camp with a lunch that is nut-
       free since we are a nut-free facility. We will provide the children with
       a snack before the end of the day. We close each group at 15 children
