@@ -10,83 +10,68 @@ closeHeader();
 <div class='pad10'>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sep 8 - 10</span>
-    <span class='size14'>Plum Clafoutis</span>
+    <span class="bold blue2">Jan 5<sup>th</sup> &amp; 7<sup>th</sup></span>
+    <span class='size14'>Carrot Soup Tortillas</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sep 15 - 17</span>
-    <span class='size14'>Savory Spaghetti Squash Cakes</span>
+    <span class="bold blue2">Jan 12<sup>th</sup> &amp; 14<sup>th</sup></span>
+    <span class='size14'>Citrus Challah</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sep 22 - 24</span>
-    <span class='size14'>Grapes in a Blanket</span>
+    <span class="bold blue2">Jan 19<sup>th</sup> &amp; 21<sup>st</sup></span>
+    <span class='size14'>Puffy Leek Mashed Potato Cakes</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sep 29 - Oct 1</span>
-    <span class='size14'>Cheesy Spinach Flatbread</span>
+    <span class="bold blue2">Jan 26<sup>th</sup> &amp; 28<sup>th</sup></span>
+    <span class='size14'>Apple Pear Upside Down Brioche</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 6 - 8</span>
-    <span class='size14'>Caramelized Pear Pot Pies</span>
+    <span class="bold blue2">Feb 2<sup>nd</sup> &amp; 4<sup>th</sup></span>
+    <span class='size14'>Cauliflower Cheese Pita</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 13 - 15</span>
-    <span class='size14'>Cauliflower Focaccia</span>
+    <span class="bold blue2">Feb 9<sup>th</sup> &amp; 11<sup>th</sup></span>
+    <span class='size14'>Valentines Day - Strawberry Vanilla Cookies</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 20 - 22</span>
-    <span class='size14'>Apple Pie</span>
+    <span class="bold blue2">Feb 16<sup>th</sup> &amp; 18<sup>th</sup></span>
+    <span class='size14'>Green Veggie Crackers</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 27 - 29</span>
-    <span class='size14'>Halloween Cookie Decorating</span>
+    <span class="bold blue2">Feb 23<sup>rd</sup> &amp; 25<sup>th</sup></span>
+    <span class='size14'>Buttermilk Lemon Tarts</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 3 - 5</span>
-    <span class='size14'>Butternut Crust Pizza</span>
+    <span class="bold blue2">Mar 2<sup>nd</sup> &amp; 4<sup>th</sup></span>
+    <span class='size14'>Banana Yeast Bread</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 10 - 12</span>
-    <span class='size14'>Wild Mushroom Hand Pies</span>
+    <span class="bold blue2">Mar 9<sup>th</sup> &amp; 11<sup>th</sup></span>
+    <span class='size14'>Nut-Free Muesli Buns</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 17 - 19</span>
-    <span class='size14'>Pumpkin Pie</span>
+    <span class="bold blue2">Mar 16<sup>th</sup> &amp; 18<sup>th</sup></span>
+    <span class='size14'>Spring Pea &amp; Avocado Croques</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 26</span>
-    <span class='size14'>Cranberry Cream Cheese Buns</span>
+    <span class="bold blue2">Mar 23<sup>rd</sup> &amp; 25<sup>th</sup></span>
+    <span class='size14'>Strawberry Rhubarb Compote Mini Tart</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Dec 1 - 3</span>
-    <span class='size14'>Speculoos (Spice Cookies)</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">Dec 8 - 10</span>
-    <span class='size14'>Leek Quiche Baguette</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">Dec 15 - 17</span>
-    <span class='size14'>Gingerbread Brioche</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">Dec 22</span>
-    <span class='size14'>Holiday Cookie Decorating</span>
+    <span class="bold blue2">Mar 30<sup>th</sup> &amp; Apr 1<sup>st</sup></span>
+    <span class='size14'>Artichoke Bagels</span>
   </div>
 
 </div>
