@@ -77,10 +77,16 @@ openContent($page);
 <!-- ================== -->
 <div class="clearB">
   <span id="wpt" class="block bold size18 blue2">Open Play Time</span>
-  <span class="subtitle1 gray1">
-    6 months+<br />
-    Monday - Thursday | 12:30pm - 3:30pm<br />
-  </span>
+  <span class="subtitle1 gray1">12:30pm - 3:30pm | 6 months+</span>
+  <span class="size12 gray2">Mon - Thurs</span><br />
+
+  <div class='clearB high20'></div>
+
+  <span class="size12 gray2">Extended Play Time hours for MLK Day Jan 16<sup>th</sup> | 10am - 3:30pm</span><br />
+  <span class="size12 gray2">Regular hours resume Jan 17<sup>th</sup></span>
+
+  <div class='clearB high20'></div>
+
   <p class="pgraph">Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts &amp; crafts and creative play in our playroom. You can pay by the day or save and buy a 10 Play Date pass and save. All children must be accompanied by an adult. You can drop in during the times that are listed "no reservation."</p>
 
   <p class='pgraph'>
@@ -102,10 +108,10 @@ openContent($page);
 <!-- =============== -->
 <div class="clearB">
   <span id="ff" class="block bold size18 blue2">Fun Fridays</span>
-  <span class="subtitle1 gray1">
-    18 months+<br />
-    Friday 9:30am - 11:30am
-  </span>
+  <span class="subtitle1 gray1">9:30am - 11:30am | 18 months+</span>
+  <span class="size12 gray2">Friday</span><br />
+
+  <div class='clearB high20'></div>
 
   <span class="blue2 size13 block">
     One-Time Visit
@@ -126,7 +132,7 @@ openContent($page);
     purchase.
   </span>
 
-  <!--<span class="subtitle1 gray1 size12">10% sibling discount</span>-->
+  <div class='clearB high20'></div>
 
   <p class="pgraph">
     Drop by during these 2 hours for baking, arts/crafts, music, singing and
@@ -166,11 +172,15 @@ openContent($page);
 <!-- ======================== -->
 <div class="clearB">
   <span id="motf" class="block bold size18 blue2">Mornings on the Farm</span>
-  <span class="subtitle1 gray1">1+ years<br />
-    Year-round program<br />
-    Saturday/Sunday 8am - 10am
-  </span>
+  <span class="subtitle1 gray1">8am - 10am | 1+ years</span>
+  <span class="size12 gray2">Year-round program</span><br />
+  <span class="size12 gray2">Saturday/Sunday</span><br />
+
+  <div class='clearB high20'></div>
+
   <span class="size12 gray2">1 visit - Children: $15 | Adults: $5 | Members: $5</span>
+
+  <div class='clearB high20'></div>
 
   <p class="pgraph">Where else in New York City can you begin your day on the farm?  With a basket full of hay and goodies, you and your children can spend the morning feeding and snuggling animals right here in our indoor farm on the Upper East Side.</p>
 
@@ -193,7 +203,12 @@ openContent($page);
     Saturday 9am - 10am | 2 - 8 years<br />
   </span>
   <a class="rust mouseCursor" onclick="window.open('mini_chef_schedule.php','mcSchedule','width=400,height=275,left=100,top=100,scrollbars=yes');">View Cooking Schedule</a><br />
+
+  <div class='clearB high20'></div>
+
   <span class="size12 gray2">Drop In: $40 | Winter: $418 | Spring: $507 | Fall: $585</span><br />
+
+  <div class='clearB high20'></div>
 
   <p class="pgraph">Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>
 
