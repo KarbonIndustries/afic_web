@@ -27,8 +27,8 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- =========== -->
 <div class="clearB">
   <span id="winter_camp" class="title2 blue2 clearB">Winter Camps 2017</span>
-  <span class="subtitle1 gray1">Martin Luther King Jr. Day Camp January 16th</span>
-  <span class="subtitle1 gray1">Presidents Day &amp; Winter Break Camp February 20th - 24th</span>
+  <span class="subtitle1 gray1">Martin Luther King Jr. Day Camp January 16<sup>th</sup></span>
+  <span class="subtitle1 gray1">Presidents Day &amp; Winter Break Camp February 20<sup>th</sup> - 24<sup>th</sup></span>
   <span class="size12 gray2">Ages 3-8 years</span><br />
   <span class="size12 gray2">Join us for one day or for everyday!</span><br /><br />
 
@@ -41,14 +41,14 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
   <p class="pgraph">
     The Art Farm will be partnering with The Iken Science Academy and the camp
-    will be hosted at their school at 351 East 74th Street between 1st Avenue
-    &amp; 2nd Avenue.
+    will be hosted at their school at 351 East 74<sup>th</sup> Street between 1<sup>st</sup> Avenue
+    &amp; 2<sup>nd</sup> Avenue.
   </p>
 
   <div class="clearB">
     <span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Half Day Group</span>
-    <span class="subtitle1 gray1">MLK Day Jan 16th</span>
-    <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20th - 24th</span>
+    <span class="subtitle1 gray1">MLK Day Jan 16<sup>th</sup></span>
+    <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20<sup>th</sup> - 24<sup>th</sup></span>
     <span class="subtitle1 gray1">(Register for on day or all of them)</span>
     <span class="size12 gray2">9am - 12:00pm | 3-4 years | $75/day</span><br />
     <span class="size12 gray2">Early Drop Off 8:30am - 9:00am | $15/day</span><br /><br />
@@ -72,11 +72,11 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
   <div class="clearB">
     <span id="fullDay" class="size20 bold" style='color:#FF3333'>Full Day Groups</span>
-    <span class="subtitle1 gray1">MLK Day Jan 16th</span>
-    <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20th - 24th</span>
+    <span class="subtitle1 gray1">MLK Day Jan 16<sup>th</sup></span>
+    <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20<sup>th</sup> - 24<sup>th</sup></span>
     <span class="subtitle1 gray1">(Register for on day or all of them)</span>
     <span class="subtitle1 gray1">9am - 3pm | 4-5 or 6-8 years | $125/day</span>
-    <span class="size12 gray2">$550 for full week of Winter Break Camp February 20th - 24th</span><br />
+    <span class="size12 gray2">$550 for full week of Winter Break Camp February 20<sup>th</sup> - 24<sup>th</sup></span><br />
     <span class="size12 gray2">(Discount is only available for full week at time of full week registration)</span><br />
     <span class="size12 gray2">Early Drop Off 8:30am - 9:00am | $15/day</span><br />
     <span class="size12 gray2">Extended Day 3:00pm - 5pm | $30/day</span><br /><br />
@@ -255,15 +255,15 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 </h2>
 
 <h2 class='alignC marginT0' style='color:#548FCF;font-weight:normal'>
-  June 26<sup>th</sup> - August 19<sup>th</sup>, 2017
+  June 26<sup>th</sup> - August 18<sup>th</sup>, 2017
 </h2>
 
-<p class='alignC bold size20' style='color:#FF3333'>We've grown!</p>
-
 <p class='alignC size16 blue2' style='width:440px;margin:auto'>
-  For a second year, we are excited to offer out summer camp program in the
+  For a second year, we are excited to offer our summer camp program in the
   state-of-the-art facilities of Trevor Day School East Campus on
   95<sup>th</sup> St between 1<sup>st</sup> and 2<sup>nd</sup> Ave.
+  Registration is done on a per-week basis. You may register for 1 week of camp
+  or for all 8.
 </p>
 
 <div class='clearB high20'></div>
@@ -275,7 +275,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
   petting zoo several times per week and our half-day campers will receive
   complimentary play time passes to visit The Art Farm with their family during
   the week after camp. All campers will garden and enjoy outdoor activities on
-  the terrace ever day. Every camper will enjoy cooking with us as we introduce
+  the terrace every day. Every camper will enjoy cooking with us as we introduce
   our farm-to-table lessons that coincide with our gardening. Full-day campers
   will swim at the 92<sup>nd</sup> St. Y and all groups will participate in
   many physical activities including indoor soccer, kick ball, wiffle ball,
@@ -316,8 +316,13 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
   <span class="subtitle1 gray1">9am - 12:30pm | 3-4 years</span>
   <span class="size20 bold clearB" style='color:#FF3333'>Fishies Half Day Camp</span>
   <span class="subtitle1 gray1">10am - 1pm | 3-4 years</span>
+
+  <div class='clearB high20'></div>
+
   <span class="size12 gray2">Mon - Fri: $550 | Mon, Wed, Fri: $385 | Tues, Thurs: $275</span><br />
   <span class="size12 gray2">Early Drop Off 8:30am - 9:00am | $15/day</span><br />
+
+  <div class='clearB high20'></div>
 
   <p class="pgraph">
     We offer a half-day camp with a warm, nurturing program so that separation
@@ -358,9 +363,14 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <div class="clearB">
   <span id="fullDay" class="size20 bold" style='color:#FF3333'>Froggies</span>
   <span class="subtitle1 gray1">9am - 3pm | 4 years</span>
+
+  <div class='clearB high20'></div>
+
   <span class="size12 gray2">Mon - Fri: $685 | Mon, Wed, Fri: $525 | Tues, Thurs: $385</span><br />
   <span class="size12 gray2">Early Drop Off 8:30am - 9:00am | $15/day</span><br />
   <span class="size12 gray2">Extended Day 3:00pm - 5pm | $40/day</span><br />
+
+  <div class='clearB high20'></div>
 
   <p class="pgraph">
     Our Full-Day Froggies group is a great segue into our full-day camp. Our
@@ -405,10 +415,15 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
 <div class="clearB">
   <span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
-  <span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 5 - 6 years | Chinchillas: 7-9 years</span>
+  <span class="subtitle1 gray1">9am - 3pm | Parrots: 5 years | Geckos: 6 years | Chinchillas: 7-9 years</span>
+
+  <div class='clearB high20'></div>
+
   <span class="size12 gray2">Mon - Fri: $685 | Mon, Wed, Fri: $525 | Tues, Thurs: $385</span><br />
   <span class="size12 gray2">Early Drop Off 8:30am - 9:00am: $15/day</span><br />
   <span class="size12 gray2">Extended Day 3:00pm - 5pm $40/day</span><br />
+
+  <div class='clearB high20'></div>
 
   <p class="pgraph">
     Our full-day campers in these groups will be separated into their own age
@@ -515,6 +530,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
   safari! Snakes, alligators, hedgehogs, and other exotic creatures will visit!
 </p>
 
+<img src='photos/summer_camp/0043.jpg' />
+
+<div class='clearB high20'></div>
 <div class="marginT20 clearB">&nbsp;</div>
 
 
