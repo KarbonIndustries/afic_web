@@ -27,7 +27,6 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!-- =========== -->
 <div class="clearB">
   <span id="winter_camp" class="title2 blue2 clearB">Winter Camps 2017</span>
-  <span class="subtitle1 gray1">Martin Luther King Jr. Day Camp January 16<sup>th</sup></span>
   <span class="subtitle1 gray1">Presidents Day &amp; Winter Break Camp February 20<sup>th</sup> - 24<sup>th</sup></span>
   <span class="size12 gray2">Ages 3-8 years</span><br />
   <span class="size12 gray2">Join us for one day or for everyday!</span><br /><br />
@@ -76,7 +75,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
     <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20<sup>th</sup> - 24<sup>th</sup></span>
     <span class="subtitle1 gray1">(Register for on day or all of them)</span>
     <span class="subtitle1 gray1">9am - 3pm | 4-5 or 6-8 years | $125/day</span>
-    <span class="size12 gray2">$550 for full week of Winter Break Camp February 20<sup>th</sup> - 24<sup>th</sup></span><br />
+    <span class="size12 gray2">$575 for full week of Winter Break Camp February 20<sup>th</sup> - 24<sup>th</sup></span><br />
     <span class="size12 gray2">(Discount is only available for full week at time of full week registration)</span><br />
     <span class="size12 gray2">Early Drop Off 8:30am - 9:00am | $15/day</span><br />
     <span class="size12 gray2">Extended Day 3:00pm - 5pm | $30/day</span><br /><br />
