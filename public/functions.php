@@ -135,7 +135,7 @@ function drawMainMenu($page)
     <div id="outerShell" class="">
       <div id="header" class="">
         <div id="headerLeft" class="">
-          <a href="' . AF_LOGO_URL . '"><img class="block" src="images/artfarm_logo_winter.png" /></a>
+          <a href="' . AF_LOGO_URL . '"><img class="block" src="images/artfarm_logo_15_years.png" /></a>
         </div>
         <div id="headerRight" class="">
           <ul>
