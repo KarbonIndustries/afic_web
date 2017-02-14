@@ -46,7 +46,6 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
   <div class="clearB">
     <span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Half Day Group</span>
-    <span class="subtitle1 gray1">MLK Day Jan 16<sup>th</sup></span>
     <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20<sup>th</sup> - 24<sup>th</sup></span>
     <span class="subtitle1 gray1">(Register for on day or all of them)</span>
     <span class="size12 gray2">9am - 12:00pm | 3-4 years | $75/day</span><br />
@@ -71,7 +70,6 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
   <div class="clearB">
     <span id="fullDay" class="size20 bold" style='color:#FF3333'>Full Day Groups</span>
-    <span class="subtitle1 gray1">MLK Day Jan 16<sup>th</sup></span>
     <span class="subtitle1 gray1">Presidents Day &amp; Winter Break February 20<sup>th</sup> - 24<sup>th</sup></span>
     <span class="subtitle1 gray1">(Register for on day or all of them)</span>
     <span class="subtitle1 gray1">9am - 3pm | 4-5 or 6-8 years | $125/day</span>
@@ -314,7 +312,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
   <span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Hamsters Half Day Camp</span>
   <span class="subtitle1 gray1">9am - 12:30pm | 3-4 years</span>
   <span class="size20 bold clearB" style='color:#FF3333'>Fishies Half Day Camp</span>
-  <span class="subtitle1 gray1">10am - 1pm | 3-4 years</span>
+  <span class="subtitle1 gray1">10am - 1:30pm | 3-4 years</span>
 
   <div class='clearB high20'></div>
 

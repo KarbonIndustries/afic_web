@@ -82,8 +82,8 @@ openContent($page);
 
   <div class='clearB high20'></div>
 
-  <span class="size12 red">Extended Play Time hours for MLK Day Jan 16<sup>th</sup> | 10am - 3:30pm</span><br />
-  <span class="size12 red">Regular hours resume Jan 17<sup>th</sup></span>
+  <span class="size12 red">Extended Play Time hours for President's Day Feb 20<sup>th</sup> | 10am - 3:30pm</span><br />
+  <span class="size12 red">Regular hours resume Feb 21<sup>st</sup></span>
 
   <div class='clearB high20'></div>
 
