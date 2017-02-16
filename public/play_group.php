@@ -1,5 +1,6 @@
 <?php
 require 'functions.php';
+require_once('../inc/config.php');
 $page = "Play Group";
 openHeader($page);
 closeHeader();
@@ -9,11 +10,11 @@ openContent($page);
 ?>
 <!--begin content-->
 
-<img class="pageImg" src="photos/play_group.jpg" />
-<span class="red" style="font-size:12px">The Art Farm does not offer make-up classes for Play Group</span>
-<span class="subtitle1 gray1">2 Year-Old Independent Play Group<br />
+<img class='pageImg' src='photos/play_group.jpg' />
+<span class='red' style='font-size:12px'>The Art Farm does not offer make-up classes for Play Group</span>
+<span class='subtitle1 gray1'>2 Year-Old Independent Play Group<br />
 Monday, Tuesday, Wednesday, or Thursday 9:30am-11:30am</span>
-<span class='gray1'>Spring 1 day/week <span class='size12 gray2'>$689</span> | 2 days/week <span class='size12 gray2'>$1,378</span></span><br />
+<span class='gray1'>Spring 1 day/week <span class='size12 gray2'>$636</span> | 2 days/week <span class='size12 gray2'>$1,272</span></span><br />
 <span class='gray1'>Summer 1 day/week <span class='size12 gray2'>$424</span> | 2 days/week <span class='size12 gray2'>$848</span></span><br />
 <span class='gray1'>Fall 1 day/week <span class='size12 gray2'>$848</span> | 2 days/week <span class='size12 gray2'>$1,696</span></span><br />
 <span class='gray1'>Winter 1 day/week <span class='size12 gray2'>$689</span> | 2 days/week <span class='size12 gray2'>$1,378</span></span><br />
@@ -38,12 +39,12 @@ cuddle with our animals.</p>
 <p class='gray1'>Class is based on rolling admissions.</p>
 
 <h3 class='register_heading'>Choose a semester to register now!</h3>
-<a id="" class="register_btn register_btn__winter" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1660003&location=455804" target="_blank">Winter</a>
-<a id="" class="register_btn register_btn__spring" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1331701" target="_blank">Spring</a>
-<a id="" class="register_btn register_btn__summer" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804" target="_blank">Summer</a>
-<a id="" class="register_btn register_btn__fall" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1444902&location=455804" target="_blank">Fall</a>
+<a id='' class='register_btn register_btn__winter' href='<?=WINTER_REGISTRATION_URL?>' target='_blank'>Winter</a>
+<a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
+<a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
+<a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
 
-<div class="clearB high60"></div>
+<div class='clearB high60'></div>
 
 <?php
 closeContent();
