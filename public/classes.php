@@ -37,10 +37,10 @@ openContent($page);
 <!-- ============================ -->
 <div class='clearB'>
   <img class='padR10 padT10 padB10' src='photos/rock_smocks_animals.jpg' />
-  <span id='rsa' class='title2 blue2'>Rock, Smocks and Animals</span>
+  <span id='rsa' class='title2 blue2'>Rock, Smocks, and Animals</span>
   <span class='subtitle1 gray1'>Adult Participation | Music, Art and Animals<br />
     14-24 months | 1-4 years mixed ages | 2-3 years<br />
-    <span class='size12 gray2'>Spring: $494 | Summer: $304 | Fall: $608 | Winter: $494</span>
+    <span class='size12 gray2'>Spring: $456 | Summer: $304 | Fall: $608 | Winter: $494</span>
     <span class='classCTA01'>Book Your Free Trial Today</span><br />
     <a class='rust' href='schedule.php'>View Schedule</a><br />
   </span>
