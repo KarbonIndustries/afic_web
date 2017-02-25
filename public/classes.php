@@ -1,6 +1,6 @@
 <?php
-require_once('functions.php');
 require_once('../inc/config.php');
+require_once('functions.php');
 $page = "Classes";
 openHeader($page);
 closeHeader();
