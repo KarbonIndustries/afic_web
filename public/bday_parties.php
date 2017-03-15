@@ -23,7 +23,7 @@ function popup($row,$partyName)
 
 <table id="bdayLinks" class="fullWidth marginB20" border="0" cellspacing="1" cellpadding="4">
   <tr>
-    <td class="bdayBg1"><?php echo popup(1,"Standard Art Farm Party")?></td>
+    <td class="bdayBg1"><?php echo popup(1,"The Art Farm Party")?></td>
     <td class="bdayBg3"><?php echo popup(1,"Exotic Animal Party")?></td>
     <td class="bdayBg4"><?php echo popup(1,"Princess &amp; Knights Party")?></td>
   </tr>
@@ -114,7 +114,7 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
 </p>
 
 <p class="pgraph"><b><font color="0066CC">What are your party time slots?</font></b><br />
-  Starting September 2013 our year-round weekend timeslots will be Saturday and Sunday 10:30am - 12:30pm, 1:30pm - 3:30pm or 4:30pm - 6:30pm
+  Our year-round weekend timeslots will be Saturday and Sunday 10:30am - 12:30pm, 1:30pm - 3:30pm or 4:30pm - 6:30pm
 </p>
 
 
