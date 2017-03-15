@@ -12,6 +12,6 @@ define('XMAS_OPEN_HOUSE_CLOSED','<span class="red">We will be closed Friday, Nov
 define('GENERAL_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1387801&location=455804');
 define('WINTER_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1660003&location=455804');
 define('SPRING_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1856903&location=455804');
-define('SUMMER_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1394602&location=455804');
+define('SUMMER_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1910901');
 define('FALL_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1444902&location=455804');
 ?>
