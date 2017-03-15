@@ -94,7 +94,7 @@ openContent($page);
   <img class='padR10 padT10 padB10' src='images/afbk_logo.png' />
   <span id='rsa' class='title2 blue2'>Art for Busy Kids</span>
   <span class='subtitle1 gray1'>Wednesday: 9:30am - 10:30am | 2-4 years<br />
-  <span class='size12 gray2'>Spring: $456 | Summer: $256 | Fall: $608 | Winter: $494</span></span>
+  <span class='size12 gray2'>Spring: $456 | Summer: $304 | Fall: $608 | Winter: $494</span></span>
   <p class='pgraph'>Join us for exploration and play through art. We will begin
   with open art time where the children will be invited to explore painting with
   different mediums and objects on a large piece of paper with their class. We
@@ -158,7 +158,7 @@ openContent($page);
   <span id="acc" class="title2 blue2">Mini Masterpieces</span>
   <span class="subtitle1 gray1">After-school program<br />
   <span class="subtitle1 gray1">Tuesday: 3:30pm - 4:30pm | 4-8 years<br />
-  <span class="size12 gray2">Spring: $456 | Summer: $256 | Fall: $512 | Winter: $416</span></span>
+  <span class="size12 gray2">Spring: $456 | Summer: $304 | Fall: $512 | Winter: $416</span></span>
   <p class='pgraph'>In this unique art class, students will focus on a different
   famous artist every week. We will explore their techniques and masterpieces before
   we create our own. Children will be introduced to different mediums such as acrylic
