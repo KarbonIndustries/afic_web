@@ -15,6 +15,7 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 <!--begin content-->
 
 <?php
+include '../inc/camp/spring.php';
 include '../inc/camp/summer.php';
 ?>
 
