@@ -169,7 +169,7 @@ openContent($page);
   <h3 class='register_heading'>Choose a semester to register now!</h3>
   <a id='' class='register_btn register_btn__winter' href='<?=WINTER_REGISTRATION_URL?>' target='_blank'>Winter</a>
   <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
-  <!--<a id='' class='register_btn register_btn__summer' href='https://campscui.active.com/orgs/TheArtFarminTheCity?season=979504' target='_blank'>Summer</a>-->
+  <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
   <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
 
   <div class="clearB high60"></div>
