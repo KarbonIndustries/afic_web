@@ -13,7 +13,7 @@ closeHeader();
     <thead>
       <tr class="blueBg2 bold white size13" valign="top">
         <td class="pad5 bdayBg1">
-          Standard Art Farm Party<br />
+          The Art Farm Party<br />
           <span class="normal size12">1-8 years</span>
         </td>
         <td class="pad5 bdayBg3">
