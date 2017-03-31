@@ -13,7 +13,7 @@ openContent($page);
 <img class='pageImg' src='photos/play_group.jpg' />
 <span class='red' style='font-size:12px'>The Art Farm does not offer make-up classes for Play Group</span>
 <span class='subtitle1 gray1'>2 Year-Old Independent Play Group<br />
-Monday, Tuesday, Wednesday, or Thursday 9:30am-11:30am</span>
+Tuesday, Wednesday, or Thursday 9:30am-11:30am</span>
 <span class='gray1'>Spring 1 day/week <span class='size12 gray2'>$636</span> | 2 days/week <span class='size12 gray2'>$1,272</span></span><br />
 <span class='gray1'>Summer 1 day/week <span class='size12 gray2'>$424</span> | 2 days/week <span class='size12 gray2'>$848</span></span><br />
 <span class='gray1'>Fall 1 day/week <span class='size12 gray2'>$848</span> | 2 days/week <span class='size12 gray2'>$1,696</span></span><br />
@@ -33,7 +33,6 @@ a chance to create masterpieces during art, have a healthy snack and best of all
 cuddle with our animals.</p>
 
 <p class='gray1'>All children joining the program must be 2 years old by the first day of the semester.</p>
-<p class='gray1'>All parents and caregivers must remain on premises.</p>
 <p class='gray1'>Enrolled families will be given priority registration for the next semester.</p>
 <p class='gray1'>This is a non-refundable program once registered.</p>
 <p class='gray1'>Class is based on rolling admissions.</p>
