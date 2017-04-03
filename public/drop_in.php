@@ -82,11 +82,6 @@ openContent($page);
 
   <div class='clearB high20'></div>
 
-  <span class='size12 red'>Extended Play Time hours for President's Day Feb 20<sup>th</sup> | 10am - 3:30pm</span><br />
-  <span class='size12 red'>Regular hours resume Feb 21<sup>st</sup></span>
-
-  <div class='clearB high20'></div>
-
   <p class='pgraph'>Come and play all afternoon or just for an hour. All ages can drop in for animal time, arts &amp; crafts and creative play in our playroom. You can pay by the day or save and buy a 10 Play Date pass and save. All children must be accompanied by an adult. You can drop in during the times that are listed "no reservation."</p>
 
   <p class='pgraph'>
