@@ -23,7 +23,7 @@ $nextYear = $curYear + 1;
 		<span class="blue2 bold marginL10">Winter 2017 Semester</span> <span class="gray2">Jan 3rd - Apr 1st</span><br />
 		<span class="blue2 bold marginL10">Spring 2017 Semester</span> <span class="gray2">Apr 3rd - Jun 24th</span><br />
 		<span class="blue2 bold marginL10">Summer 2017 Semester</span> <span class="gray2">Jun 26th - Aug 18th</span><br />
-		<span class="blue2 bold marginL10">Fall 2016 Semester</span> <span class="gray2">Sept 6th - Dec 23rd</span>
+		<span class="blue2 bold marginL10">Fall 2016 Semester</span> <span class="gray2">Sept 5th - Dec 23rd</span>
 	</div>
 </div>
 
