@@ -15,7 +15,8 @@ openContent($page);
 <!-- ======================== -->
 <!-- = MORNINGS ON THE FARM = -->
 <!-- ======================== -->
-<span class='title2 blue2'>Mornings on The Farm</span><br />
+<span class='title2 blue2'>Mornings on The Farm</span>
+<span class='notice__red'>We will be closed on Sunday, April 16<sup>th</sup>. Enjoy your Easter holiday</span>
 <span class='subtitle1 gray1'>1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
