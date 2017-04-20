@@ -177,7 +177,7 @@
 
 <div class="clearB">
   <span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
-  <span class="subtitle1 gray1">9AM - 3PM | Parrots: 5 years | Geckos: 6 years | Chinchillas: 7-9 years</span>
+  <span class="subtitle1 gray1">9AM - 3PM | Parrots: 5 years | Geckos: 5&frac12; - 6 years | Chinchillas: 6&frac12; - 9 years</span>
 
   <div class='clearB high20'></div>
 
