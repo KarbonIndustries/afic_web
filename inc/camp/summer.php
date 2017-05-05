@@ -8,21 +8,6 @@
 <!-- = SUMMER CAMP = -->
 <!-- =============== -->
 <h1 class='alignC margin0' style='color:#FF3333'>
-  Summer Camp Open House
-</h1>
-
-<h2 class='alignC marginT0' style='color:#548FCF;font-weight:normal'>
-  March 4<sup>th</sup>, 1PM - 3PM
-</h2>
-
-<p class='alignC size16 blue2' style='width:440px;margin:auto'>
-  Come and see the facility, learn more about the program and meet the
-  directors! No reservation required.
-</p>
-
-<div class='clearB high60'></div>
-
-<h1 class='alignC margin0' style='color:#FF3333'>
   The Art Farm in The City Summer Camp
 </h1>
 
@@ -192,7 +177,7 @@
 
 <div class="clearB">
   <span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span>
-  <span class="subtitle1 gray1">9AM - 3PM | Parrots: 5 years | Geckos: 6 years | Chinchillas: 7-9 years</span>
+  <span class="subtitle1 gray1">9AM - 3PM | Parrots: 5 years | Geckos: 5&frac12; - 6 years | Chinchillas: 6&frac12; - 9 years</span>
 
   <div class='clearB high20'></div>
 
