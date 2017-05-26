@@ -8,9 +8,9 @@ define("AUTHOR","Shammel Lee");
 define("AUTHOR_URL","http://www.shammellee.com/");
 
 
-// ==========
-// = header =
-// ==========
+# ==========
+# = HEADER =
+# ==========
 
 function openHeader($title)
 {
@@ -90,9 +90,9 @@ function closeHeader()
   echo '</head>';
 }
 
-// =================
-// = page elements =
-// =================
+# =================
+# = PAGE ELEMENTS =
+# =================
 
 function drawMainMenu($page)
 {
@@ -101,7 +101,7 @@ function drawMainMenu($page)
   $press =  "pressUp";
   $about =  "aboutUp";
   $contact =  "contactUp";
-  
+
   switch($page)
   {
     case "home":
@@ -122,7 +122,7 @@ function drawMainMenu($page)
     default:
     break;
   }
-  
+
   echo '
   <body>
     <div class="newsShell">
@@ -162,7 +162,7 @@ function drawActivitiesMenu($page)
   $camp               = "campUp";
   $dropIn             = "dropInUp";
   $outreachFieldTrips = "outreachFieldTripsUp";
-  
+
   switch ($page)
   {
       case "membership":
@@ -195,7 +195,7 @@ function drawActivitiesMenu($page)
       default:
       break;
   }
-    
+
     echo '
     <div id="activitiesMenu" class="">
     <ul>
@@ -237,7 +237,7 @@ function drawHomePanel()
     </div>
   </div>
   <!--end of panel-->
-  
+
   <div id="slideshow1">
     <a href="http://www.adobe.com/go/getflashplayer">
       <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
@@ -255,7 +255,7 @@ function drawPanel($page)
   $tour         = "mpUp";
   $register     = "mpUp";
   $testimonials = "mpUp";
-  
+
   switch ($page)
   {
     case "actByAge":
@@ -278,7 +278,7 @@ function drawPanel($page)
     default:
     break;
   }
-  
+
   echo '
   <div id="menuPanel" class="">
     <ul>
@@ -322,8 +322,7 @@ function drawPreschoolPanel()
     <span class="bold rust block marginT10">
       Three's Program<br />
       Half-Day Morning<br />
-      The Turtles Class for children born in 2013 (2016 - 2017 School Year)<br />
-      or children born in 2014 (2017 - 2018 School Year)
+      The Turtles Class
     </span>
     <span class="gray2 size11">
       Monday/Wednesday<br />
@@ -335,8 +334,7 @@ function drawPreschoolPanel()
     <span class="bold rust block marginT10">
       Four's Program<br />
       Half-Day Afternoon<br />
-      The Doves Class for children born in 2012 (2016 - 2017 School Year)<br />
-      or children born in 2013 (2017 - 2018 School Year)
+      The Doves Class
     </span>
     <span class="gray2 size11">
       Monday - Thursday Afternoon<br />
@@ -364,9 +362,9 @@ function drawPreschoolPanel()
 C;
 }
 
-// ===========
-// = content =
-// ===========
+# ===========
+# = CONTENT =
+# ===========
 
 function openContent($title, $page)
 {
@@ -388,7 +386,7 @@ function openPreschoolContent($title, $page)
   drawPanel($page);
   drawPreschoolPanel();
   echo '</div>' . "\n";
-  
+
   echo '
   <div id="content" class="">
   ';
@@ -558,9 +556,9 @@ function drawChoose()
   ';
 }
 
-// =========
-// = forms =
-// =========
+# =========
+# = FORMS =
+# =========
 
 function drawClassForm()
 {
@@ -570,8 +568,8 @@ function drawClassForm()
     drawIcon("data/af_class_form.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "", "");
     </script>
   </div>
-  
-  <div id="formContainer" class="clearB"> 
+
+  <div id="formContainer" class="clearB">
     <form method="post" action="form_processor.php?f=class" name="reg">
       <!--childSection-->
       <div id="childSection" class="">
@@ -776,7 +774,7 @@ function drawClassForm()
             <!--end of zip-->
           </div>
           <!--end of row-->
-          
+
           <div class="floatL padT10">
             <div id="" class="floatL clearL marginR14">
               <label for="tf_homePhone" class="block size15 marginB5"><span class="label2">Home Phone</span></label>
@@ -1068,8 +1066,8 @@ function drawSummerCampForm()
     drawIcon("data/af_camp_form.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "","");
     </script>
   </div>
-  
-  <div id="formContainer" class="clearB"> 
+
+  <div id="formContainer" class="clearB">
     <form method="post" action="form_processor.php?f=summerCamp" name="reg">
       <!--childSection-->
       <div id="childSection" class="">
@@ -1274,7 +1272,7 @@ function drawSummerCampForm()
             <!--end of zip-->
           </div>
           <!--end of row-->
-          
+
           <div class="floatL padT10">
             <div id="" class="floatL clearL marginR14">
               <label for="tf_homePhone" class="block size15 marginB5"><span class="label2">Home Phone</span></label>
@@ -1647,8 +1645,8 @@ function drawHolidayCampForm()
     drawIcon("data/af_holiday_camp_form.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "","");
     </script>
   </div>
-  
-  <div id="formContainer" class="clearB"> 
+
+  <div id="formContainer" class="clearB">
     <form method="post" action="form_processor.php?f=holidayCamp" name="reg">
       <!--childSection-->
       <div id="childSection" class="">
@@ -1853,7 +1851,7 @@ function drawHolidayCampForm()
             <!--end of zip-->
           </div>
           <!--end of row-->
-          
+
           <div class="floatL padT10">
             <div id="" class="floatL clearL marginR14">
               <label for="tf_homePhone" class="block size15 marginB5"><span class="label2">Home Phone</span></label>
@@ -2201,8 +2199,8 @@ function drawJuneCampForm()
     drawIcon("data/af_june_camp_form.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "","");
     </script>
   </div>
-  
-  <div id="formContainer" class="clearB"> 
+
+  <div id="formContainer" class="clearB">
     <form method="post" action="form_processor.php?f=juneCamp" name="reg">
       <!--childSection-->
       <div id="childSection" class="">
@@ -2407,7 +2405,7 @@ function drawJuneCampForm()
             <!--end of zip-->
           </div>
           <!--end of row-->
-          
+
           <div class="floatL padT10">
             <div id="" class="floatL clearL marginR14">
               <label for="tf_homePhone" class="block size15 marginB5"><span class="label2">Home Phone</span></label>
@@ -2736,7 +2734,7 @@ function drawDropInForm()
     drawIcon("data/af_class_form.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "","");
     </script>
   </div>
-  
+
   <div id="formContainer" class="clearB">
     <form method="post" action="form_processor.php?f=dropIn" name="reg">
       <!--childSection-->
@@ -2942,7 +2940,7 @@ function drawDropInForm()
             <!--end of zip-->
           </div>
           <!--end of row-->
-          
+
           <div class="floatL padT10">
             <div id="" class="floatL clearL marginR14">
               <label for="tf_homePhone" class="block size15 marginB5"><span class="label2">Home Phone</span></label>
@@ -3025,7 +3023,7 @@ function drawDropInForm()
               <option value="" selected="selected">Select a date</option>
             </select>
           </div>
-        </div>  
+        </div>
       </div>
       <!--end of playTimeSection-->
       <div class="formSeparator1 marginT10 marginB10"></div>
@@ -3254,8 +3252,8 @@ function drawPlayGroupForm()
     drawIcon("data/af_class_form.pdf", "download", "rust mouseCursor", "floatL", "Download printable version", "floatL marginT5 size14", false, "","");
     </script>
   </div>
-  
-  <div id="formContainer" class="clearB"> 
+
+  <div id="formContainer" class="clearB">
     <form method="post" action="form_processor.php?f=playGroup" name="reg">
       <!--childSection-->
       <div id="childSection" class="">
@@ -3460,7 +3458,7 @@ function drawPlayGroupForm()
             <!--end of zip-->
           </div>
           <!--end of row-->
-          
+
           <div class="floatL padT10">
             <div id="" class="floatL clearL marginR14">
               <label for="tf_homePhone" class="block size15 marginB5"><span class="label2">Home Phone</span></label>
