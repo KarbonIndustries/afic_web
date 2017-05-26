@@ -322,8 +322,7 @@ function drawPreschoolPanel()
     <span class="bold rust block marginT10">
       Three's Program<br />
       Half-Day Morning<br />
-      The Turtles Class for children born in 2013 (2016 - 2017 School Year)<br />
-      or children born in 2014 (2017 - 2018 School Year)
+      The Turtles Class
     </span>
     <span class="gray2 size11">
       Monday/Wednesday<br />
@@ -335,8 +334,7 @@ function drawPreschoolPanel()
     <span class="bold rust block marginT10">
       Four's Program<br />
       Half-Day Afternoon<br />
-      The Doves Class for children born in 2012 (2016 - 2017 School Year)<br />
-      or children born in 2013 (2017 - 2018 School Year)
+      The Doves Class
     </span>
     <span class="gray2 size11">
       Monday - Thursday Afternoon<br />

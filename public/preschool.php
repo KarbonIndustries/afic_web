@@ -11,10 +11,7 @@ openPreschoolContent($page);
 
 <img class='pageImg' src='photos/preschool.jpg' />
 
-<h1 class='title2 blue2 alignC'>Rolling Admissions Still Enrolling for the 2016 - 2017 School Year all Ages!</h1>
-<p class='subtitle1 alignC'>Currently Accepting 2017 - 2018 Applications</p>
-
-<div class="">
+<div>
 
   <span class='title2 blue2 marginB10'>One of a kind program&hellip;</span>
 
