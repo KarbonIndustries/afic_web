@@ -136,7 +136,6 @@ openContent($page);
 <!-- =============== -->
 <div class='clearB'>
   <span id='ff' class='block bold size18 blue2'>Fun Fridays</span>
-  <span class='notice__red'>Fun Fridays will not be running this Friday, May 19<sup>th</sup> due to facility maintenance.</span>
   <span class='subtitle1 gray1'>9:30am - 11:30am | 18 months+</span>
   <span class='size12 gray2'>Friday</span><br />
 
@@ -197,6 +196,7 @@ openContent($page);
 <!-- ======================== -->
 <div class='clearB'>
   <span id='motf' class='block bold size18 blue2'>Mornings on the Farm</span>
+  <span class='notice__red'>We will be closed for the Memorial Day Weekend. Enjoy your Holiday!</span>
   <span class='subtitle1 gray1'>8am - 10am | 1+ years</span>
   <span class='size12 gray2'>Year-round program</span><br />
   <span class='size12 gray2'>Saturday/Sunday</span><br />
