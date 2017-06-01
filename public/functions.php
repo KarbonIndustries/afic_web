@@ -203,7 +203,7 @@ function drawActivitiesMenu($page)
       <li><a class="' . $classes . '" href="classes.php" title="Classes">Classes</a></li>
       <li><a class="' . $bDayParties . '" href="bday_parties.php" title="Birthday Parties">Birthday Parties</a></li>
       <li><a class="' . $preSchool . '" href="preschool.php" title="Pre-School">Pre-School</a></li>
-      <li><a class="' . $playGroup . '" href="play_group.php" title="Play Group">Play Group</a></li>
+      <li><a class="' . $playGroup . '" href="twos_group.php" title="Two\'s Group">Two\'s Group</a></li>
       <li><a class="' . $weekendPrograms . '" href="weekend_programs.php" title="Weekend Programs">Weekend<br />Programs</a></li>
       <li><a class="' . $camp . '" href="camp.php" title="Camp">Camp</a></li>
       <li><a class="' . $dropIn . '" href="drop_in.php" title="Drop In">Drop In</a></li>
@@ -546,7 +546,7 @@ function drawChoose()
       <tr><td>
         <div id="" class="">
           <a id="btn1L" class="" href="https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&RF=3709104&mode=0" target="_blank">
-          <div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Play Group</div><div class="btn1LR"><span class="invisible">.</span></div>
+          <div class="btn1LL"><span class="invisible">.</span></div><div class="btn1LC">&#187; Two\'s Group</div><div class="btn1LR"><span class="invisible">.</span></div>
           </a>
         </div>
       </td></tr>
