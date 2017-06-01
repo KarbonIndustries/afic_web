@@ -32,6 +32,8 @@ openContent($page);
 
   <div class='clearB high60'></div>
 </div>
+
+
 <!-- ============================ -->
 <!-- = ROCK, SMOCKS AND ANIMALS = -->
 <!-- ============================ -->
@@ -64,7 +66,7 @@ openContent($page);
   <span id='rsa' class='title2 blue2'>Farm Friends</span>
   <span class='subtitle1 gray1'>90-minute Adult and Me pre-school prep class<br />
     9:30am - 11:00am | 18 months to 2&frac12; years<br />
-    <span class='size12 gray2'>Spring: $540 | Summer: $384 | Fall: $720 | Winter: $585</span>
+    <span class='size12 gray2'>Spring: $540 | Summer: $384 | Fall: $768 | Winter: $585</span>
   </span>
   <p class='pgraph'>Is your child ready for a longer class? Our Farm Friends, hour
   and a half class is the perfect program to engage your child in more play. We will
