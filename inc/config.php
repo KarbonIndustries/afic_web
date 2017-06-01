@@ -13,5 +13,5 @@ define('GENERAL_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarmin
 define('WINTER_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1660003&location=455804');
 define('SPRING_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1856903&location=455804');
 define('SUMMER_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1910901');
-define('FALL_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1444902&location=455804');
+define('FALL_REGISTRATION_URL','https://campscui.active.com/orgs/TheArtFarminTheCity?season=1980903&location=455804');
 ?>

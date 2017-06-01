@@ -11,7 +11,7 @@ openContent($page);
 <!--begin content-->
 
 <img class='pageImg' src='photos/twos_group.jpg' />
-<span class='red' style='font-size:12px'>The Art Farm does not offer make-up classes for Two's Group</span>
+
 <p class='subtitle1 bold gray1'>2 Year-Old Separation Two's Group</p>
 
 <span class='bold gray1'>Two's Summer Camp</span><br />
