@@ -384,7 +384,6 @@ function openPreschoolContent($title, $page)
 {
   echo '<div class="floatL">' . "\n";
   drawPanel($page);
-  drawPreschoolPanel();
   echo '</div>' . "\n";
 
   echo '
