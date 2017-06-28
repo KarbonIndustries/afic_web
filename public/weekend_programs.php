@@ -16,7 +16,6 @@ openContent($page);
 <!-- = MORNINGS ON THE FARM = -->
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
-<span class='notice__red'>We will be closed for the Memorial Day weekend. Enjoy your holiday!</span>
 <span class='subtitle1 gray1'>1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
