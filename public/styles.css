@@ -73,7 +73,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .gray1{color: #303030 !important;}
 .gray2{color: #606060 !important;}
 .red{color: #FF0000 !important;}
-.notice__red{background:#FF0000;border-radius:3px;color:#FFFFFF !important;display:inline-block;margin:4px 0;padding:6px}
+.notice__red{background:#FF666E;border:1px solid #DB0000;border-radius:3px;color:#FFFFFF !important;display:inline-block;margin:4px 0;padding:6px}
 .notice__yellow{background:#FFC533;border-radius:3px;color:#944D00 !important;display:inline-block;margin:4px 0;padding:6px}
 
 .italic{font-style: italic;}
