@@ -98,6 +98,11 @@ openContent($page);
 <!-- ================== -->
 <div class='clearB'>
   <span id='wpt' class='block bold size18 blue2'>Open Play Time</span>
+  <div class='notice__red'>
+    We will be closed Monday, July 3<sup>rd</sup> and Tuesday, July
+    4<sup>th</sup> for the Independence Day holiday. We will open again for
+    normal hours on July 5<sup>th</sup>.
+  </div>
   <span class='subtitle1 gray1'>12:30pm - 3:30pm | 6 months+</span>
   <span class='size12 gray2'>Mon - Thurs</span><br />
 
