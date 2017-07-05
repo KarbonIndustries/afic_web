@@ -136,10 +136,6 @@ openContent($page);
 <!-- =============== -->
 <div class='clearB'>
   <span id='ff' class='block bold size18 blue2'>Fun Fridays</span>
-  <span class='notice__red'>
-    We will be closed Friday, June 30<sup>th</sup> for facility maintenance.
-    Fun Fridays will resume July 7<sup>th</sup> for the rest of the summer.
-  </span>
   <span class='subtitle1 gray1'>9:30am - 11:30am | 18 months+</span>
   <span class='size12 gray2'>Friday</span><br />
 
