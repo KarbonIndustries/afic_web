@@ -34,9 +34,9 @@ openContent($page);
 </div>
 
 
-<!-- ============================ -->
-<!-- = ROCK, SMOCKS AND ANIMALS = -->
-<!-- ============================ -->
+<!-- ============================= -->
+<!-- = ROCK, SMOCKS, AND ANIMALS = -->
+<!-- ============================= -->
 <div class='clearB'>
   <img class='padR10 padT10 padB10' src='photos/rock_smocks_animals.jpg' />
   <span id='rsa' class='title2 blue2'>Rock, Smocks, and Animals</span>
