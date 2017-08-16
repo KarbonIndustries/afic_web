@@ -59,16 +59,6 @@ $nextYear = $curYear + 1;
       </div>
     </div>
     <div id="scheduleClass">
-      <div id="scheduleClassTitle" class="classFHS">
-        Homeschool Science Class
-      </div>
-      <div id="scheduleClassInfo" class="">
-        <div id="scheduleClassTime">6 - 8 years<br />
-          11:30am - 12:30pm
-        </div>
-      </div>
-    </div>
-    <div id="scheduleClass">
       <div id="scheduleClassTitle" class="classWPT">
         Play Time
       </div>
@@ -283,6 +273,16 @@ $nextYear = $curYear + 1;
       <div id="scheduleClassInfo" class="">
         <div id="scheduleClassTime">2 years<br />
           9:30am - 11:45am<br />
+        </div>
+      </div>
+    </div>
+    <div id="scheduleClass">
+      <div id="scheduleClassTitle" class="classFHS">
+        Homeschool Science Class
+      </div>
+      <div id="scheduleClassInfo" class="">
+        <div id="scheduleClassTime">6 - 8 years<br />
+          11:30am - 12:30pm
         </div>
       </div>
     </div>
