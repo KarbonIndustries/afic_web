@@ -214,30 +214,34 @@ openContent($page);
 <!-- ============== -->
 <div class='clearB'>
   <img class='padR10 padT10 padB10' src='photos/fall_homeschool_2014.jpg' />
-  <span id='ff' class='title2 blue2'>Home School Winter 2017</span>
+  <span id='ff' class='title2 blue2'>Home School Fall 2017</span>
   <span class='subtitle1 gray1'>
-    Monday: 11:30am - 12:30pm | 5 - 8 years<br />
-    January 23rd - March 27th<br />
-    <span class ='size12 gray2'>9-week semester: $225</span><br />
-    Class not running on Presiden'ts Day
+    Thursday: 11:30am - 12:30pm | 5 - 8 years<br />
+    September 28<sup>th</sup> - December 21<sup>st</sup><br />
+    <span class ='size12 gray2'>12-week semester: $300</span><br />
+    Class not running on Thanksgiving
   </span>
-  <p class='pgraph'>Children will be able to have a hands-on living science education
-  at The Art Farm! Each week, your child will be introduced to a world filled with
-  amazing animals as they participate in multi-sensory activities as well as encounters
-  with live animals. Children will be encouraged to make observations, ask questions
-  and use their sense of wonder about the natural world while exploring ways to
-  be kind and respectful towards animals and the environment.</p>
+  <p class='pgraph'>
+    Give your child the opportunity to spend time with live animals and to
+    develop the important science skills of observation, classification, and
+    communication. Children will be encouraged to make observations, ask
+    questions, and use their sense of wonder about the natural world while
+    exploring ways to be kind and respectful towards animals and their
+    environment.
+  </p>
 
-  <p class='pgraph'>Each week we will take an in-depth look into animal habitats
-  and animal classification through animal skulls, x-rays and footprints. During
-  the class we will focus on animal husbandry including weighing and measuring
-  animals. The children will also learn animal handling skills and create enrichment
-  toys for the animal.</p>
+  <p class='pgraph'>
+    Each week we will take an in-depth look into animal habitats and animal
+    classification through animal skulls, x-rays and footprints. During the
+    class we will focus on animal husbandry including weighing and measuring
+    animals. The children will also learn animal handling skills and create
+    enrichment toys which they will share with our animals.
+  </p>
 
   <div class='clearB high20'></div>
 
   <a id='' class='register_btn register_btn__now'
-    href='https://campscui.active.com/orgs/TheArtFarminTheCity?season=1730303&location=455804'
+    href='https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/2117602'
     target='_blank'>Register Now!</a>
 
   <div class='clearB high30'></div>

@@ -98,6 +98,10 @@ openContent($page);
 <!-- ================== -->
 <div class='clearB'>
   <span id='wpt' class='block bold size18 blue2'>Open Play Time</span>
+  <span class='notice__red'>
+    The Art Farm will be closed Monday, August 28<sup>th</sup> and will reopen
+    Tuesday, September 5<sup>th</sup>.
+  </span>
   <span class='subtitle1 gray1'>12:30pm - 3:30pm | 6 months+</span>
   <span class='size12 gray2'>Mon - Thurs</span><br />
 
@@ -136,6 +140,11 @@ openContent($page);
 <!-- =============== -->
 <div class='clearB'>
   <span id='ff' class='block bold size18 blue2'>Fun Fridays</span>
+  <span class='notice__red'>
+    We will not be holding Fun Friday August 25<sup>th</sup>. Fun Friday program
+    will resume for the Fall semester beginning Friday, September
+    8<sup>th</sup>.
+  </span>
   <span class='subtitle1 gray1'>9:30am - 11:30am | 18 months+</span>
   <span class='size12 gray2'>Friday</span><br />
 
@@ -267,6 +276,7 @@ openContent($page);
 
   <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
 
+  <a id='' class='register_btn register_btn__now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy Now</a>
 </div>
 
 <div class='clearB high30'></div>
