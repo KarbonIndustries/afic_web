@@ -95,20 +95,26 @@ openContent($page);
 <div class='clearB'>
   <img class='padR10 padT10 padB10' src='images/afbk_logo.png' />
   <span id='rsa' class='title2 blue2'>Art for Busy Kids</span>
-  <span class='subtitle1 gray1'>Wednesday: 9:30am - 10:30am | 2-4 years<br />
-  <span class='size12 gray2'>Spring: $456 | Summer: $304 | Fall: $608 | Winter: $494</span></span>
-  <p class='pgraph'>Join us for exploration and play through art. We will begin
-  with open art time where the children will be invited to explore painting with
-  different mediums and objects on a large piece of paper with their class. We
-  will explore painting with bubble wrap, dragging small cars through paint and
-  more. Then we will move onto a story which will help get our creativity flowing
-  for our next project. Every week we will create a masterpiece using many different
-  materials. Whether we paint on canvas, or create with recycled materials,
-  everyone is sure to have fun creating art that will revolve around story book
-  characters, the alphabet and the world around us. Children must attend with
-  a caregiver and the older the child is, the more independent they can be. Before
-  this hour class is through, it's time to visit all the animals in our petting
-  zoo.</p>
+  <span class='subtitle1 gray1'>
+    Wednesday | 2-4 years<br />
+    9:30am - 10:30am | 3:30pm - 4:30pm<br />
+  </span>
+  <span class='size12 gray2'>Spring: $456 | Summer: $304 | Fall: $608 | Winter: $494</span>
+
+  <p class='pgraph'>
+    Join us for exploration and play through art. We will begin with open art
+    time where the children will be invited to explore painting with different
+    mediums and objects on a large piece of paper with their class. We will
+    explore painting with bubble wrap, dragging small cars through paint and
+    more. Then we will move onto a story which will help get our creativity
+    flowing for our next project. Every week we will create a masterpiece using
+    many different materials. Whether we paint on canvas, or create with
+    recycled materials, everyone is sure to have fun creating art that will
+    revolve around story book characters, the alphabet and the world around us.
+    Children must attend with a caregiver and the older the child is, the more
+    independent they can be. Before this hour class is through, it's time to
+    visit all the animals in our petting zoo.
+  </p> 
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
   <a id='' class='register_btn register_btn__winter' href='<?=WINTER_REGISTRATION_URL?>' target='_blank'>Winter</a>

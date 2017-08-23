@@ -208,6 +208,16 @@ $nextYear = $curYear + 1;
       </div>
     </div>
     <div id="scheduleClass">
+      <div id="scheduleClassTitle" class="classAFBK">
+        Art for Busy Kids
+      </div>
+      <div id="scheduleClassInfo" class="">
+        <div id="scheduleClassTime">2 - 4 years<br />
+          3:30pm - 4:30pm
+        </div>
+      </div>
+    </div>
+    <div id="scheduleClass">
       <div id="scheduleClassTitle" class="classRSA">
         Rock, Smocks &amp; Animals
       </div>
