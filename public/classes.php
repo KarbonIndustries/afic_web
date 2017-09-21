@@ -179,9 +179,10 @@ openContent($page);
   <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
   <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
   <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
-
-  <div class="clearB high60"></div>
+  <a id='' class='register_btn register_btn__now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy One Class</a>
 </div>
+
+<div class="clearB high60"></div>
 
 
 <!-- ============================== -->
