@@ -260,14 +260,10 @@ openContent($page);
 
   <h3 class='register_heading'>Choose a semester to register now!</h3>
   <a id='' class='register_btn register_btn__winter' href='https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804' target='_blank'>Winter</a>
-
   <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
-
   <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
-
   <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
-
-  <a id='' class='register_btn register_btn__now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy Now</a>
+  <a id='' class='register_btn register_btn__now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy One Class</a>
 </div>
 
 <div class='clearB high30'></div>
