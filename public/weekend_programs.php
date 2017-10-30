@@ -33,7 +33,10 @@ openContent($page);
 -->
 <span class='subtitle1 gray1'>After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 	<a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
-	<span class='size12 gray2'>Drop In: $40 | Winter: $418 | Spring: $468 | Summer: $304 | Fall: $585</span><br />
+
+  <span class='size12 gray2'>
+    Drop In: $40 | Winter: $420 | Spring: $420
+  </span><br />
 </span>
 
 <p class='pgraph'>Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>

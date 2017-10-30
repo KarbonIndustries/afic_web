@@ -232,17 +232,19 @@ openContent($page);
     Farm Foodies Cooking Class
   </span>
   <span class='subtitle1 rust'>
+
   <span class='subtitle1 gray1'>After-school/weekend program<br />
     Thursday: 11:30am - 12:30pm | 2-8 years mixed ages<br />
-    Thursday 3:30pm - 4:30pm | 2 - 8 years mixed ages<br />
-    Saturday 9am - 10am | 2 - 8 years<br />
+    Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
+    Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
   </span>
+
   <a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
 
   <div class='clearB high20'></div>
 
   <span class='size12 gray2'>
-    Drop In: $40 | Winter: $418 | Spring: $468 | Fall: $585
+    Drop In: $40 | Winter: $420 | Spring: $420
   </span><br />
 
   <div class='clearB high20'></div>
