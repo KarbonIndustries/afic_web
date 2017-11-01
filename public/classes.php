@@ -96,7 +96,7 @@ openContent($page);
   <img class='padR10 padT10 padB10' src='images/afbk_logo.png' />
   <span id='rsa' class='title2 blue2'>Art for Busy Kids</span>
   <span class='subtitle1 gray1'>
-    Wednesday | 2-4 years<br />
+    Wednesday | 2-6 years<br />
     9:30am - 10:30am | 3:30pm - 4:30pm<br />
   </span>
   <span class='size12 gray2'>Winter: $384 | Spring: $384</span>

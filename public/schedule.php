@@ -192,7 +192,7 @@ $nextYear = $curYear + 1;
         Art for Busy Kids
       </div>
       <div id="scheduleClassInfo" class="">
-        <div id="scheduleClassTime">2 - 4 years<br />
+        <div id="scheduleClassTime">2 - 6 years<br />
           9:30am - 10:30am
         </div>
       </div>
@@ -212,7 +212,7 @@ $nextYear = $curYear + 1;
         Art for Busy Kids
       </div>
       <div id="scheduleClassInfo" class="">
-        <div id="scheduleClassTime">2 - 4 years<br />
+        <div id="scheduleClassTime">2 - 6 years<br />
           3:30pm - 4:30pm
         </div>
       </div>
