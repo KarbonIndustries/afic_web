@@ -16,11 +16,18 @@ openContent($page);
 <!-- = MORNINGS ON THE FARM = -->
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
+
+<span class='notice notice--red'>The Art Farm will be closed on Sunday,
+November 5<sup>th</sup> due to the NYC Marathon, which runs up 1<sup>st</sup>
+Ave. We will be open Saturday, November 4<sup>th</sup></span>
+
 <span class='subtitle1 gray1'>1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
 </span>
-<span class='size12 gray2'>1 visit - Children: $15 | Adults: $5 | Members: $5</span>
+
+<span class='size12 gray2'>1 visit - Children: $15 | Adults: $5 | Members:
+$5</span>
 
 <p class='pgraph'>Where else in New York City can you begin your day on the farm?  With a basket full of hay and goodies, you and your children can spend the morning feeding and snuggling animals right here at our indoor farm on the Upper East Side.</p>
 
