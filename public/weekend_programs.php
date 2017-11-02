@@ -16,11 +16,18 @@ openContent($page);
 <!-- = MORNINGS ON THE FARM = -->
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
+
+<span class='notice notice--red'>The Art Farm will be closed on Sunday,
+November 5<sup>th</sup> due to the NYC Marathon, which runs up 1<sup>st</sup>
+Ave. We will be open Saturday, November 4<sup>th</sup></span>
+
 <span class='subtitle1 gray1'>1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am
 </span>
-<span class='size12 gray2'>1 visit - Children: $15 | Adults: $5 | Members: $5</span>
+
+<span class='size12 gray2'>1 visit - Children: $15 | Adults: $5 | Members:
+$5</span>
 
 <p class='pgraph'>Where else in New York City can you begin your day on the farm?  With a basket full of hay and goodies, you and your children can spend the morning feeding and snuggling animals right here at our indoor farm on the Upper East Side.</p>
 
@@ -33,13 +40,16 @@ openContent($page);
 -->
 <span class='subtitle1 gray1'>After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
 	<a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
-	<span class='size12 gray2'>Drop In: $40 | Winter: $418 | Spring: $468 | Summer: $304 | Fall: $585</span><br />
+
+  <span class='size12 gray2'>
+    Drop In: $40 | Winter: $420 | Spring: $420
+  </span><br />
 </span>
 
 <p class='pgraph'>Farm Fresh and Seasonal! Finally your child can enjoy a cooking class where they learn about the basics of cooking and the importance of fresh ingredients as well. Please join Chef Sylvie in smelling mint, shaping brioche, peeling rhubarb, cutting cookies and tasting new fresh fruits and vegetables. Winter Spring Summer and Fall Chef Sylvie creates a seasonal organic menu from around the globe. Your kids will embark on a cooking and sensory adventure while developing their taste buds for food fresh from the farm.</p>
 
 <h3 class='register_heading'>Choose a semester to register now!</h3>
-<a id='' class='register_btn register_btn__winter' href='https://campscui.active.com/orgs/TheArtFarminTheCity?season=1202501&location=455804' target='_blank'>Winter</a>
+<a id='' class='register_btn register_btn__winter' href='<?=WINTER_REGISTRATION_URL?>' target='_blank'>Winter</a>
 <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
 <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
 <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>

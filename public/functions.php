@@ -415,6 +415,7 @@ function drawFooter()
         <div id="press">
           <h3>Check out our recent press&hellip;</h3>
           <ul>
+            <li><a href="http://www.travelmag.com/articles/things-to-do-in-upper-east-side/" target="_blank">TravelMag</a></li>
             <li><a href="http://www.mommynearest.com/articles/spotlight-on-the-art-farm-in-the-city" target="_blank">Mommy Nearest</a></li>
             <li><a href="http://pix11.com/2014/05/16/its-a-g-thing-the-art-farm-in-the-city-lets-kids-befriend-animals/#axzz32NPqwivD" target="_blank">PIX 11</a></li>
             <li><a href="press/ny_post.pdf" target="_blank">New York Post</a></li>

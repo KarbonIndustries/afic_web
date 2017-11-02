@@ -20,10 +20,10 @@ $nextYear = $curYear + 1;
   </script>
   </div>
   <div id="scheduleSemesterDates" class="clearB grayBorderB1 padB10 alignC">
-    <span class="blue2 bold marginL10">Winter 2017 Semester</span> <span class="gray2">Jan 3rd - Apr 1st</span><br />
-    <span class="blue2 bold marginL10">Spring 2017 Semester</span> <span class="gray2">Apr 3rd - Jun 24th</span><br />
-    <span class="blue2 bold marginL10">Summer 2017 Semester</span> <span class="gray2">Jun 26th - Aug 18th</span><br />
-    <span class="blue2 bold marginL10">Fall 2017 Semester</span> <span class="gray2">Sept 5th - Dec 23rd</span>
+    <span class="blue2 bold marginL10">Winter 2018 Semester</span> <span class="gray2">Jan 8<sup>th</sup> - Mar 31<sup>st</sup></span><br />
+    <span class="blue2 bold marginL10">Spring 2018 Semester</span> <span class="gray2">Apr 2<sup>nd</sup> - Jun 23<sup>rd</sup></span><br />
+    <span class="blue2 bold marginL10">Summer 2018 Semester</span> <span class="gray2">Jun 25<sup>th</sup> - Aug 17<sup>th</sup></span><br />
+    <span class="blue2 bold marginL10">Fall 2018 Semester</span> <span class="gray2">Sept 4<sup>th</sup> - Dec 22<sup>nd</sup></span>
   </div>
 </div>
 
@@ -192,7 +192,7 @@ $nextYear = $curYear + 1;
         Art for Busy Kids
       </div>
       <div id="scheduleClassInfo" class="">
-        <div id="scheduleClassTime">2 - 4 years<br />
+        <div id="scheduleClassTime">2 - 6 years<br />
           9:30am - 10:30am
         </div>
       </div>
@@ -212,7 +212,7 @@ $nextYear = $curYear + 1;
         Art for Busy Kids
       </div>
       <div id="scheduleClassInfo" class="">
-        <div id="scheduleClassTime">2 - 4 years<br />
+        <div id="scheduleClassTime">2 - 6 years<br />
           3:30pm - 4:30pm
         </div>
       </div>
