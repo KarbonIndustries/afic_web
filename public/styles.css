@@ -356,8 +356,8 @@ a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #DB4A28 !
 
 .register_heading{margin:0 0 30px;font-size:1.2em;color:#94989D}
 .register_btn{margin-right:10px;padding:10px 20px;font-size:1.5em;font-weight:bold;border-radius:100px}
-.register_btn__now{background:#0064FF;color:#CCEBFF}
-.register_btn__now:hover{background:#0255D5}
+.register_btn--now{background:#0064FF;color:#CCEBFF}
+.register_btn--now:hover{background:#0255D5}
 .register_btn__spring{background:#5EB60C;color:#FFFFFF}
 .register_btn__spring:hover{background:#489B06}
 .register_btn__summer{background:#FFCB00;color:#C01111}

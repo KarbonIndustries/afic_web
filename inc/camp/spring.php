@@ -68,7 +68,7 @@
   <div class='clearB high20'></div>
 
   <a
-    class='register_btn register_btn__now'
+    class='register_btn register_btn--now'
     href='https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1888804'
     target='_blank'>
     Register Now!

@@ -179,7 +179,7 @@ openContent($page);
   <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
   <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
   <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
-  <a id='' class='register_btn register_btn__now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy One Class</a>
+  <a id='' class='register_btn register_btn--now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy One Class</a>
 </div>
 
 <div class="clearB high60"></div>
@@ -211,7 +211,7 @@ openContent($page);
   <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
   <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
   <a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
-  <a id='' class='register_btn register_btn__now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy One Class</a>
+  <a id='' class='register_btn register_btn--now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy One Class</a>
 </div>
 
 <div class='clearB high60'></div>
@@ -248,7 +248,7 @@ openContent($page);
 
   <div class='clearB high20'></div>
 
-  <a id='' class='register_btn register_btn__now'
+  <a id='' class='register_btn register_btn--now'
     href='https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/2117602'
     target='_blank'>Register Now!</a>
 
