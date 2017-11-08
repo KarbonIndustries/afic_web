@@ -44,7 +44,7 @@
 
     <div class="clearB high20"></div>
 
-    <a class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1784502" target="_blank">Register Now!</a>
+    <a class="register_btn register_btn--now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1784502" target="_blank">Register Now!</a>
   </div>
 
   <div class="separator"></div>
@@ -72,7 +72,7 @@
 
     <div class="clearB high20"></div>
 
-    <a class="register_btn register_btn__now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1784502" target="_blank">Register Now!</a>
+    <a class="register_btn register_btn--now" href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=1784502" target="_blank">Register Now!</a>
   </div>
 </div>
 

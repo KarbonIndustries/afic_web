@@ -9,6 +9,8 @@ openPreschoolContent($page);
 ?>
 <!--begin content-->
 
+<img class='padR10 padT10 padB10' src='images/pre_school/header.jpg' />
+
 <div>
 
   <span class='title2 blue2 marginB10'>One of a kind program&hellip;</span>
@@ -31,6 +33,8 @@ openPreschoolContent($page);
     peers and work together in a classroom setting. Our program runs from
     September through June.
   </p>
+
+  <img class='padR10 padT10 padB10' src='images/pre_school/image_01.jpg' />
 
   <span class='subtitle1 bold' style='color:#CC0000'>Curriculum</span>
   <p class='pgraph'>

@@ -28,7 +28,7 @@
 
   <div class='clearB high20'></div>
 
-  <a class="register_btn register_btn__now"
+  <a class="register_btn register_btn--now"
     href="https://campscui.active.com/orgs/TheArtFarminTheCity?season=2188202&location=846402"
     target="_blank">
     Register Now!
