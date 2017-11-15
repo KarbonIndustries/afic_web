@@ -196,170 +196,214 @@ function drawActivitiesMenu($page)
       break;
   }
 
-    echo '
-    <div id="activitiesMenu" class="">
-    <ul>
-      <li><a class="' . $membership . '" href="membership.php" title="Membership">Membership</a></li>
-      <li><a class="' . $classes . '" href="classes.php" title="Classes">Classes</a></li>
-      <li><a class="' . $bDayParties . '" href="bday_parties.php" title="Birthday Parties">Birthday Parties</a></li>
-      <li><a class="' . $preSchool . '" href="preschool.php" title="Pre-School">Pre-School</a></li>
-      <li><a class="' . $playGroup . '" href="twos_group.php" title="Two\'s Group">Two\'s Group</a></li>
-      <li><a class="' . $weekendPrograms . '" href="weekend_programs.php" title="Weekend Programs">Weekend<br />Programs</a></li>
-      <li><a class="' . $camp . '" href="camp.php" title="Camp">Camp</a></li>
-      <li><a class="' . $dropIn . '" href="drop_in.php" title="Drop In">Drop In</a></li>
-      <li><a class="' . $outreachFieldTrips . '" href="outreach_field_trips.php" title="Outreach Field Trips">Outreach<br />Field Trips</a></li>
+    echo <<<HTML
+    <div id='activitiesMenu' class=''>
+    <ul class='menu-panel-page-list'>
+      <li><a class='${membership} ' href='membership.php' title='Membership'>Membership</a></li>
+      <li><a class='${classes} ' href='classes.php' title='Classes'>Classes</a></li>
+      <li><a class='${bDayParties} ' href='bday_parties.php' title='Birthday Parties'>Birthday Parties</a></li>
+      <li><a class='${preSchool} ' href='preschool.php' title='Pre-School'>Pre-School</a></li>
+      <li><a class='${playGroup} ' href='twos_group.php' title='Two\'s Group'>Two\'s Group</a></li>
+      <li><a class='${weekendPrograms} ' href='weekend_programs.php' title='Weekend Programs'>Weekend<br />Programs</a></li>
+      <li><a class='${camp} ' href='camp.php' title='Camp'>Camp</a></li>
+      <li><a class='${dropIn} ' href='drop_in.php' title='Drop In'>Drop In</a></li>
+      <li><a class='${outreachFieldTrips} ' href='outreach_field_trips.php' title='Outreach Field Trips'>Outreach<br />Field Trips</a></li>
     </ul>
   </div>
   <!--end of activities menu-->
-    ';
+HTML;
 }
 
 function drawHomePanel()
 {
-  echo '
-  <div id="menuPanel" class="">
-    <ul>
-      <li><a class="mpUp" href="act_by_age.php">Activities by Age</a></li>
-      <li><a class="mpUp" href="schedule.php">Schedule</a></li>
-      <li><a class="mpUp" href="membership.php">Membership</a></li>
-      <li><a class="mpUp" href="tour.php">Farm Tour</a></li>
-      <li><a class="mpUp" href="https://campscui.active.com/orgs/TheArtFarminTheCity">Register Today!</a></li>
-      <li><a class="mpUp" href="testimonials.php">Testimonials</a></li>
+  echo <<<HTML
+  <div class='menu-panel'>
+    <ul class='menu-panel-page-list'>
+      <li><a class='menu-panel-page-link mpUp' href='act_by_age.php'>Activities by Age</a></li>
+      <li><a class='menu-panel-page-link mpUp' href='schedule.php'>Schedule</a></li>
+      <li><a class='menu-panel-page-link mpUp' href='membership.php'>Membership</a></li>
+      <li><a class='menu-panel-page-link mpUp' href='tour.php'>Farm Tour</a></li>
+      <li><a class='menu-panel-page-link mpUp' href='https://campscui.active.com/orgs/TheArtFarminTheCity'>Register Today!</a></li>
+      <li><a class='menu-panel-page-link mpUp' href='testimonials.php'>Testimonials</a></li>
     </ul>
-    <div id="menuPanelInfo">
-      <span class="block">The Art Farm in The City</span>
-      <span class="size12">419 E. 91st Street<br />
+    <div class='menu-panel-info'>
+      <span class='block'>The Art Farm in The City</span>
+      <span class='size12'>419 E. 91st Street<br />
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br />
       Fax: 212.410.3525<br /></span>
-      <a class="white size12" href="mailto:frontdesk@theartfarms.org">frontdesk@theartfarms.org</a>
+      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
 
-  <div id="slideshow1">
-    <a href="http://www.adobe.com/go/getflashplayer">
-      <img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+  <div id='slideshow1'>
+    <a href='http://www.adobe.com/go/getflashplayer'>
+      <img src='http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif' alt='Get Adobe Flash player' />
     </a>
   </div>
   <!--end of panel slideshow-->
-  ';
+HTML;
 }
 
 function drawPanel($page)
 {
-  $actByAge     = "mpUp";
-  $schedule     = "mpUp";
-  $membership   = "mpUp";
-  $tour         = "mpUp";
-  $register     = "mpUp";
-  $testimonials = "mpUp";
+  $actByAge     = 'mpUp';
+  $schedule     = 'mpUp';
+  $membership   = 'mpUp';
+  $tour         = 'mpUp';
+  $register     = 'mpUp';
+  $testimonials = 'mpUp';
 
   switch ($page)
   {
-    case "actByAge":
-    $actByAge = "mpOver";
+    case 'actByAge':
+    $actByAge = 'mpOver';
     break;
-    case "schedule":
-    $schedule = "mpOver";
+    case 'schedule':
+    $schedule = 'mpOver';
     break;
-    case "membership":
-    $membership = "mpOver";
+    case 'membership':
+    $membership = 'mpOver';
     break;
-    case "tour":
-    $tour = "mpOver";
+    case 'tour':
+    $tour = 'mpOver';
     break;
-    case "register":
-    $register = "mpOver";
+    case 'register':
+    $register = 'mpOver';
     break;
-    case "testimonials":
-    $testimonials = "mpOver";
+    case 'testimonials':
+    $testimonials = 'mpOver';
     default:
     break;
   }
 
-  echo '
-  <div id="menuPanel" class="">
-    <ul>
-      <li><a class="' . $actByAge . '" href="act_by_age.php">Activities by Age</a></li>
-      <li><a class="' . $schedule . '" href="schedule.php">Schedule</a></li>
-      <li><a class="' . $membership . '" href="membership.php">Membership</a></li>
-      <li><a class="' . $tour . '" href="tour.php">Farm Tour</a></li>
-      <li><a class="' . $register . '" href="https://campscui.active.com/orgs/TheArtFarminTheCity">Register Today!</a></li>
-      <li><a class="' . $testimonials . '" href="testimonials.php">Testimonials</a></li>
+  echo <<<HTML
+  <div class='menu-panel'>
+    <ul class='menu-panel-page-list'>
+      <li><a class='menu-panel-page-link ${actByAge}' href='act_by_age.php'>Activities by Age</a></li>
+      <li><a class='menu-panel-page-link ${schedule}' href='schedule.php'>Schedule</a></li>
+      <li><a class='menu-panel-page-link ${membership}' href='membership.php'>Membership</a></li>
+      <li><a class='menu-panel-page-link ${tour}' href='tour.php'>Farm Tour</a></li>
+      <li><a class='menu-panel-page-link ${register}' href='https://campscui.active.com/orgs/TheArtFarminTheCity'>Register Today!</a></li>
+      <li><a class='menu-panel-page-link ${testimonials}' href='testimonials.php'>Testimonials</a></li>
     </ul>
-    <div id="menuPanelInfo">
-      <span class="block">The Art Farm in The City</span>
-      <span class="size12">419 E. 91st Street<br />
+
+    <div class='menu-panel-info'>
+      <span class='block'>The Art Farm in The City</span>
+      <span class='size12'>419 E. 91st Street<br />
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br />
       Fax: 212.410.3525<br /></span>
-      <a class="white size12" href="mailto:frontdesk@theartfarms.org">frontdesk@theartfarms.org</a>
+      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
-  ';
+HTML;
 }
 
 function drawPreschoolPanel()
 {
-  echo <<<C
-  <div id="preschoolPanel" class="">
-    <span class="bold rust block">
-      Two's Program<br />
-      Half-Day Morning<br />
-      The Bunnies Class
-    </span>
-    <span class="gray2 size11">
-      For children turning 2 Jan - Jul<br />
-      Tuesday/Thursday<br />
-      9:30am - 12:00pm<br />
-      or 9:00am - 12:00pm
-    </span>
+  $actByAge     = 'mpUp';
+  $schedule     = 'mpUp';
+  $membership   = 'mpUp';
+  $tour         = 'mpUp';
+  $register     = 'mpUp';
+  $testimonials = 'mpUp';
 
-    <span class="bold rust block marginT10">
-      Three's Program<br />
-      Half-Day Morning<br />
-      The Turtles Class
-    </span>
-    <span class="gray2 size11">
-      Monday/Wednesday<br />
-      or 3-day Monday/Wednesday/Friday<br />
-      9:30am - 12:00pm<br />
-      or 9:00am - 12:00pm
-    </span>
+  switch ($page)
+  {
+    case 'actByAge':
+    $actByAge = 'mpOver';
+    break;
+    case 'schedule':
+    $schedule = 'mpOver';
+    break;
+    case 'membership':
+    $membership = 'mpOver';
+    break;
+    case 'tour':
+    $tour = 'mpOver';
+    break;
+    case 'register':
+    $register = 'mpOver';
+    break;
+    case 'testimonials':
+    $testimonials = 'mpOver';
+    default:
+    break;
+  }
 
-    <span class="bold rust block marginT10">
-      Four's Program<br />
-      Half-Day Afternoon<br />
-      The Doves Class
-    </span>
-    <span class="gray2 size11">
-      Monday - Thursday Afternoon<br />
-      12:30pm - 3:30pm<br />
-      and Friday Morning
-      9:00am - 12:00pm<br />
-      <span class='bold'>Director will assist with kindergarten admissions</span>
-    </span>
+  echo <<<HTML
+  <div class='menu-panel'>
+    <ul class='menu-panel-page-list'>
+      <li><a class='menu-panel-page-link ${actByAge}' href='act_by_age.php'>Activities by Age</a></li>
+      <li><a class='menu-panel-page-link ${schedule}' href='schedule.php'>Schedule</a></li>
+      <li><a class='menu-panel-page-link ${membership}' href='membership.php'>Membership</a></li>
+      <li><a class='menu-panel-page-link ${tour}' href='tour.php'>Farm Tour</a></li>
+      <li><a class='menu-panel-page-link ${register}' href='https://campscui.active.com/orgs/TheArtFarminTheCity'>Register Today!</a></li>
+      <li><a class='menu-panel-page-link ${testimonials}' href='testimonials.php'>Testimonials</a></li>
+    </ul>
 
-    <div class='marginT10'></div>
+    <div class='menu-panel-info'>
+      <div id='preschool-panel'>
+        <h3 class='preschool-panel-heading
+        preschool-panel-heading--main'>Now accepting applications
+        for 2018 - 2019 school year!</h3>
 
-    <span class="gray2 size14">
-      <a class='blue2 bold' href='data/class_schedule_and_tuition.pdf'>Click here</a> for pricing<br />
-    </span>
+        <ul class='preschool-panel-list preschool-panel-list--program'>
+          <li class='preschool-panel-list-item preschool-panel-list-item--program'>
+            <h4 class='preschool-panel-program-list-item-heading'>2's Program</h4>
+            <p class='preschool-panel-program-list-item-paragraph'>Children born Jan. 2016 - Jul. 2016</p>
+            <p class='preschool-panel-program-list-item-paragraph'>2 Day | T, TH | Half Day</p>
+            <p class='preschool-panel-program-list-item-paragraph'>Tuition starting at $7,450</p>
+          </li>
 
-    <div class='marginT5'></div>
+          <li class='preschool-panel-list-item preschool-panel-list-item--program'>
+            <h4 class='preschool-panel-program-list-item-heading'>3's Program</h4>
+            <p class='preschool-panel-program-list-item-paragraph'>Children born in 2015</p>
+            <p class='preschool-panel-program-list-item-paragraph'>Half Day &amp; Full Day Options</p>
+            <p class='preschool-panel-program-list-item-paragraph'>2 - 5 Day Options</p>
+            <p class='preschool-panel-program-list-item-paragraph'>Tuition starting at $9,350</p>
+          </li>
 
-    <span class="gray2 size14">
-      Please contact us for an application<br />
-       <span class='bold'>&#97;&#114;&#116;&#102;&#97;&#114;&#109;&#110;&#121;&#99;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</span>
-    </span>
+          <li class='preschool-panel-list-item preschool-panel-list-item--program'>
+            <h4 class='preschool-panel-program-list-item-heading'>4's Program</h4>
+            <p class='preschool-panel-program-list-item-paragraph'>Children born in 2014</p>
+            <p class='preschool-panel-program-list-item-paragraph'>5 Day Afternoon Program</p>
+            <p class='preschool-panel-program-list-item-paragraph'>Tuition is $12,000</p>
+          </li>
+        </ul>
+      </div>
 
+      <p class='preschool-panel-paragraph bold'>For an application or to
+      schedule a tour, please email: <a class='preschool-panel-link'
+      href='mailto:frontdesk@theartfarms.org'>FrontDesk@TheArtFarms.org</a></p>
+
+      <p class='preschool-panel-paragraph bold'>Check out what is going oni in
+      our classroom&hellip;</p>
+
+      <ul class='preschool-panel-list'>
+        <li class='preschool-panel-list-item'><a class='preschool-panel-link'
+        href='http://mailchi.mp/theartfarms.org/summer-camp-newsletter-week-253121%C2%A0'>October
+        2017 Newsletter</a></li>
+      </ul>
+
+      <hr class='preschool-panel-rule preschool-panel-rule--horizontal'>
+
+      <span class='block'>The Art Farm in The City</span>
+      <span class='size12'>419 E. 91st Street<br />
+      New York, NY 10128<br />
+      (between York &amp; 1st Ave.)<br />
+      Phone: 212.410.3117<br />
+      Fax: 212.410.3525<br /></span>
+      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
+    </div>
   </div>
   <!--end of panel-->
-C;
+HTML;
 }
 
 # ===========
@@ -372,6 +416,7 @@ function openContent($title, $page)
   echo '
   <div id="content" class="">
   ';
+
   if (is_string($title))
   {
     echo '
@@ -382,13 +427,11 @@ function openContent($title, $page)
 
 function openPreschoolContent($title, $page)
 {
-  echo '<div class="floatL">' . "\n";
-  drawPanel($page);
-  echo '</div>' . "\n";
-
+  drawPreschoolPanel($page);
   echo '
   <div id="content" class="">
   ';
+
   if (is_string($title))
   {
     echo '
