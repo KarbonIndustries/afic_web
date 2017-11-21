@@ -17,10 +17,6 @@ openContent($page);
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
 
-<span class='notice notice--red'>The Art Farm will be closed on Sunday,
-November 5<sup>th</sup> due to the NYC Marathon, which runs up 1<sup>st</sup>
-Ave. We will be open Saturday, November 4<sup>th</sup></span>
-
 <span class='subtitle1 gray1'>1+ years<br />
 	Year-round program<br />
 	Saturday/Sunday 8am - 10am

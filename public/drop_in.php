@@ -136,6 +136,11 @@ openContent($page);
 <!-- =============== -->
 <div class='clearB'>
   <span id='ff' class='block bold size18 blue2'>Fun Fridays</span>
+
+  <span class='notice notice--red'>The Art Farm will be closed on Friday,
+  November 24<sup>th</sup>. Fun Fridays will resume December
+  1<sup>st</sup></span>
+
   <span class='subtitle1 gray1'>9:30am - 11:30am | 18 months+</span>
   <span class='size12 gray2'>Friday</span><br />
 
@@ -196,10 +201,6 @@ openContent($page);
 <!-- ======================== -->
 <div class='clearB'>
   <span id='motf' class='block bold size18 blue2'>Mornings on the Farm</span>
-
-  <span class='notice notice--red'>The Art Farm will be closed on Sunday,
-  November 5<sup>th</sup> due to the NYC Marathon, which runs up 1<sup>st</sup>
-  Ave. We will be open Saturday, November 4<sup>th</sup></span>
 
   <span class='subtitle1 gray1'>8am - 10am | 1+ years</span>
   <span class='size12 gray2'>Year-round program</span><br />
