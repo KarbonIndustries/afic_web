@@ -17,13 +17,9 @@ openContent($page);
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
 
-<span class='notice notice--red'>The Art Farm will be closed on Sunday,
-November 5<sup>th</sup> due to the NYC Marathon, which runs up 1<sup>st</sup>
-Ave. We will be open Saturday, November 4<sup>th</sup></span>
-
 <span class='subtitle1 gray1'>1+ years<br />
-	Year-round program<br />
-	Saturday/Sunday 8am - 10am
+  Year-round program<br />
+  Saturday/Sunday 8am - 10am
 </span>
 
 <span class='size12 gray2'>1 visit - Children: $15 | Adults: $5 | Members:
@@ -39,7 +35,7 @@ $5</span>
 <span class='red' style='font-size:12px;'>No Saturday classes June 27th - September 5th</span>
 -->
 <span class='subtitle1 gray1'>After-school/weekend program<br />Saturday 9am - 10am | 2-8 years<br />
-	<a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
+  <a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
 
   <span class='size12 gray2'>
     Drop In: $40 | Winter: $420 | Spring: $420
@@ -60,17 +56,17 @@ $5</span>
 <!-- = ANIMAL TALES = -->
 <!-- ================ -->
 <!-- <div class='clearB'>
-	<span id='rsa' class='title2 blue2'>Animal Tales</span>
-	<span class='subtitle1 gray1'>8 week course | 3-5 years<br />
-		Saturday: 9:30am - 10:30am<br />
-	<span class='size12 gray2'>Oct. 5 - Nov. 23: $240</span></span>
-	<p class='pgraph'>Fun on the farm is what this program is all about! Animal Tales gives you and your family a chance to get to know our friendly animals in a new way. Each week, you will participate in interactive stories, explore with discovery kits, and have up close encounters while you uncover mysteries of the animal kingdom. The fun continues as we stroll through our unique indoor petting zoo so you can say good morning to your favorite animal friends. Other activities include making toys for the animals, scavenger hunts, or playing eye spy as we instill the love of learning about the natural world. We look forward to teaching you and your family about the importance of being kind to all living creatures through Animal Tales!</p>
+  <span id='rsa' class='title2 blue2'>Animal Tales</span>
+  <span class='subtitle1 gray1'>8 week course | 3-5 years<br />
+    Saturday: 9:30am - 10:30am<br />
+  <span class='size12 gray2'>Oct. 5 - Nov. 23: $240</span></span>
+  <p class='pgraph'>Fun on the farm is what this program is all about! Animal Tales gives you and your family a chance to get to know our friendly animals in a new way. Each week, you will participate in interactive stories, explore with discovery kits, and have up close encounters while you uncover mysteries of the animal kingdom. The fun continues as we stroll through our unique indoor petting zoo so you can say good morning to your favorite animal friends. Other activities include making toys for the animals, scavenger hunts, or playing eye spy as we instill the love of learning about the natural world. We look forward to teaching you and your family about the importance of being kind to all living creatures through Animal Tales!</p>
 
-	<div id='' class='floatR clearB'>
-		<a id='btn1R' class='' href='https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&amp;RF=3709104&amp;mode=0' target='_blank'>
-			<div class='btn1RR'><span class='invisible'>.</span></div><div class='btn1RC'>&#187; Register Now!</div><div class='btn1RL'><span class='invisible'>.</span></div>
-		</a>
-	</div>
+  <div id='' class='floatR clearB'>
+    <a id='btn1R' class='' href='https://thriva.activenetwork.com/Reg4/Form.aspx?IDTD=6007595&amp;RF=3709104&amp;mode=0' target='_blank'>
+      <div class='btn1RR'><span class='invisible'>.</span></div><div class='btn1RC'>&#187; Register Now!</div><div class='btn1RL'><span class='invisible'>.</span></div>
+    </a>
+  </div>
 </div> -->
 
 <!--end content-->

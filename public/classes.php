@@ -249,7 +249,7 @@ openContent($page);
   <div class='clearB high20'></div>
 
   <a id='' class='register_btn register_btn--now'
-    href='https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/2117602'
+    href='https://campscui.active.com/orgs/TheArtFarminTheCity?orglink=camps-registration#/selectSessions/2245103'
     target='_blank'>Register Now!</a>
 
   <div class='clearB high30'></div>
