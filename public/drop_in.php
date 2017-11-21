@@ -136,6 +136,11 @@ openContent($page);
 <!-- =============== -->
 <div class='clearB'>
   <span id='ff' class='block bold size18 blue2'>Fun Fridays</span>
+
+  <span class='notice notice--red'>The Art Farm will be closed on Friday,
+  November 24<sup>th</sup>. Fun Fridays will resume December
+  1<sup>st</sup></span>
+
   <span class='subtitle1 gray1'>9:30am - 11:30am | 18 months+</span>
   <span class='size12 gray2'>Friday</span><br />
 
