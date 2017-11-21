@@ -197,10 +197,6 @@ openContent($page);
 <div class='clearB'>
   <span id='motf' class='block bold size18 blue2'>Mornings on the Farm</span>
 
-  <span class='notice notice--red'>The Art Farm will be closed on Sunday,
-  November 5<sup>th</sup> due to the NYC Marathon, which runs up 1<sup>st</sup>
-  Ave. We will be open Saturday, November 4<sup>th</sup></span>
-
   <span class='subtitle1 gray1'>8am - 10am | 1+ years</span>
   <span class='size12 gray2'>Year-round program</span><br />
   <span class='size12 gray2'>Saturday/Sunday</span><br />
