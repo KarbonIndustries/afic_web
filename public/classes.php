@@ -222,12 +222,11 @@ openContent($page);
 <!-- ============== -->
 <div class='clearB'>
   <img class='padR10 padT10 padB10' src='photos/fall_homeschool_2014.jpg' />
-  <span id='ff' class='title2 blue2'>Home School Fall 2017</span>
+  <span id='ff' class='title2 blue2'>Home School Winter 2018</span>
   <span class='subtitle1 gray1'>
+    January 11<sup>th</sup>, 2018 - March 15<sup>th</sup>, 2018<br />
     Thursday: 11:30am - 12:30pm | 5 - 8 years<br />
-    September 28<sup>th</sup> - December 21<sup>st</sup><br />
-    <span class ='size12 gray2'>12-week semester: $300</span><br />
-    Class not running on Thanksgiving
+    <span class ='size12 gray2'>10-week semester: $250</span><br />
   </span>
   <p class='pgraph'>
     Give your child the opportunity to spend time with live animals and to
@@ -241,15 +240,15 @@ openContent($page);
   <p class='pgraph'>
     Each week we will take an in-depth look into animal habitats and animal
     classification through animal skulls, x-rays and footprints. During the
-    class we will focus on animal husbandry including weighing and measuring
+    class, we will focus on animal husbandry including weighing and measuring
     animals. The children will also learn animal handling skills and create
-    enrichment toys which they will share with our animals.
+    enrichment toys, which they will share with our animals.
   </p>
 
   <div class='clearB high20'></div>
 
   <a id='' class='register_btn register_btn--now'
-    href='https://campscui.active.com/orgs/TheArtFarminTheCity?orglink=camps-registration#/selectSessions/2245103'
+    href='https://campscui.active.com/orgs/TheArtFarminTheCity?orglink=camps-registration'
     target='_blank'>Register Now!</a>
 
   <div class='clearB high30'></div>

@@ -413,11 +413,12 @@ HTML;
 function openContent($title, $page)
 {
   drawPanel($page);
-  echo '
-  <div id="content" class="">
-  ';
 
-  if (is_string($title))
+  echo <<<HTML
+  <main id="content" class="" data-page-id="${page}">
+HTML;
+
+  if(is_string($title))
   {
     echo '
     <span class="title1">' . $title . '</span>
@@ -442,10 +443,10 @@ function openPreschoolContent($title, $page)
 
 function closeContent()
 {
-  echo '
-  </div>
+  echo <<<HTML
+  </main>
   <!--end of content-->
-  ';
+HTML;
 }
 
 function drawFooter()
@@ -540,7 +541,7 @@ function drawFooter()
     </div>
     <script src="scripts/js.cookie.js"></script>
     <script src="scripts/jquery-1.11.3.min.js"></script>
-    <script src="scripts/af.js?v=' . time() . '"></script>
+    <script src="scripts/af.js?v=' . date(ymdHis) . '"></script>
   </body>
   </html>';
 }
