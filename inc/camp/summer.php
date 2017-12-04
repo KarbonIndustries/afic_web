@@ -220,49 +220,49 @@ offers a 10% sibling discount.</p>
 <ul class='camp__list camp__list--weekly-themes'>
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 1:</span> <span style='font-weight:normal;font-size:0.8em'>(June 26<sup>th</sup> - June 30<sup>th</sup>)</span> Party in the USA
+      <span class=''>Week 1:</span> <span style='font-weight:normal;font-size:0.8em'>(June 25<sup>th</sup> - June 29<sup>th</sup>)</span> Party in the USA
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 2:</span> <span style='font-weight:normal;font-size:0.8em'>(July 5<sup>th</sup> - July 7<sup>th</sup>) <i>No camp July 3<sup>rd</sup> and 4<sup>th</sup></i></span> Wild Wild West
+      <span class=''>Week 2:</span> <span style='font-weight:normal;font-size:0.8em'>(July 2<sup>nd</sup> - July 3<sup>rd</sup>)</span> Wild Wild West
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 3:</span> <span style='font-weight:normal;font-size:0.8em'>(July 10<sup>th</sup> - 14<sup>th</sup>)</span> Cruise Around the World
+      <span class=''>Week 3:</span> <span style='font-weight:normal;font-size:0.8em'>(July 9<sup>th</sup> - 13<sup>th</sup>)</span> Cruise Around the World
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 4:</span> <span style='font-weight:normal;font-size:0.8em'>(July 17<sup>th</sup> - 21<sup>st</sup>)</span> Exotic Animals
+      <span class=''>Week 4:</span> <span style='font-weight:normal;font-size:0.8em'>(July 16<sup>th</sup> - 20<sup>th</sup>)</span> Exotic Animals
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 5:</span> <span style='font-weight:normal;font-size:0.8em'>(July 24<sup>th</sup> - 28<sup>th</sup>)</span> Superheroes
+      <span class=''>Week 5:</span> <span style='font-weight:normal;font-size:0.8em'>(July 23<sup>rd</sup> - 27<sup>th</sup>)</span> Superheroes
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 6:</span> <span style='font-weight:normal;font-size:0.8em'>(July 31<sup>st</sup> - August 4<sup>th</sup>)</span> The &ldquo;Magic&rdquo; of Camp
+      <span class=''>Week 6:</span> <span style='font-weight:normal;font-size:0.8em'>(July 30<sup>th</sup> - August 3<sup>rd</sup>)</span> The &ldquo;Magic&rdquo; of Camp
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 7:</span> <span style='font-weight:normal;font-size:0.8em'>(August 7<sup>th</sup> - 11<sup>th</sup>)</span> Adventure Lnad
+      <span class=''>Week 7:</span> <span style='font-weight:normal;font-size:0.8em'>(August 6<sup>th</sup> - 10<sup>th</sup>)</span> Adventure Lnad
     </h3>
   </li>
 
   <li class='camp__list-item camp__list-item--weekly-themes'>
     <h3 style='margin-bottom:0'>
-      <span class=''>Week 8:</span> <span style='font-weight:normal;font-size:0.8em'>(August 14<sup>th</sup> - 18<sup>th</sup>)</span> The World of Atlantis
+      <span class=''>Week 8:</span> <span style='font-weight:normal;font-size:0.8em'>(August 13<sup>th</sup> - 17<sup>th</sup>)</span> The World of Atlantis
     </h3>
   </li>
 </ul>
