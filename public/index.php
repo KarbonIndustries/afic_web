@@ -16,24 +16,18 @@ drawActivitiesMenu();
 <div id="homeContent">
   <div id="mainLeft" class="">
     <span class="size20 bold blue1 block padB5">Welcome!</span>
-    <p class="pgraph">
-      We are an eco-friendly and organic facility which teaches
-      your children about nature, animals and how to better care for our planet.
-      We also teach your children about responsibility through caring, loving
-      and being in the company of animals. Our magical, USDA licensed, indoor
-      petting zoo has a wide variety of animals including bunnies, chinchillas,
-      guinea pigs, lizards, turtles, birds, tropical fish and more.
-    </p>
-    <p class="pgraph">
-      One of the unique features, and a special part of our programs, is our
-      desire to share and our belief in the importance of giving back and
-      showing compassion. Whether you join camp or preschool, take classes, book
-      a party or buy a toy, you help a child in need.  We donate a percentage of
-      the annual Art Farm in The City profits to Mari's Children, our non-profit
-      organization, which helps children all over the world.  One of our
-      foundations of The Art Farm is "Paying it Forward." Would you like to help
-      us do that?
-    </p>
+    <p class="pgraph">The Art Farm is a nature-focused children's educational
+    center offering a break from city life with art, music, and cooking-themed
+    classes, playtime, drop-ins, birthday parties, and camps that your whole
+    family will love!</p>
+
+    <p class="pgraph">Home to New York City's only indoor petting zoo, The Art
+    Farm is a unique space to meet and interact with animals from bearded
+    dragons to chinchillas and chickens! All of The Art Farm's programs include
+    time in our indoor petting zoo. Our philosophy encourages a childhood
+    relationship with the natural world while engaging children in care and
+    compassion of all living creatures.</p>
+
     <div id="slideshow2" class=""></div>
     <!-- <img class="block marginT30" src="images/tmp.png" width="530" height="180"/> -->
   </div>
