@@ -203,7 +203,7 @@ function drawActivitiesMenu($page)
       <li><a class='${classes} ' href='classes.php' title='Classes'>Classes</a></li>
       <li><a class='${bDayParties} ' href='bday_parties.php' title='Birthday Parties'>Birthday Parties</a></li>
       <li><a class='${preSchool} ' href='preschool.php' title='Pre-School'>Pre-School</a></li>
-      <li><a class='${playGroup} ' href='twos_group.php' title='Two\'s Group'>Two\'s Group</a></li>
+      <li><a class='${playGroup} ' href='twos_group.php' title="Two's Group">Two's Group</a></li>
       <li><a class='${weekendPrograms} ' href='weekend_programs.php' title='Weekend Programs'>Weekend<br />Programs</a></li>
       <li><a class='${camp} ' href='camp.php' title='Camp'>Camp</a></li>
       <li><a class='${dropIn} ' href='drop_in.php' title='Drop In'>Drop In</a></li>
