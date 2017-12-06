@@ -74,7 +74,7 @@
           overlayClosesOnClick:false
           ,contentCSS:
           {
-            width:'800px'
+            width:'640px'
           }
           ,closeClassName:'modal_close'
           ,content:$('#modal_content')

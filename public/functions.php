@@ -28,6 +28,8 @@ function openHeader($title)
   <meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="stylesheet" href="styles.css?v=' . date(ymdHis) . '" type="text/css" />
+  <link rel="stylesheet" href="css/vex.css" />
+  <link rel="stylesheet" href="css/vex-theme-default.css" />
   <script type="text/javascript">
     function getIEVersion()
     {
@@ -519,28 +521,14 @@ function drawFooter()
           <p class="subhead">Give a gift that inspires <strong>confidence, compassion, &amp; creativity</strong>.</p>
         </div>
 
-        <div class="activity_shell">
-          <div class="activity activity__membership">
-            <a class="cta" href="membership.php">Give the Gift of Membership</a>
-            <p>Perfect for the whole family, with two great membership levels to choose from.</p>
-          </div>
-          <div class="activity activity__winter_classes">
-            <a class="cta" href="classes.php">Give the Gift of Winter Classes</a>
-            <p>The weather outside may be frightful, but The Art Farm classes make it so much more delightful! Chase the winter blues away starting January 3rd.</p>
-          </div>
-          <div class="activity activity__holiday_camp">
-            <a class="cta" href="camp.php#holiday_camp">Give the Gift of Holiday Camp</a>
-            <p>There\'s no place like home for the holidays&hellip; except when everyone has cabin fever. Break the kids out of the house for camp at The Art Farm.</p>
-          </div>
-          <div class="activity activity__drop_in_classes">
-            <a class="cta" href="drop_in.php">Give the Gift of Drop-In Classes</a>
-            <p>Can\'t commit? Our Drop-In class passes are a great stocking-stuffer for the tot with a busy social calendar.</p>
-          </div>
+        <div class="modal__body_shell">
+            <a class="modal__cta modal__cta--single" href="https://storecard.mercurypay.com/CardStudioExt/?bid=407500">Buy an Art Farm gift card now!</a>
         </div>
       </div>
     </div>
     <script src="scripts/js.cookie.js"></script>
     <script src="scripts/jquery-1.11.3.min.js"></script>
+    <script src="scripts/vex.combined.min.js"></script>
     <script src="scripts/af.js?v=' . date(ymdHis) . '"></script>
   </body>
   </html>';
