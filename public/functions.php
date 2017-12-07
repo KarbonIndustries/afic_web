@@ -223,7 +223,7 @@ function drawHomePanel()
     <ul class='menu-panel-page-list'>
       <li><a class='menu-panel-page-link mpUp' href='act_by_age.php'>Activities by Age</a></li>
       <li><a class='menu-panel-page-link mpUp' href='schedule.php'>Schedule</a></li>
-      <li><a class='menu-panel-page-link mpUp' href='membership.php'>Membership</a></li>
+      <li><a class='menu-panel-page-link mpUp' href='https://storecard.mercurypay.com/CardStudioExt/?bid=407500'>Gift Cards</a></li>
       <li><a class='menu-panel-page-link mpUp' href='tour.php'>Farm Tour</a></li>
       <li><a class='menu-panel-page-link mpUp' href='https://campscui.active.com/orgs/TheArtFarminTheCity'>Register Today!</a></li>
       <li><a class='menu-panel-page-link mpUp' href='testimonials.php'>Testimonials</a></li>
@@ -253,7 +253,7 @@ function drawPanel($page)
 {
   $actByAge     = 'mpUp';
   $schedule     = 'mpUp';
-  $membership   = 'mpUp';
+  $giftCards    = 'mpUp';
   $tour         = 'mpUp';
   $register     = 'mpUp';
   $testimonials = 'mpUp';
@@ -266,8 +266,8 @@ function drawPanel($page)
     case 'schedule':
     $schedule = 'mpOver';
     break;
-    case 'membership':
-    $membership = 'mpOver';
+    case 'giftCards':
+    $giftCards = 'mpOver';
     break;
     case 'tour':
     $tour = 'mpOver';
@@ -286,7 +286,7 @@ function drawPanel($page)
     <ul class='menu-panel-page-list'>
       <li><a class='menu-panel-page-link ${actByAge}' href='act_by_age.php'>Activities by Age</a></li>
       <li><a class='menu-panel-page-link ${schedule}' href='schedule.php'>Schedule</a></li>
-      <li><a class='menu-panel-page-link ${membership}' href='membership.php'>Membership</a></li>
+      <li><a class='menu-panel-page-link ${giftCards}' href='https://storecard.mercurypay.com/CardStudioExt/?bid=407500'>Gift Cards</a></li>
       <li><a class='menu-panel-page-link ${tour}' href='tour.php'>Farm Tour</a></li>
       <li><a class='menu-panel-page-link ${register}' href='https://campscui.active.com/orgs/TheArtFarminTheCity'>Register Today!</a></li>
       <li><a class='menu-panel-page-link ${testimonials}' href='testimonials.php'>Testimonials</a></li>
