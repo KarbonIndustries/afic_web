@@ -98,6 +98,13 @@ openContent($page);
 <!-- ================== -->
 <div class='clearB'>
   <span id='wpt' class='block bold size18 blue2'>Open Play Time</span>
+
+  <span class='notice notice--red'>Closed December 25<sup>th</sup>,
+  26<sup>th</sup>, and January 1<sup>st</sup>.<br />Open for Extended Play Time
+  December 27<sup>th</sup>, 28<sup>th</sup>, 29<sup>th</sup>, Janury
+  2<sup>nd</sup>, 3<sup>rd</sup>, and 4<sup>th</sup> from 10:30am -
+  3:30pm.</span>
+
   <span class='subtitle1 gray1'>12:30pm - 3:30pm | 6 months+</span>
   <span class='size12 gray2'>Mon - Thurs</span><br />
 
@@ -137,9 +144,8 @@ openContent($page);
 <div class='clearB'>
   <span id='ff' class='block bold size18 blue2'>Fun Fridays</span>
 
-  <span class='notice notice--red'>The Art Farm will be closed on Friday,
-  November 24<sup>th</sup>. Fun Fridays will resume December
-  1<sup>st</sup></span>
+  <span class='notice notice--red'>No Fun Friday program Friday, December
+  29<sup>th</sup>. Join us for Open Play Time from 10:30am - 3:30pm.</span>
 
   <span class='subtitle1 gray1'>9:30am - 11:30am | 18 months+</span>
   <span class='size12 gray2'>Friday</span><br />
@@ -201,6 +207,9 @@ openContent($page);
 <!-- ======================== -->
 <div class='clearB'>
   <span id='motf' class='block bold size18 blue2'>Mornings on the Farm</span>
+
+  <span class='notice notice--red'>Closed December 24<sup>th</sup>. Open for
+  all other Mornings on the Farm programming.</span>
 
   <span class='subtitle1 gray1'>8am - 10am | 1+ years</span>
   <span class='size12 gray2'>Year-round program</span><br />
