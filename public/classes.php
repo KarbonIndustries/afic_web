@@ -11,7 +11,7 @@ openContent($page);
 <!--begin content-->
 
 <div class='clearB'>
-  <img src='images/new_for_2017.png' />
+  <img src='images/classes_hero.png' />
   <span id='rsa' class='title2'>&nbsp;</span>
   <span id='rsa' class='title2 alignC'>Semester Class Benefits</span>
   <table width='100%'>
