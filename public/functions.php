@@ -24,7 +24,7 @@ function openHeader($title)
   <title>The Art Farm in The City' . $title . '</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <meta name="author" content="Shammel Lee" />
-  <meta name="description" content="We are an eco-friendly and organic facility which teaches your children about nature, animals and how to better care for our planet. We also teach your children about responsibility through caring, loving and being in the company of animals. Our magical, USDA licensed, indoor petting zoo has a wide variety of animals including bunnies, chinchillas, guinea pigs, lizards, turtles, birds, tropical fish and more. You might even spot pigs, chickens, goats and sheep sometime!" />
+  <meta name="description" content="The Art Farm is a nature-focused children\'s educational center offering a break from city life with art, music, and cooking-themed classes, playtime, drop-ins, birthday parties, and camps that your whole family will love!" />
   <meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="stylesheet" href="styles.css?v=' . date(ymdHis) . '" type="text/css" />
