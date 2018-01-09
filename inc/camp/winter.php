@@ -29,7 +29,7 @@
     <span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Half Day Group</span>
     <span class="size12 gray2">9am - 1pm | 3-4 years | $85/day</span><br />
     <span class="size12 gray2">Early Drop Off 8:30am - 9am | $15/day</span><br />
-    <span class="gray1">Presidents Full Week Fee 9am - 1pm | $400</span><br />
+    <span class="size12 gray2">Presidents Full Week Fee 9am - 1pm | $400</span><br />
     <span class="size12 gray2">(Discount is only available for full week at time of full week registration)</span><br /><br />
 
     <p class="pgraph">We offer a half-day camp with a warm, nurturing program.

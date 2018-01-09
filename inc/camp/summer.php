@@ -5,7 +5,6 @@
 
 <img class='block' src='images/summer_camp/2018/header.jpg' />
 <img class='block' src='photos/summer_camp/2018/gym_01.jpg' />
-<img class='block' src='images/summer_camp/2018/early_bird_details.jpg' />
 
 <div class='clearB high20'></div>
 
