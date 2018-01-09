@@ -17,9 +17,6 @@ openContent($page);
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
 
-<span class='notice notice--red'>Closed December 24<sup>th</sup>. Open for all
-other Mornings on the Farm programming.</span>
-
 <span class='subtitle1 gray1'>1+ years<br />
   Year-round program<br />
   Saturday/Sunday 8am - 10am
