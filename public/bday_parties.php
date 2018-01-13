@@ -6,9 +6,14 @@ closeHeader();
 drawMainMenu();
 drawActivitiesMenu("bDayParties");
 openContent($page);
-function popup($row,$partyName)
+
+function popup($row, $party_name)
 {
-  return '<a class="bdayBtn" href="javascript:void(0);" onclick="window.open(\'bday_parties_list.php#' . $row . '\',\'bdayParties\',\'width=730,height=430,left=0,top=0,scrollbars\');">' . $partyName . '</a>';
+  return <<<HTML
+  <a class="bdayBtn"
+  href="javascript:void(0);"
+  onclick="window.open('bday_parties_list.php#${row}','bdayParties','width=730,height=430,left=0,top=0,scrollbars');">${party_name}</a>
+HTML;
 }
 ?>
 <!--begin content-->
@@ -23,22 +28,22 @@ function popup($row,$partyName)
 
 <table id="bdayLinks" class="fullWidth marginB20" border="0" cellspacing="1" cellpadding="4">
   <tr>
-    <td class="bdayBg1"><?php echo popup(1,"The Art Farm Party")?></td>
-    <td class="bdayBg3"><?php echo popup(1,"Exotic Animal Party")?></td>
-    <td class="bdayBg4"><?php echo popup(1,"Princess &amp; Knights Party")?></td>
+    <td class="bdayBg1"><?= popup(1,"The Art Farm Party") ?></td>
+    <td class="bdayBg3"><?= popup(1,"Exotic Animal Party") ?></td>
+    <td class="bdayBg4"><?= popup(1,"Princess &amp; Knights Party") ?></td>
   </tr>
   <tr>
-    <td class="bdayBg5"><?php echo popup(2,"Treasure Hunt Party")?></td>
-    <td class="bdayBg6"><?php echo popup(2,"Farm Foodies Party")?></td>
-    <td class="bdayBg7"><?php echo popup(2,"Mad Science Party")?></td>
+    <td class="bdayBg5"><?= popup(2,"Treasure Hunt Party")?></td>
+    <td class="bdayBg6"><?= popup(2,"Farm Foodies Party")?></td>
+    <td class="bdayBg7"><?= popup(2,"Mad Science Party")?></td>
   </tr>
   <tr>
-    <td class="bdayBg9"><?php echo popup(3,"Do It Yourself Party")?></td>
-    <td class="bdayBg10"><?php echo popup(3,"Weekday Party")?></td>
-    <td class="bdayBg11"><?php echo popup(3,"The Art Farm on The Moove! Party")?></td>
+    <td class="bdayBg9"><?= popup(3,"Do It Yourself Party")?></td>
+    <td class="bdayBg10"><?= popup(3,"Weekday Party")?></td>
+    <td class="bdayBg11"><?= popup(3,"The Art Farm on The Moove! Party")?></td>
   </tr>
   <tr>
-    <td class="bdayBg8"><?php echo popup(4,"Tie Dye Party")?></td>
+    <td class="bdayBg8"><?= popup(4,"Tie Dye Party")?></td>
     <td class=""></td>
     <td class=""></td>
   </tr>

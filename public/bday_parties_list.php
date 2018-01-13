@@ -176,7 +176,7 @@ closeHeader();
           Every +6 children: $40 staff charge
         </td>
         <td class="padR5">
-          $1,250 for 10 guests<br />
+          $1,350 for 10 guests<br />
           Each additional child: $30<br />
           Every +6 children: $40 staff charge
         </td>
