@@ -8,82 +8,65 @@ closeHeader();
 <body>
 
 <div class='pad10'>
-
   <div class='marginB5'>
-    <span class="bold blue2">Sept 7<sup>th</sup> - 9<sup>th</sup></span>
-    <span class='size14'>Plum Galette</span>
+    <span class="bold blue2">Jan 11<sup>th</sup> &amp; 13<sup>th</sup></span>
+    <span class='size14'>Sunchoke Gnocchi</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sept 14<sup>th</sup> - 16<sup>th</sup></span>
-    <span class='size14'>Wild Mushroom Bagels</span>
+    <span class="bold blue2">Jan 18<sup>th</sup> &amp; 20<sup>th</sup></span>
+    <span class='size14'>Citrus Challah</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sept 21<sup>st</sup> - 23<sup>rd</sup></span>
-    <span class='size14'>Grape Garibaldis</span>
+    <span class="bold blue2">Jan 25<sup>th</sup> &amp; 27<sup>th</sup></span>
+    <span class='size14'>Green Lasagna Cups</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Sept 28<sup>th</sup></span>
-    <span class='size14'>Cauliflower Biscuits</span>
+    <span class="bold blue2">Feb 1<sup>st</sup> &amp; 3<sup>rd</sup></span>
+    <span class='size14'>Roasted Pear Biscuits</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 5<sup>th</sup> - 7<sup>th</sup></span>
-    <span class='size14'>Apple Pie</span>
+    <span class="bold blue2">Feb 8<sup>th</sup> &amp; 10<sup>th</sup></span>
+    <span class='size14'>Valentine's Day - Strawberry Shortcake Cookies</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 12<sup>th</sup> - 14<sup>th</sup></span>
-    <span class='size14'>Butternut Soup Buns</span>
+    <span class="bold blue2">Feb 15<sup>th</sup> &amp; 17<sup>th</sup></span>
+    <span class='size14'>Cauliflower Nuggets</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 19<sup>th</sup> - 21<sup>st</sup></span>
-    <span class='size14'>Pear Tatin</span>
+    <span class="bold blue2">Feb 22<sup>nd</sup> &amp; 24<sup>th</sup></span>
+    <span class='size14'>Buttermilk Lemon Tarts</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Oct 26<sup>th</sup> - 28<sup>th</sup></span>
-    <span class='size14'>Halloween Cookie Deco</span>
+    <span class="bold blue2">Mar 1<sup>st</sup> &amp; 3<sup>rd</sup></span>
+    <span class='size14'>Duchess Spinach Puffs</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 2<sup>nd</sup> - 4<sup>th</sup></span>
-    <span class='size14'>Leek and Potato Cakes</span>
+    <span class="bold blue2">Mar 8<sup>th</sup> &amp; 10<sup>th</sup></span>
+    <span class='size14'>Banana Yogurt Bread</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 9<sup>th</sup> - 11<sup>th</sup></span>
-    <span class='size14'>Cranberry &amp; Cream Cheese Rolls</span>
+    <span class="bold blue2">Mar 15<sup>th</sup> &amp; 17<sup>th</sup></span>
+    <span class='size14'>Mini Avocado Croque</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 16<sup>th</sup> - 18<sup>th</sup></span>
-    <span class='size14'>Pumpkin Pie</span>
+    <span class="bold blue2">Mar 22<sup>nd</sup> &amp; 24<sup>th</sup></span>
+    <span class='size14'>Strawberry Rhubarb Compote</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Nov 30<sup>th</sup> - Dec 1<sup>st</sup></span>
-    <span class='size14'>Spaghetti Squash Focaccia</span>
+    <span class="bold blue2">Mar 29<sup>th</sup> &amp; 31<sup>th</sup></span>
+    <span class='size14'>Artichoke Bagels</span>
   </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">Dec 7<sup>th</sup> - 9<sup>th</sup></span>
-    <span class='size14'>Speculoos (Spice Cookies)</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">Dec 14<sup>th</sup> - 16<sup>th</sup></span>
-    <span class='size14'>Gingerbread Brioche</span>
-  </div>
-
-  <div class='marginB5'>
-    <span class="bold blue2">Dec 21<sup>st</sup> - 23<sup>rd</sup></span>
-    <span class='size14'>Holiday Cookie Deco</span>
-  </div>
-
 </div>
 
 </body>
