@@ -1,4 +1,9 @@
 <?php
+define('INCLUDE_VEX_POPUP', false);
+define('GOOGLE_ANALYTICS_ACCOUNT_ID', 'UA-10255345-7');
+define("AUTHOR","Shammel Lee");
+define("AUTHOR_URL","http://www.shammellee.com/");
+
 # MESSAGES
 define('CHECK_AVAILABILITY_MESSAGE_1','<span class="" style="color:red;">Please call to check availability before registering!</span>');
 define('OPEN_HOUSE_MESSAGE_1','<span class="" style="color:red;">Program ends June 17th and resumes September 9th</span>');
