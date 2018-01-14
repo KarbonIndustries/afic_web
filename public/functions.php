@@ -1,12 +1,13 @@
 <?php
 error_reporting(0);
 
+require_once('../inc/config.php');
+
 define("AF_LOGO_URL","/");
 define("AF_HOME_URL",".");
 define("AF_HAMPTONS_URL","http://www.theartfarms.org/af/");
-define("AUTHOR","Shammel Lee");
-define("AUTHOR_URL","http://www.shammellee.com/");
 
+$cache_buster_date = date(ymdHis);
 
 # ==========
 # = HEADER =
@@ -14,28 +15,42 @@ define("AUTHOR_URL","http://www.shammellee.com/");
 
 function openHeader($title)
 {
+  global $cache_buster_date;
+
   if(is_string($title))
   {
       $title = ' :: ' . $title;
   }
-  echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+  echo <<<HTML
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
   <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
   <head>
-  <title>The Art Farm in The City' . $title . '</title>
+  <title>The Art Farm in The City${title}</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <meta name="author" content="Shammel Lee" />
-  <meta name="description" content="The Art Farm is a nature-focused children\'s educational center offering a break from city life with art, music, and cooking-themed classes, playtime, drop-ins, birthday parties, and camps that your whole family will love!" />
+  <meta name="description" content="The Art Farm is a nature-focused children's educational center offering a break from city life with art, music, and cooking-themed classes, playtime, drop-ins, birthday parties, and camps that your whole family will love!" />
   <meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
   <link rel="shortcut icon" href="favicon.ico" />
-  <link rel="stylesheet" href="styles.css?v=' . date(ymdHis) . '" type="text/css" />
-  <link rel="stylesheet" href="css/vex.css" />
-  <link rel="stylesheet" href="css/vex-theme-default.css" />
+  <link rel="stylesheet" href="styles.css?v=${cache_buster_date}" type="text/css" />
+HTML;
+
+  if(INCLUDE_VEX_POPUP)
+  {
+    echo <<<HTML
+    <link rel="stylesheet" href="css/vex.css" />
+    <link rel="stylesheet" href="css/vex-theme-default.css" />
+HTML;
+  }
+
+  echo <<<HTML
   <script type="text/javascript">
     function getIEVersion()
     {
       var agent = navigator.userAgent;
       var ie = "MSIE ";
       var offset = agent.indexOf(ie);
+
       if(offset == -1)
       {
         return 0;
@@ -44,11 +59,13 @@ function openHeader($title)
         return parseFloat(agent.substring(offset + ie.length, agent.indexOf(";", offset + ie.length)));
       }
     }
+
     if(navigator.userAgent.indexOf("MSIE") >= 0 && getIEVersion() < 7)
     {
-      alert("Your browser is out of date.\nThis may cause the site to display improperly.\nPlease upgrade to a newer version.\n\nRecommendations: Firefox, Safari, Chrome");
+      alert("Your browser is out of date.\\nThis may cause the site to display improperly.\\nPlease upgrade to a newer version.\\n\\nRecommendations: Firefox, Safari, Chrome");
     }
   </script>
+
   <script type="text/javascript">
     (function() {
     window._pa = window._pa || {};
@@ -59,7 +76,7 @@ function openHeader($title)
     _pq.push(["datasphere.track', 'BDSP-12588892"]);
     })();
   </script>
-  ';
+HTML;
 }
 
 function includeJs()
@@ -453,9 +470,16 @@ HTML;
 
 function drawFooter()
 {
-  echo '</div style="position:relative">
+  global $cache_buster_date;
+
+  $_year                        = date(Y);
+  $_author_url                  = AUTHOR_URL;
+  $_google_analytics_account_id = GOOGLE_ANALYTICS_ACCOUNT_ID;
+
+  echo <<<HTML
+    </div style="position:relative">
     <!--end of outerShell-->
-    <div id="footer" class="">
+    <div id="footer">
       <div id="footerBox" class="clearfix">
 
         <div id="press">
@@ -487,7 +511,7 @@ function drawFooter()
         </div>
       </div>
 
-      <span class="block floatL padT5">&#169; ' . date(Y) . ', The Art Farm. All rights reserved.</span>
+      <span class="block floatL padT5">&#169; ${_year}, The Art Farm. All rights reserved.</span>
       <div id="secondaryLinks" class="floatR clearfix">
         <ul class="">
           <li><a class="padT5" href="http://www.facebook.com/pages/New-York-NY/Art-Farm-in-the-City/160406469093/" target="_blank"><img src="images/fb_icon.png" /></a></li>
@@ -496,22 +520,20 @@ function drawFooter()
           <li><a class="hoverRust padT5" href="sitemap.php">Sitemap</a></li>
           <li><a class="hoverRust padT5" href="http://www.victoriajacksonphoto.com/" rel="nofollow" target="_blank">Photos &copy; Victoria Jackson Photography</a></li>
         </ul>
-        <a class="authorHover marginL5 pad5" href="' . AUTHOR_URL . '" rel="nofollow" target="_blank">&#160;Site by <span class="bold">Shammel Lee</span>&#160;</a>
+        <a class="authorHover marginL5 pad5" href="${_author_url}" rel="nofollow" target="_blank">&#160;Site by <span class="bold">Shammel Lee</span>&#160;</a>
       </div>
     </div>
     <!--end of footer-->
     <script type="text/javascript">
-
       var _gaq = _gaq || [];
-      _gaq.push([\'_setAccount\', \'UA-10255345-7\']);
-      _gaq.push([\'_trackPageview\']);
+      _gaq.push(['_setAccount', '${_google_analytics_account_id}']);
+      _gaq.push(['_trackPageview']);
 
       (function() {
-        var ga = document.createElement(\'script\'); ga.type = \'text/javascript\'; ga.async = true;
-        ga.src = (\'https:\' == document.location.protocol ? \'https://ssl\' : \'http://www\') + \'.google-analytics.com/ga.js\';
-        (document.getElementsByTagName(\'head\')[0] || document.getElementsByTagName(\'body\')[0]).appendChild(ga);
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
       })();
-
     </script>
 
     <div style="display:none">
@@ -528,10 +550,20 @@ function drawFooter()
     </div>
     <script src="scripts/js.cookie.js"></script>
     <script src="scripts/jquery-1.11.3.min.js"></script>
+HTML;
+
+  if(INCLUDE_VEX_POPUP)
+  {
+    echo <<<HTML
     <script src="scripts/vex.combined.min.js"></script>
-    <script src="scripts/af.js?v=' . date(ymdHis) . '"></script>
+HTML;
+  }
+
+  echo <<<HTML
+    <script src="scripts/af.js?v=${cache_buster_date}"></script>
   </body>
-  </html>';
+  </html>
+HTML;
 }
 
 function drawChoose()

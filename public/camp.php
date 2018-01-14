@@ -1,6 +1,6 @@
 <?php
 require_once('../inc/config.php');
-require 'functions.php';
+require_once('functions.php');
 $title = 'Camp';
 $page = 'camp';
 openHeader($title);
