@@ -265,7 +265,7 @@ closeHeader();
       <tr class="bold white size13" valign="top">
         <td class="pad5 bdayBg8">
           Tie Dye Party<br />
-          <span class="normal size12">1-8 years</span>
+          <span class="normal size12">4-8 years</span>
         </td>
         <td class="pad5">
         </td>
