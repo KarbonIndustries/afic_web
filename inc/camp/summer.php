@@ -16,6 +16,8 @@ You may register for one week of camp or for all eight.</p>
 <p class='alignC size14 gray1' style='width:600px;margin:10px auto'>Offering full
 and half day camp experiences for children ages 3-9</p>
 
+<p class='alignC size14 gray1' style='width:600px;margin:10px auto'>Register
+for six or more weeks at one time and receive a 5% discount.</p>
 
 <div class='clearB high20'></div>
 
