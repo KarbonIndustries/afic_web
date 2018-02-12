@@ -14,17 +14,25 @@ openContent($page);
 
 <p class='subtitle1 bold gray1'>2 Year-Old Separation Two's Group</p>
 
-<span class='bold gray1'>Fall Semester</span><br />
-<span class='gray1'>September 5<sup>th</sup> - December 21<sup>st</sup></span><br />
-<span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
-<span class='gray1'>Fall 1 day/week $960 | 2 days/week $1,920</span>
-
-<div class='clearB high20'></div>
-
 <span class='bold gray1'>Winter Semester</span><br />
 <span class='gray1'>January 8<sup>th</sup> - March 30<sup>th</sup></span><br />
 <span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
 <span class='gray1'>Winter 1 day/week $720 | 2 days/week $1,440</span>
+
+<div class='clearB high20'></div>
+
+<span class='bold gray1'>Spring Semester</span><br />
+<span class='gray1'>April 2<sup>nd</sup> - June 22<sup>nd</sup></span><br />
+<span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
+<span class='gray1'>Winter 1 day/week $720 | 2 days/week $1,440</span><br />
+<span class='gray1'>(Sold Out)</span>
+
+<div class='clearB high20'></div>
+
+<span class='bold gray1'>Summer Semester</span><br />
+<span class='gray1'>June 25<sup>th</sup> - August 17<sup>th</sup></span><br />
+<span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
+<span class='gray1'>Winter 1 day/week $480 | 2 days/week $960</span>
 
 <div class='clearB high20'></div>
 
@@ -73,7 +81,6 @@ openContent($page);
 <a id='' class='register_btn register_btn__winter' href='<?=WINTER_REGISTRATION_URL?>' target='_blank'>Winter</a>
 <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
 <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
-<a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
 
 <div class='clearB high60'></div>
 
