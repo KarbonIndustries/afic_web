@@ -146,9 +146,6 @@ function drawMainMenu($page)
   <body>
     <div class="newsShell">
       <div class="news">
-        <a href="http://redtri.com/new-york-2016-totally-awesome-award-winners/" target="_blank" title="2016 Red Tricycle Award">
-          <img src="./images/2016_red_tricycle_award.png" alt="2016 Red Tricycle Award"/>
-        </a>
       </div>
     </div>
     <div id="outerShell" class="">
