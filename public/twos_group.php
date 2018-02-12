@@ -14,13 +14,6 @@ openContent($page);
 
 <p class='subtitle1 bold gray1'>2 Year-Old Separation Two's Group</p>
 
-<span class='bold gray1'>Fall Semester</span><br />
-<span class='gray1'>September 5<sup>th</sup> - December 21<sup>st</sup></span><br />
-<span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
-<span class='gray1'>Fall 1 day/week $960 | 2 days/week $1,920</span>
-
-<div class='clearB high20'></div>
-
 <span class='bold gray1'>Winter Semester</span><br />
 <span class='gray1'>January 8<sup>th</sup> - March 30<sup>th</sup></span><br />
 <span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
