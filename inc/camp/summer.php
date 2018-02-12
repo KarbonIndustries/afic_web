@@ -3,6 +3,14 @@
 <!-- =============== -->
 <div id='summer_camp' class=""></div>
 
+<div class='alignC'>
+<h1 class='gray1 size20 marginB5'>Summer Camp Open House</h1>
+<p class='size14 marginT5'>Saturday, March 3<sup>rd</sup> 12:30pm - 2:30pm<br />
+at Trevor Day School 312 E. 95<sup>th</sup> St.</p>
+</div>
+
+<div class='high20'></div>
+
 <img class='block' src='images/summer_camp/2018/header.jpg' />
 <img class='block' src='photos/summer_camp/2018/gym_01.jpg' />
 
