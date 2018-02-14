@@ -38,7 +38,7 @@ $5</span>
   <a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
 
   <span class='size12 gray2'>
-    Drop In: $40 | Winter: $420 | Spring: $420
+    Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245
   </span><br />
 </span>
 

@@ -247,7 +247,7 @@ openContent($page);
   <div class='clearB high20'></div>
 
   <span class='size12 gray2'>
-    Drop In: $40 | Winter: $420 | Spring: $420
+    Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245
   </span><br />
 
   <div class='clearB high20'></div>
