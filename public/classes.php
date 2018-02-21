@@ -196,7 +196,7 @@ openContent($page);
     Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
       Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
     <a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=480,height=400,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
-    <span class='size12 gray2'>Drop In: $40 | Winter: $420 | Spring: $420</span><br />
+    <span class='size12 gray2'>Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245</span><br />
   </span>
   <p class='pgraph'>Farm Fresh and Seasonal! Finally your child can enjoy a cooking
   class where they learn about the basics of cooking and the importance of fresh

@@ -249,9 +249,10 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 #outerShell #headerRight ul, #outerShell #activitiesMenu ul{display: inline;list-style: none;list-style-type: none;list-style-position: outside;padding:0;}
 #outerShell ul{list-style: none;padding:0}
 
-#header{float: left;height: 114px;overflow: hidden;margin-bottom: 10px;}
+#header{float: left;height: 66px;overflow: hidden;margin-bottom: 10px;}
 #headerLeft{float: left;width: 300px;}
-#headerRight{float: left;width: 591px;padding-left: 9px;padding-top: 66px;}
+#headerLeft #logo{width: 87%}
+#headerRight{float: left;width: 591px;padding-left: 9px;padding-top: 22px;}
 #headerRight li{float: left;}
 #headerRight ul li a{display: block;padding-top: 8px;color: #303030;}
 .homeUp{padding-left: 32px;width: 54px;height: 24px;background: #E6E6E6 url(images/top_menu_bg.png) no-repeat 0px 0px;}

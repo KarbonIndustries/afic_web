@@ -151,7 +151,7 @@ function drawMainMenu($page)
     <div id="outerShell" class="">
       <div id="header" class="">
         <div id="headerLeft" class="">
-          <a href="' . AF_LOGO_URL . '"><img class="block" src="images/artfarm_logo_15_years.png" /></a>
+          <a href="' . AF_LOGO_URL . '"><img id="logo" class="block" src="images/artfarm_logo.svg" /></a>
         </div>
         <div id="headerRight" class="">
           <ul>
@@ -243,12 +243,11 @@ function drawHomePanel()
       <li><a class='menu-panel-page-link mpUp' href='testimonials.php'>Testimonials</a></li>
     </ul>
     <div class='menu-panel-info'>
-      <span class='block'>The Art Farm in The City</span>
+      <span class='block'>The Art Farm NYC</span>
       <span class='size12'>419 E. 91st Street<br />
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
-      Phone: 212.410.3117<br />
-      Fax: 212.410.3525<br /></span>
+      Phone: 212.410.3117<br /></span>
       <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
@@ -307,12 +306,11 @@ function drawPanel($page)
     </ul>
 
     <div class='menu-panel-info'>
-      <span class='block'>The Art Farm in The City</span>
+      <span class='block'>The Art Farm NYC</span>
       <span class='size12'>419 E. 91st Street<br />
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
-      Phone: 212.410.3117<br />
-      Fax: 212.410.3525<br /></span>
+      Phone: 212.410.3117<br /></span>
       <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
@@ -409,12 +407,11 @@ function drawPreschoolPanel()
 
       <hr class='preschool-panel-rule preschool-panel-rule--horizontal'>
 
-      <span class='block'>The Art Farm in The City</span>
+      <span class='block'>The Art Farm NYC</span>
       <span class='size12'>419 E. 91st Street<br />
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
-      Phone: 212.410.3117<br />
-      Fax: 212.410.3525<br /></span>
+      Phone: 212.410.3117<br /></span>
       <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
