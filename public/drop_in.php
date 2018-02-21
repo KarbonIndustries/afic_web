@@ -113,18 +113,14 @@ openContent($page);
   </p>
 
   <p class='pgraph'>
-    $20 per child per visit or buy a pass<br />
+    $20 per child pay at the door or buy a pass<br />
     $150 per 10 visit Play Date pass - multiple children can use this pass. $50
     savings! Expires 1 year after purchase<br />
   </p>
 
-  <!--
-  <p class='pgraph'>
-    *Art Farm members receive 20% off current client package
-  </p>
-  -->
-
-  <a id='' class='register_btn register_btn--now' href='<?=GENERAL_REGISTRATION_URL?>' target='_blank'>Pay Now!</a>
+  <a id='' class='register_btn register_btn--now'
+  href='https://campscui.active.com/orgs/TheArtFarminTheCity?season=2307805&location=455804'
+  target='_blank'>Buy a Pass of Visits</a>
 
 </div>
 
