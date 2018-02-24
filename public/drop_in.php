@@ -181,7 +181,7 @@ openContent($page);
 
   <a id='' class='register_btn register_btn--now' href='https://theartfarmnyc.mypaysimple.com/s/the-art-farm-in-the-city' target='_blank'>Buy 1 Visit</a>
 
-  <a id='' class='register_btn register_btn--now' href='<?=GENERAL_REGISTRATION_URL?>' target='_blank'>Buy a Pass of Visits</a>
+  <a id='' class='register_btn register_btn--now' href='https://campscui.active.com/orgs/TheArtFarminTheCity?season=2307805&location=455804' target='_blank'>Buy a Pass of Visits</a>
 
 </div>
 

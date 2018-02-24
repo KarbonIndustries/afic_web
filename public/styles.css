@@ -4,7 +4,7 @@ body{margin: 0px;padding: 0px;height: 100%;font-family: Arial,Helvetica,sans-ser
 a{text-decoration: none;}
 a img{border: none;}
 a.authorHover:hover{color: #000000 !important;}
-a.hoverRust:hover{color: #DB4A28 !important;}
+a.hoverRust:hover{color: #E2231A !important;}
 a.bdayBtn{display:block;/*-moz-border-radius:5px;-webkit-border-radius:5px;*/color:#FFFFFF;}
 a.bdayBtn:hover{text-decoration:underline;}
 table#bdayLinks td{text-align:center;width:33%;}
@@ -38,7 +38,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .pgraph{margin-top: 5px;margin-bottom: 20px;}
 .pQuote{margin-top: 5px;margin-bottom: 20px;font-style: italic;}
 
-.pressTitle{color: #DB4A28;font-weight: bold;text-align: center;margin-top: 10px;}
+.pressTitle{color: #E2231A;font-weight: bold;text-align: center;margin-top: 10px;}
 
 .bulletList1{list-style: disc !important;list-style-type: disc !important; list-style-position: inside !important;}
 .bulletList2{list-style: disc !important;list-style-type: disc !important; list-style-position: outside !important;}
@@ -58,7 +58,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .devBg2{background: #00FFFF;}
 .devBg3{background: #FFFF00;}
 .imgBg{background: #808080;}
-.rustBg{background: #DB4A28;}
+.rustBg{background: #E2231A;}
 .yellowBg1{background: #FFDB61;}
 .blueBg1{background: #4FA8EC;}
 .blueBg2{background: #326BBC;}
@@ -69,7 +69,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .blue1{color: #4FA8EC !important;}
 .blue2{color: #326BBC !important;}
 .green1{color: #45B868 !important;}
-.rust{color: #DB4A28 !important;}
+.rust{color: #E2231A !important;}
 .gray1{color: #303030 !important;}
 .gray2{color: #606060 !important;}
 .red{color: #FF0000 !important;}
@@ -95,7 +95,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .size19{font-size: 19px !important;}
 .size20{font-size: 20px !important;}
 
-.title1{display: block;font-size: 20px;font-weight: bold;color: #DB4A28;padding-bottom: 5px;border-bottom: 1px solid #AAAAAA;margin-bottom: 15px;}
+.title1{display: block;font-size: 20px;font-weight: bold;color: #E2231A;padding-bottom: 5px;border-bottom: 1px solid #AAAAAA;margin-bottom: 15px;}
 .title2{display: block;font-size: 16px;font-weight: bold;}
 .subtitle1{display: block;font-size: 14px;}
 
@@ -230,7 +230,7 @@ p{color: #606060;font-size: 13px;line-height:1.4;}
 .news a{border-bottom:1px dotted #FFFFFF;font-weight:bold;}
 .news a:hover{border-bottom-style:solid;}
 
-.heading1{display: block;padding: 5px 10px;font-size: 23px;color: #FFFFFF;background: url(images/panel_bg2.png) repeat-y top left;}
+.heading1{display: block;padding: 5px 10px;font-size: 23px;color: #FFFFFF;background-color:#E2231A;}
 .copy{font-size: 12px;color: #606060;}
 .smallCopy{font-size: 11px;color: #606060;display:block;float:right;line-height:1.4;width:179px;}
 
@@ -273,13 +273,14 @@ a.contactUp:hover{background-position: -470px -34px;}
 
 #content{float: right;width: 685px;padding-left: 15px;overflow: hidden;}
 #homeContent{float: left;width: 100%;}
-.menu-panel{float: left;min-height:340px;width: 170px;padding: 15px;background: #CE4927 url(images/panel_bg1.png) repeat-x top left;color: #FFFFFF;}
+.menu-panel{float: left;min-height:340px;width: 170px;padding: 15px;background-color: #E2231A;color: #FFFFFF;}
 .menu-panel:after{content:'';display:table;clear:both}
 .menu-panel-page-list{margin: 0px;padding: 0px; display: block;list-style: none;list-style-type: none;list-style-position: outside;}
-.menu-panel-page-link{display: block;padding-left: 14px;height: 34px;color: #FFFFFF;}
-.mpUp{background: url(images/menu_panel_separator_2.png) no-repeat top left;}
-a.mpUp:hover{background: url(images/menu_panel_separator.png) no-repeat top left;}
-.mpOver{background: url(images/menu_panel_separator.png) no-repeat top left;}
+.menu-panel .menu-panel-page-list li:after{content:'';display:block;border-top:1px solid #B30707;border-bottom:1px solid #F33232;}
+.menu-panel-page-link{display: block;padding-left: 14px;padding-bottom:9px;padding-top:9px;color: #FFFFFF;}
+a.mpUp,.mpOver{position:relative}
+a.mpUp:hover:before,.mpOver:before{content:'';display:block;left:0;position:absolute;width:0;height:0;border-top: 6px solid transparent;border-left: 8px solid #FFFFFF;border-bottom: 6px solid transparent;top:50%;margin-top:-6px;}
+.menu-panel-info{margin-top:10px}
 
 .preschool-panel-list{margin:16px 0;}
 .preschool-panel-list-item--program{margin:18px 0;}
@@ -288,38 +289,38 @@ a.mpUp:hover{background: url(images/menu_panel_separator.png) no-repeat top left
 .preschool-panel-program-list-item-paragraph{color:#FFFFFF;font-size:0.8em;margin:0}
 .preschool-panel-paragraph{color:#FFFFFF; font-size:0.9em}
 .preschool-panel-link{color:#FFA900;text-decoration:underline}
-.preschool-panel-rule{border:1px inset #D95E3F;margin:15px 0}
+.preschool-panel-rule{border-top:1px solid #B30707;border-bottom:1px solid #F33232;border-right:none;border-left:none;margin:15px 0}
 
 #activitiesMenu{float: left;padding: 0px 16px;margin: 0px 0px 20px 0px;}
 #activitiesMenu li{float: left;}
 #activitiesMenu ul li a{display: block;width: 96px;padding-top: 85px;text-align: center;color: #000000;font-size: 13px;}
 .membershipUp{background: url(images/activities_menu.png) no-repeat 0px 0px;}
-.membershipOver{background: url(images/activities_menu.png) no-repeat 0px -120px;color: #DB4A28 !important;}
+.membershipOver{background: url(images/activities_menu.png) no-repeat 0px -120px;color: #E2231A !important;}
 .classesUp{background: url(images/activities_menu.png) no-repeat -480px 0px;}
-.classesOver{background: url(images/activities_menu.png) no-repeat -480px -120px;color: #DB4A28 !important;}
+.classesOver{background: url(images/activities_menu.png) no-repeat -480px -120px;color: #E2231A !important;}
 .bDayPartiesUp{background: url(images/activities_menu.png) no-repeat -96px 0px;}
-.bDayPartiesOver{background: url(images/activities_menu.png) no-repeat -96px -120px;color: #DB4A28 !important;}
+.bDayPartiesOver{background: url(images/activities_menu.png) no-repeat -96px -120px;color: #E2231A !important;}
 .preSchoolUp{background: url(images/activities_menu.png) no-repeat -192px 0px;}
-.preSchoolOver{background: url(images/activities_menu.png) no-repeat -192px -120px;color: #DB4A28 !important;}
+.preSchoolOver{background: url(images/activities_menu.png) no-repeat -192px -120px;color: #E2231A !important;}
 .playGroupUp{background: url(images/activities_menu.png) no-repeat -288px 0px;}
-.playGroupOver{background: url(images/activities_menu.png) no-repeat -288px -120px;color: #DB4A28 !important;}
+.playGroupOver{background: url(images/activities_menu.png) no-repeat -288px -120px;color: #E2231A !important;}
 .weekendProgramsUp{background: url(images/activities_menu.png) no-repeat -384px 0px;}
-.weekendProgramsOver{background: url(images/activities_menu.png) no-repeat -384px -120px;color: #DB4A28 !important;}
+.weekendProgramsOver{background: url(images/activities_menu.png) no-repeat -384px -120px;color: #E2231A !important;}
 .campUp{background: url(images/activities_menu.png) no-repeat -576px 0px;}
-.campOver{background: url(images/activities_menu.png) no-repeat -576px -120px;color: #DB4A28 !important;}
+.campOver{background: url(images/activities_menu.png) no-repeat -576px -120px;color: #E2231A !important;}
 .dropInUp{background: url(images/activities_menu.png) no-repeat -672px 0px;}
-.dropInOver{background: url(images/activities_menu.png) no-repeat -672px -120px;color: #DB4A28 !important;}
+.dropInOver{background: url(images/activities_menu.png) no-repeat -672px -120px;color: #E2231A !important;}
 .outreachFieldTripsUp{background: url(images/activities_menu.png) no-repeat -768px 0px;}
-.outreachFieldTripsOver{background: url(images/activities_menu.png) no-repeat -768px -120px;color: #DB4A28 !important;}
-a.membershipUp:hover{background-position: 0px -120px;color: #DB4A28 !important;}
-a.bDayPartiesUp:hover{background-position: -96px -120px;color: #DB4A28 !important;}
-a.preSchoolUp:hover{background-position: -192px -120px;color: #DB4A28 !important;}
-a.playGroupUp:hover{background-position: -288px -120px;color: #DB4A28 !important;}
-a.weekendProgramsUp:hover{background-position: -384px -120px;color: #DB4A28 !important;}
-a.classesUp:hover{background-position: -480px -120px;color: #DB4A28 !important;}
-a.campUp:hover{background-position: -576px -120px;color: #DB4A28 !important;}
-a.dropInUp:hover{background-position: -672px -120px;color: #DB4A28 !important;}
-a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #DB4A28 !important;}
+.outreachFieldTripsOver{background: url(images/activities_menu.png) no-repeat -768px -120px;color: #E2231A !important;}
+a.membershipUp:hover{background-position: 0px -120px;color: #E2231A !important;}
+a.bDayPartiesUp:hover{background-position: -96px -120px;color: #E2231A !important;}
+a.preSchoolUp:hover{background-position: -192px -120px;color: #E2231A !important;}
+a.playGroupUp:hover{background-position: -288px -120px;color: #E2231A !important;}
+a.weekendProgramsUp:hover{background-position: -384px -120px;color: #E2231A !important;}
+a.classesUp:hover{background-position: -480px -120px;color: #E2231A !important;}
+a.campUp:hover{background-position: -576px -120px;color: #E2231A !important;}
+a.dropInUp:hover{background-position: -672px -120px;color: #E2231A !important;}
+a.outreachFieldTripsUp:hover{background-position: -768px -120px;color: #E2231A !important;}
 
 #mainLeft{width: 530px;padding-right: 15px;float: left;}
 #mainRight{width: 340px;float: right;padding-left: 14px;border-left: 1px dotted #606060;}
@@ -424,7 +425,7 @@ a.abaLinks:hover{color: #326BBC !important;}
 #sitemapList li{color: #606060;}
 #sitemapList li a{color: #326BBC;font-weight: bold;}
 #sitemapList ul li a{color: #606060 !important;font-weight: normal !important;}
-#sitemapList ul li a:hover{color: #DB4A28 !important;font-weight: normal !important;}
+#sitemapList ul li a:hover{color: #E2231A !important;font-weight: normal !important;}
 
 #sitemapList ul{list-style: disc;list-style-type: disc;list-style-position: outside;margin: 0px;padding-left: 15px}
 
