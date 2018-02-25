@@ -8,6 +8,9 @@
         ;
 
 
+    // ========
+    // = CAMP =
+    // ========
     AF.camp = function()
     {
       var $toggle_list                               = $('.camp__toggle-list', $content)

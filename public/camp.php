@@ -17,14 +17,9 @@ define('NEW_REG_MSG',"<p class='newRegNote'>The Art Farm has a new registration 
 
 <ul class='camp__toggle-list'>
   <li class='camp__toggle-list-item camp__toggle-list-item--selected' data-camp-id='summer'>Summer Camp</li>
-  <li class='camp__toggle-list-item' data-camp-id='winter'>Winter Camps 2018</li>
 </ul>
 
 <div class='camp__section-container'>
-  <section class='camp' data-camp-id='winter'>
-  <?php include '../inc/camp/winter.php' ?>
-  </section>
-
   <section class='camp' data-camp-id='summer'>
   <?php include '../inc/camp/summer.php' ?>
   </section>
