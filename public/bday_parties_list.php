@@ -79,7 +79,7 @@ closeHeader();
     <tfoot>
       <tr class="size11 gray2">
         <td class="padR5">
-          $925 for 10 guests<br />
+          $945 for 10 guests<br />
           Each additional child: $28<br />
           Every +6 children: $40 staff charge
         </td>
@@ -96,6 +96,7 @@ closeHeader();
       </tr>
     </tfoot>
   </table>
+
   <a name="2"></a>
   <table id="2" class="partyChart fullWidth marginB20" cellpadding="0" cellspacing="1">
     <thead>
@@ -176,13 +177,14 @@ closeHeader();
           Every +6 children: $40 staff charge
         </td>
         <td class="padR5">
-          $1,350 for 10 guests<br />
+          $1,375 for 10 guests<br />
           Each additional child: $30<br />
           Every +6 children: $40 staff charge
         </td>
       </tr>
     </tfoot>
   </table>
+
   <a name="3"></a>
   <table id="3" class="partyChart fullWidth marginB20" cellpadding="0" cellspacing="1">
     <thead>
@@ -245,7 +247,7 @@ closeHeader();
           Every +6 children: $40 staff charge
         </td>
         <td class="padR5">
-          $725 for 10 guests<br />
+          $745 for 10 guests<br />
           Each additional child: $25<br />
           Every +6 children: $40 staff charge
         </td>
@@ -259,6 +261,7 @@ closeHeader();
       </tr>
     </tfoot>
   </table>
+
   <a name="4"></a>
   <table id="4" class="partyChart fullWidth marginB20" cellpadding="0" cellspacing="1">
     <thead>

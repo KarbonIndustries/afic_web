@@ -222,9 +222,9 @@ openContent($page);
 <!-- ============== -->
 <div class='clearB'>
   <img class='padR10 padT10 padB10' src='photos/fall_homeschool_2014.jpg' />
-  <span id='ff' class='title2 blue2'>Home School Winter 2018</span>
+  <span id='ff' class='title2 blue2'>Home School Spring 2018</span>
   <span class='subtitle1 gray1'>
-    January 11<sup>th</sup>, 2018 - March 15<sup>th</sup>, 2018<br />
+    April 5<sup>th</sup>, 2018 - June 14<sup>th</sup>, 2018<br />
     Thursday: 11:30am - 12:30pm | 5 - 8 years<br />
     <span class ='size12 gray2'>10-week semester: $250</span><br />
   </span>
@@ -248,7 +248,7 @@ openContent($page);
   <div class='clearB high20'></div>
 
   <a id='' class='register_btn register_btn--now'
-    href='https://campscui.active.com/orgs/TheArtFarminTheCity?orglink=camps-registration#/selectSessions/2245103'
+    href='https://campscui.active.com/orgs/TheArtFarminTheCity?orglink=camps-registration#/selectSessions/2374304'
     target='_blank'>Register Now!</a>
 
   <div class='clearB high30'></div>
