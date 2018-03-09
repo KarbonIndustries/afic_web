@@ -2,78 +2,84 @@
 <!-- = SPRING CAMP = -->
 <!-- =============== -->
 
-<a class='title2 blue2 bold' href='#summer_camp'>Jump to Summer Camp</a>
+<img src='images/spring_break_camp_header.jpg'/>
+<div class="marginT20 clearB">&nbsp;</div>
 
-<div class='clearB high20'></div>
+<div class="clearB">
+  <span id="spring_break_camp" class="title2 blue2 clearB">Spring Break Camp <?= date('Y') ?></span>
+  <span class="subtitle1 gray1">April 2<sup>nd</sup> - April 6<sup>th</sup><br /></span>
+  <span class="size12 gray2">Ages 3-5 years</span><br />
+  <span class="size12 gray2">Join us for one day or for everyday!</span><br /><br />
 
-<img src='images/spring_break_camp_header.jpg' />
+  <span class="title2 blue2 clearB">Activities for all ages include</span>
 
-<div class='marginT20 clearB'>&nbsp;</div>
+  <p class="pgraph">Campers will go outside to the courtyard every day weather
+  depending to play ball, parachute, sidewalk chalk, bubbles, and games.</p>
 
-<div class='clearB'>
-  <span id='spring_break_camp' class='size20 bold clearB' style='color:#FF3333'>Spring Break Camp</span>
+  <p class="pgraph">The Art Farm will be partnering with The Iken Science
+  Academy and the camp will be hosted at their school at 351 East
+  74<sup>th</sup> Street between 1<sup>st</sup> Avenue &amp; 2<sup>nd</sup>
+  Avenue.</p>
 
-  <div class='clearB high20'></div>
+  <div class="clearB">
+    <span id="halfDay" class="size20 bold clearB" style='color:#FF3333'>Half Day Group</span>
+    <span class="subtitle1 gray1">9am - 1pm | 3-4 years | $85/day</span>
+    <span class="size12 gray2">Early Drop Off 8:30am - 9am | $15/day</span><br />
+    <span class="size12 gray2">Full Week Fee 9am - 1pm | $400</span><br />
+    <span class="size12 gray2">(Discount is only available for full week at
+    time of full week registration)</span><br /><br />
 
-  <span class='subtitle1 bold'>April 10<sup>th</sup> - 14<sup>th</sup></span>
-  <span class='subtitle1 gray1'>
-    <span class='bold'>Half Day</span>
-    9AM - 12PM | 3-4 years
-  </span>
-  <span class='subtitle1 gray1'>$75/day or Full Week: $375</span>
+    <p class="pgraph">We offer a half-day camp with a warm, nurturing program.
+    Children spend time learning about holding and caring for our animals. They
+    create art masterpieces, bake goodies, and sing their favorite songs to
+    live guitar. Lots of play, fun, and games to celebrate spring break. We
+    will provide a snack for your child and please provide a nut-free lunch.
+    Your child will eat lunch before pick up. If your child is not fully
+    potty-trained, please send him or her in pull-ups. Children must be 3 years
+    old to join the group. All children must have a valid medical form to join
+    the camp.</p>
 
-  <div class='clearB high20'></div>
+    <p class="pgraph">Campers will go outside to the courtyard every day
+    weather depending to play ball, parachute, sidewalk chalk, bubbles, and
+    games.</p>
 
-  <span class='size12 gray1'>
-    <span class='bold'>Full Day</span>
-    9AM - 3PM | 4-8 years*
-  </span>
-  <span class='subtitle1 gray1'>$125/day or Full Week: $575</span>
-  <span class='subtitle1 gray2 size12 italic'>
-    * Registration will be done by 4-5 years or 6-8 years
-  </span>
+    <div class="clearB high20"></div>
 
-  <div class='clearB high20'></div>
+    <a class="register_btn register_btn--now"
+    href="https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/2375003/filter/location=846402"
+    target="_blank">Register Now!</a>
+  </div>
 
-  <span class='size12 gray2'>
-    <span class='bold'>Early Drop Off</span>
-    8:30AM - 9AM | $15/day
-  </span><br />
-  <span class='size12 gray2'>
-    <span class='bold'>Extended Day</span>
-    3PM - 5PM | $45/day
-  </span><br />
+  <div class="separator"></div>
 
-  <div class='clearB high20'></div>
+  <div class="clearB">
+    <span id="fullDay" class="size20 bold" style='color:#FF3333'>Full Day Groups</span>
+    <span class="subtitle1 gray1">9am - 3pm | 4-5 years | $125/day</span>
+    <span class="size12 gray2">Early Drop Off 8:30am - 9am | $15/day</span><br />
+    <span class="size12 gray2">Full Week Fee 9am - 3pm | $575</span><br />
+    <span class="size12 gray2">(Discount is only available for full week at time of full week registration)</span><br />
+    <span class="size12 gray2">Extended Day 3:00pm - 4pm | $20/day</span><br /><br />
 
-  <p class='pgraph'>
-    Spring is in the air and we want you to join us for some fun! From <strong>
-    ladybugs, baby chicks, and caterpillars to butterflies and more!</strong>
-    All children will have an up-close and personal experience with our animals
-    and be a part of live animal <strong>science</strong> classes. They will
-    <strong>cook</strong> with our chef, create <strong>art</strong>
-    masterpieces, and sing along with a guitarist during <strong>music</strong>.
-    Since Spring will be upon us, all children will go outside, every day, to
-    the courtyard for outdoor games (weather-permitting). We will provide a
-    snack for half-day campers before pick-up. Full-day campers, please bring
-    a nut-free lunch. We will provide snack before pick-up from camp.
-  </p>
+    <p class="pgraph">Our full-day campers participate in music, art, cooking,
+    science, nature, games, and live science animal lessons where the children
+    will meet and pet new animals every day. The children will engage in many
+    age-appropriate activities with lots of laughter and fun as we all
+    celebrate spring break. Please send your child to camp with a lunch that is
+    nut-free since we are a nut-free facility. We will provide the children
+    with a snack before the end of the day. All children must have a valid
+    medical form to join the camp.</p>
 
-  <p class='pgraph bold'>
-    We will be partnering with The Iken Science Academy and our Spring Break
-    Camp will be hosted at 351 E. 74th St. between 1<sup>st</sup> and
-    2<sup>nd</sup> Ave.
-  </p>
+    <p class="pgraph">Campers will go outside to the courtyard every day
+    weather depending to play ball, parachute, sidewalk chalk, bubbles, and
+    games.</p>
 
-  <div class='clearB high20'></div>
+    <div class="clearB high20"></div>
 
-  <a
-    class='register_btn register_btn--now'
-    href='https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/1888804'
-    target='_blank'>
-    Register Now!
-  </a>
+    <a class="register_btn register_btn--now"
+    href="https://campscui.active.com/orgs/TheArtFarminTheCity#/selectSessions/2375003/filter/location=846402"
+    target="_blank">Register Now!</a>
+  </div>
 </div>
 
-<div class='separator'></div>
+<div class="marginT20 clearB">&nbsp;</div>
 
