@@ -66,16 +66,6 @@ HTML;
     }
   </script>
 
-  <script type="text/javascript">
-    (function() {
-    window._pa = window._pa || {};
-    var pa = document.createElement("script"); pa.type = "text/javascript"; pa.async = true;
-    pa.src = ("https:" == document.location.protocol ? "https:" : "http:") + "//tag.perfectaudience.com/serve/507e0153f16a97000200001c.js";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(pa, s);
-    window._pq = window._pq || [];
-    _pq.push(["datasphere.track', 'BDSP-12588892"]);
-    })();
-  </script>
 HTML;
 }
 
