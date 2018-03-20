@@ -17,22 +17,21 @@ openContent($page);
 <span class='bold gray1'>Winter Semester</span><br />
 <span class='gray1'>January 8<sup>th</sup> - March 30<sup>th</sup></span><br />
 <span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
-<span class='gray1'>Winter 1 day/week $720 | 2 days/week $1,440</span>
+<span class='gray1'>1 day/week $720 | 2 days/week $1,440</span>
 
 <div class='clearB high20'></div>
 
 <span class='bold gray1'>Spring Semester</span><br />
 <span class='gray1'>April 2<sup>nd</sup> - June 22<sup>nd</sup></span><br />
 <span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
-<span class='gray1'>Winter 1 day/week $720 | 2 days/week $1,440</span><br />
-<span class='gray1'>(Sold Out)</span>
+<span class='gray1'>1 day/week $720 | 2 days/week $1,440</span><br />
 
 <div class='clearB high20'></div>
 
 <span class='bold gray1'>Summer Semester</span><br />
 <span class='gray1'>June 25<sup>th</sup> - August 17<sup>th</sup></span><br />
 <span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
-<span class='gray1'>Winter 1 day/week $480 | 2 days/week $960</span>
+<span class='gray1'>1 day/week $480 | 2 days/week $960</span>
 
 <div class='clearB high20'></div>
 
