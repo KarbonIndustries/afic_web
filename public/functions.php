@@ -253,7 +253,6 @@ function drawHomePanel()
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br /></span>
-      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
@@ -316,7 +315,6 @@ function drawPanel($page)
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br /></span>
-      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
@@ -417,7 +415,6 @@ function drawPreschoolPanel()
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br /></span>
-      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
