@@ -33,6 +33,16 @@ function openHeader($title)
   <meta name="keywords" content="art farm,art farm in the city,the art farm,the art farm in the city,childrens classes,birthday parties,summer camp,upper east side,animals,mommy and me classes,field trips,preschool,pre-school,play time,playtime,weekend programs,weekends,play group,playgroup,petting zoo,nyc,outreach programs,childrens cooking classes,cooking classes,baking,toy store,after school classes" />
   <link rel="shortcut icon" href="favicon.ico" />
   <link rel="stylesheet" href="styles.css?v=${cache_buster_date}" type="text/css" />
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WWVLJGS');</script>
+  <!-- End Google Tag Manager -->
+
+  <meta name="google-site-verification" content="fEzbYWxbX34CcbRZJJmlLVaHlx4B_nt9-GB0XNjjbpA" />
 HTML;
 
   if(INCLUDE_VEX_POPUP)
@@ -134,6 +144,11 @@ function drawMainMenu($page)
 
   echo '
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWVLJGS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <div class="newsShell">
       <div class="news">
       </div>
@@ -238,7 +253,6 @@ function drawHomePanel()
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br /></span>
-      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
@@ -301,7 +315,6 @@ function drawPanel($page)
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br /></span>
-      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
@@ -402,7 +415,6 @@ function drawPreschoolPanel()
       New York, NY 10128<br />
       (between York &amp; 1st Ave.)<br />
       Phone: 212.410.3117<br /></span>
-      <a class='white size12' href='mailto:frontdesk@theartfarms.org'>frontdesk@theartfarms.org</a>
     </div>
   </div>
   <!--end of panel-->
