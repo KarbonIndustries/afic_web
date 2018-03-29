@@ -17,6 +17,8 @@ openContent($page);
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
 
+<div class='notice notice--red'>Open Saturday, March 31st, Closed April 1st. Happy Easter!</div>
+
 <span class='subtitle1 gray1'>1+ years<br />
   Year-round program<br />
   Saturday/Sunday 8am - 10am
