@@ -9,63 +9,65 @@ closeHeader();
 
 <div class='pad10'>
   <div class='marginB5'>
-    <span class="bold blue2">Jan 11<sup>th</sup> &amp; 13<sup>th</sup></span>
-    <span class='size14'>Sunchoke Gnocchi</span>
+    <span class="bold blue2">April 7<sup>th</sup> &amp; 9<sup>th</sup></span>
+    <span class='size14'>Red Tomato &amp; Mozzarella Brioche</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jan 18<sup>th</sup> &amp; 20<sup>th</sup></span>
-    <span class='size14'>Citrus Challah</span>
+    <span class="bold blue2">April 14<sup>th</sup> &amp; 16<sup>th</sup></span>
+    <span class='size14'>Strawberry Rhubarb Cups</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Jan 25<sup>th</sup> &amp; 27<sup>th</sup></span>
-    <span class='size14'>Green Lasagna Cups</span>
+    <span class="bold blue2">April 21<sup>st</sup> &amp; 23<sup>rd</sup></span>
+    <span class='size14'>Fresh Kale Tortilla Chips</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Feb 1<sup>st</sup> &amp; 3<sup>rd</sup></span>
+    <span class="bold blue2">April 28<sup>th</sup> &amp; 30<sup>th</sup></span>
     <span class='size14'>Roasted Pear Biscuits</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Feb 8<sup>th</sup> &amp; 10<sup>th</sup></span>
-    <span class='size14'>Valentine's Day - Strawberry Shortcake Cookies</span>
+    <span class="bold blue2">May 5<sup>th</sup> &amp; 7<sup>th</sup></span>
+    <span class='size14'>Artichoke Soft Pretzel</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Feb 15<sup>th</sup> &amp; 17<sup>th</sup></span>
-    <span class='size14'>Cauliflower Nuggets</span>
+    <span class="bold blue2">May 12<sup>th</sup> &amp; 14<sup>th</sup></span>
+    <span class='size14'><span class='bold'
+    style='color:pink'>Mother&lsquo;s Day</span> Raspberry Pink Cake</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Feb 22<sup>nd</sup> &amp; 24<sup>th</sup></span>
-    <span class='size14'>Buttermilk Lemon Tarts</span>
+    <span class="bold blue2">May 19<sup>th</sup> &amp; 21<sup>st</sup></span>
+    <span class='size14'>Green Veggie Biscuits</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Mar 1<sup>st</sup> &amp; 3<sup>rd</sup></span>
-    <span class='size14'>Duchess Spinach Puffs</span>
+    <span class="bold blue2">May 26<sup>th</sup></span>
+    <span class='size14'>Matcha Breadsticks</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Mar 8<sup>th</sup> &amp; 10<sup>th</sup></span>
-    <span class='size14'>Banana Yogurt Bread</span>
+    <span class="bold blue2">June 2<sup>nd</sup> &amp; 4<sup>th</sup></span>
+    <span class='size14'>Fresh Corn Foccacia</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Mar 15<sup>th</sup> &amp; 17<sup>th</sup></span>
-    <span class='size14'>Mini Avocado Croque</span>
+    <span class="bold blue2">June 9<sup>th</sup> &amp; 11<sup>th</sup></span>
+    <span class='size14'>Blueberry Pocket Pies</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Mar 22<sup>nd</sup> &amp; 24<sup>th</sup></span>
-    <span class='size14'>Strawberry Rhubarb Compote</span>
+    <span class="bold blue2">June 16<sup>th</sup> &amp; 18<sup>th</sup></span>
+    <span class='size14'><span class='bold'
+    style='color:cornflowerblue'>Father&lsquo;s Day</span> Spring Pea Buns</span>
   </div>
 
   <div class='marginB5'>
-    <span class="bold blue2">Mar 29<sup>th</sup> &amp; 31<sup>th</sup></span>
-    <span class='size14'>Artichoke Bagels</span>
+    <span class="bold blue2">June 23<sup>rd</sup> &amp; 25<sup>th</sup></span>
+    <span class='size14'>Cherry Pop Tarts</span>
   </div>
 </div>
 

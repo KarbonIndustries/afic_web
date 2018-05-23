@@ -17,8 +17,6 @@ openContent($page);
 <!-- ======================== -->
 <span class='title2 blue2'>Mornings on The Farm</span>
 
-<div class='notice notice--red'>Open Saturday, March 31st, Closed April 1st. Happy Easter!</div>
-
 <span class='subtitle1 gray1'>1+ years<br />
   Year-round program<br />
   Saturday/Sunday 8am - 10am
@@ -40,7 +38,7 @@ $5</span>
   <a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=400,height=275,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
 
   <span class='size12 gray2'>
-    Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245
+    Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245 | Fall: $560
   </span><br />
 </span>
 

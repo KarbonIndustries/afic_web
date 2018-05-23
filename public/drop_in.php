@@ -195,8 +195,6 @@ openContent($page);
 <div class='clearB'>
   <span id='motf' class='block bold size18 blue2'>Mornings on the Farm</span>
 
-<div class='notice notice--red'>Open Saturday, March 31st, Closed April 1st. Happy Easter!</div>
-
   <span class='subtitle1 gray1'>8am - 10am | 1+ years</span>
   <span class='size12 gray2'>Year-round program</span><br />
   <span class='size12 gray2'>Saturday/Sunday</span><br />
@@ -245,7 +243,7 @@ openContent($page);
   <div class='clearB high20'></div>
 
   <span class='size12 gray2'>
-    Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245
+    Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245 | Fall: $560
   </span><br />
 
   <div class='clearB high20'></div>

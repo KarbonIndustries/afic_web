@@ -103,7 +103,7 @@ Meal choices include regular, whole wheat or kosher pizza or organic chicken fin
 </p>
 
 <p class="pgraph"><b><font color="0066CC">How do I schedule a party?</font></b><br />
-  To reserve your child's celebration, please contact call 212-410-3260 to book your party or email our Party Coordinator at christina@theartfarms.org .
+  To reserve your child's celebration, please use the &ldquo;Book Your Party Now&rdquo; button above or call 212-410-3260.
 </p>
 
 <p class="pgraph"><b><font color="0066CC">What is the maximum amount of guests?</font></b><br />

@@ -9,12 +9,24 @@ openContent($page);
 ?>
 <!--begin content-->
 
-<p class="pgraph">In the summer of 1999, Valentina Van Hise met Mari Linnman, the founder of The Art Farm in the Hamptons, when she came to work there as a toddler music teacher.  Valentina brought with her a bachelor's degree in music education and her unique talents as a music teacher.</p>
+<img src='photos/about/hantke_family.jpg' alt='Hantke Family'>
 
-<p class="pgraph">In 2002, Mari and Valentina decided to open The Art Farm in The City, on the Upper East Side in Manhattan. For the past <?php echo date(Y) - 2002 ?> years, Valentina has been the director and works along with Mari to create innovative new programs. Initially The Art Farm in The City began offering Mommy & Me classes and birthday parties and has now expanded to a pre-school, gentle separation Play Group, summer camp, after school classes and drop in Play Time and Open House for children ages 6 months to 8 years.
-Mari and Valentina are proud mothers and enjoy working in a child-friendly environment.</p>
+<div class="clearB high20"></div>
 
-<p class="pQuote">"It has been such a joy to create The Art Farm in The City and to grow along with the families that have participated in our programs over the past several years. I look forward to meeting you and your children." -Valentina Van Hise</p>
+<p class="pgraph">In 2002, The Art Farm NYC was founded on the Upper East Side
+in Manhattan. Valentina is a founder and has been the Executive Director for
+the past 16 years. She continuously creates and innovates new programs
+year-round. Valentina has a degree in Music Education and has either created or
+had a strong hand in all of The Art Farm NYC's original curriculum created by
+The Art Farm's amazing team who have degrees in Early Childhood, Animal
+Sciences and experiences that range from The Bronx Zoo to the NYC Board of
+Education. Valentina resides in New Jersey with her husband and three
+children.</p>
+
+<p class='pgraph italic'>"It has been such a joy to create The Art Farm NYC and to grow
+along with the families that have participated in our programs over the past
+sixteen years. I look forward to meeting you and your children and making
+wonderful memories." - Valentina Hantke</p>
 
 <!--end content-->
 <?php

@@ -396,8 +396,7 @@ function drawPreschoolPanel()
       </div>
 
       <p class='preschool-panel-paragraph bold'>For an application or to
-      schedule a tour, please email: <a class='preschool-panel-link'
-      href='mailto:frontdesk@theartfarms.org'>FrontDesk@TheArtFarms.org</a></p>
+      schedule a tour, please <a class='preschool-panel-link' href='contact.php'>Contact us</a></p>
 
       <p class='preschool-panel-paragraph bold'>Check out what is going oni in
       our classroom&hellip;</p>

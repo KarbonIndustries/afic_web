@@ -35,6 +35,13 @@ openContent($page);
 
 <div class='clearB high20'></div>
 
+<span class='bold gray1'>Fall Semester</span><br />
+<span class='gray1'>September 4<sup>th</sup> - December 20<sup>th</sup></span><br />
+<span class='gray1'>Tuesday and/or Thursday 9:30am - 11:45am</span><br />
+<span class='gray1'>1 day/week $960 | 2 days/week $1,920</span>
+
+<div class='clearB high20'></div>
+
 <p class='pgraph'>
   Is your child two years old and ready to separate and play on their own? Then
   this will be the program for you. Our warm, cozy atmosphere and our nurturing
@@ -80,6 +87,7 @@ openContent($page);
 <a id='' class='register_btn register_btn__winter' href='<?=WINTER_REGISTRATION_URL?>' target='_blank'>Winter</a>
 <a id='' class='register_btn register_btn__spring' href='<?=SPRING_REGISTRATION_URL?>' target='_blank'>Spring</a>
 <a id='' class='register_btn register_btn__summer' href='<?=SUMMER_REGISTRATION_URL?>' target='_blank'>Summer</a>
+<a id='' class='register_btn register_btn__fall' href='<?=FALL_REGISTRATION_URL?>' target='_blank'>Fall</a>
 
 <div class='clearB high60'></div>
 

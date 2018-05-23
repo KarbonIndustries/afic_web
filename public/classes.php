@@ -42,7 +42,7 @@ openContent($page);
   <span id='rsa' class='title2 blue2'>Rock, Smocks, and Animals</span>
   <span class='subtitle1 gray1'>Adult Participation | Music, Art and Animals<br />
     14-24 months | 1-4 years mixed ages | 2-3 years<br />
-    <span class='size12 gray2'>Winter: $384 | Spring: $384 | Summer: $256</span>
+    <span class='size12 gray2'>Winter: $384 | Spring: $384 | Summer: $256 | Fall: $512</span>
     <span class='classCTA01'>Book Your Free Trial Today</span><br />
     <a class='rust' href='schedule.php'>View Schedule</a><br />
   </span>
@@ -66,7 +66,7 @@ openContent($page);
   <span id='rsa' class='title2 blue2'>Farm Friends</span>
   <span class='subtitle1 gray1'>90-minute Adult and Me pre-school prep class<br />
     9:30am - 11:00am | 18 months to 2&frac12; years<br />
-    <span class='size12 gray2'>Winter: $480 | Spring: $480 | Summer: $320</span>
+    <span class='size12 gray2'>Winter: $480 | Spring: $480 | Summer: $320 | Fall: $640</span>
   </span>
   <p class='pgraph'>Is your child ready for a longer class? Our Farm Friends, hour
   and a half class is the perfect program to engage your child in more play. We will
@@ -99,7 +99,7 @@ openContent($page);
     Wednesday | 2-6 years<br />
     9:30am - 10:30am | 3:30pm - 4:30pm<br />
   </span>
-  <span class='size12 gray2'>Winter: $384 | Spring: $384 | Summer: $256</span>
+  <span class='size12 gray2'>Winter: $384 | Spring: $384 | Summer: $256 | Fall: $512</span>
 
   <p class='pgraph'>
     Join us for exploration and play through art. We will begin with open art
@@ -133,7 +133,7 @@ openContent($page);
   <img class="padR10 padT10 padB10" src="photos/animal_care.jpg" />
   <span id="acc" class="title2 blue2">Animal Care Class</span>
     <span class="subtitle1 gray1">After-school program<br />4-7 years<br />
-    <span class="size12 gray2">Winter: $384 | Spring: $384 | Summer: $256</span>
+    <span class="size12 gray2">Winter: $384 | Spring: $384 | Summer: $256 | Fall: $512</span>
     <span class='classCTA01'>Book Your Free Trial Today</span><br />
     <a class="rust" href="schedule.php">View Schedule</a><br />
   </span>
@@ -166,7 +166,7 @@ openContent($page);
   <span id="acc" class="title2 blue2">Mini Masterpieces</span>
   <span class="subtitle1 gray1">After-school program<br />
   <span class="subtitle1 gray1">Tuesday: 3:30pm - 4:30pm | 4-8 years<br />
-  <span class="size12 gray2">Winter: $384 | Spring: $384 | Summer: $256</span></span>
+  <span class="size12 gray2">Winter: $384 | Spring: $384 | Summer: $256 | Fall: $512</span></span>
   <p class='pgraph'>In this unique art class, students will focus on a different
   famous artist every week. We will explore their techniques and masterpieces before
   we create our own. Children will be introduced to different mediums such as acrylic
@@ -196,7 +196,7 @@ openContent($page);
     Thursday: 3:30pm - 4:30pm | 2-8 years mixed ages<br />
       Saturday: 9:00am - 10:00am | 2-8 years mixed ages<br />
     <a class='rust mouseCursor' onclick='window.open("mini_chef_schedule.php","mcSchedule","width=480,height=400,left=100,top=100,scrollbars=yes");'>View Cooking Schedule</a><br />
-    <span class='size12 gray2'>Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245</span><br />
+    <span class='size12 gray2'>Drop In: $40 | Winter: $420 | Spring: $420 | Summer: $245 | Fall: $560</span><br />
   </span>
   <p class='pgraph'>Farm Fresh and Seasonal! Finally your child can enjoy a cooking
   class where they learn about the basics of cooking and the importance of fresh

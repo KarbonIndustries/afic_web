@@ -10,21 +10,17 @@
 
 <div class='clearB high20'></div>
 
-<div class='alignC'>
-  <h1 class='red size20 marginB5'>Summer Camp Open House</h1>
-  <p class='red size14 marginT5'>Saturday, March 3<sup>rd</sup> 12:30pm - 2:30pm<br />
-  at Trevor Day School 312 E. 95<sup>th</sup> St.</p>
-</div>
-
-<div class='clearB high20'></div>
-
-<p class='alignC size14 gray1' style='width:600px;margin:10px auto'>Art Farm Summer
-Camp is held at the state-of-the-art facility of Trevor Day School East Campus
-on 95th St between 1<sup>st</sup> and 2<sup>nd</sup> Ave. Registration is done on a per-week basis.
-You may register for one week of camp or for all eight.</p>
+<p class='alignC size14 gray1' style='width:600px;margin:10px auto'>The Art
+Farm Summer Camps for Kids are held at the state-of-the-art facility of Trevor
+Day School East Campus on 95th St between 1<sup>st</sup> and
+2<sup>nd</sup> Ave. Registration is done on a per-week basis.  You may register
+for one week of camp or for all eight.</p>
 
 <p class='alignC size14 gray1' style='width:600px;margin:10px auto'>Offering full
-and half day camp experiences for children ages 3-9</p>
+and half day summer camp activities for children ages 3-9</p>
+
+<p class='alignC size14 gray1' style='width:600px;margin:10px auto'>New this
+year there is a 8pm - 6pm camp day option for ages 4 - 9 years.</p>
 
 <p class='alignC size14 gray1' style='width:600px;margin:10px auto'>Register
 for six or more weeks at one time and receive a 5% discount.</p>
@@ -32,20 +28,21 @@ for six or more weeks at one time and receive a 5% discount.</p>
 <div class='clearB high20'></div>
 
 <p class="pgraph">Get your city kid involved with nature this summer. The Art
-Farm summer camp engages your child in care and compassion of all living
-creatures. Campers will meet live animals from our indoor petting zoo each
-day. Kids will get their hands dirty in our patio garden, experience sunshine
-on walks to the playground, play sports in our state-of-the-art gym facilities
-and new this year, campers will participate in building and engineering. The
-Art Farm believes children should experience nature through hands-on
-experiences, farm to table cooking lessons and artistic endeavors! Our expert
-educators are ready to teach, lead and nurture your children all summer
-long!</p>
+Farm summer camp activities engage your child in the care of and compassion for
+all living creatures. Campers will meet live animals from our indoor petting
+zoo each day. Kids will get their hands dirty in our patio garden, experience
+sunshine on walks to the playground, play sports in our state-of-the-art gym
+facilities, swimming at the 92<sup>nd</sup> St. Y, and new this year, campers
+will participate in building and engineering. The Art Farm believes children
+should experience nature through hands-on experiences, farm-to-table cooking
+lessons and artistic endeavors! Our expert educators are ready to teach, lead
+and nurture your children all summer long!</p>
 
-<p class='pgraph'>Activities, special events and projects will center around
-our <a class='bold blue2' href='#weekly_themes'>weekly themes</a> which will include The “Magic” of
-Camp, Adventure Land, Cruise Around the World and many beloved Art Farm themes
-such as Superhero Week, and Exotic Animal Week!</p>
+<p class='pgraph'>Summer camp activities, special events and projects will center around
+our <a class='bold blue2' href='#weekly_themes'>weekly themes</a> which will
+include The &ldquo;Magic&rdquo; of Camp, Adventure Land, Cruise Around the
+World and many beloved Art Farm themes such as Superhero Week, and Exotic
+Animal Week!</p>
 
 <p class='pgraph'>You may pack a nut-free lunch or purchase one. We are
 offering lunch through Red Rabbit, a healthy whole foods nut-free school/camp
@@ -89,18 +86,19 @@ offers a 10% sibling discount.</p>
 
   <div class='clearB high20'></div>
 
-  <p class="pgraph">Offering half-day camp in a warm, nurturing environment we
-  make sure that separation is gentle and easy for children and caregivers.
-  Campers will have animal science lessons and up-close encounters with our
-  live animals daily. They will create art masterpieces, garden, cook in the
-  kitchen, and will enjoy playing musical instruments in music with guitar and
-  singing. Every day, our campers will get fresh air outside on the terrace,
-  play parachute games, participate in water play, and more. They will also
-  have indoor soccer, yoga, and active games. Twice a week campers will enjoy
-  special events so even if your child does a partial week they will get to
-  participate in all activities. Please pack a nut-free lunch for your child or
-  buy one through our lunch program. Our half-day campers will remain on the
-  grounds of the Trevor Day facility throughout the camp day.</p>
+  <p class="pgraph">Offering half-day summer camp for kids in a warm, nurturing
+  environment we make sure that separation is gentle and easy for children and
+  caregivers.  Campers will have animal science lessons and up-close encounters
+  with our live animals daily. They will create art masterpieces, garden, cook
+  in the kitchen, and will enjoy playing musical instruments in music with
+  guitar and singing. Every day, our campers will get fresh air outside on the
+  terrace, play parachute games, participate in water play, and more fun summer
+  activities! They will also have indoor soccer, yoga, and active games. Twice
+  a week campers will enjoy special events so even if your child does a partial
+  week they will get to participate in all activities. Please pack a nut-free
+  lunch for your child or buy one through our lunch program. Our half-day
+  campers will remain on the grounds of the Trevor Day facility in New York
+  City throughout the camp day.</p>
 
   <p class='pgraph'>Half-day campers will receive complimentary passes to our
   afternoon drop-in at The Art Farm for petting zoo, art and play room. Passes
@@ -151,19 +149,20 @@ offers a 10% sibling discount.</p>
   <div class='clearB high20'></div>
 
   <p class="pgraph">Our Full-Day Froggies group is a great way for four year
-  olds to be introduced to a full day of camp with warm nurturing teachers and
-  a fun-filled day. Campers will participate in music, art, cooking, animal
-  care, science, gardening, and much more. Campers participate in sports, yoga
-  and games, walks to the playground, and swimming at the 92nd Street Y. During
-  swim, campers will receive swim lessons instructed by Red Cross-trained life
-  guards and will be tested on swim level and placed into appropriate groups.
-  All campers will participate in gardening on our terrace which is
-  incorporated into cooking classes and animal feedings! Several times a week
-  our Froggies group will walk to The Art Farm petting zoo to explore, touch
-  and interact with our many animals. Weekly activities and special events will
-  be centered around our weekly themes. Campers enrolled in five days a week
-  will participate in all activities twice a week, two and three day campers
-  will participate in swimming, petting zoo and special events once a week.</p>
+  olds to be introduced to a full day of summer camp activities with warm
+  nurturing teachers and a fun-filled day. Campers will participate in music,
+  art, cooking, animal care, science, gardening, and many more fun summer
+  activities! Campers participate in sports, yoga and games, walks to the
+  playground, and swimming at the 92nd Street Y. During swim classes for kids,
+  campers will receive swim lessons instructed by Red Cross-trained life guards
+  and will be tested on swim level and placed into appropriate groups. All
+  campers will participate in gardening on our terrace which is incorporated
+  into cooking classes and animal feedings! Several times a week our Froggies
+  group will walk to The Art Farm petting zoo to explore, touch and interact
+  with our many animals. Weekly activities and special events will be centered
+  around our weekly themes. Campers enrolled in five days a week will
+  participate in all activities twice a week, two and three day campers will
+  participate in swimming, petting zoo and special events once a week.</p>
 
   <p class='pgraph'>Please pack a nut-free lunch for your child or buy one
   through our lunch program. All campers will receive a healthy snack including
@@ -212,26 +211,27 @@ offers a 10% sibling discount.</p>
 
   <div class='clearB high20'></div>
 
-  <p class="pgraph">Our full-day campers are registered by age appropriate
-  groups based on the grade they are entering in Fall 2018. Campers will
-  participate in music, art, cooking, animal care, science, and gardening. They
-  will also play sports, yoga and games, walk to the playground, and
-  participate in swimming at the 92nd Street Y. During swim, campers will
-  receive swim lessons instructed by Red Cross-trained life guards and will be
-  tested on swim level and placed into appropriate groups. All campers will
-  garden on our terrace which is incorporated into cooking classes and animal
-  feedings! Several times a week our groups will walk to The Art Farm petting
-  zoo to explore, touch and interact with our many animals. Campers in these
-  groups will participate in electives twice a week where they can choose
-  activities such as jewelry-making, scrapbooking, woodworking, drama, sports,
-  and engineering. Every week, we will focus on a different theme and the
-  children will enjoy special theme presentations on Wednesday and Thursday so
-  everyone is included in the fun. Please pack a nut-free lunch for your child
-  or buy one through our lunch program. All campers will receive a healthy
-  snack including fresh fruit at the end of the day before pick up. Weekly
-  activities and special events will be centered around weekly themes such as
-  Superhero Week and Adventure Land. Campers enrolled in five days a week
-  will participate in all activities twice a week, two and three day campers
+  <p class="pgraph">Participants in our full-day summer camp for kids are
+  registered by age appropriate groups based on the grade they are entering in
+  Fall 2018. Campers will participate in summer activities for kids, including
+  music, art, cooking, animal care, science, and gardening. They will also play
+  sports, yoga and games, walk to the playground, and participate in swimming
+  at the 92nd Street Y. During swim, campers will receive swim lessons
+  instructed by Red Cross-trained life guards and will be tested on swim level
+  and placed into appropriate groups. All campers will garden on our terrace
+  which is incorporated into cooking classes and animal feedings! Several times
+  a week our groups will walk to The Art Farm petting zoo to explore, touch and
+  interact with our many animals. Campers in these groups will participate in
+  electives twice a week where they can choose fun crafts and activities such
+  as jewelry-making, scrapbooking, woodworking, drama, sports, and engineering.
+  Every week, we will focus on a different theme and the children will enjoy
+  special theme presentations on Wednesday and Thursday so everyone is included
+  in the fun activities. Please pack a nut-free lunch for your child or buy one
+  through our lunch program. All campers will receive a healthy snack including
+  fresh fruit at the end of the day before pick up. Weekly activities and
+  special events will be centered around weekly themes such as Superhero Week
+  and Adventure Land. Campers enrolled in five days a week will participate in
+  all fun summer activities activities twice a week, two and three day campers
   will participate in swimming, petting zoo and special events once a week.</p>
 
   <p class='pgraph'>Please pack a nut-free lunch for your child or buy one
