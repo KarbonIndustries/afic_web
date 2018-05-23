@@ -130,8 +130,8 @@ offers a 10% sibling discount.</p>
 <!-- = FROGGIES = -->
 <!-- ============ -->
 <div class="clearB">
-  <span id="fullDay" class="size20 bold" style='color:#FF3333'>Froggies</span>
-  <span class="subtitle1 gray1">4 years</span>
+  <span id="fullDay" class="size20 bold" style='color:#FF3333'>Froggies</span><br />
+  <span class="gray1 bold">4 Year Full Day &amp; 4 Years Entering Kindergarten</span><br />
   <span>8AM - 6PM</span><br />
   <span class="size12 gray2">Mon - Fri: $835 | Mon, Wed, Fri: $660 | Tues, Thurs: $475</span><br />
   <span>9AM - 3PM</span><br />
@@ -194,7 +194,9 @@ offers a 10% sibling discount.</p>
 <!-- ================================ -->
 <div class="clearB">
   <span class="size20 bold" style='color:#FF3333'>Parrots, Geckos, &amp; Chinchillas</span><br />
-  <span class='gray1 bold'>Parrots: Entering Kindergarten | Geckos: Entering First Grade | Chinchillas: Entering 2<sup>nd</sup> - 4<sup>th</sup> Grade</span>
+  <span class='gray1 bold'>Parrots: 5 Years Entering Kindergarten<br />
+  Geckos: 5 Years Entering Kindergarten &amp; 6 Years Entering First Grade<br />
+  Chinchillas: Entering 2<sup>nd</sup> - 4<sup>th</sup> Grade</span>
   <span class="subtitle1 gray1">8AM - 6PM</span>
   <span class="size12 gray2">Mon - Fri: $835 | Mon, Wed, Fri: $660 | Tues, Thurs: $475</span><br />
   <span class="subtitle1 gray1">9AM - 3PM</span>
